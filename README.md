@@ -219,6 +219,15 @@ El proyecto Aceptas es una **propuesta técnica abierta**. Puede ser usado, modi
 
 Aceptas es una obra abierta. *Pull requests* bienvenidos. Para cambios sustantivos, abrí primero un *issue* con la propuesta.
 
+## Contacto y comunidad
+
+| Canal | Identificador |
+|---|---|
+| **X (Twitter)** | [@aceptas_ve](https://x.com/aceptas_ve) |
+| **Email** | aceptas.ve@gmail.com |
+
+Las cuentas de Instagram, TikTok y Facebook están en planificación — ver [`docs/memoria-proyecto.md`](docs/memoria-proyecto.md) sección "Plan de redes sociales" para más detalle.
+
 **Firma del proyecto:**
 
 > *"Si aceptas, levanta la mano y grita: '¡Lo juro!' / '¡Lo juro!' / ¡Más duro! / '¡Lo juro!' los 'angelitos' no son bienvenidos a este colectivo."
