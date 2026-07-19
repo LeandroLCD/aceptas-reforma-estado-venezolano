@@ -126,7 +126,7 @@ Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Albe
 
 7. **Plan Quinquenal vinculante** + Presupuesto Plurianual 3 años + rating anual A–D público de planes/programas.
 
-8. **Trampa genética** anti-robo de niños: cada óbito fetal archivado durante 75 años bloquea automáticamente cualquier intento futuro de registrar un nacido vivo con ese ADN. **El sistema falla por construcción.**
+8. **Trazabilidad fetal que cierra el fraude**: el BND retiene 75 años el ADN de todo óbito fetal. Ningún nacido vivo puede coincidir con ese perfil sin orden judicial previa — y el intento fraudulento deja huella indeleble.
 
 ---
 
