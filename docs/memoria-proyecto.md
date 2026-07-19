@@ -1929,7 +1929,7 @@ Estructura del documento compilatorio final (versión publicable única):
 
 **Decisión del usuario en sesión técnica** (siguiendo la letra de la canción *Pa' la Calle* de Canservero): el proyecto "Reforma Integral del Estado Venezolano" pasa a llamarse **Aceptas — Reforma Integral del Estado Venezolano**, añadiendo:
 
-1. **Lema popular**: *"Si aceptas, levanta el puño y grita: ¡Lo juro!"*
+1. **Lema popular**: *"Si aceptas, levanta la mano y grita: ¡Lo juro!"*
 2. **Epígrafe cultural** extractado de la canción: "Hay mucha gente que no entiende / Que el gobierno / No es el único que debe cambiar / Aquí hace falta leer y usar los cuadernos / Y reconocer que la juventud no es un don eterno".
 3. **Declaración política**: rechazo explícito a la **oposición angelical** — "los angelitos hace ilusion a los políticos de oposición que se visten de santos pero son un cancer y han contribuído a la permanencia del régimen chavista en el poder".
 
@@ -1948,7 +1948,7 @@ Estructura del documento compilatorio final (versión publicable única):
 
 **Firma del proyecto Aceptas**:
 
-> *"Si aceptas, levanta el puño y grita: '¡Lo juro!' / '¡Lo juro!' / ¡Más duro! / '¡Lo juro!' los angelitos no son bienvenidos a este colectivo."*
+> *"Si aceptas, levanta la mano y grita: '¡Lo juro!' / '¡Lo juro!' / ¡Más duro! / '¡Lo juro!' los angelitos no son bienvenidos a este colectivo."*
 
 **Aceptas = narrativa fundacional, no partido político**:
 
@@ -1959,7 +1959,7 @@ Estructura del documento compilatorio final (versión publicable única):
 **Estructura del Proyecto Aceptas — Final**:
 
 1. **Nombre**: Aceptas — Reforma Integral del Estado Venezolano
-2. **Lema**: "Si aceptas, levanta el puño y grita: ¡Lo juro!"
+2. **Lema**: "Si aceptas, levanta la mano y grita: ¡Lo juro!"
 3. **Sujeto histórico**: Nosotros pueblo (no gobierno, no oposición)
 4. **Crítica constitutiva**: rechazo a oposición angelical y a gobiernos que "visten de santos"
 5. **Articulado técnico preservado**: 8 pilares + Plan IV + Cláusulas 3/4 + referendum + Comisión Carmen Navas

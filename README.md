@@ -1,6 +1,6 @@
 # Aceptas — Reforma Integral del Estado Venezolano
 
-> *"Si aceptas, levanta el puño y grita: ¡Lo juro!"*
+> *"Si aceptas, levanta la mano y grita: ¡Lo juro!"*
 
 ## ¿Qué es Aceptas?
 
@@ -174,4 +174,4 @@ Aceptas es una obra abierta. Pull requests bienvenidos. Para cambios sustantivos
 
 **Firma del proyecto:**
 
-> *"Si aceptas, levanta el puño y grita: '¡Lo juro!' / '¡Lo juro!' / ¡Más duro! / '¡Lo juro!' los angelitos no son bienvenidos a este colectivo."*
+> *"Si aceptas, levanta la mano y grita: '¡Lo juro!' / '¡Lo juro!' / ¡Más duro! / '¡Lo juro!' los angelitos no son bienvenidos a este colectivo."*

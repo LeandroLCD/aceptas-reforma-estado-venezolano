@@ -3,7 +3,7 @@ titulo: Aceptas — Reforma Integral del Estado Venezolano - Documento Final v0.
 version: 0.1 (compilación final)
 fecha: 2026-07-16
 proyecto: "Aceptas — Reforma Integral del Estado Venezolano 2026"
-lema_popular: '"Si aceptas, levanta el puño y grita: ¡Lo juro!"'
+lema_popular: '"Si aceptas, levanta la mano y grita: ¡Lo juro!"'
 fase: documento final consolidado (Partes 0 + III + IV + V) — referencia pública única
 autor: "Equipo de reforma Aceptas"
 epigrafe_cultural: "Inspirado y bautizado por la canción Pa' la Calle (Canservero): *Hay mucha gente que no entiende / Que el gobierno / No es el único que debe cambiar / Aquí hace falta leer y usar los cuadernos / Y reconocer que la juventud no es un don eterno*" — el proyecto Aceptas se basa en cuatro principios críticos del pueblo soberano: lectura crítica, estudio, trabajo y respeto, con la convocatoria intransferible del sujeto popular."
@@ -30,7 +30,7 @@ fecha_reingesta_KB: 2026-07-31 (H9)
 
 **Compilación consolidada · 16 de julio de 2026**
 
-> *"Si aceptas, levanta el puño y grita: ¡Lo juro!"*
+> *"Si aceptas, levanta la mano y grita: ¡Lo juro!"*
 > — Lema popular del proyecto, extraído de la canción *Pa' la Calle* de Canservero.
 
 *"La democracia no se sostiene sin mecanismos institucionalizados de fiscalización que sobreviven a los gobiernos."*
@@ -52,7 +52,7 @@ fecha_reingesta_KB: 2026-07-31 (H9)
 >
 > *Con estudio, con trabajo, con respeto, con amor / Yo les propongo cambiar el futuro.*
 >
-> *Si aceptas, levanta el puño y grita: "¡Lo juro!"*
+> *Si aceptas, levanta la mano y grita: "¡Lo juro!"*
 
 El nombre **Aceptas** se elige como acto de fundición histórica: el proyecto no es un programa electoral de la oposición tradicional, sino un **acto del pueblo** que se niega a esperar otra generación para que la transición ocurra. La conversión del verbo *aceptar* — preguntar y aceptar — implica dos caras:
 
@@ -76,7 +76,7 @@ El pueblo tiene **capacidad**, según la fórmula del proyecto: leer y pensar cr
 
 ### Aceptación del proyecto Aceptas
 
-> *Si aceptas, levanta el puño y grita: "¡Lo juro!"*
+> *Si aceptas, levanta la mano y grita: "¡Lo juro!"*
 > *¡Lo juro!* — **firmado en el frontmatter de este documento** por el equipo de reforma Aceptas.
 > *¡Más duro!*
 > *"¡Lo juro!"* los angelitos no son bienvenidos a este colectivo.

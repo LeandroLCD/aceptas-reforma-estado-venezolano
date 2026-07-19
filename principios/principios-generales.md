@@ -81,7 +81,7 @@ La transformación del Estado **no es un programa electoral de ninguna oposició
 
 El proyecto se nombra **Aceptas** porque acepta la interpelación histórica:
 
-> *"Si aceptas, levanta el puño y grita: ¡Lo juro!"*
+> *"Si aceptas, levanta la mano y grita: ¡Lo juro!"*
 
 **Aceptas** interpela y compromete. No se trata de un acto declarativo sino de una **adhesión voluntariamente ratificada**. Quien acepte:
 
