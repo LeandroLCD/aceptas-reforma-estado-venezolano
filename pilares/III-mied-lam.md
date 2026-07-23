@@ -219,7 +219,7 @@ El MIED-LAM asume la rectoría del deporte nacional, organizando el sistema en c
 - **Deporte universitario**: becas-deportivas, articulación con la educación superior, formación dual.
 - **Deporte de alta competencia**: Centro Nacional de Alto Rendimiento (CNAR) con infraestructura de clase mundial, becas para atletas de élite, preparación Olímpica y Panamericana, repatriación de talento deportivo emigrado mediante incentivos fiscales y contractuales.
 
-inspirado en el modelo del *Sistema Deportivo Español* (CSD + federaciones + comunidades autónomas), el *Sistema Nacional del Deporte de Chile* (IND + Mindep) y el sistema cubano de *EID*.
+inspirado en el modelo del *Sistema Deportivo Español* (CSD + federaciones + comunidades autónomas), el *Sistema Nacional del Deporte de Chile* (IND + Mindep), el *Sistema Nacional del Deporte de Australia* (Australian Sports Commission + federaciones) y el modelo japonés de educación física escolar obligatoria del MEXT.
 
 La unificación deporte-educación tiene sinergias específicas:
 
