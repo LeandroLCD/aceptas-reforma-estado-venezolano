@@ -29,3 +29,31 @@ Cada pilar sigue la misma estructura canónica:
 8. **Cláusula de continuidad 3/4 + referéndum ratificatorio**: blindaje contra el ciclo político.
 
 [Volver al inicio](../README.md)
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **BND** | Banco Nacional de Datos |
+| **CANTV** | Compañía Anónima Nacional Teléfonos de Venezuela |
+| **CICPC** | Cuerpo de Investigaciones Científicas, Penales y Criminalísticas |
+| **CNSC** | Comisión Nacional del Servicio Civil |
+| **CPNP** | Cuerpo de Policía Nacional Profesional |
+| **CRBV** | Constitución de la República Bolivariana de Venezuela |
+| **Cédula-RUT** | Cédula con Rol Único Tributario |
+| **DNA-RB** | Dirección Nacional Anticorrupción y Recuperación de Bienes |
+| **DNPEP** | Dirección Nacional de Planificación Estratégica y Prospectiva |
+| **FNIP** | Fondo Nacional de Inversión Productiva |
+| **FOSEIP** | Fondo Soberano de Estabilización e Inversión Productiva |
+| **JNEM** | Junta Nacional de Evaluación Médica |
+| **LOBCV** | Ley Orgánica del Banco Central de Venezuela |
+| **MIED-LAM** | Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado |
+| **PDVSA** | Petróleos de Venezuela S.A. |
+| **RUI** | Registro Único de Inmuebles |
+| **RUP** | Registro Único de Profesionales |
+| **SNI** | Sistema Nacional de Identidad |
+| **TSJ** | Tribunal Supremo de Justicia |
+| **VePass** | Clave Única de Identidad Digital |
+

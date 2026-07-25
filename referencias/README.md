@@ -10,3 +10,12 @@
 | [Propuesta de reforma por dimensión](propuesta-reforma.md) | Doc. 3 — Primera versión de la propuesta organizada por dimensión (8 dimensiones). Reemplazada por los 8 pilares vigentes en `pilares/`. |
 
 [Volver al inicio](../README.md)
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **CRBV** | Constitución de la República Bolivariana de Venezuela |
+

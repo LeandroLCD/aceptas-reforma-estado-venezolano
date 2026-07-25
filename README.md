@@ -4,7 +4,7 @@
 
 ## ¿Qué es Aceptas?
 
-**Aceptas** es una propuesta técnica y política de **reforma integral del Estado venezolano**, elaborada entre el 10 y el 16 de julio de 2026 con metodología de síntesis comparada (Milei arranque + Singapur método + Chile Solidario red de protección), soporte de **Knowledge Base vectorial con 18.718 chunks** (Qdrant + `multilingual-e5-small`), y anclaje en el **marco constitucional vigente (CRBV 1999)** sin reforma constituyente.
+**Aceptas** es una propuesta técnica y política de **reforma integral del Estado venezolano**, elaborada entre el 10 y el 16 de julio de 2026 con metodología de síntesis comparada (Milei arranque + Singapur método + Chile Solidario red de protección), soporte de **Knowledge Base vectorial con 18.718 chunks** (Qdrant + `multilingual-e5-small`), y anclaje en el **marco constitucional vigente (Constitución de la República Bolivariana de Venezuela (CRBV) 1999)** sin reforma constituyente.
 
 No es un partido. No es un manifiesto ideológico. Es un **artefacto técnico-legislativo** de ~580 KB de texto articulado, 8 pilares orgánicos, 6 leyes orgánicas nuevas y 1 plan de implementación 0–36 meses.
 
@@ -85,7 +85,7 @@ aceptas-reforma-estado-venezolano/
 ## 8 Pilares — Resumen ejecutivo
 
 ### III.1 Servicio Civil Meritocrático
-Concurso público obligatorio para todo cargo directivo del Estado. **CNSC** (Comisión Nacional del Servicio Civil) independiente con 9 miembros designados por jurado mixto. Carrera profesional con VePass-Firma obligatoria. Salarios indexados USD 500–7.000 (ratio 14:1 alineado con OCDE).
+Concurso público obligatorio para todo cargo directivo del Estado. **CNSC** (Comisión Nacional del Servicio Civil) independiente con 9 miembros designados por jurado mixto. Carrera profesional con VePass-Firma obligatoria. Salarios indexados USD 500–7.000 (ratio 14:1 alineado con Organización para la Cooperación y el Desarrollo Económicos (OCDE)).
 
 ### III.2 Seguridad Ciudadana y Restauración del Orden Público
 **CPNP** civil (Cuerpo de Policía Nacional Profesional) + CICPC + JNEM. VePass-Firma obligatoria en todos los actos. Reconversión (no derogación) de PNB + policías estadales + municipales. Rechazo explícito al modelo Bukele: estado de excepción indefinido, militarización y opacidad presupuestaria están prohibidos. Cifras OVV 2023: 26,8 muertes violentas / 100K habitantes.
@@ -94,19 +94,19 @@ Concurso público obligatorio para todo cargo directivo del Estado. **CNSC** (Co
 Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado. Constitucionalización de los programas del MEDI 1979-1984 que fueron desmontados por Lusinchi. Rango constitucional vía art. 237 CRBV. Educación cognitiva prenatal–preescolar + escolar + deportiva como política de Estado continua.
 
 ### III.4 Reforma Fiscal y Financiamiento Territorial
-**Cronograma monetario 18 meses**: mes 1 apertura de banda cambiaria (±15%), mes 3-6 sanción LOBCV, mes 12 autonomía plena BCV + crawling-peg ≤2%, mes 12-15 acumulación de reservas, **mes 18 dolarización oficial** (modelo Panamá 1904). Reforma tributaria no petrolera. Situado Constitucional Municipal 25%.
+**Cronograma monetario 18 meses**: mes 1 apertura de banda cambiaria (±15%), mes 3-6 sanción Ley Orgánica del Banco Central de Venezuela (LOBCV), mes 12 autonomía plena BCV + crawling-peg ≤2%, mes 12-15 acumulación de reservas, **mes 18 dolarización oficial** (modelo Panamá 1904). Reforma tributaria no petrolera. Situado Constitucional Municipal 25%.
 
 ### III.5 Reforma Económica y Productiva
-**PDVSA matriz** 51% estatal / 49% privado vía OPI (NYSE/LSE/BVC). Filiales mixtas cotizan en bolsa. **LORAFEE** con cláusula *pay-before-take* 90 días + reversión automática + golden share sellada. Privatización 100% de Corpoelec + CANTV + 9 hidrológicas regionales con régimen 20 años exoneración → solo IVA en año 21. **FOSEIP** (modelo Noruega/GPFG) + **FNIP** con banca de desarrollo sectorial.
+**Petróleos de Venezuela S.A. (PDVSA) matriz** 51% estatal / 49% privado vía Oferta Pública Inicial (OPI) (NYSE/LSE/BVC). Filiales mixtas cotizan en bolsa. **Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas (LORAFEE)** con cláusula *pay-before-take* 90 días + reversión automática + golden share sellada. Privatización 100% de Corpoelec + Compañía Anónima Nacional Teléfonos de Venezuela (CANTV) + 9 hidrológicas regionales con régimen 20 años exoneración → solo IVA en año 21. **FOSEIP** (modelo Noruega/GPFG) + **Fondo Nacional de Inversión Productiva (FNIP)** con banca de desarrollo sectorial.
 
 ### III.6 Justicia Independiente y Anticorrupción
-**TSJ meritocrático** (jueces por concurso público + AN 3/5, 9 años no reelegibles). **DNA-RB** investigación penal especializada anticorrupción (modelo CPIB Singapur). **Defensor del Pueblo** independiente. **Ministerio Público unificado** (6 años único no reelegible). Investigación activa del CPI caso Venezuela I. Cooperación INTERPOL + GAFI.
+**Tribunal Supremo de Justicia (TSJ) meritocrático** (jueces por concurso público + Asamblea Nacional (AN) 3/5, 9 años no reelegibles). **Dirección Nacional Anticorrupción y Recuperación de Bienes (DNA-RB)** investigación penal especializada anticorrupción (modelo Corrupt Practices Investigation Bureau (CPIB) Singapur). **Defensor del Pueblo** independiente. **Ministerio Público unificado** (6 años único no reelegible). Investigación activa del Corte Penal Internacional (CPI) caso Venezuela I. Cooperación Organización Internacional de Policía Criminal (INTERPOL) + GAFI.
 
 ### III.7 Gobierno Digital, Identidad y Soberanía de Datos
-**BND** (Banco Nacional de Datos) arquitectura federada tipo X-Road estonio con 11 bases sectoriales. **VePass** 4 niveles (Lite, Plus, Fuerte, Firma) + **Cédula-RUT** con chip biométrico + NFC + QR. **SNI** con captura hospitalaria 24h post-nacimiento (ADN + huellas plantares). **RUI** (Registro Único de Inmuebles, modelo Conservador chileno + e-Land Register estonio). **RUP** (Registro Único Vehicular). Trampa genética anti-robo de niños + CDF (Certificado de Defunción Fetal).
+**BND** (Banco Nacional de Datos) arquitectura federada tipo X-Road estonio con 11 bases sectoriales. **Clave Única de Identidad Digital (VePass)** 4 niveles (Lite, Plus, Fuerte, Firma) + **Cédula con Rol Único Tributario (Cédula-RUT)** con chip biométrico + NFC + QR. **Sistema Nacional de Identidad (SNI)** con captura hospitalaria 24h post-nacimiento (ADN + huellas plantares). **RUI** (Registro Único de Inmuebles, modelo Conservador chileno + e-Land Register estonio). **RUP** (Registro Único Vehicular). Trampa genética anti-robo de niños + CDF (Certificado de Defunción Fetal).
 
 ### III.8 Planificación Estratégica y Prospectiva
-**DNPEP** con rango constitucional. **Plan Quinquenal vinculante** aprobado por mayoría absoluta de la AN; toda inversión ≥ USD 50M debe estar explícitamente en él. **Presupuesto Plurianual 3 años** anclado al art. 314 CRBV. **UPE** (Unidad de Prospectiva Estratégica) modelo Singapur CSF. Cláusula expresa de **no injerencia de las FAN** en prospectiva civil.
+**Dirección Nacional de Planificación Estratégica y Prospectiva (DNPEP)** con rango constitucional. **Plan Quinquenal vinculante** aprobado por mayoría absoluta de la AN; toda inversión ≥ USD 50M debe estar explícitamente en él. **Presupuesto Plurianual 3 años** anclado al art. 314 CRBV. **UPE** (Unidad de Prospectiva Estratégica) modelo Singapur CSF. Cláusula expresa de **no injerencia de las Fuerza Armada Nacional (FAN)** en prospectiva civil.
 
 ---
 
@@ -114,7 +114,7 @@ Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Albe
 
 1. **Cláusula de continuidad transversal** (3/4 AN + referéndum ratificatorio en 90 días) aplicable a 16 materias estructurales encadenadas. El poder constituyente derivado **NO puede abolir garantía fundamental** sin cumplir el procedimiento. Límite absoluto.
 
-2. **Veeduría Internacional Permanente**: panel mixto OACNUDH + CIDH + ACNUR + FRONTEX UE durante 8 años con poder de investigación en CPNP, CICPC, JNEM, DNPEP.
+2. **Veeduría Internacional Permanente**: panel mixto Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (OACNUDH) + CIDH + ACNUR + Agencia Europea de la Guardia de Fronteras y Costas (FRONTEX) UE durante 8 años con poder de investigación en CPNP, CICPC, JNEM, DNPEP.
 
 3. **VePass-Firma obligatoria** en todos los actos del CPNP, CICPC, JNEM, DNA-RB, DNPEP, CNSC, CPNP — "vigilancia sobre la vigilancia".
 
@@ -184,3 +184,48 @@ Las cuentas de Instagram, TikTok y Facebook están en planificación — ver [`d
 **Firma del proyecto:**
 
 > *"Si aceptas, levanta la mano y grita: '¡Lo juro!' / '¡Lo juro!' / ¡Más duro! / '¡Lo juro!' los angelitos no son bienvenidos a este colectivo."*
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **ACNUR** | Alto Comisionado de las Naciones Unidas para los Refugiados |
+| **AN** | Asamblea Nacional |
+| **BCV** | Banco Central de Venezuela |
+| **BND** | Banco Nacional de Datos |
+| **CANTV** | Compañía Anónima Nacional Teléfonos de Venezuela |
+| **CDF** | Certificado de Defunción Fetal |
+| **CICPC** | Cuerpo de Investigaciones Científicas, Penales y Criminalísticas |
+| **CIDH** | Comisión Interamericana de Derechos Humanos |
+| **CNSC** | Comisión Nacional del Servicio Civil |
+| **CPI** | Corte Penal Internacional |
+| **CPIB** | Corrupt Practices Investigation Bureau |
+| **CPNP** | Cuerpo de Policía Nacional Profesional |
+| **CRBV** | Constitución de la República Bolivariana de Venezuela |
+| **Cédula-RUT** | Cédula con Rol Único Tributario |
+| **DNA-RB** | Dirección Nacional Anticorrupción y Recuperación de Bienes |
+| **DNPEP** | Dirección Nacional de Planificación Estratégica y Prospectiva |
+| **FAN** | Fuerza Armada Nacional |
+| **FNIP** | Fondo Nacional de Inversión Productiva |
+| **FOSEIP** | Fondo Soberano de Estabilización e Inversión Productiva |
+| **FRONTEX** | Agencia Europea de la Guardia de Fronteras y Costas |
+| **GAFI** | Grupo de Acción Financiera Internacional |
+| **INTERPOL** | Organización Internacional de Policía Criminal |
+| **JNEM** | Junta Nacional de Evaluación Médica |
+| **LOBCV** | Ley Orgánica del Banco Central de Venezuela |
+| **LORAFEE** | Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas |
+| **MEDI** | Ministerio del Desarrollo de la Inteligencia |
+| **MIED-LAM** | Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado |
+| **OACNUDH** | Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos |
+| **OCDE** | Organización para la Cooperación y el Desarrollo Económicos |
+| **OPI** | Oferta Pública Inicial |
+| **PDVSA** | Petróleos de Venezuela S.A. |
+| **RTER** | Régimen de Tres Exámenes Rigurosos |
+| **RUI** | Registro Único de Inmuebles |
+| **RUP** | Registro Único de Profesionales |
+| **SNI** | Sistema Nacional de Identidad |
+| **TSJ** | Tribunal Supremo de Justicia |
+| **VePass** | Clave Única de Identidad Digital |
+

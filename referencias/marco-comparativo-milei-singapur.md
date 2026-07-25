@@ -4,7 +4,7 @@
 **Proyecto:** Reforma del Estado venezolano — Híbrido shock + Singapur
 **Autor:** Equipo de reforma
 **Fecha:** Julio 2026
-**Fuentes:** DNU 70-2023 (Argentina), Ley Bases 27.742, papers académicos UFM (2024), modelo Singapur (BR Duncan / SMU), meritocracia Singapur, CRBV 1999, Diagnóstico propio (Documento 1).
+**Fuentes:** DNU 70-2023 (Argentina), Ley Bases 27.742, papers académicos UFM (2024), modelo Singapur (BR Duncan / SMU), meritocracia Singapur, Constitución de la República Bolivariana de Venezuela (CRBV) 1999, Diagnóstico propio (Documento 1).
 
 ---
 
@@ -13,7 +13,7 @@
 La reforma del Estado venezolano no se diseña en abstracto: se diseña contra dos casos contemporáneos comparables y un texto constitucional propio que ya contiene los principios mejor logrados.
 
 - **Argentina/Milei (shock):** arranque en 10 días (DNU 70-2023, 366 artículos), motosierra de empleo público, privatización masiva, desregulación laboral y comercial. Logros: reducción drástica del déficit fiscal, primeras privatizaciones (Intercargo,Transener), desregulación. Riesgos: regresión social, debilidad institucional, costo laboral regresivo, choque recesivo inicial.
-- **Singapur (método):** Estado eficiente con holdings profesionales (Temasek, GIC), meritocracia de servicio público (PSC scholarships), subsidiariedad operativa, gradualismo constitucional sin shock. Logros: 60+ años de crecimiento sostenido, reservas soberanas, baja corrupción. Crítica: modelo no replicable 1:1 sin condiciones culturales e institucionales previas.
+- **Singapur (método):** Estado eficiente con holdings profesionales (Temasek, GIC), meritocracia de servicio público (Public Service Commission (PSC) scholarships), subsidiariedad operativa, gradualismo constitucional sin shock. Logros: 60+ años de crecimiento sostenido, reservas soberanas, baja corrupción. Crítica: modelo no replicable 1:1 sin condiciones culturales e institucionales previas.
 - **CRBV 1999 (marco):** texto más progresista y garantista que cualquiera de las dos experiencias comparadas. Federalismo cooperativo, derechos sociales, meritocracia (Arts. 145-146), independencia judicial (Art. 254), reserva petrolera (Art. 303). Brecha: la práctica institucional no honra el texto.
 
 **Conclusión del marco comparativo:** el rumbo del proyecto de reforma venezolano es **shock selectivo inspirado en Singapur**, no una copia textual de Milei, y se ejecuta sobre el texto constitucional existente, reformado en lo indispensable.
@@ -30,7 +30,7 @@ La reforma del Estado venezolano no se diseña en abstracto: se diseña contra d
 | Facultades extraordinarias | Potestad de resolver por decreto en materias que normalmente requieren ley del Congreso (DNU 70-2023, Título I) | No aplicable; supremacía parlamentaria | Leyes habilitantes recurrentes (2001, 2007, 2010, 2013, 2015) ya han distorsionado el diseño |
 | Límite temporal | 24 meses de emergencia | N/A | Ningún plazo constitucional específico para leyes habilitantes |
 
-**Lección aplicable a Venezuela:** regular el uso de la habilitación legislativa a una sola vez por período presidencial y por plazo máximo de 12 meses, con dictamen previo favorable del TSJ (con composición meritocrática). El DNU 70-2023 demuestra que un shock normativo sin control institucional degrada la calidad democrática.
+**Lección aplicable a Venezuela:** regular el uso de la habilitación legislativa a una sola vez por período presidencial y por plazo máximo de 12 meses, con dictamen previo favorable del Tribunal Supremo de Justicia (TSJ) (con composición meritocrática). El DNU 70-2023 demuestra que un shock normativo sin control institucional degrada la calidad democrática.
 
 ### 1.2. Dimensión administrativa
 
@@ -111,7 +111,7 @@ Toda relación laboral **debe poder terminar por decisión de cualquiera de las 
 **Implicación clave del principio:**
 - La mochila **siempre** viaja con el trabajador, sin importar quién inicia la terminación.
 - El seguro de cesantía **solo se activa** cuando el empleador termina sin justa causa — es un mecanismo de protección frente al riesgo empresario, no un subsidio universal.
-- La renuncia voluntaria del trabajador **no se penaliza** (salvo preaviso legal de 30 días, ya regulado en la LOTTT).
+- La renuncia voluntaria del trabajador **no se penaliza** (salvo preaviso legal de 30 días, ya regulado en la Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras (LOTTT)).
 - La justa causa documentada protege a la empresa de mochila+seguro cuando hay incumplimiento grave del trabajador.
 - Este diseño **rompe la trampa de la inamovilidad** que paraliza el mercado laboral venezolano desde 2002 (LOTTT Art. 80 y siguientes), sin caer en el "despido libre" que el DNU 70-2023 habilitó en Argentina.
 
@@ -221,7 +221,7 @@ Inspirado en Austria 2003 + Chile 2001 + Banco de España 2020 + ajustes para el
 | Subcapitalización inicial | Trabajador nuevo sin antigüedad | Capitalización semilla con cargo al Fondo Soberano (USD 100 por cuenta nueva) |
 | Quiebra del empleador sin traspasar fondos | Ley de insolvencia | Fondo de Garantía de Mochilas obligatorio |
 
-**Lección:** el modelo austríaco original (2003) fue copiado y discutido por Chile, España y ahora se evalúa en varios países; las críticas académicas (FEDEA, Blanchard, Pissarides) coinciden en que la mochila sola es insuficiente y peligrosa — necesita combinarse con seguro de cesantía. Venezuela adopta esta versión corregida. Milei logró flexibilidad laboral pero con regresión social y migración inmediata; Singapur profesionaliza pero con modelo propio (CPF) no directamente replicable. La combinación **mochila 8,33% + seguro 1,2% con fórmula /6** permite el equilibrio venezolano: flexibilidad para empresas + protección real para trabajadores + propiedad individual de los fondos. Sin la dolarización previa a USD 500, ninguna reforma administrativa o fiscal se sostiene.
+**Lección:** el modelo austríaco original (2003) fue copiado y discutido por Chile, España y ahora se evalúa en varios países; las críticas académicas (FEDEA, Blanchard, Pissarides) coinciden en que la mochila sola es insuficiente y peligrosa — necesita combinarse con seguro de cesantía. Venezuela adopta esta versión corregida. Milei logró flexibilidad laboral pero con regresión social y migración inmediata; Singapur profesionaliza pero con modelo propio (Central Provident Fund (CPF)) no directamente replicable. La combinación **mochila 8,33% + seguro 1,2% con fórmula /6** permite el equilibrio venezolano: flexibilidad para empresas + protección real para trabajadores + propiedad individual de los fondos. Sin la dolarización previa a USD 500, ninguna reforma administrativa o fiscal se sostiene.
 
 **Principio fundamental preservado:** la relación laboral **debe poder terminar por decisión de cualquiera de las dos partes** — trabajador o empleador — siempre con causa justificada conforme a la ley. La mochila 100% portátil garantiza que el trabajador nunca pierde lo acumulado; el seguro de cesantía cubre el riesgo del despido injustificado. Se rompe la trampa de la inamovilidad sin caer en el despido libre.
 
@@ -271,7 +271,7 @@ Inspirado en Austria 2003 + Chile 2001 + Banco de España 2020 + ajustes para el
 - **Ley de Reforma del Estado** con declaración de emergencia administrativa por 24 meses, con facultades delegadas acotadas y control del TSJ.
 
 ### 3.3. Lo que se toma de Singapur
-- **Holding estatal profesionalizado** adaptado al modelo mercado + Estado estratégico: **PDVSA matriz con 49% privatizado (Oferta Pública Inicial + colocación estratégica) y 51% retenido por el Estado**; filiales mixtas pueden **cotizar en bolsa** (NYSE/LSE/BVC); el Estado conserva la facultad de **recomprar hasta el 51%** de cualquier empresa estratégica cuando sea técnicamente justificado, **con aprobación judicial previa**.
+- **Holding estatal profesionalizado** adaptado al modelo mercado + Estado estratégico: **Petróleos de Venezuela S.A. (PDVSA) matriz con 49% privatizado (Oferta Pública Inicial + colocación estratégica) y 51% retenido por el Estado**; filiales mixtas pueden **cotizar en bolsa** (NYSE/LSE/BVC); el Estado conserva la facultad de **recomprar hasta el 51%** de cualquier empresa estratégica cuando sea técnicamente justificado, **con aprobación judicial previa**.
 - **Sistema de mérito en función pública** con PSC scholarships locales.
 - **Fondo soberano (Fondo Soberano Venezolano)** para administrar ingresos extraordinarios.
 - **Auditoría General independiente** con jurisdicción sobre gestión pública y evaluación ex post.
@@ -280,7 +280,7 @@ Inspirado en Austria 2003 + Chile 2001 + Banco de España 2020 + ajustes para el
 
 ### 3.4. Lo que se mantiene del CRBV
 - **Federalismo cooperativo** (Arts. 159-185): dictar las leyes de bases pendientes en 24 meses.
-- **Reserva petrolera del Estado** (Art. 303): reinterpretar el "Estado conservará la totalidad" como "el Estado retendrá al menos el 51%" en empresas estratégicas; reforma constitucional que habilite la OPI y la cotización de filiales, con **acción de oro** (*golden share*) y control jurisdiccional de la recompra.
+- **Reserva petrolera del Estado** (Art. 303): reinterpretar el "Estado conservará la totalidad" como "el Estado retendrá al menos el 51%" en empresas estratégicas; reforma constitucional que habilite la Oferta Pública Inicial (OPI) y la cotización de filiales, con **acción de oro** (*golden share*) y control jurisdiccional de la recompra.
 - **Derechos sociales** (Arts. 80-100): focalización progresiva, no regresión.
 - **Carrera administrativa** (Arts. 145-146): ejecutar el texto, no derogarlo.
 - **Art. 91 (irrenunciabilidad) y Art. 92 (créditos laborales de exigibilidad inmediata)**: reinterpretar "irrenunciabilidad" como "no a la pérdida del saldo acumulado de la mochila". No se deroga la garantía del trabajador; se redirige hacia la cuenta individual.
@@ -411,3 +411,28 @@ La reforma requiere una **reinterpretación auténtica** o **enmienda constituci
 ---
 
 *Documento elaborado en el marco del proyecto de Reforma del Estado venezolano. Las referencias normativas y comparadas están disponibles en `~/qdrant-kb/data/`. Las cifras y cronograma deben ajustarse al escenario macroeconómico y político vigente al momento de ejecución.*
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **CANTV** | Compañía Anónima Nacional Teléfonos de Venezuela |
+| **CNE** | Consejo Nacional Electoral |
+| **CORPOELEC** | Corporación Eléctrica Nacional |
+| **CPF** | Central Provident Fund |
+| **CRBV** | Constitución de la República Bolivariana de Venezuela |
+| **CVG** | Corporación Venezolana de Guayana |
+| **LOAP** | Ley Orgánica de la Administración Pública |
+| **LOH** | Ley Orgánica de Hidrocarburos |
+| **LOM** | Ley Orgánica de Minas |
+| **LOPP** | Ley Orgánica de Planificación Pública |
+| **LOTTT** | Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras |
+| **OPA** | Oferta Pública de Adquisición |
+| **OPI** | Oferta Pública Inicial |
+| **PDVSA** | Petróleos de Venezuela S.A. |
+| **PSC** | Public Service Commission |
+| **SAIME** | Servicio Administrativo de Identificación, Migración y Extranjería |
+| **TSJ** | Tribunal Supremo de Justicia |
+

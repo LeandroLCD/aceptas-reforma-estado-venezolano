@@ -98,8 +98,8 @@ El pueblo tiene **capacidad**, según la fórmula del proyecto: leer y pensar cr
 ### **PARTE III — LOS OCHO PILARES DE LA REFORMA**
 
 - III.1 Servicio Civil Meritocrático (CNSC + LOSCM)
-- III.2 Seguridad, Investigación y Migración (CPNP + CICPC + JNEM)
-- III.3 MIED-LAM Constitucional
+- III.2 Seguridad, Investigación y Migración (Cuerpo de Policía Nacional Profesional (CPNP) + Cuerpo de Investigaciones Científicas, Penales y Criminalísticas (CICPC) + Junta Nacional de Evaluación Médica (JNEM))
+- III.3 Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (MIED-LAM) Constitucional
 - III.4 Reforma Fiscal y Financiamiento Territorial
 - III.5 Reforma Económica y Productiva
 - III.6 Justicia Independiente y Anticorrupción
@@ -122,7 +122,7 @@ El pueblo tiene **capacidad**, según la fórmula del proyecto: leer y pensar cr
 
 ### **PARTE V — TEXTO ARTICULADO Y CLÁUSULAS DE CONTINUIDAD**
 
-- V.1 Títulos VIII al XVII (LORAFEE / CPNP-CICPC-JNEM / LORPSP / LOBMC / LOPSEP / DNPEP / LOBCV / Ley Dolarización / CEV-CN)
+- V.1 Títulos VIII al XVII (Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas (LORAFEE) / CPNP-CICPC-JNEM / Ley Orgánica de Reforma del Sector Público (LORPSP) / LOBMC / LOPSEP / DNPEP / Ley Orgánica del Banco Central de Venezuela (LOBCV) / Ley Dolarización / CEV-CN)
 - V.2 Régimen constitucional de continuidad
 - V.3 Disposiciones finales y transitorias
 - V.4 Anexo de calendarización de cláusulas por organismo
@@ -150,9 +150,9 @@ La reforma nace del convencimiento profundo de que **Venezuela no necesita simpl
 - **Servicio civil**: todo ingreso, ascenso o destitución procede de concurso meritocrático bajo la Comisión Nacional del Servicio Civil (CNSC); la ley LCA 2002 es completamente subrogada por la LOSCM.
 - **Seguridad pública**: el Cuerpo de Policía Nacional Profesional (CPNP) absorbe PNB/policías estadales/municipales con reconversión por Régimen de Transición por Exámenes Rigurosos (RTER) + el CICPC subsiste como cuerpo técnico-civil diferenciado (analogía Carabineros/PDI Chile) + la Jefatura Nacional de Extranjería y Migración (JNEM) asume las funciones del antiguo SAIME con pleno respeto a la Convención 1951 sobre Refugiados.
 - **Anticorrupción**: la DNA-RB arranca con presupuesto del 0,3% del PIB + poder de control sobre funcionarios del poder público + articulación operativa con la Comisión Carmen Navas para búsquedas patrimoniales y de reparación civil.
-- **Hacienda y FOEIP**: reforma tributaria IVA+ISLR+Impuesto al Patrimonio Neto con tributación no petroleta del 6% PIB actual al 14% al año 5; OPI del 49% PDVSA en NYSE/LSE/BVC; plan de dolarización oficial mes 18 con blindaje constitucional.
-- **Mercado de capitales y banca de desarrollo**: LOBMC crea FIDE+BANDAES+BANMI+FNIP; Bolsa Caracas reactivada en mes 18; régimen fiscal coordinado con DNPEP.
-- **Gobierno Digital**: VePass (Lite/Plus/Fuerte/Firma) + Cédula-RUT + BND-ADN para forensia; cursor de identidad transparente a partir del nacimiento.
+- **Hacienda y FOEIP**: reforma tributaria IVA+ISLR+Impuesto al Patrimonio Neto con tributación no petroleta del 6% PIB actual al 14% al año 5; Oferta Pública Inicial (OPI) del 49% Petróleos de Venezuela S.A. (PDVSA) en NYSE/LSE/BVC; plan de dolarización oficial mes 18 con blindaje constitucional.
+- **Mercado de capitales y banca de desarrollo**: LOBMC crea FIDE+BANDAES+BANMI+Fondo Nacional de Inversión Productiva (FNIP); Bolsa Caracas reactivada en mes 18; régimen fiscal coordinado con DNPEP.
+- **Gobierno Digital**: VePass (Lite/Plus/Fuerte/Firma) + Cédula con Rol Único Tributario (Cédula-RUT) + BND-ADN para forensia; cursor de identidad transparente a partir del nacimiento.
 - **Planificación estratégica**: la DNPEP coloca el Plan Quinquenal como eje rector vinculante; UPE integra prospectiva civil (no militar); calificación A-D pública anual.
 - **Memoria, verdad y reparación**: la Comisión Especial Nacional "Carmen Navas" (CEV-CN) investiga + revisar expedientes + emite la lista nominada al Ejecutivo de personas detenidas que deben ser liberadas en plazos ejecutivos de 60 días.
 
@@ -160,8 +160,8 @@ La reforma nace del convencimiento profundo de que **Venezuela no necesita simpl
 
 El proyecto funciona como **Diagnóstico + Propuesta + Plan**:
 
-1. **Diagnóstico**: las 4 sentencias Corte IDH vinculantes + CIDH Doc. 253/24 + CIDH Informe Anual 2024 cap VE + PROVEA Informe Anual 2025 + Amnistía Internacional Informe 2025/26 + FFM documentación documentan la magnitud del problema.
-2. **Propuesta**: 8 pilares sustantivos + 9 leyes orgánicas nuevas + reforma articulada de 4 artículos CRBV (303, 318, 332, 333) + reforma del funcionamiento del SAIME + transformación del PNB, policiales estadales/municipales, CICPC.
+1. **Diagnóstico**: las 4 sentencias Corte IDH vinculantes + Comisión Interamericana de Derechos Humanos (CIDH) Doc. 253/24 + CIDH Informe Anual 2024 cap VE + PROVEA Informe Anual 2025 + Amnistía Internacional Informe 2025/26 + FFM documentación documentan la magnitud del problema.
+2. **Propuesta**: 8 pilares sustantivos + 9 leyes orgánicas nuevas + reforma articulada de 4 artículos Constitución de la República Bolivariana de Venezuela (CRBV) (303, 318, 332, 333) + reforma del funcionamiento del SAIME + transformación del PNB, policiales estadales/municipales, CICPC.
 3. **Plan**: paquete único de 6 leyes orgánicas en 90 días + cronograma mes-a-mes hasta mes 36 + blindaje transversal 3/4 + referéndum ratificatorio para todas las cláusulas de continuidad.
 
 ## 0.2 Diagnóstico integral
@@ -177,7 +177,7 @@ El Estado venezolano —según las conclusiones de organismos internacionales de
 3. **Captura de órganos de control**: Contralor + Fiscalía + Defensoría + Poder Ciudadano designados por afinidad partidista. Las 4 sentencias Corte IDH (Apitz Barbera 2008, Ríos 2009, Reverón Trujillo 2009, López Mendoza 2011) acreditan la responsabilidad internacional del Estado venezolano por esta captura.
 4. **Aparato de electorización del derecho penal**: aplicación selectiva del derecho penal para silenciar disidencia, periodistas y defensores DDHH (CIDH Doc. 253/24). Amnistía Internacional 2025/26 documenta la continuidad de crímenes de lesa humanidad.
 5. **Aparato de electorización del sector monetario**: control de cambios mantenido, fiscales-civiles debilitados con dolarización estancada (mecanismo informal). Afectación grave a la calidad de vida social.
-6. **Patrón de discontinuidad institucional**: cada ciclo defrauda lo construido por el anterior; informe UNESCO 1984 §275 ya advirtió que las iniciativas que un gobierno no logra culminar raramente son continuadas por el siguiente.
+6. **Patrón de discontinuidad institucional**: cada ciclo defrauda lo construido por el anterior; informe Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) 1984 §275 ya advirtió que las iniciativas que un gobierno no logra culminar raramente son continuadas por el siguiente.
 
 ### La enfermedad holandesa y la economía política del petróleo
 
@@ -206,7 +206,7 @@ Los **diez principios** del proyecto —todos blindados constitucionalmente— s
 7. **Electricidad y telecomunicaciones 100% privatizadas**. Régimen 20 años exoneración → luego solo IVA (analógico al agua).
 8. **Electricidad exonerada 20 años**, luego solo IVA.
 9. **Mochila austríaca 8,33%** + seguro cesantía 1,2% (fórmula /6, tope 6 meses).
-10. **Libertad bilateral de terminación laboral** (equilibrio LOTTT inamovilidad vs DNU 70-2023 flexibilidad). Reformada con red protección universal + fondo indemnización.
+10. **Libertad bilateral de terminación laboral** (equilibrio Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras (LOTTT) inamovilidad vs DNU 70-2023 flexibilidad). Reformada con red protección universal + fondo indemnización.
 
 Sectores protegidos del shock: salud, educación, pensiones no contributivas.
 
@@ -246,13 +246,13 @@ Sectores protegidos del shock: salud, educación, pensiones no contributivas.
 **Régimen de Transición por Exámenes Rigurosos (RTER)**: el proyecto **no asume presunción de idoneidad** sobre los funcionarios actuales. Toda transición operativa es excepcional y debe ser ratificada individualmente por tres exámenes:
 - **AFAF** (Aptitud Física): 2,4 km + flexiones + abdominales + plancha + agilidad + audición + visión
 - **AIPE** (Aptitud Psicológica): personalidad + tolerancia al estrés + empatía + salud mental
-- **AMPB** (Aptitud Moral con Polígrafo y Verificación Patrimonial BND-DNA-RB): polígrafo profesional + verificación cruzada con BND y DNA-RB + entrevista ética grabada
+- **AMPB** (Aptitud Moral con Polígrafo y Verificación Patrimonial BND-DNA-RB): polígrafo profesional + verificación cruzada con Banco Nacional de Datos (BND) y DNA-RB + entrevista ética grabada
 
 **Tasa esperada de aprobación**: 30-50% en el primer ciclo. La disolución es la regla, no la excepción. Tasas superiores a 60% en CPNP regional disparan auditoría OACNUDH/CIDH de inmediato.
 
-**Principio *career-only***: el Director General del CPNP (20 años activo + Inspector/a), el Director General del CICPC (20 años + Comisario/a General), y el Subdirector Nacional de Migración (15 años + Comisario/a General migratorio) deben proceder **obligatoriamente** de las filas del cuerpo. AN ratifica, no nomina. Ningún extranjero ni afiliado político entra sin carrera. Quien viole esto es nulo de nulidad absoluta con responsabilidad penal directa.
+**Principio *career-only***: el Director General del CPNP (20 años activo + Inspector/a), el Director General del CICPC (20 años + Comisario/a General), y el Subdirector Nacional de Migración (15 años + Comisario/a General migratorio) deben proceder **obligatoriamente** de las filas del cuerpo. Asamblea Nacional (AN) ratifica, no nomina. Ningún extranjero ni afiliado político entra sin carrera. Quien viole esto es nulo de nulidad absoluta con responsabilidad penal directa.
 
-**Director del CICPC bajo el principio *career-only*** + VEEDURÍA internacional OACNUDH/CIDH con **obligación expresa de cooperar con la CPI caso Venezuela I** (ICC-02/18).
+**Director del CICPC bajo el principio *career-only*** + VEEDURÍA internacional OACNUDH/CIDH con **obligación expresa de cooperar con la Corte Penal Internacional (CPI) caso Venezuela I** (ICC-02/18).
 
 **Veeduría internacional** CPNP/CICPC/JNEM: 8 años posteriores a la designación.
 
@@ -291,7 +291,7 @@ Sectores protegidos del shock: salud, educación, pensiones no contributivas.
 - **Fase 2**: año 2-4 — cobertura nacional con focalización en pobreza extrema.
 - **Fase 3**: año 5-7 — evaluación externa independiente.
 
-**Cláusula de continuidad**: el MIED-LAM subsiste con respaldo organizativo-financiero tipo FEM, blindado contra el desmontaje (mayor esfuerzo organizativo que reforma a 3/4 + referendum).
+**Cláusula de continuidad**: el MIED-LAM subsiste con respaldo organizativo-financiero tipo Fondo de Estabilización Macroeconómica (FEM), blindado contra el desmontaje (mayor esfuerzo organizativo que reforma a 3/4 + referendum).
 
 ## III.4 Reforma Fiscal y Financiamiento Territorial
 
@@ -319,7 +319,7 @@ Sectores protegidos del shock: salud, educación, pensiones no contributivas.
 
 ### III.5.3 PDVSA matriz — 51% estatal / 49% privado con OPI
 
-Mecanismo legal: **sentencia interpretativa del TSJ meritocrático** sustituye "totalidad" del Art. 303 por "al menos el cincuenta y uno por ciento (51%)". OPI del 49% en NYSE + LSE + BVC con meta de ingresos USD 8-15.000 millones; directorios meritocráticos bajo CNSC.
+Mecanismo legal: **sentencia interpretativa del Tribunal Supremo de Justicia (TSJ) meritocrático** sustituye "totalidad" del Art. 303 por "al menos el cincuenta y uno por ciento (51%)". OPI del 49% en NYSE + LSE + BVC con meta de ingresos USD 8-15.000 millones; directorios meritocráticos bajo CNSC.
 
 ### III.5.4 Filiales mixtas + LORAFEE pay-before-take
 
@@ -333,7 +333,7 @@ Las filiales mixtas cotizan en bolsa (Petrocedeño, Petromonagas, Petroquiriquir
 
 ### III.5.5 Privatización 100% Corpoelec + CANTV
 
-Régimen 20 años exoneración (luego solo IVA); 7 uen privadas para Corpoelec (distribución/transmisión/generación + Rector 100 funcionarios); CANTV + Movilnet licitadas en mes 0-6 y 6-12; reguladores independientes (CONATEL, OFGEM/UK model).
+Régimen 20 años exoneración (luego solo IVA); 7 uen privadas para Corpoelec (distribución/transmisión/generación + Rector 100 funcionarios); Compañía Anónima Nacional Teléfonos de Venezuela (CANTV) + Movilnet licitadas en mes 0-6 y 6-12; reguladores independientes (CONATEL, OFGEM/UK model).
 
 ### III.5.6 HIDROVEN matriz subsistente + 9 hidrológicas privatizadas
 
@@ -348,7 +348,7 @@ Aplicación análoga a la electricidad, modelo SUNAA. Pliego hidrocapital privad
 
 ### III.5.8-12 Marco legal + cronograma + indicadores + riesgos + cláusula de continuidad
 
-**Cronograma** (parallelo al monetario): Mes 0 FEM+FOSEIP+FNIP → Mes 3-6 banca inversión OPI → Mes 9 NYSE/LSE → Mes 12 13 miembros directorio PDVSA meritocrático → Mes 24 filiales mixtas listadas + privatizaciones consolidadas.
+**Cronograma** (parallelo al monetario): Mes 0 FEM+Fondo Soberano de Estabilización e Inversión Productiva (FOSEIP)+FNIP → Mes 3-6 banca inversión OPI → Mes 9 NYSE/LSE → Mes 12 13 miembros directorio PDVSA meritocrático → Mes 24 filiales mixtas listadas + privatizaciones consolidadas.
 
 **Cláusula de continuidad (7 garantías)**:
 1. Modificación del Art. 303 CRBV reinterpretado: 3/4 AN.
@@ -578,7 +578,7 @@ Aplicación análoga a la electricidad, modelo SUNAA. Pliego hidrocapital privad
 - **Privatizaciones consolidadas** (CANTV+Corpoelec+9 Hidrológicas): USD 2.500-5.500 M.
 - **Reforma tributaria** (ingresos recurrentes año 2): USD 4.000-8.000 M/año.
 - **Reestructuración deuda externa**: USD ~60.000 M (negociación plurianual).
-- **Créditos multilaterales** (BID+BM+IFC+CAF): USD 12.000-18.000 M.
+- **Créditos multilaterales** (Banco Interamericano de Desarrollo (BID)+BM+IFC+Corporación Andina de Fomento (CAF)): USD 12.000-18.000 M.
 
 ## IV.8 Blindaje constitucional del Plan
 
@@ -595,7 +595,7 @@ Aplicación análoga a la electricidad, modelo SUNAA. Pliego hidrocapital privad
 
 ## IV.9 Metodología de revisión
 
-**Auditorías trimestrales** (firma Internacional: BDO, KPMG, E&Y) + Gobiernos amigos (Alemania, Japón, Chile, Uruguay, Canadá) + ACNUR + FRONTEX UE + OACNUDH + CIDH + BID + BM + CAF.
+**Auditorías trimestrales** (firma Internacional: BDO, KPMG, E&Y) + Gobiernos amigos (Alemania, Japón, Chile, Uruguay, Canadá) + Alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR) + Agencia Europea de la Guardia de Fronteras y Costas (FRONTEX) UE + Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (OACNUDH) + CIDH + BID + BM + CAF.
 
 ## IV.10 Anexos
 
@@ -802,7 +802,7 @@ Asamblea Constituyente o poder constituyente derivado → **NO puede derogar, su
 ## V.3 Disposiciones Finales y Transitorias (Arts. 180-184)
 
 - **Art. 180**: entrada en vigencia tras publicación Gaceta Oficial.
-- **Art. 181**: derogatorias expresas (LOPSPP 2014, Ley Antibloqueo 2020, SAIME, LOAFSP+COT parcialmente).
+- **Art. 181**: derogatorias expresas (LOPSPP 2014, Ley Antibloqueo 2020, SAIME, Ley Orgánica de la Administración Financiera del Sector Público (LOAFSP)+Código Orgánico Tributario (COT) parcialmente).
 - **Art. 182**: remisiones expresas a leyes específicas.
 - **Art. 183**: cláusula final de interpretación conforme al Pilar 0 §II.
 - **Art. 184**: cierre procesal — paquete único + transición 12 meses.
@@ -886,3 +886,59 @@ Este documento final está diseñado para ser **la versión pública única** de
 ---
 
 *Documento vivo. Versión 0.1 v0.0.016 de julio de 2026. Compilado por el equipo de reforma como versión publicable unificada. Versiones 0.2+ introducirán ajustes derivados de la implementación real.*
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **ACNUR** | Alto Comisionado de las Naciones Unidas para los Refugiados |
+| **AN** | Asamblea Nacional |
+| **BCV** | Banco Central de Venezuela |
+| **BID** | Banco Interamericano de Desarrollo |
+| **BND** | Banco Nacional de Datos |
+| **CAF** | Corporación Andina de Fomento |
+| **CANTV** | Compañía Anónima Nacional Teléfonos de Venezuela |
+| **CICPC** | Cuerpo de Investigaciones Científicas, Penales y Criminalísticas |
+| **CIDH** | Comisión Interamericana de Derechos Humanos |
+| **CNSC** | Comisión Nacional del Servicio Civil |
+| **COT** | Código Orgánico Tributario |
+| **CPI** | Corte Penal Internacional |
+| **CPNP** | Cuerpo de Policía Nacional Profesional |
+| **CRBV** | Constitución de la República Bolivariana de Venezuela |
+| **Cédula-RUT** | Cédula con Rol Único Tributario |
+| **DDDHH** | Defensor del Pueblo |
+| **DNA-RB** | Dirección Nacional Anticorrupción y Recuperación de Bienes |
+| **DNPEP** | Dirección Nacional de Planificación Estratégica y Prospectiva |
+| **FAN** | Fuerza Armada Nacional |
+| **FEM** | Fondo de Estabilización Macroeconómica |
+| **FNIP** | Fondo Nacional de Inversión Productiva |
+| **FOSEIP** | Fondo Soberano de Estabilización e Inversión Productiva |
+| **FRONTEX** | Agencia Europea de la Guardia de Fronteras y Costas |
+| **GNB** | Guardia Nacional Bolivariana |
+| **JNEM** | Junta Nacional de Evaluación Médica |
+| **KPI** | Key Performance Indicator |
+| **LCA** | Ley de Carrera Administrativa |
+| **LOAFSP** | Ley Orgánica de la Administración Financiera del Sector Público |
+| **LOBCV** | Ley Orgánica del Banco Central de Venezuela |
+| **LORAFEE** | Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas |
+| **LORPSP** | Ley Orgánica de Reforma del Sector Público |
+| **LOSCM** | Ley Orgánica del Servicio Civil Meritocrático |
+| **LOT** | Ley Orgánica del Trabajo |
+| **LOTTT** | Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras |
+| **MEDI** | Ministerio del Desarrollo de la Inteligencia |
+| **MIED-LAM** | Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado |
+| **OACNUDH** | Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos |
+| **OPI** | Oferta Pública Inicial |
+| **PDVSA** | Petróleos de Venezuela S.A. |
+| **RTER** | Régimen de Tres Exámenes Rigurosos |
+| **RUI** | Registro Único de Inmuebles |
+| **RUVI** | Registro Único de Víctimas |
+| **SAIME** | Servicio Administrativo de Identificación, Migración y Extranjería |
+| **SNI** | Sistema Nacional de Identidad |
+| **SPDP** | Superintendencia de Protección de Datos Personales |
+| **TSJ** | Tribunal Supremo de Justicia |
+| **UNESCO** | Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura |
+| **VePass** | Clave Única de Identidad Digital |
+

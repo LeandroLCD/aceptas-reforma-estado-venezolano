@@ -10,8 +10,8 @@ titulo: Reforma Integral del Estado Venezolano - Pilar III.6 Justicia y Anticorr
 parte: III.6
 version: 0.5
 fecha: 2026-07-13
-cambios_v0.5: (a) Sección III.6.5 DNA-RB — modificado el período del Director General de 8 años no coincidentes a 6 años únicos no reelegible; designacion pasa de "nombrado por el Presidente + ratificación AN 3/5" a "concurso público + ratificación AN 3/5"; agregada subsección "Régimen del Director General de la DNA-RB" con 6 cláusulas institucionales análogas a las del Fiscal General (incluida causal #6 de investigación internacional/sanciones extranjeras + procedimiento expedito de separación del cargo). (b) Nueva sección III.6.7-A "Independencia del Defensor del Pueblo" — diagnóstico del patrón de captura del cargo; reforma con 8 cláusulas análogas a las del Ministerio Público (concurso público + AN 3/5; período único de 6 años no reelegible sustituyendo el esquema CRBV actual de 5 años reelegible una vez; cláusula de destitución AN 3/4 con 7 causales taxativas incluida investigación internacional/sanciones extranjeras; incompatibilidad post-mandato 5 años; veeduría internacional 8 años; reforma art. 281 y 282 CRBV).
-cambios_v0.4: Sección III.6.7 — agregada causal #6 de destitución: "Investigación internacional o sanción extranjera". Nueva subsección III.6.7.3.1 "Procedimiento expedito de separación del cargo y presentación ante tribunales extranjeros" (plazo máximo 30 días desde notificación; separación automática de pleno derecho; suspensión inmediata de funciones; designación de Fiscal General interino por TSJ meritocrático; levantamiento de inmunidades; cooperación con jurisdicción requirente). Si la AN no se pronuncia en 30 días, separación opera de pleno derecho por ministerio de la ley.
+cambios_v0.5: (a) Sección III.6.5 Dirección Nacional Anticorrupción y Recuperación de Bienes (DNA-RB) — modificado el período del Director General de 8 años no coincidentes a 6 años únicos no reelegible; designacion pasa de "nombrado por el Presidente + ratificación Asamblea Nacional (AN) 3/5" a "concurso público + ratificación AN 3/5"; agregada subsección "Régimen del Director General de la DNA-RB" con 6 cláusulas institucionales análogas a las del Fiscal General (incluida causal #6 de investigación internacional/sanciones extranjeras + procedimiento expedito de separación del cargo). (b) Nueva sección III.6.7-A "Independencia del Defensor del Pueblo" — diagnóstico del patrón de captura del cargo; reforma con 8 cláusulas análogas a las del Ministerio Público (concurso público + AN 3/5; período único de 6 años no reelegible sustituyendo el esquema Constitución de la República Bolivariana de Venezuela (CRBV) actual de 5 años reelegible una vez; cláusula de destitución AN 3/4 con 7 causales taxativas incluida investigación internacional/sanciones extranjeras; incompatibilidad post-mandato 5 años; veeduría internacional 8 años; reforma art. 281 y 282 CRBV).
+cambios_v0.4: Sección III.6.7 — agregada causal #6 de destitución: "Investigación internacional o sanción extranjera". Nueva subsección III.6.7.3.1 "Procedimiento expedito de separación del cargo y presentación ante tribunales extranjeros" (plazo máximo 30 días desde notificación; separación automática de pleno derecho; suspensión inmediata de funciones; designación de Fiscal General interino por Tribunal Supremo de Justicia (TSJ) meritocrático; levantamiento de inmunidades; cooperación con jurisdicción requirente). Si la AN no se pronuncia en 30 días, separación opera de pleno derecho por ministerio de la ley.
 cambios_v0.3: Sección III.6.7 reescrita completamente — Independencia del Ministerio Público. Diagnóstico documentado de los tres últimos fiscales (Isaías Rodríguez 2000-2004, Luisa Ortega Díaz 2007-2017, Tarek William Saab 2017-2024) con referencia a documentación pública de Foro Penal (>300 presos políticos), Grupo de Trabajo ONU sobre Detención Arbitraria y CIDH. Reforma con 8 cláusulas: (1) concurso público + ratificación AN 3/5; (2) período único de 6 años no reelegible (antes eran 10 años en v0.2); (3) cláusula de destitución por AN con 3/4 + debido proceso + causales taxativas; (4) prohibición explícita de instrucciones del Ejecutivo (texto propuesto para reforma art. 285 CRBV); (5) autonomía presupuestaria 0,5% PIB no reprogramable; (6) carrera fiscal meritocrática; (7) incompatibilidad post-mandato de 5 años; (8) veeduría internacional 8 años.
 cambios_v0.2: DNA renombrada como "Dirección Nacional Anticorrupción Rómulo Betancourt" (DNA-RB); nueva sección III.6.12 con biografía fundamentada de Betancourt + nota sobre no-utilización de Bolívar
 homenaje_principal: Rómulo Betancourt (1908-1981) - fundador Contraloría 1947, derrocado por enfrentar corrupción
@@ -49,7 +49,7 @@ Los indicadores son elocuentes:
 | Independencia judicial percibida (World Justice Project) | 0.92 | 0.78 | 0.72 | **<0.20** |
 | Presupuesto judicial como % del PIB | 0,30% | 0,18% | 0,20% | **<0,10%** |
 
-> *Fuentes: Transparency International CPI 2023; World Justice Project Rule of Law Index 2023; UN Special Rapporteur on Independence of Judges 2020.*
+> *Fuentes: Transparency International Corte Penal Internacional (CPI) 2023; World Justice Project Rule of Law Index 2023; UN Special Rapporteur on Independence of Judges 2020.*
 
 Las consecuencias son transversales:
 
@@ -171,7 +171,7 @@ Reforma constitucional aditiva (nuevo artículo bajo el Título IX-A):
 1. **Unidad de investigación patrimonial**: especialización en análisis financiero, contabilidad forense, seguimiento de flujos de dinero en paraísos fiscales, cooperación internacional con UIF y FinCEN.
 2. **Unidad de análisis de datos**: herramientas de inteligencia artificial para detectar patrones de contratación pública anómala (sobreprecios sistemáticos, fraccionamiento, adjudicaciones directas injustificadas).
 3. **Unidad de protección de testigos y denunciantes**: inspirado en la Office of the Whistleblower de Estados Unidos, garantiza protección física, laboral y patrimonial de quienes denuncien hechos de corrupción.
-4. **Unidad de relaciones internacionales**: cooperación con INTERPOL, UNODC, OEA, CICIG-OEA, Red de Recuperación de Activos del GAFI.
+4. **Unidad de relaciones internacionales**: cooperación con INTERPOL, UNODC, Organización de los Estados Americanos (OEA), CICIG-OEA, Red de Recuperación de Activos del GAFI.
 
 ### Independencia presupuestaria
 
@@ -179,7 +179,7 @@ La DNA cuenta con asignación presupuestaria mínima equivalente al **0,3% del P
 
 ### Régimen del Director General de la DNA-RB
 
-En coherencia con el régimen del Ministerio Público (sección III.6.7) y del Defensor del Pueblo (sección III.6.7-A), el Director General de la DNA-RB se somete al siguiente estatuto, que sustituye cualquier disposición contraria del decreto de creación de la DNA-RB y, en lo concerniente a las funciones de investigación penal anticorrupción que asume la DNA-RB, de la Ley Orgánica de la Contraloría General (**Decisión arquitectónica 2026-07-16**: la Contraloría General subsiste con sus competencias constitucionales de fiscalización administrativa general — art. 288 CRBV; la DNA-RB asume funciones especializadas de investigación penal según el modelo Singapur CPIB):
+En coherencia con el régimen del Ministerio Público (sección III.6.7) y del Defensor del Pueblo (sección III.6.7-A), el Director General de la DNA-RB se somete al siguiente estatuto, que sustituye cualquier disposición contraria del decreto de creación de la DNA-RB y, en lo concerniente a las funciones de investigación penal anticorrupción que asume la DNA-RB, de la Ley Orgánica de la Contraloría General (**Decisión arquitectónica 2026-07-16**: la Contraloría General subsiste con sus competencias constitucionales de fiscalización administrativa general — art. 288 CRBV; la DNA-RB asume funciones especializadas de investigación penal según el modelo Singapur Corrupt Practices Investigation Bureau (CPIB)):
 
 1. **Designación por concurso público + ratificación reforzada de la Asamblea Nacional (3/5)** conforme al procedimiento previsto en la cláusula 1 de la sección III.6.7 (jury mixto nacional + 2 veedores internacionales).
 2. **Período único de seis (6) años, no reelegible**. Prohibición perpetua de ocupar nuevamente el cargo o cualquier otro del Poder Ciudadano o de elección popular.
@@ -285,7 +285,7 @@ Texto propuesto para adicionar al artículo 285:
 
 **5. Autonomía presupuestaria**
 
-Asignación mínima del **cero coma cinco por ciento (0,5%) del PIB** al Ministerio Público, no reprogramable, transferida mensualmente en forma automática por el BCV a la cuenta presupuestaria del Ministerio Público, con prohibición expresa de retención, diferimiento o reprogramación. **La fiscalización presupuestaria queda atribuida a la Contraloría General (subsistente, art. 288 CRBV) en su rol de auditoría administrativa general**, y a la **DNA-RB (Pilar III.6.3) en su rol de investigación penal de la corrupción**, con publicación trimestral independiente de cada organismo.
+Asignación mínima del **cero coma cinco por ciento (0,5%) del PIB** al Ministerio Público, no reprogramable, transferida mensualmente en forma automática por el Banco Central de Venezuela (BCV) a la cuenta presupuestaria del Ministerio Público, con prohibición expresa de retención, diferimiento o reprogramación. **La fiscalización presupuestaria queda atribuida a la Contraloría General (subsistente, art. 288 CRBV) en su rol de auditoría administrativa general**, y a la **DNA-RB (Pilar III.6.3) en su rol de investigación penal de la corrupción**, con publicación trimestral independiente de cada organismo.
 
 **6. Carrera fiscal meritocrática**
 
@@ -413,7 +413,7 @@ La anticorrupción y la independencia judicial son las dos columnas de legitimid
 La reforma judicial y anticorrupción es **transversal** a todos los demás pilares:
 
 - **Pilar III.1** (Servicio Civil): la meritocracia judicial es una aplicación especializada del servicio civil meritocrático general.
-- **Pilar III.3** (MIED-LAM): el Programa 6 de Educación Ética y Cívica incluye formación ética judicial.
+- **Pilar III.3** (Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (MIED-LAM)): el Programa 6 de Educación Ética y Cívica incluye formación ética judicial.
 - **Pilar III.5** (Fiscal): la DNA-RB tiene competencia específica sobre fraude tributario y contrabando.
 - **Pilar III.7** (Gobierno Digital): la transparencia activa y los datos abiertos reducen la opacidad que facilita la corrupción.
 - **Pilar III.8** (Planificación): los indicadores anticorrupción son indicadores de éxito del Plan Nacional.
@@ -491,3 +491,25 @@ Cada sala de la DNA-RB exhibirá el retrato de uno de estos luchadores con su ci
 ---
 
 *Continuará: III.7 Gobierno digital inspirado en SingPass + Ley de protección de datos personales.*
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **AN** | Asamblea Nacional |
+| **BCV** | Banco Central de Venezuela |
+| **CIDH** | Comisión Interamericana de Derechos Humanos |
+| **CPI** | Corte Penal Internacional |
+| **CPIB** | Corrupt Practices Investigation Bureau |
+| **CRBV** | Constitución de la República Bolivariana de Venezuela |
+| **DDDHH** | Defensor del Pueblo |
+| **DNA-RB** | Dirección Nacional Anticorrupción y Recuperación de Bienes |
+| **FAN** | Fuerza Armada Nacional |
+| **INTERPOL** | Organización Internacional de Policía Criminal |
+| **MEDI** | Ministerio del Desarrollo de la Inteligencia |
+| **MIED-LAM** | Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado |
+| **OEA** | Organización de los Estados Americanos |
+| **TSJ** | Tribunal Supremo de Justicia |
+
