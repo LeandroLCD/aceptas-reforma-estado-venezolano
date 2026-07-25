@@ -32,7 +32,7 @@ Los ocho pilares de la Parte III no son recetas aisladas. Se sostienen sobre sei
 
 **Definición**: todo acto del Estado —excepto los expresamente reservados por la seguridad nacional— es público, accesible, auditable y reproducible.
 
-**Referente**: el *Government Technology Agency (GovTech) de Singapur* y el portal *data.gov.sg*; la Ley FOIA de Estados Unidos (1966); el *Public Sector (Governance) Act* de Singapur (2018).
+**Referente**: el *Government Technology Agency (GovTech) de Singapur* y el portal *data.gov.sg*; la Ley Freedom of Information Act (FOIA) de Estados Unidos (1966); el *Public Sector (Governance) Act* de Singapur (2018).
 
 **Principio operativo**: cada institución publica mensualmente (a) su ejecución presupuestaria por partida, (b) sus indicadores de gestión, (c) las nóminas completas de funcionarios con remuneraciones, (d) las decisiones administrativas con motivación completa. La opacidad deja de ser la regla y se convierte en excepción legalmente fundamentada.
 
@@ -58,7 +58,7 @@ Los ocho pilares de la Parte III no son recetas aisladas. Se sostienen sobre sei
 
 **Referente crítico**: el DNU 70/2023 de Argentina demuestra que la motosierra indiscriminada destruye capacidades estatales valiosas sin fortalecer las que quedan. La reforma venezolana no copiará la motosierra sino su lógica esencial: terminar con el Estado que mantiene redes clientelares con dinero público.
 
-**Implicación**: revisión de empresas del Estado (PDVSA, Corpoelec, etc.) para eliminar las funciones de patronazgo político; reducción gradual del tamaño del Estado político (no del Estado de servicios); reasignación de ahorros a inversión en meritocracia, formación y seguridad.
+**Implicación**: revisión de empresas del Estado (Petróleos de Venezuela S.A. (PDVSA), Corpoelec, etc.) para eliminar las funciones de patronazgo político; reducción gradual del tamaño del Estado político (no del Estado de servicios); reasignación de ahorros a inversión en meritocracia, formación y seguridad.
 
 ---
 
@@ -87,7 +87,7 @@ El proyecto se nombra **Aceptas** porque acepta la interpelación histórica:
 
 - Acepta leer primero, votar después.
 - Acepta que el cambio no viene por arte de magia electoral sino por construcción sostenida.
-- Acepta que la victoria técnica del proyecto (anulación del patronazgo extractivo, separación orgánica CPNP+CICPC, cláusula de continuidad 3/4+referendum) **no es suficiente sin transformación del sujeto popular**.
+- Acepta que la victoria técnica del proyecto (anulación del patronazgo extractivo, separación orgánica Cuerpo de Policía Nacional Profesional (CPNP)+Cuerpo de Investigaciones Científicas, Penales y Criminalísticas (CICPC), cláusula de continuidad 3/4+referendum) **no es suficiente sin transformación del sujeto popular**.
 
 ### Rechazo explícito a la oposición angelical
 
@@ -132,3 +132,18 @@ Aceptas es por tanto un **compromiso del pueblo hacia sí mismo**, no un slogan 
 ---
 
 *Continuará: Parte III — Pilares de la reforma.*
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **CICPC** | Cuerpo de Investigaciones Científicas, Penales y Criminalísticas |
+| **CPNP** | Cuerpo de Policía Nacional Profesional |
+| **CRBV** | Constitución de la República Bolivariana de Venezuela |
+| **FOIA** | Freedom of Information Act |
+| **LCA** | Ley de Carrera Administrativa |
+| **PDVSA** | Petróleos de Venezuela S.A. |
+| **PSC** | Public Service Commission |
+

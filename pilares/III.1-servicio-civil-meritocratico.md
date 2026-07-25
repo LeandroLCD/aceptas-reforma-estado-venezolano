@@ -94,7 +94,7 @@ La LCA queda subrogada por la **Ley Orgánica del Servicio Civil Meritocrático 
 
 ## III.1.5. Cláusula de continuidad específica
 
-La LOSCM incluye una cláusula inspirée en el artículo 5° de la Constitución francesa y reforzada por la experiencia UNESCO 1984:
+La LOSCM incluye una cláusula inspirée en el artículo 5° de la Constitución francesa y reforzada por la experiencia Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) 1984:
 
 > *"Ninguna reforma a la presente ley ni al régimen constitucional del servicio civil podrá eliminar la evaluación meritocrática de concursos ni reducir las atribuciones de la Comisión Nacional del Servicio Civil sin reforma constitucional aprobada por tres quintos (3/5) de los miembros de la Asamblea Nacional."*
 
@@ -117,3 +117,18 @@ La LOSCM incluye una cláusula inspirée en el artículo 5° de la Constitución
 | Captura de la CNSC por unpolítico aliado | Media | Crítico | Incompatibilidades estrictas + renovación escalonada + control social vía transparencia activa |
 | Fuga de talentos al sector privado por mejor remuneración | Alta | Medio | Escala salarial competitiva; beneficios no monetarios (estabilidad, capacitación, licencias); régimen de retiro digno |
 | Sabotaje burocrático desde dentro del propio servicio civil | Alta | Alto | Carrera meritocrática con evaluaciones periódicas; sistema de premios y sanciones con debido proceso |
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **CNSC** | Comisión Nacional del Servicio Civil |
+| **CPIB** | Corrupt Practices Investigation Bureau |
+| **CRBV** | Constitución de la República Bolivariana de Venezuela |
+| **LCA** | Ley de Carrera Administrativa |
+| **LOSCM** | Ley Orgánica del Servicio Civil Meritocrático |
+| **PSC** | Public Service Commission |
+| **UNESCO** | Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura |
+

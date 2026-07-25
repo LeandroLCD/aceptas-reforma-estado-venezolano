@@ -15,7 +15,7 @@ archivo_origen: v0.1_prologo_diagnostico_principios.md (deprecado, separado en e
 >
 > — Informe UNESCO/OREALC, "Evaluación de los programas de desarrollo de la inteligencia en Venezuela", FMR/ED/SCM/84/170, París 1984, §275.
 
-La advertencia está literalmente escrita en el informe que la propia UNESCO entregó al gobierno venezolano hace más de cuarenta años. La advertencia se cumplió.
+La advertencia está literalmente escrita en el informe que la propia Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) entregó al gobierno venezolano hace más de cuarenta años. La advertencia se cumplió.
 
 ## I.1. La crisis de formación cívica y cognitiva: causa-raíz histórica
 
@@ -68,7 +68,7 @@ En la práctica, cualquier venezolano sabe que:
 3. **No hay control disciplinario efectivo**: las sanciones internas son raras; cuando existen, son negociadas. La fiscalización externa (Contraloría, Ministerio Público) está capturada por las mismas redes.
 4. **Los sueldos son incompatibles con la subsistencia**: un oficial con remuneraciones oficiales no puede mantener una familia con dignidad. Esto no es causa sino síntoma: el Estado diseña salarios que obligan al policía a buscar "ingresos complementarios" — exactamente el modelo mafioso.
 
-El usuario que originó este documento lo resumió así: *"la seguridad pública es enemiga del ciudadano, que se han convertido en una mafia, una estructura criminal que vive de la extorsión y el secuestro."* La afirmación, que podría parecer exagerada, es **la descripción literal** de lo que documentan los informes anuales de PROVEA, la Comisión Interamericana de Derechos Humanos y los reportes del ACNUR sobre desplazamiento interno forzado por violencia policial.
+El usuario que originó este documento lo resumió así: *"la seguridad pública es enemiga del ciudadano, que se han convertido en una mafia, una estructura criminal que vive de la extorsión y el secuestro."* La afirmación, que podría parecer exagerada, es **la descripción literal** de lo que documentan los informes anuales de PROVEA, la Comisión Interamericana de Derechos Humanos y los reportes del Alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR) sobre desplazamiento interno forzado por violencia policial.
 
 Lo que el usuario percibe como degradación reciente tiene, sin embargo, **una causa-raíz más profunda**: la captura institucional de los cuerpos de seguridad por élites políticas, es posible porque Venezuela nunca tuvo un servicio civil meritocrático que sirviera de contrapeso a la politización partidista de la fuerza pública.
 
@@ -166,10 +166,24 @@ Aceptas es un proyecto abierto a todos quienes acepten:
 En cambio, **Sí** a todas las personas y grupos que:
 
 1. **Construyan** masa crítica popular con el complemento de lectura crítica y conocimiento de DDHH.
-2. **Vigilen** activos con CNEP, CPNP, DNA-RB y demas instituciones comporomisionadas.
+2. **Vigilen** activos con CNEP, Cuerpo de Policía Nacional Profesional (CPNP), Dirección Nacional Anticorrupción y Recuperación de Bienes (DNA-RB) y demas instituciones comporomisionadas.
 3. **Participen** de los conmputos ciductados por el Plan de Implementación.
 4. **Acepten** que aceptar es un acto progresivo y lento, no eruptivo.
 
 El sujeto popolar vence el abajo politico del regimen porque popula todo sujeto no negociable: el pueblo de Venezuela. La propuesta **Aceptas** es por los señores y señoras de cada **Venezuela pension**, no por sus títulos.
 
 Las dos partes siguientes definen los principios de la reforma y los ocho pilares concretos.
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **ACNUR** | Alto Comisionado de las Naciones Unidas para los Refugiados |
+| **CPNP** | Cuerpo de Policía Nacional Profesional |
+| **CRBV** | Constitución de la República Bolivariana de Venezuela |
+| **DNA-RB** | Dirección Nacional Anticorrupción y Recuperación de Bienes |
+| **MEDI** | Ministerio del Desarrollo de la Inteligencia |
+| **UNESCO** | Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura |
+

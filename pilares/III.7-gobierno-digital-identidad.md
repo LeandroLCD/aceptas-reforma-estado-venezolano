@@ -49,7 +49,7 @@ La reforma digital es, además de modernizadora, **libertadora**: rompe el monop
 | **Emiratos Árabes** | Emirates ID | Alta (smart card + biométrica) | UAE Pass |
 | **Venezuela (actual)** | Múltiples sistemas | **Nula** | **No existe** |
 
-El modelo que esta reforma adopta es **el chileno** (RUN = RUT, ClaveÚnica, Cédula-RUT con QR y NFC), con adaptaciones al contexto venezolano y con elementos biométricos inspirado en el modelo indio (Aadhaar) que Chile aún no implementó.
+El modelo que esta reforma adopta es **el chileno** (RUN = RUT, ClaveÚnica, Cédula con Rol Único Tributario (Cédula-RUT) con QR y NFC), con adaptaciones al contexto venezolano y con elementos biométricos inspirado en el modelo indio (Aadhaar) que Chile aún no implementó.
 
 ---
 
@@ -104,7 +104,7 @@ Por disposición constitucional (nuevo artículo 134-B propuesto):
 
 El complejo Guri aloja la **Infraestructura Nacional de Inteligencia Artificial (INIA)**, plataforma compartida que permite:
 
-- **A la DNA-RB**: detección de patrones de contratación anómala, análisis de redes financieras sospechosas, cruce de datos patrimoniales.
+- **A la Dirección Nacional Anticorrupción y Recuperación de Bienes (DNA-RB)**: detección de patrones de contratación anómala, análisis de redes financieras sospechosas, cruce de datos patrimoniales.
 - **A la MIED-LAM**: personalización adaptativa de los currículos del Programa Inteligencia 2.0, evaluación continua del aprendizaje.
 - **A la defensa**: sistemas de comando y control, simulación, análisis de inteligencia.
 - **A la salud pública**: modelado epidemiológico, análisis genómico poblacional, gestión hospitalaria.
@@ -117,7 +117,7 @@ La INIA opera bajo principios de transparencia algorítmica (auditoría externa 
 
 ## III.7.3. Banco Nacional de Datos (BND)
 
-El BND integra, en una arquitectura federada inspirado en el modelo X-Road de Estonia, las siguientes bases de datos sectoriales:
+El Banco Nacional de Datos (BND) integra, en una arquitectura federada inspirado en el modelo X-Road de Estonia, las siguientes bases de datos sectoriales:
 
 | Base | Entidad responsable | Datos | Acceso |
 |------|---------------------|-------|--------|
@@ -137,7 +137,7 @@ El BND integra, en una arquitectura federada inspirado en el modelo X-Road de Es
 
 ### Arquitectura federada (no monolítica)
 
-Cada institución dueña de su base de datos, pero todas interoperan mediante el estándar X-Road inspirado en. **Ningún dato se centraliza físicamente**: el BND es un protocolo de interoperabilidad, no una mega-base. Cada consulta pasa por el VePass del solicitante y queda registrada en bitácora inalterable (blockchain con anclaje al Guri-3).
+Cada institución dueña de su base de datos, pero todas interoperan mediante el estándar X-Road inspirado en. **Ningún dato se centraliza físicamente**: el BND es un protocolo de interoperabilidad, no una mega-base. Cada consulta pasa por el Clave Única de Identidad Digital (VePass) del solicitante y queda registrada en bitácora inalterable (blockchain con anclaje al Guri-3).
 
 ---
 
@@ -145,7 +145,7 @@ Cada institución dueña de su base de datos, pero todas interoperan mediante el
 
 ### III.7.3.1. Registro Único de Profesionales (RUP)
 
-El RUP es la base de datos oficial de **todos los títulos académicos universitarios y de educación técnica superior** otorgados por instituciones reconocidas por el Estado venezolano. Inspirado en el modelo italiano de la banca dati del MIUR (Ministero dell'Istruzione, dell'Università e della Ricerca) y en el español del Registro Nacional de Títulos Universitarios (RNTU), pero con una arquitectura digital interoperable con el VePass.
+El Registro Único de Profesionales (RUP) es la base de datos oficial de **todos los títulos académicos universitarios y de educación técnica superior** otorgados por instituciones reconocidas por el Estado venezolano. Inspirado en el modelo italiano de la banca dati del MIUR (Ministero dell'Istruzione, dell'Università e della Ricerca) y en el español del Registro Nacional de Títulos Universitarios (RNTU), pero con una arquitectura digital interoperable con el VePass.
 
 #### Cobertura del RUP
 
@@ -205,7 +205,7 @@ La verificación devuelve: **estado del título (vigente/suspendido/revocado)**,
 
 #### Marco constitucional y legal
 
-Reforma al artículo 104 CRBV (educación) adicionando:
+Reforma al artículo 104 Constitución de la República Bolivariana de Venezuela (CRBV) (educación) adicionando:
 
 > *"Todos los títulos académicos universitarios y técnicos superiores otorgados por instituciones reconocidas por el Estado se inscriben de oficio en el Registro Único de Profesionales, administrado por el Banco Nacional de Datos. El registro confiere valor probatorio universal a los títulos y permite su verificación por cualquier persona natural o jurídica. La falsificación, suplantación o adulteración de títulos académicos será sancionada conforme a la ley penal."*
 
@@ -238,7 +238,7 @@ La protección es equivalente a la del VePass, MIED-LAM y DNA-RB.
 
 ### III.7.3.2. Registro Único de Inmuebles (RUI)
 
-El RUI es la base de datos oficial de **todos los bienes inmuebles** del territorio venezolano —viviendas, apartamentos, edificios, locales comerciales, oficinas, naves industriales, terrenos rústicos y urbanos, fincas agropecuarias, fundos, lotes, parcelas, inmuebles del Estado y concesiones— con valor probatorio universal, trazabilidad histórica completa y protección anti-fraude. Inspirado en el **Conservador de Bienes Raíces chileno** (DFL 1.224 de 1939, con sus reformas), el **e-Land Register estonio** (en operación digital desde 1994, con blockchain KSI desde 2008, primer registro de propiedad del mundo con firma criptográfica verificable), el **Lantmäteriet sueco** y el **sistema Torrens** australiano. La arquitectura propuesta supera los modelos fragmentados latinoamericanos (registros y catastros separados por municipio o estado) con un sistema único, federado, digital y verificable criptográficamente.
+El Registro Único de Inmuebles (RUI) es la base de datos oficial de **todos los bienes inmuebles** del territorio venezolano —viviendas, apartamentos, edificios, locales comerciales, oficinas, naves industriales, terrenos rústicos y urbanos, fincas agropecuarias, fundos, lotes, parcelas, inmuebles del Estado y concesiones— con valor probatorio universal, trazabilidad histórica completa y protección anti-fraude. Inspirado en el **Conservador de Bienes Raíces chileno** (DFL 1.224 de 1939, con sus reformas), el **e-Land Register estonio** (en operación digital desde 1994, con blockchain KSI desde 2008, primer registro de propiedad del mundo con firma criptográfica verificable), el **Lantmäteriet sueco** y el **sistema Torrens** australiano. La arquitectura propuesta supera los modelos fragmentados latinoamericanos (registros y catastros separados por municipio o estado) con un sistema único, federado, digital y verificable criptográficamente.
 
 #### Cobertura del RUI
 
@@ -310,7 +310,7 @@ Toda mutación de propiedad, gravamen, afectación o acto relevante se inscribe 
 1. **Solicitud**: el notario público (registrado en el RUP, con VePass-Firma profesional) carga la minuta del acto en el sistema RUI vía BND.
 2. **Verificación de identidad y capacidad**: el sistema verifica el VePass-Fuerte del vendedor, del comprador y del notario. Bloquea la operación si alguno tiene inhabilidad (muerte, interdicción, embargo previo sobre el bien, inhibición notarial, inhabilitación política, investigación penal).
 3. **Verificación registral**: el sistema consulta la **libertad del inmueble** (gravámenes, litigios, afectaciones, sucesiones pendientes). Si hay alerta, bloquea hasta subsanación.
-4. **Verificación fiscal**: cruce automático con el SENIAT — exige solvencia de impuestos municipales y nacionales del vendedor sobre el inmueble.
+4. **Verificación fiscal**: cruce automático con el Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT) — exige solvencia de impuestos municipales y nacionales del vendedor sobre el inmueble.
 5. **Verificación catastral**: la SUNAC confirma que la ubicación, superficie y linderos declarados coinciden con el catastro. Si hay discrepancia, bloquea hasta regularización.
 6. **Firma múltiple**: el acto se firma con VePass-Firma por todas las partes y por el notario. Las firmas quedan registradas con timestamp, hash criptográfico y anclaje blockchain.
 7. **Pago**: el sistema calcula y cobra los aranceles registrales y notariales. El comprobante queda asociado al acto.
@@ -333,7 +333,7 @@ Venezuela tiene un porcentaje significativo de inmuebles en situación de inform
 - **Declaración posesoria notarial**: el poseedor de buena fe, con 10 años continuos de ocupación sin oposición, acude al notario y declara la posesión.
 - **Publicación en el RUI durante 90 días**: el sistema publica la declaración posesoria para que cualquier titular registral previo o interesado formule oposición.
 - **Sin oposición**: el notario inscribe al poseedor como titular registral con un sello especial de **"título saneado por regularización"**.
-- **Con oposición**: el caso pasa al TSJ para resolución judicial conforme a la Ley Orgánica Procesal Civil.
+- **Con oposición**: el caso pasa al Tribunal Supremo de Justicia (TSJ) para resolución judicial conforme a la Ley Orgánica Procesal Civil.
 
 Este procedimiento permite reducir la informalidad inmobiliaria del ~40% actual al ~5% en un plazo de 10 años, sin necesidad de masivos operativos de regularización.
 
@@ -486,7 +486,7 @@ Para **casos complejos** que requieren presencia (fallecimiento del titular, pé
 
 ## III.7.5. Sistema Nacional de Identidad (SNI)inspirado en modelo RUN/RUT chileno
 
-El SNI unifica en un solo proceso **identidad civil, tributaria, electoral, sanitaria, educativa y biométrica**, tomando como modelo el RUN/RUT chileno y los siguientes principios:
+El Sistema Nacional de Identidad (SNI) unifica en un solo proceso **identidad civil, tributaria, electoral, sanitaria, educativa y biométrica**, tomando como modelo el RUN/RUT chileno y los siguientes principios:
 
 ### Nacimiento: del hospital al Registro Civil — plazos según contexto geográfico
 
@@ -619,7 +619,7 @@ Las finalidades legítimas del BND son:
 1. **Identificación forense post-mortem y post-accidente**: restituir la identidad a cadáveres no identificados, víctimas de tragedias (incendios, naufragios, explosiones, terremotos, etc.) y desaparecidos.
 2. **Compatibilidad de órganos y sangre**: facilitar la búsqueda de donantes compatibles para pacientes en lista de espera de trasplante.
 3. **Investigación de filiación**: pruebas de paternidad/maternidad, reunificación familiar en contextos de migración o sustracción de menores.
-4. **Apoyo a la justicia**: comparación con perfiles obtenidos en escenas del crimen (Banco de perfiles delictivos, gestionado por el CICPC conforme a la ley).
+4. **Apoyo a la justicia**: comparación con perfiles obtenidos en escenas del crimen (Banco de perfiles delictivos, gestionado por el Cuerpo de Investigaciones Científicas, Penales y Criminalísticas (CICPC) conforme a la ley).
 
 #### Usos terminantemente prohibidos del BND
 
@@ -724,7 +724,7 @@ El Registro Civil inscribe el óbito fetal con las siguientes características:
 - **No asigna RUN** al producto (no hay persona natural). En su lugar, asigna un **Código de Identificación Fetal (CIF)** interno del BND.
 - El CIF se vincula al RUN de la madre y queda marcado como **"cerrado"** en el BND.
 - **No genera Cédula-RUT** ni inscripción en el Registro Electoral.
-- **Sí genera**: registro estadístico vital, habilitación de licencia de duelo materno/paterno conforme a la LOTTT (8 días para la madre, 3 días para el padre), acceso a servicios de salud mental perinatal, exención de cuotas de recuperación hospitalaria.
+- **Sí genera**: registro estadístico vital, habilitación de licencia de duelo materno/paterno conforme a la Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras (LOTTT) (8 días para la madre, 3 días para el padre), acceso a servicios de salud mental perinatal, exención de cuotas de recuperación hospitalaria.
 
 #### La trampa genética: por qué la captura de ADN es irrevocable
 
@@ -740,7 +740,7 @@ El BND retiene el perfil de ADN del producto y de la madre **por 75 años despu�
 - **Parto múltiple donde algunos bebés sobreviven y otros nacen sin vida**: se aplica el protocolo de óbito fetal **solo a los productos sin vida**, mientras que los nacidos vivos siguen el protocolo estándar de la sección III.7.5. El evento se documenta como un parto múltiple con un identificador único en el BND que vincula a todos los productos.
 - **Óbito fetal en domicilio o vía pública**: la madre debe acudir al centro de salud más cercano dentro de las **6 horas** con el producto, para completar el protocolo. El centro de salud certifica el óbito fetal y emite el CDF. Si el estado del producto impide la captura de ADN, se documenta y se cruza con la base de desaparecidos para descartar sustracción previa.
 - **Objeción de conciencia del médico**: la certificación del óbito fetal es un acto administrativo de salud pública que **no admite objeción de conciencia** (la objeción aplica al procedimiento que causa el óbito, no a la certificación del hecho consumado). El médico que se niegue comete falta administrativa sancionable con suspensión de 30 a 90 días e inhabilitación.
-- **Negativa de la madre a la captura de ADN**: se documenta la negativa y se emite el CDF sin perfil genético del producto. Esta circunstancia queda registrada en el BND como **"registro sin perfil de ADN por negativa del titular"** y se reporta en el informe trimestral anonimizado de la SPDP sobre integridad del sistema. **Excepción**: si existen indicios racionales de comisión de delito (sustracción de menores, trata, fraude), la negativa activa procedimiento judicial de captación forzada conforme a orden del TSJ.
+- **Negativa de la madre a la captura de ADN**: se documenta la negativa y se emite el CDF sin perfil genético del producto. Esta circunstancia queda registrada en el BND como **"registro sin perfil de ADN por negativa del titular"** y se reporta en el informe trimestral anonimizado de la Superintendencia de Protección de Datos Personales (SPDP) sobre integridad del sistema. **Excepción**: si existen indicios racionales de comisión de delito (sustracción de menores, trata, fraude), la negativa activa procedimiento judicial de captación forzada conforme a orden del TSJ.
 - **Madre fallecida en el evento**: si la madre muere durante o inmediatamente después del parto, la captura de muestras del producto se realiza con autorización del médico forense, y el CDF se emite junto con el acta de defunción materna, vinculados en el BND bajo un identificador de evento único.
 
 #### Marco constitucional
@@ -789,7 +789,7 @@ La inscripción:
 3. **Crea automáticamente** las afiliaciones iniciales:
  - Sistema Único de Salud (afiliación como beneficiario de los padres hasta mayoría de edad)
  - Ministerio de Educación (preinscripción en el sistema educativo)
- - IVSS (seguro social contributivo desde que tenga primer ingreso)
+ - Instituto Venezolano de los Seguros Sociales (IVSS) (seguro social contributivo desde que tenga primer ingreso)
  - Registro Electoral (preinscripción; voto habilitado a los 18 años)
 4. **Asocia la muestra de ADN** del recién nacido al RUN y al árbol genealógico familiar.
 
@@ -1036,7 +1036,7 @@ La protección se alinea con la del BND, VePass, MIED-LAM, DNA-RB, RUP, CDF y RU
 
 ### Migración de adultos
 
-Los venezolanos adultos ya inscritos en el viejo sistema (cédula SAIME + RIF SENIAT) son **migrados automáticamente al SNI** mediante un proceso gradual:
+Los venezolanos adultos ya inscritos en el viejo sistema (cédula Servicio Administrativo de Identificación, Migración y Extranjería (SAIME) + RIF SENIAT) son **migrados automáticamente al SNI** mediante un proceso gradual:
 
 1. **Conciliación de bases**: SENIAT y SAIME cruzan información para asignar a cada ciudadano un RUN/RUT único, preservando el número de cédula existente y calculando el dígito verificador (DV) mediante el algoritmo de la sección III.7.5.6. Los casos de duplicidad se resuelven con auditoría de la DNA-RB.
 2. **Emisión progresiva de Cédula-RUT**: durante los primeros 18 meses de la reforma, todos los venezolanos deben obtener su nueva Cédula-RUT con QR + NFC + chip biométrico. El costo es asumido por el Estado.
@@ -1135,7 +1135,7 @@ El SNI es una **persona jurídica pública autónoma**, adscrita al Ministerio d
   3. **Subdirección de Tecnología y BND**: operación técnica del BND, VePass, INIA y plataformas conexas; ciberseguridad; cumplimiento LOPD.
   4. **Subdirección de Atención al Ciudadano**: red de oficinas territoriales,call center 1-800-VEPASS, gestión de quejas y denuncias.
 - **Red territorial**: las 83 oficinas SAIME se transforman en oficinas del SNI, sumadas a las 335 oficinas del Registro Civil existentes y a una red de 500 kioskos autoservicio VePass en alcaldías, centros comerciales, universidades y terminales.
-- **Régimen de personal**: idéntico al Pilar III.1 CNSC — concursos públicos, carrera meritocrática, evaluación anual, capacitación obligatoria, VePass como credencial.
+- **Régimen de personal**: idéntico al Pilar III.1 Comisión Nacional del Servicio Civil (CNSC) — concursos públicos, carrera meritocrática, evaluación anual, capacitación obligatoria, VePass como credencial.
 
 #### Separación funcional: Servicio Nacional de Migración y Extranjería (SNMEx)
 
@@ -1554,3 +1554,35 @@ La identidad de los venezolanos es la infraestructura más crítica del Estado. 
 ---
 
 *Continuará: III.8 Planificación estratégica de Estado inspirado en modelo coreano-singapurense.*
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **AN** | Asamblea Nacional |
+| **BND** | Banco Nacional de Datos |
+| **CANTV** | Compañía Anónima Nacional Teléfonos de Venezuela |
+| **CDF** | Certificado de Defunción Fetal |
+| **CGR** | Contraloría General de la República |
+| **CICPC** | Cuerpo de Investigaciones Científicas, Penales y Criminalísticas |
+| **CNE** | Consejo Nacional Electoral |
+| **CNSC** | Comisión Nacional del Servicio Civil |
+| **CRBV** | Constitución de la República Bolivariana de Venezuela |
+| **Cédula-RUT** | Cédula con Rol Único Tributario |
+| **DNA-RB** | Dirección Nacional Anticorrupción y Recuperación de Bienes |
+| **INTERPOL** | Organización Internacional de Policía Criminal |
+| **IVSS** | Instituto Venezolano de los Seguros Sociales |
+| **LOTTT** | Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras |
+| **MIED-LAM** | Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado |
+| **PDVSA** | Petróleos de Venezuela S.A. |
+| **RUI** | Registro Único de Inmuebles |
+| **RUP** | Registro Único de Profesionales |
+| **SAIME** | Servicio Administrativo de Identificación, Migración y Extranjería |
+| **SENIAT** | Servicio Nacional Integrado de Administración Aduanera y Tributaria |
+| **SNI** | Sistema Nacional de Identidad |
+| **SPDP** | Superintendencia de Protección de Datos Personales |
+| **TSJ** | Tribunal Supremo de Justicia |
+| **VePass** | Clave Única de Identidad Digital |
+

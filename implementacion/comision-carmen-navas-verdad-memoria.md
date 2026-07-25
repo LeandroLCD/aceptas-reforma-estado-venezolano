@@ -30,11 +30,11 @@ En homenaje a Carmen Navas y a las miles de víctimas análogas (Foro Penal, Com
 
 ### V.1.1. Creación
 
-La CEV-CN es creada por **ley orgánica de la Asamblea Nacional** dentro de los primeros 6 meses del nuevo gobierno, mediante rango constitucional otorgado por **sentencia interpretativa del TSJ meritocrático** (Pilar III.6) en aplicación del **artículo 333 CRBV**. La CEV-CN **no es un ministerio** (no preside consejos de ministros); es una **comisión especial de carácter temporal** con mandato claro, poder ejecutivo limitado y dependencia funcional del Comité de Reforma del Estado (CRE - Pilar IV §IV.2).
+La CEV-CN es creada por **ley orgánica de la Asamblea Nacional** dentro de los primeros 6 meses del nuevo gobierno, mediante rango constitucional otorgado por **sentencia interpretativa del Tribunal Supremo de Justicia (TSJ) meritocrático** (Pilar III.6) en aplicación del **artículo 333 Constitución de la República Bolivariana de Venezuela (CRBV)**. La CEV-CN **no es un ministerio** (no preside consejos de ministros); es una **comisión especial de carácter temporal** con mandato claro, poder ejecutivo limitado y dependencia funcional del Comité de Reforma del Estado (CRE - Pilar IV §IV.2).
 
 ### V.1.2. Duración
 
-**Mandato temporal de 7 años**: período inicial de 4 años (2026-2030) con cierre y reporte público final, ampliable por mayoría 3/5 de la AN a 3 años adicionales (2030-2033) si las metas pendientes lo requieren.
+**Mandato temporal de 7 años**: período inicial de 4 años (2026-2030) con cierre y reporte público final, ampliable por mayoría 3/5 de la Asamblea Nacional (AN) a 3 años adicionales (2030-2033) si las metas pendientes lo requieren.
 
 ### V.1.3. Mandato triple
 
@@ -51,7 +51,7 @@ La CEV-CN invoca formalmente como obligatorio jurídicamente:
 - **Vinculación con la Corte Penal Internacional**: el Estado ante la CPI en el caso Venezuela I (ICC-02/18), está obligado por el Estatuto de Roma a cooperar con todos los mecanismos relacionados con las víctimas y su identificación.
 - **Convención Internacional para la Protección de Todas las Personas contra las Desapariciones Forzadas** (ratificada por Venezuela 2008): impone al Estado obligaciones positivas de búsqueda, localización e identificación.
 - **Convención Interamericana sobre Desaparición Forzada de Personas** (1994, ratificada por Venezuela 1996).
-- **CIDH Doc. 253/24** (27/12/2024): insta a investigar las violaciones, reparar a las víctimas y sancionar a los responsables.
+- **Comisión Interamericana de Derechos Humanos (CIDH) Doc. 253/24** (27/12/2024): insta a investigar las violaciones, reparar a las víctimas y sancionar a los responsables.
 - **Sentencias de la Corte IDH** vinculantes para VE (Apitz Barbera, Ríos, Reverón Trujillo, López Mendoza).
 - **Principios del "Set de Principios para la lucha contra la Impunidad" joinet (NN.UU. 1997, 2005)**: derecho de la víctima a la verdad + reparación + justicia.
 - **Principios Básicos y Directrices sobre los Recursos y Medidas de Restitución, Indemnización, Compensación y Rehabilitación** (NN.UU. 2005).
@@ -79,9 +79,9 @@ El/la **Presidente/a de la CEV-CN** es elegido/a por sus pares (los 15 comisiona
 
 ### V.2.3. Veeduría Internacional permanente
 
-- **CIDH + OACNUDH**: veeduría vinculante de la Comisión, con presencia permanente de un equipo de 4 expertos residentes (2 CIDH + 2 OACNUDH).
+- **CIDH + Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (OACNUDH)**: veeduría vinculante de la Comisión, con presencia permanente de un equipo de 4 expertos residentes (2 CIDH + 2 OACNUDH).
 - **CICIG (Comisión Internacional contra la Impunidad en Guatemala, modelo)**: colaboración operativa específica para temas de estructuras paralelas.
-- **Misión internacional de apoyo técnico forense**: 6 expertos (FBI-EUA / Scotland Yard-UK / BND alemana / Interpol / ICRC / CICR / CIFA España), con presencia rotativa pero presencia total continua.
+- **Misión internacional de apoyo técnico forense**: 6 expertos (FBI-EUA / Scotland Yard-UK / Banco Nacional de Datos (BND) alemana / Interpol / ICRC / CICR / CIFA España), con presencia rotativa pero presencia total continua.
 
 ### V.2.4. Secretaría Técnica de la CEV-CN
 
@@ -98,9 +98,9 @@ El/la **Presidente/a de la CEV-CN** es elegido/a por sus pares (los 15 comisiona
 
 ### V.3.1. Atribuciones de verdad e investigación
 
-1. **Acceso irrestricto a archivos del Estado**: BND + BND-ADN + BND-RUI + BND-RUP; registros SAIME; registro PEN-MP; documentos del SEBIN/DGCIM/DISP; archivos hospitalarios; registros mortuorios. **Toda autoridad del Estado que impida u obstaculice este acceso comete obstrucción formal tipificada** (proceso inmediato ante TSJ meritocrático con destitución sin indemnización).
+1. **Acceso irrestricto a archivos del Estado**: BND + BND-ADN + BND-RUI + BND-RUP; registros Servicio Administrativo de Identificación, Migración y Extranjería (SAIME); registro PEN-MP; documentos del SEBIN/DGCIM/DISP; archivos hospitalarios; registros mortuorios. **Toda autoridad del Estado que impida u obstaculice este acceso comete obstrucción formal tipificada** (proceso inmediato ante TSJ meritocrático con destitución sin indemnización).
 2. **Solicitud directa a todas las instituciones públicas de Venezuela** (sin distinción de poder) de información, testimonios, documentos, identificación perimetral que fueran del patrón represivo.
-3. **Cooperación internacional obligatoria con la Misión FFM, con la CPI caso Venezuela I, con el sistema interamericano de DDHH, con el ACNUR, con comisiones de la verdad amigas** (Brasil CNV, Chile CNRR, Argentina, Colombia, CEH Guatemala, CVR Perú).
+3. **Cooperación internacional obligatoria con la Misión FFM, con la CPI caso Venezuela I, con el sistema interamericano de DDHH, con el Alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR), con comisiones de la verdad amigas** (Brasil CNV, Chile CNRR, Argentina, Colombia, CEH Guatemala, CVR Perú).
 4. **Emisión de Informes Públicos Anuales**: año 1 (avance estructural), año 3 (informe parcial con cifras consolidadas), año 4 (informe final).
 5. **Audiencias Públicas Temáticas**: cada año se celebran Audiencias Públicas Regionales (10 + 10 + 10 estaciones), en las que víctimas, testigos y expertos comparecen en condiciones de seguridad y dignidad.
 
@@ -148,7 +148,7 @@ Cada expediente procesado por la CEV-CN tiene un registro BND-RUVI y se somete a
 
 La CEV-CN publica y **remite formalmente al Ejecutivo una lista nominada** de personas detenidas en el contexto del patrón represivo cuya **LIBERACIÓN INMEDIATA** resulta indicada por el dictamen. Esta lista tiene efectos ejecutivos concretos:
 
-**(a) Presentación formal al Presidente**: entrega personal al Presidente con copia al Defensor del Pueblo, Presidente del TSJ meritocrático, Presidente del CICPC, Director DNA-RB, Presidente del Comité de Reforma del Estado (CRE), veedurías CIDH+OACNUDH.
+**(a) Presentación formal al Presidente**: entrega personal al Presidente con copia al Defensor del Pueblo, Presidente del TSJ meritocrático, Presidente del CICPC, Director Dirección Nacional Anticorrupción y Recuperación de Bienes (DNA-RB), Presidente del Comité de Reforma del Estado (CRE), veedurías CIDH+OACNUDH.
 
 **(b) Plazo ejecutivo**: el Presidente de la República tiene **60 días naturales** para ejecutar materialmente la liberación administrativa o someter el proyecto de ley de amnistía ante la AN. Pasado el plazo, la CEV-CN activa automáticamente una **publicación vinculante en Gaceta Oficial** del nombre de las personas no liberadas + monitoreo de cumplimiento del plazo.
 
@@ -216,7 +216,7 @@ La CEV-CN **no asume funciones jurisdiccionales en materia penal** pero coordina
 
 ### V.4.2. Con la JNEM (Pilar III.2 + esta Comisión)
 
-- La JNEM verifica el estatus migratorio de víctimas exiliadas y emite documentos de viaje para testigos protegidos.
+- La Junta Nacional de Evaluación Médica (JNEM) verifica el estatus migratorio de víctimas exiliadas y emite documentos de viaje para testigos protegidos.
 - Reconoce a exiliados políticos forzados el derecho al retorno seguro con garantías (reparación de ciudadanía activa).
 
 ### V.4.3. Con la DNPEP (Pilar III.8)
@@ -309,7 +309,7 @@ La existencia, mandato, presupuesto y competencias de la CEV-CN están blindados
 
 1. **Eliminación de la CEV-CN** o fusión con otro organismo: requiere mayoría 3/4 + referéndum ratificatorio.
 2. **Modificación del mandato revisor-liberador**: requiere mayoría 3/4 + referéndum ratificatorio.
-3. **Presupuesto anual de la CEV-CN**: anillo-financing tipo FOSEIP (Pilar III.5), mínimo 0,05% del PIB anual obligatorio, transferido mensualmente por BCV sin retención.
+3. **Presupuesto anual de la CEV-CN**: anillo-financing tipo Fondo Soberano de Estabilización e Inversión Productiva (FOSEIP) (Pilar III.5), mínimo 0,05% del PIB anual obligatorio, transferido mensualmente por Banco Central de Venezuela (BCV) sin retención.
 4. **Inmunidad de comisionados**: blindada con cláusula constitucional — solo remoción por sentencia firme del TSJ meritocrático tras debido proceso + mayoría 3/4 en el Pleno + veeduría CIDH/OACNUDH participa.
 5. **Cualquier reforma de esta Comisión que no haya sido aprobada por la CEV-CN misma + la veeduría CIDH+OACNUDH**: nula de nulidad absoluta por alteración del marco básico (analogía al art. 69 CRBV).
 
@@ -327,3 +327,31 @@ A diferencia de comisiones que escriben un informe y luego desaparecen, **la CEV
 *Aniversario de la muerte de Carmen Navas (referencia simbólica; la fecha exacta es mantenida respetuosamente reservada por su familia durante el siglo). Tras la creación de la CEV-CN, Venezuela honra a Carmen y a las víctimas análogas con un mecanismo ejecutivo, no con palabras.*
 
 **— Continuación: la CEV-CN actúa como pilar anexo del Plan de Implementación (Sección IV); referencia activa en los anexos IV.K y en el proceso constituyente de la Sección V — Texto Articulado.**
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **ACNUR** | Alto Comisionado de las Naciones Unidas para los Refugiados |
+| **AN** | Asamblea Nacional |
+| **BCV** | Banco Central de Venezuela |
+| **BND** | Banco Nacional de Datos |
+| **CICPC** | Cuerpo de Investigaciones Científicas, Penales y Criminalísticas |
+| **CIDH** | Comisión Interamericana de Derechos Humanos |
+| **CNSC** | Comisión Nacional del Servicio Civil |
+| **CPI** | Corte Penal Internacional |
+| **CRBV** | Constitución de la República Bolivariana de Venezuela |
+| **DNA-RB** | Dirección Nacional Anticorrupción y Recuperación de Bienes |
+| **DNPEP** | Dirección Nacional de Planificación Estratégica y Prospectiva |
+| **FNIP** | Fondo Nacional de Inversión Productiva |
+| **FOSEIP** | Fondo Soberano de Estabilización e Inversión Productiva |
+| **JNEM** | Junta Nacional de Evaluación Médica |
+| **MIED-LAM** | Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado |
+| **OACNUDH** | Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos |
+| **RUI** | Registro Único de Inmuebles |
+| **RUVI** | Registro Único de Víctimas |
+| **SAIME** | Servicio Administrativo de Identificación, Migración y Extranjería |
+| **TSJ** | Tribunal Supremo de Justicia |
+

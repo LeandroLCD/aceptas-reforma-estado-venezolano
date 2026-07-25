@@ -38,7 +38,7 @@ Operacionalizar la Reforma Integral del Estado Venezolano bajo los principios:
 
 - **Alcance híbrido shock + gradual** (Milei arranque).
 - **Paquete legal único** (no goteo legislativo) aprobado en los primeros 90 días.
-- **Coordinación cruzada** entre 8 pilares + organismos nuevos (CNSC, CPNP+CICPC+JNEM, MIED-LAM, DNPEP, DNA-RB, FOSEIP, FNIP, DNPM).
+- **Coordinación cruzada** entre 8 pilares + organismos nuevos (Comisión Nacional del Servicio Civil (CNSC), CPNP+Cuerpo de Investigaciones Científicas, Penales y Criminalísticas (CICPC)+Junta Nacional de Evaluación Médica (JNEM), Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (MIED-LAM), Dirección Nacional de Planificación Estratégica y Prospectiva (DNPEP), Dirección Nacional Anticorrupción y Recuperación de Bienes (DNA-RB), Fondo Soberano de Estabilización e Inversión Productiva (FOSEIP), FNIP, DNPM).
 - **Dolarización oficial** al mes 18 con blindaje fiscal vía FOSEIP.
 - **Cláusula anti-discontinuidad** que blinda los hitos críticos del Plan de Implementación contra reversión partidista.
 
@@ -59,8 +59,8 @@ Operacionalizar la Reforma Integral del Estado Venezolano bajo los principios:
 ### IV.1.3. Tres condiciones de éxito
 
 1. **Gobernanza unificada**: Comité de Reforma del Estado (CRE) dependiente de Presidencia, con Secretaría Técnica operativa (STCRE) desde el día 1.
-2. **Paquete único AN**: las 6 leyes orgánicas críticas se dictan en los primeros 90 días (LOSCM, LOMIEDLAM, LOCPNP reformada, LORAFEE, LOBCV, Ley de Dolarización). El paquete **se vota en bloque**; no se permite reforma por goteo.
-3. **Monitoreo presidencial semanal**: el Presidente recibe cada lunes un dashboard automatizado con 20 indicadores clave (KPI presidenciales) y firma personalmente los hitos críticos del Plan.
+2. **Paquete único Asamblea Nacional (AN)**: las 6 leyes orgánicas críticas se dictan en los primeros 90 días (LOSCM, LOMIEDLAM, LOCPNP reformada, Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas (LORAFEE), Ley Orgánica del Banco Central de Venezuela (LOBCV), Ley de Dolarización). El paquete **se vota en bloque**; no se permite reforma por goteo.
+3. **Monitoreo presidencial semanal**: el Presidente recibe cada lunes un dashboard automatizado con 20 indicadores clave (Key Performance Indicator (KPI) presidenciales) y firma personalmente los hitos críticos del Plan.
 
 ## IV.2. Arquitectura institucional — Comité de Reforma del Estado (CRE)
 
@@ -124,15 +124,15 @@ Aplica solo si se ejecuta un gobierno de transición antes del "mes 0" oficial.
 
 **Acciones preparatorias**:
 
-- Negociación del Programa Económico Integral con FMI + BM + BID + CAF (T+0 a T+90 días).
+- Negociación del Programa Económico Integral con Fondo Monetario Internacional (FMI) + BM + Banco Interamericano de Desarrollo (BID) + Corporación Andina de Fomento (CAF) (T+0 a T+90 días).
 - Planeación detallada del **shock** institucional con todos los equipos técnicos reclutados.
 - **Negociaciones previas sobre los referendos vinculantes** (cláusula anti-discontinuidad): construcción del consenso multipartidista.
-- **Activación del BND** y de los Data Centers del Guri en modo pre-producción.
+- **Activación del Banco Nacional de Datos (BND)** y de los Data Centers del Guri en modo pre-producción.
 - Lanzamiento de los procesos de selección de los 30 cuadros superiores de STCRE y 8 mesas técnicas.
-- **Instalación de la Veeduría Internacional Preliminar**: panel de 4 expertos de OACNUDH + CIDH + UE + gobierno estadounidense como observadores no-vinculantes (vinculante desde Mes 0).
+- **Instalación de la Veeduría Internacional Preliminar**: panel de 4 expertos de OACNUDH + Comisión Interamericana de Derechos Humanos (CIDH) + UE + gobierno estadounidense como observadores no-vinculantes (vinculante desde Mes 0).
 - **Constitución del Comité Asesor Internacional** (CAI): 8 expertos rotativos (BID/CAF/PNUD + Gobiernos amigos: Alemania, Japón, Canadá, Uruguay, Chile).
-- **Inventario técnico del Estado**: cuantificación de personal activo por cuerpo (PNB, policías estadales, municipales, CICPC, DGCIM, DISP, PNASPMH) + auditoría financiera del sector público.
-- **Inventario de los activos PDVSA** (verificación SPR-PRMS) por empresa auditora independiente.
+- **Inventario técnico del Estado**: cuantificación de personal activo por cuerpo (PNB, policías estadales, municipales, CICPC, Dirección General de Contrainteligencia Militar (DGCIM), DISP, PNASPMH) + auditoría financiera del sector público.
+- **Inventario de los activos Petróleos de Venezuela S.A. (PDVSA)** (verificación SPR-PRMS) por empresa auditora independiente.
 
 ### IV.3.2. Fase 1 — Shock inicial (Mes 0-12)
 
@@ -171,9 +171,9 @@ Aplica solo si se ejecuta un gobierno de transición antes del "mes 0" oficial.
 **Hitos regionales y consolidación**:
 
 - **Mes 12-18**: **Período de convergencia** del cronograma monetario (Pilar III.4) — Ley de Dolarización sancionada, acumulación de reservas ~USD 8-12 MM adicionales, **bolívar como moneda opcional subsidiaria**.
-- **Mes 18**: **DOLARIZACIÓN OFICIAL**. Bolivar simbólico moneda Panamá 1904 (sólo fraccionaria y registro contable). BCV opera como cámara de compensación de reservas en USD.
+- **Mes 18**: **DOLARIZACIÓN OFICIAL**. Bolivar simbólico moneda Panamá 1904 (sólo fraccionaria y registro contable). Banco Central de Venezuela (BCV) opera como cámara de compensación de reservas en USD.
 - **Mes 18-24**: Aniversario del shock. Consolidación operativa del CPNP y del CICPC. Primeras estadísticas estables de victimización (OVD).
-- **Mes 24**: **CIERRE** de Fase 2 = fin del cronograma monetario III.4 + fin del cronograma de OPI PDVSA (Mes 9-12) + RTER CICPC consolidado + operativa JNEM/DNPM plena. Plan Quinquenal entra en operación completa con DNPEP.
+- **Mes 24**: **CIERRE** de Fase 2 = fin del cronograma monetario III.4 + fin del cronograma de Oferta Pública Inicial (OPI) PDVSA (Mes 9-12) + Régimen de Tres Exámenes Rigurosos (RTER) CICPC consolidado + operativa JNEM/DNPM plena. Plan Quinquenal entra en operación completa con DNPEP.
 
 ### IV.3.4. Fase 3 — Dolarización oficial + Consolidación Plurianual (Mes 18-36)
 
@@ -389,7 +389,7 @@ El **Sistema de Monitoreo Semanal Presidencial (SMSP)** automatiza el seguimient
 El Plan de Implementación no es un programa ordinario del gobierno. Queda blindado constitucionalmente con cláusula **3/4 + referéndum ratificatorio** sobre los siguientes hitos irrenunciables:
 
 1. **Dolarización oficial** (Mes 18): reversión = mayoría 3/4 + referéndum.
-2. **Privatizaciones consolidadas** (Corpoelec + CANTV + Hidrológicas + filiales mixtas): reversión = mayoría 3/4 + referéndum con indemnización pay-before-take reversa + 30%.
+2. **Privatizaciones consolidadas** (Corpoelec + Compañía Anónima Nacional Teléfonos de Venezuela (CANTV) + Hidrológicas + filiales mixtas): reversión = mayoría 3/4 + referéndum con indemnización pay-before-take reversa + 30%.
 3. **Creación del CPNP/CICPC + DIM-CNSC-DNPEP-DNA-RB-DNPEP**: eliminación = mayoría 3/4 + referéndum.
 4. **OPI del 49% de PDVSA matriz**: re-nacionalización total = mayoría 3/4 + referéndum + compensación.
 5. **Creación del FOSEIP / FNIP**: eliminación = mayoría 3/4 + referéndum.
@@ -414,7 +414,7 @@ Resultados publicados en [dominio público de acceso abierto] anualmente.
 ## IV.10. Anexos
 
 - **Anexo IV.A**: Lista cronológica detallada de las 6 leyes orgánicas críticas + matrices de reforma por ley.
-- **Anexo IV.B**: Plantillas de Decreto Ejecutivo para creación de FOSEIP, FNIP, FEM, etc.
+- **Anexo IV.B**: Plantillas de Decreto Ejecutivo para creación de FOSEIP, FNIP, Fondo de Estabilización Macroeconómica (FEM), etc.
 - **Anexo IV.C**: Modelo de Plan Quinquenal inicial (formato DNPEP).
 - **Anexo IV.D**: Matriz de KPIs presidenteciales con datos fuente y propietario.
 - **Anexo IV.E**: Plantillas de Términos de Referencia para bancos de inversión + due diligence reserves.
@@ -423,10 +423,61 @@ Resultados publicados en [dominio público de acceso abierto] anualmente.
 - **Anexo IV.H**: Diseño de la Arquitectura Técnica del BND en 3 Data Centers del Guri + zonas rurales.
 - **Anexo IV.I**: Plantilla de concurso público internacional para Director del CPNP/CICPC/JNEM + Jurados Mixtos.
 - **Anexo IV.J**: Diseño de Maqueta de Gobernanza de la MIES (Mesa Interinstitucional de Emergencias Sociales) para crisis Fase 1.
-- **Anexo IV.K**: Comisión Especial Nacional para la Verdad, Memoria y Reparación "Carmen Navas" — documento específico `v0.1_comision_carmen_navas.md` con mandato verdadero, mecanismo ejecutivo de revisión de expedientes y lista nominada de personas detenidas que deben ser liberadas, coordinación con CICPC + TSJ meritocrático + DNPEP + Bundes-DN-DDHH, blindada con cláusula 3/4 + referéndum ratificatorio y presupuesto plurianual intocable del 0,05% del PIB transferido por el BCV.
+- **Anexo IV.K**: Comisión Especial Nacional para la Verdad, Memoria y Reparación "Carmen Navas" — documento específico `v0.1_comision_carmen_navas.md` con mandato verdadero, mecanismo ejecutivo de revisión de expedientes y lista nominada de personas detenidas que deben ser liberadas, coordinación con CICPC + Tribunal Supremo de Justicia (TSJ) meritocrático + DNPEP + Bundes-DN-DDHH, blindada con cláusula 3/4 + referéndum ratificatorio y presupuesto plurianual intocable del 0,05% del PIB transferido por el BCV.
 
 ---
 
-*Próxima iteración: Texto Articulado del proyecto (Pilar V) consolida el régimen de LORAFEE, LORPSP, LOBMC y LOPSEP en un único cuerpo legal al servicio del proceso constituyente de la AN pluricultural.*
+*Próxima iteración: Texto Articulado del proyecto (Pilar V) consolida el régimen de LORAFEE, Ley Orgánica de Reforma del Sector Público (LORPSP), LOBMC y LOPSEP en un único cuerpo legal al servicio del proceso constituyente de la AN pluricultural.*
 
 *Documento vivo: este archivo se actualiza mensualmente conforme avanza el Plan. La última versión corresponde a la fecha del frontmatter. La Versión 0.1 es el primer borrador operativo de implementación; versiones 0.2+ introducirán ajustes basados en la ejecución real.*
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **ACNUR** | Alto Comisionado de las Naciones Unidas para los Refugiados |
+| **AN** | Asamblea Nacional |
+| **BCV** | Banco Central de Venezuela |
+| **BID** | Banco Interamericano de Desarrollo |
+| **BND** | Banco Nacional de Datos |
+| **CAF** | Corporación Andina de Fomento |
+| **CANTV** | Compañía Anónima Nacional Teléfonos de Venezuela |
+| **CICPC** | Cuerpo de Investigaciones Científicas, Penales y Criminalísticas |
+| **CIDH** | Comisión Interamericana de Derechos Humanos |
+| **CNSC** | Comisión Nacional del Servicio Civil |
+| **CPIB** | Corrupt Practices Investigation Bureau |
+| **CPNP** | Cuerpo de Policía Nacional Profesional |
+| **CRBV** | Constitución de la República Bolivariana de Venezuela |
+| **Cédula-RUT** | Cédula con Rol Único Tributario |
+| **DGCIM** | Dirección General de Contrainteligencia Militar |
+| **DNA-RB** | Dirección Nacional Anticorrupción y Recuperación de Bienes |
+| **DNPEP** | Dirección Nacional de Planificación Estratégica y Prospectiva |
+| **FAN** | Fuerza Armada Nacional |
+| **FEM** | Fondo de Estabilización Macroeconómica |
+| **FMI** | Fondo Monetario Internacional |
+| **FNIP** | Fondo Nacional de Inversión Productiva |
+| **FOSEIP** | Fondo Soberano de Estabilización e Inversión Productiva |
+| **FRONTEX** | Agencia Europea de la Guardia de Fronteras y Costas |
+| **GNB** | Guardia Nacional Bolivariana |
+| **JNEM** | Junta Nacional de Evaluación Médica |
+| **KPI** | Key Performance Indicator |
+| **LOBCV** | Ley Orgánica del Banco Central de Venezuela |
+| **LORAFEE** | Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas |
+| **LORPSP** | Ley Orgánica de Reforma del Sector Público |
+| **LOSCM** | Ley Orgánica del Servicio Civil Meritocrático |
+| **MIED-LAM** | Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado |
+| **OACNUDH** | Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos |
+| **OEA** | Organización de los Estados Americanos |
+| **OPI** | Oferta Pública Inicial |
+| **PDVSA** | Petróleos de Venezuela S.A. |
+| **PG** | Procuraduría General de la República |
+| **PNUD** | Programa de las Naciones Unidas para el Desarrollo |
+| **RTER** | Régimen de Tres Exámenes Rigurosos |
+| **RUI** | Registro Único de Inmuebles |
+| **RUP** | Registro Único de Profesionales |
+| **SAIME** | Servicio Administrativo de Identificación, Migración y Extranjería |
+| **TSJ** | Tribunal Supremo de Justicia |
+| **VePass** | Clave Única de Identidad Digital |
+

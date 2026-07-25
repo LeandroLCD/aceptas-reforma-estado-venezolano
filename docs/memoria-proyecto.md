@@ -113,7 +113,7 @@
 
 ### Evaluación empírica del modelo de embeddings (2026-07-13)
 
-**Setup de prueba**: 10 queries representativas del dominio (PDVSA, LOH 2026, cédula digital, escala salarial, Chile Solidario, LORAFEE, descentralización, LOAP, TSJ meritocrático, Guri), top-k=5, sample de 500 chunks para comparación A/B.
+**Setup de prueba**: 10 queries representativas del dominio (Petróleos de Venezuela S.A. (PDVSA), Ley Orgánica de Hidrocarburos (LOH) 2026, cédula digital, escala salarial, Chile Solidario, Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas (LORAFEE), descentralización, Ley Orgánica de la Administración Pública (LOAP), Tribunal Supremo de Justicia (TSJ) meritocrático, Guri), top-k=5, sample de 500 chunks para comparación A/B.
 
 **Resultados**:
 
@@ -136,7 +136,7 @@
 ### Pendiente
 - ~~Migrar a modelo más grande (`multilingual-e5-base`)~~ **DESCARTADO 2026-07-13** (empeora scores). En su lugar se implementó reranking opcional con `BAAI/bge-reranker-base` (flag `--rerank` en `consultar.py`).
 - Evaluar `BAAI/bge-reranker-v2-m3` en GPU cuando esté disponible (11s → ~1s).
-- Agregar OCR para PDFs escaneados (LOAP original, LOPPM Chacao 2010).
+- Agregar Optical Character Recognition (OCR) para PDFs escaneados (LOAP original, LOPPM Chacao 2010).
 
 ## Hallazgos / Insights
 
@@ -169,7 +169,7 @@
 
 ### Lo que NO se hace (decisiones por exclusión)
 
-- NO se privatiza PDVSA totalmente → mantener como holding (Art. 302 CRBV lo permite, el privatizarla no).
+- NO se privatiza PDVSA totalmente → mantener como holding (Art. 302 Constitución de la República Bolivariana de Venezuela (CRBV) lo permite, el privatizarla no).
 - NO se dolariza (no aparece en el rumbo) → eliminación gradual del control cambiario vía estabilización, no salto a moneda dura.
 - NO se reforma la Constitución (no hace falta) → todo encaja en las leyes orgánicas vigentes con adaptaciones.
 - NO se aplica liberalismo ideológico extremo → se conserva política comercial (Art. 301 CRBV), planificación estratégica (Art. 299 CRBV), desarrollo humano integral.
@@ -276,13 +276,13 @@ Texto extraído directamente de la Gaceta Oficial 6978:
 
 **Acción recomendada**: clarificar con el usuario si la regla fue "tope MAYORITARIO 51%" o "tope MINORITARIO 51%". Esta distinción cambia el régimen jurídico aplicable.
 
-> **Estado de búsqueda 2026-07-11 00:39**: Reforma LOH 2026 ✅ indexada. Wikipedia PDVSA ✅ indexada. LOM 2026 ✅ indexada (2026-07-11 00:43). **2026-07-13**: ✅ indexadas Ley Orgánica de Hidrocarburos Gaseosos (1999), Ley Antibloqueo (2020), LOTSJ (2010), LOSPCPN (2008), Ley Orgánica del Poder Popular (2010) y LOTTT (2012 reforma).
+> **Estado de búsqueda 2026-07-11 00:39**: Reforma LOH 2026 ✅ indexada. Wikipedia PDVSA ✅ indexada. Ley Orgánica de Minas (LOM) 2026 ✅ indexada (2026-07-11 00:43). **2026-07-13**: ✅ indexadas Ley Orgánica de Hidrocarburos Gaseosos (1999), Ley Antibloqueo (2020), Ley Orgánica del Tribunal Supremo de Justicia (LOTSJ) (2010), LOSPCPN (2008), Ley Orgánica del Poder Popular (2010) y LOTTT (2012 reforma).
 
 ### ✅ ACLARACIÓN DEL USUARIO (2026-07-13)
 
 **Lectura adoptada — Estado MAYORITARIO al 51% con compra forzada judicial**:
 
-1. **PDVSA matriz**: el Estado **mantiene el 51%** como mínimo (control permanente, golden share). El 49% se privatiza vía OPI + estratégica.
+1. **PDVSA matriz**: el Estado **mantiene el 51%** como mínimo (control permanente, golden share). El 49% se privatiza vía Oferta Pública Inicial (OPI) + estratégica.
 2. **Empresas mixtas**: el Estado puede **adquirir hasta el 51%** comprando acciones en el mercado.
 3. **Compra forzada**: cuando el Estado lo considere necesario, **puede forzar la compra** de acciones de una empresa mixta (o estratégica) **mediante decisión de un juez**. No es una simple "aprobación" de una recompra voluntaria, sino una **autorización judicial de adquisición forzosa** con debido proceso (expropiación societaria con control jurisdiccional).
 
@@ -352,7 +352,7 @@ Texto extraído directamente de la Gaceta Oficial 6978:
 > 2. **A partir del año 21**: se aplica **únicamente IVA** (alícuota general vigente) como mecanismo de recuperación del sistema eléctrico nacional.
 > 3. **Finalidad**: atraer inversión privada masiva para reconstruir el sistema eléctrico colapsado, recuperar la inversión vía tarifas, y solo gravar consumo una vez recuperado el servicio.
 
-**Análisis jurídico (COT 2014, Art. 73 y siguientes)**:
+**Análisis jurídico (Código Orgánico Tributario (COT) 2014, Art. 73 y siguientes)**:
 
 - **COT Art. 73**: "Exoneración es la dispensa total o parcial del pago de la obligación tributaria, concedida por el Poder Ejecutivo en los casos **autorizados por la ley**."
 - **COT Art. 64 numeral 2**: las leyes orgánicas pueden "Otorgar exenciones y rebajas de impuesto".
@@ -505,11 +505,11 @@ Sectores estratégicos (4 dimensiones):
 | Ministros, diputados, jueces, fiscales | 5.000 | 10,0x |
 | Presidente | 7.000 | 14,0x |
 
-**Compresión de la pirámide**: de ratio >100:1 actual a 14:1 (alineado con OCDE: Noruega ~12x, Suecia ~13x, Finlandia ~14x).
+**Compresión de la pirámide**: de ratio >100:1 actual a 14:1 (alineado con Organización para la Cooperación y el Desarrollo Económicos (OCDE): Noruega ~12x, Suecia ~13x, Finlandia ~14x).
 
 **Aplicación**: íntegra desde mes 0 para sectores protegidos; gradual en 12 meses para el resto; indexación trimestral al IPC + cláusula de salvaguarda si inflación >20%.
 
-**Costo**: +USD 28.200 M/año (de USD 2.100 M a USD 30.300 M). **Financiamiento**: OPI PDVSA (8-15 MM una vez) + reforma tributaria (5-8 MM/año) + producción incrementada (4-6 MM/año) + FEM (2-4 MM/año) + crédito externo reestructurado (5-8 MM/año).
+**Costo**: +USD 28.200 M/año (de USD 2.100 M a USD 30.300 M). **Financiamiento**: OPI PDVSA (8-15 MM una vez) + reforma tributaria (5-8 MM/año) + producción incrementada (4-6 MM/año) + Fondo de Estabilización Macroeconómica (FEM) (2-4 MM/año) + crédito externo reestructurado (5-8 MM/año).
 
 **Función política**: mitigación del shock de la motosierra + dignificación + cierre de la economía del soborno + atractivo de la diáspora.
 
@@ -517,7 +517,7 @@ Sectores estratégicos (4 dimensiones):
 
 **Decisión del usuario**: la LOPPM 2009 debe ser reformada porque:
 
-1. **Creación del Registro Civil único (SNI) elimina las parroquias**: la creación del Sistema Nacional de Identidad (SNI) y de la Cédula-RUT (Doc. 5 Art. 58-61) concentra las funciones de identificación en una sola base nacional federada. Esto hace redundantes a las parroquias como entidades desconcentradas del municipio (Arts. 30-31 LOPPM), cuyas funciones principales eran desconcentrar la gestión y promover la participación.
+1. **Creación del Registro Civil único (SNI) elimina las parroquias**: la creación del Sistema Nacional de Identidad (SNI) y de la Cédula con Rol Único Tributario (Cédula-RUT) (Doc. 5 Art. 58-61) concentra las funciones de identificación en una sola base nacional federada. Esto hace redundantes a las parroquias como entidades desconcentradas del municipio (Arts. 30-31 LOPPM), cuyas funciones principales eran desconcentrar la gestión y promover la participación.
 
 2. **Transferir responsabilidades para eliminar duplicación de funciones**: la superposición de competencias entre municipio, estado y nación genera duplicación de estructuras, costos y burocracia. La reforma transfiere competencias específicas al nivel más eficiente conforme al principio de subsidiariedad (Art. 165 CRBV).
 
@@ -543,7 +543,7 @@ Sectores estratégicos (4 dimensiones):
 
 ### Reforma Educativa Integral (2026-07-13)
 
-**Decisión del usuario**: incorporar la educación como **Dimensión 9** del proyecto (extensión del diagnóstico de 8 a 9 dimensiones), con una reforma educativa completa que deroga la LOE 2009 y crea un nuevo régimen educativo nacional.
+**Decisión del usuario**: incorporar la educación como **Dimensión 9** del proyecto (extensión del diagnóstico de 8 a 9 dimensiones), con una reforma educativa completa que deroga la Ley Orgánica de Educación (LOE) 2009 y crea un nuevo régimen educativo nacional.
 
 **Cuatro principios rectores** (adoptados por el usuario):
 
@@ -633,7 +633,7 @@ Sectores estratégicos (4 dimensiones):
 
 - [x] Si se consigue la Ley Orgánica de Hidrocarburos Gaseosos → ingestar. ✅ 2026-07-13.
 - [x] Ley Antibloqueo 2020 → ingestar. ✅ 2026-07-13.
-- [x] LOTSJ, LOSPCPN, LOPP, LOTTT → ingestadas. ✅ 2026-07-13.
+- [x] LOTSJ, LOSPCPN, Ley Orgánica de Planificación Pública (LOPP), LOTTT → ingestadas. ✅ 2026-07-13.
 - [ ] Si se consigue el texto del DNU de creación de Corpoelec privatizada → ingestar.
 - [ ] Si usuario sube libros de Milei comprados → ingestar en `data/reforma/argentina/libros/`.
 - ~~[ ] Evaluar migrar embeddings a `multilingual-e5-base` (768d) si la KB supera 10k chunks.~~ **DESCARTADO 2026-07-13** (ver § Evaluación empírica); en su lugar se implementó reranking opcional con `BAAI/bge-reranker-base` (flag `--rerank` en `consultar.py`).
@@ -714,10 +714,10 @@ cd ~/qdrant-kb && python3 ingest.py --input-dir ./data/<carpeta> --collection kb
 ### Contenido del Pilar III.7 (2026-07-12)
 
 13 subsecciones, 63 KB, 785 líneas:
-- III.7.1 Diagnóstico: 7 sistemas de identificación fragmentados (cédula, RIF, IVSS, CNE, registro civil, pasaporte, tarjeta patria).
+- III.7.1 Diagnóstico: 7 sistemas de identificación fragmentados (cédula, RIF, Instituto Venezolano de los Seguros Sociales (IVSS), Consejo Nacional Electoral (CNE), registro civil, pasaporte, tarjeta patria).
 - III.7.2 Data center soberano cerca del Guri: 3 sitios redundantes — Guri-1 (100 ha, 10→40 MW), Guri-2 (backup), Guri-3 (cueva Macizo Guayanés).
 - III.7.3 Banco Nacional de Datos (BND) — arquitectura federada tipo X-Road, 11 bases sectoriales.
-- III.7.4 VePass (modelo ClaveÚnica chilena): 4 niveles (Lite, Plus, Fuerte, Firma) + Red RENAV.
+- III.7.4 Clave Única de Identidad Digital (VePass) (modelo ClaveÚnica chilena): 4 niveles (Lite, Plus, Fuerte, Firma) + Red RENAV.
 - III.7.5 SNI (modelo RUN/RUT): hospital → niño vivo (ADN + huellas plantares + foto) → 24h → RUN = RUT → Cédula-RUT con QR + NFC + chip biométrico.
 - III.7.6 Cédula-RUT: especificacionesinspirado en cédula chilena 2019; activación biométrica; bloqueo por portador.
 - III.7.7 Casos especiales huellas: 10 dedos estándar → pérdida dedos mano → pérdida mano completa → pérdida ambas manos (familiar directo) → sin familiares → banco ADN como factor definitivo.
@@ -740,7 +740,7 @@ cd ~/qdrant-kb && python3 ingest.py --input-dir ./data/<carpeta> --collection kb
 
 ## Estadísticas KB al cierre
 
-- **Total puntos Qdrant**: 8849 (vs 8172 al inicio de la sesión, +677 = UNESCO 1213 + Colom 18 + Machado 659, menos ajustes).
+- **Total puntos Qdrant**: 8849 (vs 8172 al inicio de la sesión, +677 = Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) 1213 + Colom 18 + Machado 659, menos ajustes).
 - **Embeddings**: `intfloat/multilingual-e5-small` (384 dim, cosine).
 - **Por idioma**: 100% español (acentos preservados en OCR).
 - **Por dominio**: diagnóstico histórico + libros fundacionales + marco legal vigente + comparativos Argentina/Singapur.
@@ -774,7 +774,7 @@ cd ~/qdrant-kb && python3 ingest.py --input-dir ./data/<carpeta> --collection kb
 - **Causa-raíz**: la discontinuidad de políticas de Estado de formación cognitiva/cívica se origina en el ciclo 1984.
 - **Síntoma temprano**: primer cuerpo policial capturado, primera red de soborno sistémico en trámites administrativos.
 - **Patrón replicado**: en cada ciclo (Lusinchi, Caldera II, Chávez I/II, Maduro) las élites partidistas desmovilizan los contrapesos meritocráticos.
-- **Lección para la reforma**: cualquier reforma seria debe incluir **cláusula de continuidad** (constitucionalización de programas + presupuesto plurianual intocable + evaluaciones independientes)inspirado en al modelo Singapur (Education Act + Meritocracy blindada por PSC).
+- **Lección para la reforma**: cualquier reforma seria debe incluir **cláusula de continuidad** (constitucionalización de programas + presupuesto plurianual intocable + evaluaciones independientes)inspirado en al modelo Singapur (Education Act + Meritocracy blindada por Public Service Commission (PSC)).
 
 ---
 
@@ -788,8 +788,8 @@ cd ~/qdrant-kb && python3 ingest.py --input-dir ./data/<carpeta> --collection kb
 ## Decisión cronograma monetario (2026-07-13)
 
 - **Decisión del usuario**: mantener el plan shock de 12 meses (Plan A, `docs/plan_implementacion.md`) **y** ejecutar en paralelo el plan monetario/cambiario (Plan B) **comprimido a 18 meses** con los hitos:
-  - Mes 1 — apertura de banda cambiaria (Decreto BCV, ancho ±15%).
-  - Mes 3-6 — sanción LOBCV (autonomía BCV + prohibición de financiamiento monetario).
+  - Mes 1 — apertura de banda cambiaria (Decreto Banco Central de Venezuela (BCV), ancho ±15%).
+  - Mes 3-6 — sanción Ley Orgánica del Banco Central de Venezuela (LOBCV) (autonomía BCV + prohibición de financiamiento monetario).
   - Mes 12 — autonomía plena del BCV + adopción de crawling-peg explícito (≤2% mensual).
   - Mes 12-15 — convergencia + acumulación de reservas (umbral de dolarización ≈ USD 8.000-12.000 M adicionales) + sanción de la Ley de Dolarización + reforma Art. 318 CRBV.
   - Mes 18 — dolarización oficial; USD de curso legal; bolívar como moneda simbólica (modelo Panamá 1904).
@@ -802,7 +802,7 @@ cd ~/qdrant-kb && python3 ingest.py --input-dir ./data/<carpeta> --collection kb
 - **Referentes teóricos asumidos** (sin documentos específicos en la KB, conviene ingestar en próxima sesión):
   - Ecuador 2000 (Ley de Transformación Económica; dolarización desde sucre a 25.000).
   - Panamá 1904 (balboa como moneda simbólica; sin banco central).
-  - BCRA Argentina Ley 27.514 (carta orgánica reformada: autonomía + prohibición de financiamiento al Tesoro).
+  - Banco Central de la República Argentina (BCRA) Argentina Ley 27.514 (carta orgánica reformada: autonomía + prohibición de financiamiento al Tesoro).
   - Bolivia bimonetarismo informal.
   - El Salvador 2001 (dolarización con remesas).
   - Caputo crawling-peg 2024-2025 (bandas USD/ARS $1000-$1400).
@@ -810,9 +810,9 @@ cd ~/qdrant-kb && python3 ingest.py --input-dir ./data/<carpeta> --collection kb
 
 ## Reforma del Ministerio Público — Pilar III.6 §III.6.7 (2026-07-13)
 
-- **Solicitud del usuario** (ronda 1): revisar III.6.7 con tres cambios: (a) documentar el patrón de captura institucional del MP por el Ejecutivo usando los últimos 3 fiscales como evidencia (Isaías Rodríguez 2000-2004, Luisa Ortega Díaz 2007-2017, Tarek William Saab 2017-2024); (b) cambiar el período de 10 años propuesto en v0.2 a **6 años únicos y no reelegibles** (sincronizado con art. 230 CRBV); (c) agregar cláusula de **destitución por la AN** con 3/4 y debido proceso.
+- **Solicitud del usuario** (ronda 1): revisar III.6.7 con tres cambios: (a) documentar el patrón de captura institucional del MP por el Ejecutivo usando los últimos 3 fiscales como evidencia (Isaías Rodríguez 2000-2004, Luisa Ortega Díaz 2007-2017, Tarek William Saab 2017-2024); (b) cambiar el período de 10 años propuesto en v0.2 a **6 años únicos y no reelegibles** (sincronizado con art. 230 CRBV); (c) agregar cláusula de **destitución por la Asamblea Nacional (AN)** con 3/4 y debido proceso.
 - **Solicitud del usuario** (ronda 2): agregar **causal #6** de destitución por **investigación internacional o sanción extranjera**, con procedimiento expedito de separación del cargo y presentación ante tribunales extranjeros.
-- **Solicitud del usuario** (ronda 3): replicar la misma lógica (período 6 años único no reelegible + causal #6 investigación/sanción internacional + procedimiento expedito) para el **Director General de la DNA-RB** (sección III.6.5) y para el **Defensor del Pueblo** (nueva sección III.6.7-A).
+- **Solicitud del usuario** (ronda 3): replicar la misma lógica (período 6 años único no reelegible + causal #6 investigación/sanción internacional + procedimiento expedito) para el **Director General de la Dirección Nacional Anticorrupción y Recuperación de Bienes (DNA-RB)** (sección III.6.5) y para el **Defensor del Pueblo** (nueva sección III.6.7-A).
 - **Archivo modificado**: `borrador_reforma/2026/v0.2_pilar_iii6_justicia_anticorrupcion.md` (versión interna 0.5 en frontmatter; nombre de archivo se mantiene v0.2 para no invalidar stable_ids de chunks ya indexados).
 - **Cambios v0.5**:
   - **III.6.5 DNA-RB**: (a) Período del Director General: 8 años no coincidentes → **6 años únicos no reelegible**. (b) Designación: nombrado por el Presidente + AN 3/5 → **concurso público + AN 3/5**. (c) Nueva subsección "Régimen del Director General de la DNA-RB" con 6 cláusulas análogas al MP, incluida causal #6 + procedimiento expedito mutatis mutandis (TSJ meritocrático designa Director interino en 15 días; 30 días desde notificación para que la AN se pronuncie; separación de pleno derecho por ministerio de la ley).
@@ -995,7 +995,7 @@ Búsqueda con regex `\\n\\n` sobre el archivo binario identificó **4 ocurrencia
 5. **La trampa genética** (sección clave): el perfil de ADN se retiene 75 años. Si alguien intenta registrar un nacido vivo con ADN que coincide con un óbito fetal archivado, **el BND bloquea la inscripción automáticamente** y exige resolución judicial. Detecta también clusters de trata (mismos hospitales, mismos funcionarios).
 6. **Excepciones y casos especiales**: parto múltiple, óbito en domicilio/vía pública (6h al centro de salud), objeción de conciencia médica (no aplica), negativa de la madre (registrada + reportada; activa captación forzada con orden TSJ si hay indicios de delito), madre fallecida (vinculado al acta de defunción materna).
 7. **Marco constitucional**: reforma art. 56 CRBV con texto específico + pena 8-15 años por omisión/alteración/falsificación.
-8. **Cláusula de continuidad 3/4 + referéndum**: sexto componente con esta jerarquía (junto a BND, VePass, MIED-LAM, DNA-RB, RUP).
+8. **Cláusula de continuidad 3/4 + referéndum**: sexto componente con esta jerarquía (junto a BND, VePass, MIED-LAM, DNA-RB, Registro Único de Profesionales (RUP)).
 9. **Métricas de éxito**: 5 KPIs año 6 (CDF emitido 100%, perfil ADN 98%, redes desarticuladas 15/año).
 
 ### Aspectos clave del diseño
@@ -1024,7 +1024,7 @@ Búsqueda con regex `\\n\\n` sobre el archivo binario identificó **4 ocurrencia
 2. **Datos por inmueble**: 18 campos incluyendo Código RUI único (16 chars + checksum), georreferenciación UTM SIRGAS-REGVEN, linderos, valoración catastral + mercado, hash criptográfico anclado a Guri-3.
 3. **Cadena de titulación (Tracto sucesivo estilo Torrens)**: historial ininterrumpido de todos los actos desde título originario.
 4. **Multipropiedad**: proindiviso, condominio vertical, conjunto inmobiliario, fideicomiso, propiedad comunitaria indígena (Art. 119 CRBV).
-5. **Procedimiento de inscripción registral 9 pasos** (24h hábiles): notario RUP carga minuta → 5 verificaciones automáticas (identidad, registral, fiscal SENIAT, catastral SUNAC, capacidad) → firma múltiple con VePass-Firma de partes y notario → pago → inscripción + notificación SUNAC/SENIAT.
+5. **Procedimiento de inscripción registral 9 pasos** (24h hábiles): notario RUP carga minuta → 5 verificaciones automáticas (identidad, registral, fiscal Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT), catastral SUNAC, capacidad) → firma múltiple con VePass-Firma de partes y notario → pago → inscripción + notificación SUNAC/SENIAT.
 6. **Anti-fraude 4 garantías**: anti-doble venta (marca "en proceso de transferencia" 30 días), anti-falsificación (requiere VePass-Firma titular + notario + IP/geo/timestamp), anti-prescripción fraudulenta (publicación obligatoria 30 días en RUI), anclaje blockchain Guri-3.
 7. **Regularización de inmuebles informales**: declaración posesoria notarial + 90 días publicación + inscripción si no oposición. Meta: bajar informalidad del ~40% a <5% en 10 años.
 8. **Migración de registros preexistentes**: catastro municipal + Registro Público Propiedad estatal + Catastro Nacional MARN + registros especiales (INTi, bosques) → RUI único. Caducidad registral 10 años para inscripciones no migradas.
@@ -1071,7 +1071,7 @@ Búsqueda con regex `\\n\\n` sobre el archivo binario identificó **4 ocurrencia
 
 ## Marco legal primario del SAIME (2026-07-15)
 
-**Solicitud del usuario**: investigar el marco legal del SAIME para incorporarlo al Registro Civil en la reforma.
+**Solicitud del usuario**: investigar el marco legal del Servicio Administrativo de Identificación, Migración y Extranjería (SAIME) para incorporarlo al Registro Civil en la reforma.
 
 **Fuentes consultadas**:
 1. Wikipedia (es): resumen histórico del SAIME.
@@ -1175,11 +1175,11 @@ El PDF descargado proviene del portal `virtual.urbe.edu` (Universidad Privada Dr
 ## H2 — Redactar Pilar III.2 Seguridad ciudadana (vence 2026-07-18)
 
 - [ ] Crear `v0.1_pilar_iii2_seguridad_ciudadana.md`:
-  - Diagnóstico de cuerpos policiales (PNB, CICPC, GNB, policías estadales) **con cifras duras OVV 2023 + CIDH 2024 + colectivos paramilitares financiados por el Estado**.
-  - SPF Singapur como referente primario (modelo de policía comunitaria profesionalizada + CPIB independiente + Civil Service College como academia).
+  - Diagnóstico de cuerpos policiales (PNB, CICPC, Guardia Nacional Bolivariana (GNB), policías estadales) **con cifras duras OVV 2023 + Comisión Interamericana de Derechos Humanos (CIDH) 2024 + colectivos paramilitares financiados por el Estado**.
+  - SPF Singapur como referente primario (modelo de policía comunitaria profesionalizada + Corrupt Practices Investigation Bureau (CPIB) independiente + Civil Service College como academia).
   - Chile (Carabineros/Paz Riquelme 2024) + Brasil (PRONASCI) como comparata latinoamericana.
   - El Salvador (Plan Control Territorial 2019-2024) como **referente crítico condicionado**: eficiente operativamente contra paramilitares/pandillas, rechazado en elementos DDHH (estado de excepción indefinido, militarización, opacidad presupuestaria).
-  - Reforma LOSPCN 2008 con cuerpos existentes reconvertidos.
+  - Reforma Ley Orgánica del Servicio de Policía y Cuerpo de Policía Nacional (LOSPCN) 2008 con cuerpos existentes reconvertidos.
   - Creación de Cuerpo de Policía Nacional Profesional (CPNP) civil, con VePass-Firma obligatoria.
   - Cláusula de continuidad 3/4 + referéndum.
 
@@ -1243,12 +1243,12 @@ El PDF descargado proviene del portal `virtual.urbe.edu` (Universidad Privada Dr
 - **III.2.1** Diagnóstico integral: la cadena de captura institucional (5 subsecciones: cuerpos mafiosos, captura Poder Ciudadano, formación cívica, crímenes lesa humanidad, migración forzada)
 - **III.2.2** Marco constitucional y legal vigente (CRBV arts. 55, 156, 332, 333, 178; LOSPCN 2008; LOPPM 2009)
 - **III.2.3** Responsabilidad penal individual internacional — investigación activa del CPI (Venezuela I)
-- **III.2.4** Referente Singapur — modelo aspiracional (SPF + CPIB + CSC)
+- **III.2.4** Referente Singapur — modelo aspiracional (SPF + CPIB + Civil Service College (CSC))
 - **III.2.5** Referente El Salvador — análisis crítico condicionado (5 copiables + 4 rechazos + 4 adiciones propias)
 - **III.2.6** Referentes Chile y Brasil (complementarios)
 - **III.2.7** Propuesta central: Cuerpo de Policía Nacional Profesional (CPNP) + 10 regiones operativas
 - **III.2.8** Régimen del Director General del CPNP (patrón III.6 v0.5: concurso + AN 3/5, 6 años único, 7 causales)
-- **III.2.9** Régimen del personal: ingreso por concurso CNSC + ANSP + escala salarial VePass-Firma obligatoria
+- **III.2.9** Régimen del personal: ingreso por concurso Comisión Nacional del Servicio Civil (CNSC) + ANSP + escala salarial VePass-Firma obligatoria
 - **III.2.10** Integración con Pilares III.1/III.3/III.4/III.6/III.7/III.8
 - **III.2.11** Cronograma 0-12 meses
 - **III.2.12** Indicadores de éxito al cierre del año 6 (14 KPIs)
@@ -1261,7 +1261,7 @@ El PDF descargado proviene del portal `virtual.urbe.edu` (Universidad Privada Dr
 2. **Lo que el diseño rechaza explícitamente**: estado de excepción indefinido (estilo ES), militarización (prohibida por art. 332 CRBV), restricción DDHH, opacidad presupuestaria, captura del Poder Judicial.
 3. **Lo que el diseño reabsorbe del sistema actual**: PNB, policías estadales, municipales y CICPC se reconvierten (no se derogan) en CPNP, con concurso de reentrada para funcionarios honestos.
 4. **Lo que el diseño DISUELVE**: PNASPMH-DGCIM-DISP (inteligencia militar usada para represión). Su personal NO se reincorpora al CPNP.
-5. **GNB queda FUERA del CPNP** y se reforma independientemente (no es competencia de seguridad pública sino de gestión de riesgos soberanos, coordinada con DNPEP del Pilar III.8).
+5. **GNB queda FUERA del CPNP** y se reforma independientemente (no es competencia de seguridad pública sino de gestión de riesgos soberanos, coordinada con Dirección Nacional de Planificación Estratégica y Prospectiva (DNPEP) del Pilar III.8).
 6. **Cobertura geográfica**: 10 regiones operativas alineadas con criminología real, no fragmentación por alcaldías.
 
 ### Validación técnica del archivo
@@ -1272,7 +1272,7 @@ El PDF descargado proviene del portal `virtual.urbe.edu` (Universidad Privada Dr
 - Smoke tests (4 queries representative):
   - "Cuerpo Policia Nacional Profesional CPNP VePass-Firma obligatoria reestructurar" → top-1 desde III.2 (bi=0.8982)
   - "Colectivos paramilitares financiados por Estado Venezuela erradicacion" → top-1 desde Ríos (bi=0.8795)
-  - "Causales destitucion Director CPNP recusacion veeduria internacional OACNUDH" → top-1 desde CIDH Doc. 253/24 (bi=0.8906)
+  - "Causales destitucion Director CPNP recusacion veeduria internacional Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (OACNUDH)" → top-1 desde CIDH Doc. 253/24 (bi=0.8906)
   - "CRBV art 332 prohibicion cuerpos paramilitares caracter civil fuerza publica" → top-1 desde III.2 (bi=0.8958)
 - Smoke test de integración DDHH + Pilar: "Sentencias Corte IDH Venezuela Apitz Barbera Reveron Trujillo Lopez Mendoza independencia judicial" → top-1 III.2 (bi=0.8999), top-2+top-3 Apitz Barbera (bi=0.8948, 0.8917)
 
@@ -1297,7 +1297,7 @@ El PDF descargado proviene del portal `virtual.urbe.edu` (Universidad Privada Dr
 ### Pendiente derivado del Pilar III.2
 
 - Anexar el Pilar III.2 al Texto Articulado (Pilar V) como Título específico (sugerido: Título VIII nuevo, separando de los titulos actuales).
-- Integrar con Pilares III.4 (costo USD 4.500M/ano del CPNP) y III.5 (FNIP coordinado con CPNP en zonas mineras).
+- Integrar con Pilares III.4 (costo USD 4.500M/ano del CPNP) y III.5 (Fondo Nacional de Inversión Productiva (FNIP) coordinado con CPNP en zonas mineras).
 - Decisión sobre Contralor General subsistente/abolido (carry-over desde 13/07).
 
 ## H3 — Expandir Pilar III.5 Reforma económica y productiva (vence 2026-07-22)
@@ -1305,7 +1305,7 @@ El PDF descargado proviene del portal `virtual.urbe.edu` (Universidad Privada Dr
 - [ ] Expandir `v0.1_pilar_iii5_reforma_economica_productiva.md` con:
   - III.5.2 PDVSA matriz (51% Estado / 49% privado conOPA).
   - III.5.3 Filiales mixtas (cotización en bolsa).
-  - III.5.4 Privatización Corpoelec + CANTV + régimen 20 años exoneración.
+  - III.5.4 Privatización Corpoelec + Compañía Anónima Nacional Teléfonos de Venezuela (CANTV) + régimen 20 años exoneración.
   - III.5.5 Mercado de capitales + banca de desarrollo.
   - III.5.6 Reforma LOH 2026 + LOM 2026.
   - III.5.7 Indicadores + cronograma.
@@ -1348,9 +1348,9 @@ La reforma del Pilar III.7 (presupuesto plurianual vinculante) NO requiere refor
 13 secciones (330 líneas, 56 chunks):
 
 - III.8.1 Diagnóstico (5 fallas documentadas con referencia a `docs/diagnostico.md §6.2`)
-- III.8.2 Marco constitucional/legal vigente (CRBV arts. 299, 313, 314; LOPP 2014; LOAFSP)
+- III.8.2 Marco constitucional/legal vigente (CRBV arts. 299, 313, 314; LOPP 2014; Ley Orgánica de la Administración Financiera del Sector Público (LOAFSP))
 - III.8.3 Referente Singapur (Strategy Group, CSF, CSC)
-- III.8.4 Referente Israel (NSC, prospectiva civil, **separación explícita de FAN**)
+- III.8.4 Referente Israel (NSC, prospectiva civil, **separación explícita de Fuerza Armada Nacional (FAN)**)
 - III.8.5 Propuesta: DNPEP + estructura interna con 6 direcciones técnicas
 - III.8.6 Plan Quinquenal: elaboración, aprobación por mayoría absoluta, vinculatoriedad para inversiones ≥ USD 50M, revisión a mitad de período, evaluación al cierre con rating A-D
 - III.8.7 Presupuesto Plurianual vinculante: ley nueva, salvaguarda fiscal y social, integración con BND
@@ -1613,7 +1613,7 @@ La expansión consolidó todas las decisiones dispersas en el Proyecto (Doc. 3 �
 
 **Indicadores**: 14 KPIs (víctimas mortales identificadas, personas liberadas por dictamen, indemnizaciones administrativas, BND-RUVI completos, memoriales por municipio, etc.)
 
-**Blindaje constitucional**: 5 garantías con 3/4 + referéndum + anillo-financing tipo FOSEIP (mínimo 0,05% PIB anual)
+**Blindaje constitucional**: 5 garantías con 3/4 + referéndum + anillo-financing tipo Fondo Soberano de Estabilización e Inversión Productiva (FOSEIP) (mínimo 0,05% PIB anual)
 
 ### Validación técnica
 
@@ -1649,7 +1649,7 @@ La expansión consolidó todas las decisiones dispersas en el Proyecto (Doc. 3 �
 - **III.5.5** Privatización 100% Corpoelec + CANTV (régimen 20 años exoneración → solo IVA en año 21)
 - **III.5.6** HIDROVEN matriz subsistente + 9 hidrológicas privatizadas + SUNAA
 - **III.5.7** Banca de desarrollo sectorial (FIDE + BANDAES + BANMI + SNAVALE) + mercado de capitales + Bolsa de Caracas reactivada
-- **III.5.8** Marco legal nuevo (LORAFEE + LORPSP + LOBMC + reformas COT + LOM + LOPSPP + Ley Antibloqueo + Art. 303 + Art. 318)
+- **III.5.8** Marco legal nuevo (LORAFEE + Ley Orgánica de Reforma del Sector Público (LORPSP) + LOBMC + reformas COT + LOM + LOPSPP + Ley Antibloqueo + Art. 303 + Art. 318)
 - **III.5.9** Cronograma 0-12 meses (paralelo a plan monetario 18m — hace notar íntima dependencia con Pilar III.4)
 - **III.5.10** Indicadores de éxito al cierre año 5 (15 KPIs)
 - **III.5.11** Riesgos y mitigación (10 riesgos con probabilidad/impacto/mitigación)
@@ -1692,7 +1692,7 @@ La expansión consolidó todas las decisiones dispersas en el Proyecto (Doc. 3 �
 ### Smoke tests (4 queries representative bi_score >0.87)
 
 - "PDVSA matriz 51% estatal 49% privado OPI NYSE LSE BVC ARAMCO bancos inversion due diligence reservas probadas" → top-1 III.5 v0.2 (bi=0.9186)
-- "FOSEIP fondo soberano venezolano Noruega GPFG Temasek inversion estabilizacion precio referencia plurianual" → top-1+top-2 III.5 v0.2 (bi=0.8957, 0.8818)
+- "FOSEIP fondo soberano venezolano Noruega Government Pension Fund Global (GPFG) Temasek inversion estabilizacion precio referencia plurianual" → top-1+top-2 III.5 v0.2 (bi=0.8957, 0.8818)
 - "LORAFEE adquirida 51% empresas mixtas 7 causales pay-before-take justicia sentencia constitucional" → top-1 III.5 v0.2 (bi=0.9107), top-2+3 texto articulado
 - "FNIP Fondo Nacional Inversion Productiva FIDE BANDAES BANMI nueva banca desarrollo sectorial" → top-1+2+3 III.5 v0.2 (bi=0.9084, 0.8875, 0.8865)
 - "Cláusula continuidad 3/4 referéndum OPI PDVSA matriz revertir privatización FOSEIP" → top-1+2+3 III.5 v0.2 (bi=0.9048, 0.9010, 0.8999)
@@ -1728,7 +1728,7 @@ La expansión consolidó todas las decisiones dispersas en el Proyecto (Doc. 3 �
 
 ### Estructura de la Sección V
 
-- TÍTULO VIII — Régimen de los Cuerpos Civiles de Seguridad (CPNP+CICPC+JNEM): Arts. 121-140 (CPNP/CICPC/JNEM + RTER + career-only + 8 cláusulas de continuidad por pilar seguridad)
+- TÍTULO VIII — Régimen de los Cuerpos Civiles de Seguridad (CPNP+CICPC+JNEM): Arts. 121-140 (CPNP/CICPC/JNEM + Régimen de Tres Exámenes Rigurosos (RTER) + career-only + 8 cláusulas de continuidad por pilar seguridad)
 - TÍTULO IX — DNPEP + Plan Quinquenal: Arts. 141-147
 - TÍTULO X — MIED-LAM constitucional: Arts. 148-150
 - TÍTULO XI — Banca + Mercado de Capitales (LOBMC): Arts. 151-154
@@ -1877,7 +1877,7 @@ Estructura del documento compilatorio final (versión publicable única):
 
 ### Innovaciones arquitectónicas específicas del proyecto
 
-1. **Veeduría Internacional Permanente** (CPNP+CICPC+JNEM+DNPEP): panel mixto OACNUDH+CIDH+ACNUR+FRONTEX UE durante 8 años con poder de investigación.
+1. **Veeduría Internacional Permanente** (CPNP+CICPC+JNEM+DNPEP): panel mixto OACNUDH+CIDH+Alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR)+Agencia Europea de la Guardia de Fronteras y Costas (FRONTEX) UE durante 8 años con poder de investigación.
 
 2. **VePass-Firma obligatoria** en todos los actos del CPNP+CICPC+JNEM — "vigilancia sobre la vigilancia".
 
@@ -1964,4 +1964,75 @@ Estructura del documento compilatorio final (versión publicable única):
 4. **Crítica constitutiva**: rechazo a oposición angelical y a gobiernos que "visten de santos"
 5. **Articulado técnico preservado**: 8 pilares + Plan IV + Cláusulas 3/4 + referendum + Comisión Carmen Navas
 6. **Cierre cultural**: la cláusula de continuidad sólo funciona si el pueblo vigila, sino la mayoría parlamentaria circunstancial la deshace. Aceptas es el compromiso del pueblo hacia sí mismo.
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **ACNUR** | Alto Comisionado de las Naciones Unidas para los Refugiados |
+| **AN** | Asamblea Nacional |
+| **BCRA** | Banco Central de la República Argentina |
+| **BCV** | Banco Central de Venezuela |
+| **BID** | Banco Interamericano de Desarrollo |
+| **BND** | Banco Nacional de Datos |
+| **CANTV** | Compañía Anónima Nacional Teléfonos de Venezuela |
+| **CDF** | Certificado de Defunción Fetal |
+| **CICPC** | Cuerpo de Investigaciones Científicas, Penales y Criminalísticas |
+| **CIDH** | Comisión Interamericana de Derechos Humanos |
+| **CNE** | Consejo Nacional Electoral |
+| **CNSC** | Comisión Nacional del Servicio Civil |
+| **COT** | Código Orgánico Tributario |
+| **CPI** | Corte Penal Internacional |
+| **CPIB** | Corrupt Practices Investigation Bureau |
+| **CPNP** | Cuerpo de Policía Nacional Profesional |
+| **CRBV** | Constitución de la República Bolivariana de Venezuela |
+| **CSC** | Civil Service College |
+| **Cédula-RUT** | Cédula con Rol Único Tributario |
+| **DNA-RB** | Dirección Nacional Anticorrupción y Recuperación de Bienes |
+| **DNPEP** | Dirección Nacional de Planificación Estratégica y Prospectiva |
+| **FAN** | Fuerza Armada Nacional |
+| **FEM** | Fondo de Estabilización Macroeconómica |
+| **FNIP** | Fondo Nacional de Inversión Productiva |
+| **FOSEIP** | Fondo Soberano de Estabilización e Inversión Productiva |
+| **FRONTEX** | Agencia Europea de la Guardia de Fronteras y Costas |
+| **GAFI** | Grupo de Acción Financiera Internacional |
+| **GNB** | Guardia Nacional Bolivariana |
+| **GPFG** | Government Pension Fund Global |
+| **INTERPOL** | Organización Internacional de Policía Criminal |
+| **IVSS** | Instituto Venezolano de los Seguros Sociales |
+| **JNEM** | Junta Nacional de Evaluación Médica |
+| **LCA** | Ley de Carrera Administrativa |
+| **LOAFSP** | Ley Orgánica de la Administración Financiera del Sector Público |
+| **LOAP** | Ley Orgánica de la Administración Pública |
+| **LOBCV** | Ley Orgánica del Banco Central de Venezuela |
+| **LOE** | Ley Orgánica de Educación |
+| **LOH** | Ley Orgánica de Hidrocarburos |
+| **LOM** | Ley Orgánica de Minas |
+| **LOPP** | Ley Orgánica de Planificación Pública |
+| **LORAFEE** | Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas |
+| **LORPSP** | Ley Orgánica de Reforma del Sector Público |
+| **LOSPCN** | Ley Orgánica del Servicio de Policía y Cuerpo de Policía Nacional |
+| **LOTSJ** | Ley Orgánica del Tribunal Supremo de Justicia |
+| **LOTTT** | Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras |
+| **MEDI** | Ministerio del Desarrollo de la Inteligencia |
+| **MIED-LAM** | Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado |
+| **OACNUDH** | Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos |
+| **OCDE** | Organización para la Cooperación y el Desarrollo Económicos |
+| **OCR** | Optical Character Recognition |
+| **OPI** | Oferta Pública Inicial |
+| **PDVSA** | Petróleos de Venezuela S.A. |
+| **PSC** | Public Service Commission |
+| **RTER** | Régimen de Tres Exámenes Rigurosos |
+| **RUI** | Registro Único de Inmuebles |
+| **RUP** | Registro Único de Profesionales |
+| **SAIME** | Servicio Administrativo de Identificación, Migración y Extranjería |
+| **SENIAT** | Servicio Nacional Integrado de Administración Aduanera y Tributaria |
+| **SNI** | Sistema Nacional de Identidad |
+| **SPDP** | Superintendencia de Protección de Datos Personales |
+| **SUNAA** | Superintendencia Nacional de Aguas y Saneamiento |
+| **TSJ** | Tribunal Supremo de Justicia |
+| **UNESCO** | Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura |
+| **VePass** | Clave Única de Identidad Digital |
 
