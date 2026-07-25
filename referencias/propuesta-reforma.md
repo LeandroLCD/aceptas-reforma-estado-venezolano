@@ -68,16 +68,20 @@ Restringir el hiperpresidencialismo, restablecer la supremacía constitucional e
 Reducir la hipertrofia administrativa de **40 ministerios + 200 entes adscritos** a un esquema profesional, jerarquizado y operable, alineado con el principio de subsidiariedad (Art. 165 CRBV).
 
 ### 2.2. Acciones concretas (shock)
-1. **Reorganización ministerial inmediata (mes 0-3)**: de 40 ministerios a **9 ministerios** (modelo Milei):
-   - Ministerio del Interior y Seguridad
-   - Ministerio de Relaciones Exteriores
-   - Ministerio de Economía y Finanzas
-   - Ministerio de Producción y Comercio
-   - Ministerio de Energía y Minas
-   - Ministerio de Infraestructura y Transporte
-   - Ministerio de Salud
-   - Ministerio de Educación
-   - Ministerio de Defensa
+1. **Reorganización ministerial inmediata (mes 0-3)**: de 35 cargos ministeriales vigentes a **9 ministerios** del Estado reformado (catálogo definitivo 25-jul-2026, ver Anexo A.5):
+   - **Ministerio del Interior y Seguridad** (Pilar III.2: CPNP+CICPC+JNEM+Régimen Penitenciario+Pueblos Indígenas+Fronteras)
+   - **Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado** (MIED-LAM, Pilar III.3, rango constitucional Art. 237 CRBV)
+   - **Ministerio de Economía y Finanzas** (Pilar III.4: LOBCV+tributario+cronograma monetario 18m+fusión Industria+Comercio+Agricultura+Pesca+Alimentación)
+   - **Ministerio de Energía y Minas** (Pilar III.5: PDVSA matriz 51%+privatizaciones mineras, excluye Defensa que sale del Ejecutivo)
+   - **Ministerio de Infraestructura y Servicios** (Sector aguas privatizadas+Transporte+Obras+Hábitat+Vivienda)
+   - **Ministerio de Planificación Estratégica y Prospectiva** (Pilar III.8: DNPEP+Plan Quinquenal vinculante)
+   - **Ministerio de Gobierno Digital** (Pilar III.7: BND+VePass+Cédula-RUT+SNI+SPDP+ **absorción de Registros, Notariado y Registro Civil** del ex-MPP Justicia)
+   - **Ministerio de Relaciones Exteriores** (Diplomacia activa+Veeduría Internacional Permanente 8 años+Cooperación Jurídica Internacional absorbida del ex-MPP Justicia)
+   - **Ministerio del Ambiente** (Política ambiental+INPARQUES+IGVSB+Fundambiente+INAMEH, separado de Energía y Minas)
+
+   **Fuera del catálogo ministerial pero dentro del Poder Ejecutivo**: **Consejo Nacional de Defensa**, ente dependiente directo de la Presidencia (reforma Arts. 332-333 CRBV; absorbe FAN+GNB+DGCIM).
+
+   **Fuera del Ejecutivo (Poder Ciudadano ampliado, Reforma Art. 273 CRBV)**: CGR · Defensor del Pueblo · Ministerio Público · **CNSC ⭐ Servicio Civil** · DNA-RB. El Servicio Civil y la Función Pública se adscriben al Poder Ciudadano para blindarlos contra la motosierra sucesoria.
 2. **Supresión de entes adscritos**: fusión o liquidación del **80% de los 200+ entes** (institutos autónomos, fundaciones, empresas del Estado no estratégicas, servicios desconcentrados redundantes). Los restantes 40 se reorganizan en torno a los 9 ministerios (4-5 entes por ministerio).
 3. **Catálogo único de competencias**: en los primeros 6 meses se dicta el **Reglamento Orgánico del Poder Ejecutivo Nacional** (Art. 238 CRBV) con catálogo taxativo de competencias por ministerio, sin duplicidades.
 4. **Reforma de la LOAP**: nueva LOAP (mes 6-9) que reemplaza la de 2014; consagra: (a) tope de 9 ministerios, (b) tope de 50 entes adscritos, (c) catálogo de competencias como anexo con rango legal.
