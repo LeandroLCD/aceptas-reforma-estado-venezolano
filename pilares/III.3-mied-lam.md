@@ -22,7 +22,7 @@ programas: 8 (4 cognitivos + 1 educación general + 2 cívica/digital + 1 deport
 >
 > — Roberto Colom (catedrático UAM), 2019.
 
-El informe UNESCO de 1984 advirtió, con palabras que hoy leemos como profecía autocumplida:
+El informe Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) de 1984 advirtió, con palabras que hoy leemos como profecía autocumplida:
 
 > *"las iniciativas y acciones sociales que un gobierno no logra culminar durante su mandato, rara vez son continuadas por el siguiente y, en consecuencia, suelen quedar interrumpidas durante un quinquenio, cuando no resultan definitivamente abandonadas."*
 
@@ -178,7 +178,7 @@ Réplica del programa basado en Reuven Feuerstein (teoría de la modificabilidad
 El MIED-LAM asume integralmente la rectoría del sistema educativo nacional, hoy fragmentada entre el Ministerio del Poder Popular para la Educación y diversos entes adscritos. La unificación permite:
 
 - **Diseñar un currículo nacional único** con estándares de calidad por nivel, evaluado con criterios comunes (PISA local, pruebas estandarizadas nacionales cada 3 años).
-- **Gestionar la carrera docente** con criterios meritocráticos (articulación con la CNSC del Pilar III.1): ingreso por concurso, evaluación anual de desempeño, capacitación permanente obligatoria (40 horas/año), escala salarial competitiva, estabilidad en el cargo.
+- **Gestionar la carrera docente** con criterios meritocráticos (articulación con la Comisión Nacional del Servicio Civil (CNSC) del Pilar III.1): ingreso por concurso, evaluación anual de desempeño, capacitación permanente obligatoria (40 horas/año), escala salarial competitiva, estabilidad en el cargo.
 - **Administrar la infraestructura educativa nacional** con estándares mínimos verificables: agua potable, electricidad, conectividad, bibliotecas, áreas deportivas, laboratorios.
 - **Regular la educación privada** con estándares mínimos de calidad, transparencia en matrícula y resultados, prohibición de cobros discriminatorios.
 - **Garantizar la educación universitaria** mediante un sistema nacional de acreditación inspirado en el modelo chileno (CNA) y al español (ANECA), con financiamiento basal por mérito académico demostrado.
@@ -215,7 +215,7 @@ inspirado en los programas "Media Literacy" implementados en Finlandia (2014), E
 El MIED-LAM asume la rectoría del deporte nacional, organizando el sistema en cuatro niveles:
 
 - **Deporte escolar**: actividad física diaria obligatoria en todas las escuelas (mínimo 3 horas semanales), educación física como materia evaluada, detección temprana de talentos.
-- **Deporte comunitario**: infraestructura accesible en cada municipio (canchas, pistas, parques biosaludables), ligas locales financiadas por el FEM (Pilar III.5), programas para adultos mayores.
+- **Deporte comunitario**: infraestructura accesible en cada municipio (canchas, pistas, parques biosaludables), ligas locales financiadas por el Fondo de Estabilización Macroeconómica (FEM) (Pilar III.5), programas para adultos mayores.
 - **Deporte universitario**: becas-deportivas, articulación con la educación superior, formación dual.
 - **Deporte de alta competencia**: Centro Nacional de Alto Rendimiento (CNAR) con infraestructura de clase mundial, becas para atletas de élite, preparación Olímpica y Panamericana, repatriación de talento deportivo emigrado mediante incentivos fiscales y contractuales.
 
@@ -317,3 +317,21 @@ Su advertencia en la inauguración del MEDI fue premonitoria: *"Por primera vez 
 ---
 
 *Continuará: III.4 Reforma fiscal + financiamiento territorial → III.5 Reforma económica y productiva (nuevo).*
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **AN** | Asamblea Nacional |
+| **BCV** | Banco Central de Venezuela |
+| **CNSC** | Comisión Nacional del Servicio Civil |
+| **CRBV** | Constitución de la República Bolivariana de Venezuela |
+| **FEM** | Fondo de Estabilización Macroeconómica |
+| **GPFG** | Government Pension Fund Global |
+| **MEDI** | Ministerio del Desarrollo de la Inteligencia |
+| **MIED-LAM** | Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado |
+| **TSJ** | Tribunal Supremo de Justicia |
+| **UNESCO** | Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura |
+

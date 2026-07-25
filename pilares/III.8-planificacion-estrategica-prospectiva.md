@@ -27,7 +27,7 @@ relaciones_con_otros_pilares:
 
 ## III.8.1. Diagnóstico: la planificación nominal venezolana
 
-Venezuela tiene, desde 1999, el mandato constitucional de planificar el desarrollo económico y social (art. 299 CRBV) y desde 2014 una ley orgánica que crea el Sistema Nacional de Planificación Pública (LOPSPP — LOPP 2014, arts. 9-17). Sobre el papel, el andamiaje es completo: Plan de Desarrollo Económico y Social de la Nación, planes estadales, municipales, sectoriales, institucionales y operativos, todos conectados a una Comisión Central de Planificación dependiente del Ejecutivo Nacional.
+Venezuela tiene, desde 1999, el mandato constitucional de planificar el desarrollo económico y social (art. 299 Constitución de la República Bolivariana de Venezuela (CRBV)) y desde 2014 una ley orgánica que crea el Sistema Nacional de Planificación Pública (LOPSPP — LOPP 2014, arts. 9-17). Sobre el papel, el andamiaje es completo: Plan de Desarrollo Económico y Social de la Nación, planes estadales, municipales, sectoriales, institucionales y operativos, todos conectados a una Comisión Central de Planificación dependiente del Ejecutivo Nacional.
 
 **En la práctica, el sistema colapsa por cinco fallas simultáneas** (documentadas en `docs/diagnostico.md` §6.2):
 
@@ -73,7 +73,7 @@ Think-tank interno del gobierno singapurense, dedicado a foresight y escenarios 
 
 ### Civil Service College (CSC, 1959)
 
-La universidad interna del gobierno singapurense. Forma en políticas públicas, liderazgo y estrategia. **Conexión directa con el Pilar III.3 MIED-LAM**: la CSC es el modelo operacional del MIED-LAM en lo que respecta a formación de cuadros del Estado. Para el Pilar III.8, la CSC es el proveedor natural del personal técnico de la DNPEP.
+La universidad interna del gobierno singapurense. Forma en políticas públicas, liderazgo y estrategia. **Conexión directa con el Pilar III.3 Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (MIED-LAM)**: la Civil Service College (CSC) es el modelo operacional del MIED-LAM en lo que respecta a formación de cuadros del Estado. Para el Pilar III.8, la CSC es el proveedor natural del personal técnico de la DNPEP.
 
 ### Lecciones extraíbles
 
@@ -91,7 +91,7 @@ Coordina la planificación estratégica entre ministerios civiles (economía, ha
 
 ### Unidad de Prospectiva Estratégica (modelo propuesto *ad-hoc*)
 
-Inspirada parcialmente en Unit 8200 (inteligencia de señales) y Unit 81 (inteligencia tecnológica), pero con un giro deliberado hacia uso civil: análisis de tendencias globales, prospectiva tecnológica, escenarios geopolíticos para Venezuela a 5-10-20 años. **Diferencia crítica con el modelo israelí**: no se militariza el conocimiento. La Unidad opera como componente civil dependiente de la DNPEP, no de las FAN.
+Inspirada parcialmente en Unit 8200 (inteligencia de señales) y Unit 81 (inteligencia tecnológica), pero con un giro deliberado hacia uso civil: análisis de tendencias globales, prospectiva tecnológica, escenarios geopolíticos para Venezuela a 5-10-20 años. **Diferencia crítica con el modelo israelí**: no se militariza el conocimiento. La Unidad opera como componente civil dependiente de la Dirección Nacional de Planificación Estratégica y Prospectiva (DNPEP), no de las FAN.
 
 ### Israel Innovation Authority (IIA)
 
@@ -110,7 +110,7 @@ La **DNPEP** es un **servicio desconcentrado dependiente del Presidente de la Re
 
 ### Designación del Director General
 
-Siguiendo el patrón unificado de los titulares del Poder Ciudadano y de la DNA-RB (Pilar III.6 v0.5, sección III.6.7):
+Siguiendo el patrón unificado de los titulares del Poder Ciudadano y de la Dirección Nacional Anticorrupción y Recuperación de Bienes (DNA-RB) (Pilar III.6 v0.5, sección III.6.7):
 
 1. **Concurso público de méritos y antecedentes** con jurado mixto: (a) 5 juristas/expertos en planificación estratégica nacionales designados por la Comisión Nacional del Servicio Civil (Pilar III.1), (b) 2 veedores internacionales designados por el PNUD y por el Banco Interamericano de Desarrollo.
 2. **Ratificación por la Asamblea Nacional con mayoría de tres quintos (3/5)** del quorum reglamentario.
@@ -185,7 +185,7 @@ Primer año de gestión presidencial:
 
 Toda inversión pública con coste total estimado ≥ USD 50 millones (umbral ajustable por ley especial cada 3 años según inflación) **debe estar explícitamente contemplada en el Plan Quinquenal vigente**. Inversiones fuera del plan:
 
-- Requieren **autorización específica de la AN con mayoría de 3/5**, con justificación técnica del solicitante y dictamen no vinculante de la DNPEP.
+- Requieren **autorización específica de la Asamblea Nacional (AN) con mayoría de 3/5**, con justificación técnica del solicitante y dictamen no vinculante de la DNPEP.
 - Se registran automáticamente en el **Tablero Nacional de Indicadores** con marcador de "inversión fuera de plan".
 
 ### Revisión a mitad de período
@@ -216,13 +216,13 @@ Se dicta una **Ley Orgánica de Presupuesto Plurianual y Programas de Inversión
 
 1. **Aprueba automáticamente** un presupuesto trienal de carácter vinculante para los proyectos de inversión pública con plazo de ejecución > 12 meses.
 2. **El presupuesto plurianual se actualiza anualmente** mediante ley ordinaria, con ajuste inflacionario y revisión técnica de la DNPEP.
-3. **Toda inversión plurianual debe contar con evaluación ex ante** según metodología de la DNPEP (inspirada en Chile SNI: rentabilidad social, análisis de sensibilidad, análisis multicriterio).
+3. **Toda inversión plurianual debe contar con evaluación ex ante** según metodología de la DNPEP (inspirada en Chile Sistema Nacional de Identidad (SNI): rentabilidad social, análisis de sensibilidad, análisis multicriterio).
 4. **Cláusula de salvaguarda fiscal**: si la economía entra en contracción (>5% PIB caída anual), la DNPEP puede proponer recortes automáticos con mayoría simple de la AN.
 5. **Cláusula de salvaguarda social**: ningún recorte plurianual puede afectar los sectores protegidos (salud, educación, pensiones no contributivas) por encima del 5% del gasto sectorial.
 
 ### Vinculación con BND (Pilar III.7)
 
-Cada proyecto de inversión plurianual se registra en el BND con:
+Cada proyecto de inversión plurianual se registra en el Banco Nacional de Datos (BND) con:
 
 - Identificador único del proyecto.
 - Estado de ejecución física (mensual).
@@ -245,7 +245,7 @@ Para evitar duplicación con el Contralor General y la DNA-RB, la DNPEP se coord
 | Informes públicos trimestrales de cumplimiento del Plan Quinquenal | DNPEP | III.8 |
 | **Auditoría de gestión administrativa general de la DNPEP** | **Contraloría General de la República (subsistente)** | **III.6** |
 
-**Decisión arquitectónica — Cerrada por el usuario el 2026-07-16**: la **Contraloría General de la República subsiste** como organismo del Poder Ciudadano (art. 288 CRBV), con sus competencias constitucionales de fiscalización, control y vigilancia de la gestión pública general. No es absorbida por la DNA-RB ni viceversa. La DNA-RB (Pilar III.6) asume funciones especializadas de **investigación penal de casos graves de corrupción** (siguiendo el modelo Singapur CPIB), preservando la CGR la **fiscalización administrativa ordinaria** (modelo Contraloría General clásica). El DNPEP coordina con ambas sin duplicar funciones: auditoría especializada de inversiones y planes quinquenales se rattachan a la DNA-RB; auditoría de gestión administrativa general de la propia DNPEP permanece en la CGR (subsistente).
+**Decisión arquitectónica — Cerrada por el usuario el 2026-07-16**: la **Contraloría General de la República subsiste** como organismo del Poder Ciudadano (art. 288 CRBV), con sus competencias constitucionales de fiscalización, control y vigilancia de la gestión pública general. No es absorbida por la DNA-RB ni viceversa. La DNA-RB (Pilar III.6) asume funciones especializadas de **investigación penal de casos graves de corrupción** (siguiendo el modelo Singapur Corrupt Practices Investigation Bureau (CPIB)), preservando la CGR la **fiscalización administrativa ordinaria** (modelo Contraloría General clásica). El DNPEP coordina con ambas sin duplicar funciones: auditoría especializada de inversiones y planes quinquenales se rattachan a la DNA-RB; auditoría de gestión administrativa general de la propia DNPEP permanece en la CGR (subsistente).
 
 ## III.8.9. Unidad de Prospectiva Estratégica (UPE)
 
@@ -255,7 +255,7 @@ Inspirada en el Centre for Strategic Futures de Singapur y modelada según los s
 
 - **30-40 funcionarios** de dedicación exclusiva.
 - **Núcleo permanente de 10 funcionarios** con formación internacional (5+ años en CSIRO Australia, RAND Corporation, Singapore CSF, Foresight UK, OECD Strategic Foresight Unit, etc.).
-- **Rotación externa de 20-30 funcionarios** desde ministerios sectoriales (cada 3-5 años, vía concurso interno organizado por la PSC).
+- **Rotación externa de 20-30 funcionarios** desde ministerios sectoriales (cada 3-5 años, vía concurso interno organizado por la Public Service Commission (PSC)).
 
 ### Productos anuales
 
@@ -329,3 +329,29 @@ La DNPEP, el Plan Quinquenal, el Presupuesto Plurianual vinculante y la UPE se d
 ---
 
 *Próximo paso: la integración con el Pilar III.5 (económico-productivo) mediante el FNIP y el Pilar III.7 mediante el BND se documentará en el Plan de Implementación (Pilar IV) y en el Texto Articulado (Pilar V).*
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **AN** | Asamblea Nacional |
+| **BID** | Banco Interamericano de Desarrollo |
+| **BND** | Banco Nacional de Datos |
+| **CGR** | Contraloría General de la República |
+| **CIDH** | Comisión Interamericana de Derechos Humanos |
+| **CPIB** | Corrupt Practices Investigation Bureau |
+| **CRBV** | Constitución de la República Bolivariana de Venezuela |
+| **CSC** | Civil Service College |
+| **DNA-RB** | Dirección Nacional Anticorrupción y Recuperación de Bienes |
+| **DNPEP** | Dirección Nacional de Planificación Estratégica y Prospectiva |
+| **FAN** | Fuerza Armada Nacional |
+| **FNIP** | Fondo Nacional de Inversión Productiva |
+| **LOPP** | Ley Orgánica de Planificación Pública |
+| **MIED-LAM** | Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado |
+| **PNUD** | Programa de las Naciones Unidas para el Desarrollo |
+| **PSC** | Public Service Commission |
+| **SNI** | Sistema Nacional de Identidad |
+| **VePass** | Clave Única de Identidad Digital |
+

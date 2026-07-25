@@ -24,9 +24,9 @@ Este documento es la **Sección V** del proyecto y opera como cierre del articul
 
 1. **Consolida los Títulos pendientes** que el `docs/texto_articulado.md` actual no alcanzó a redactar (Títulos VIII a XVII), incluyendo las nuevas leyes orgánicas que los pilares requirieron.
 2. **Aplica expresa y exhaustivamente las cláusulas de continuidad 3/4 + referéndum** a cada uno de los 8 pilares.
-3. **Articula las reformas constitucionales** que requieren modificación expresa del texto CRBV (Arts. 237, 332, 333, 303, 318) y los mecanismos de reforma aplicables.
+3. **Articula las reformas constitucionales** que requieren modificación expresa del texto Constitución de la República Bolivariana de Venezuela (CRBV) (Arts. 237, 332, 333, 303, 318) y los mecanismos de reforma aplicables.
 
-Las cláusulas de continuidad son **transversales** — afectan a múltiples pilares a la vez — y blindan el proyecto contra el patrón histórico de desmontaje por ciclo político (MEMORIAL 1984 al desmontaje del MEDI; INFORME UNESCO 1984 §275; diagnóstico Pilar 0 §II.2).
+Las cláusulas de continuidad son **transversales** — afectan a múltiples pilares a la vez — y blindan el proyecto contra el patrón histórico de desmontaje por ciclo político (MEMORIAL 1984 al desmontaje del MEDI; INFORME Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) 1984 §275; diagnóstico Pilar 0 §II.2).
 
 ---
 
@@ -67,9 +67,9 @@ Las cláusulas de continuidad son **transversales** — afectan a múltiples pil
 
 **Artículo 131. Principio *career-only*.** El Director General del CPNP, el Director General del CICPC y el Subdirector Nacional de Migración deben ser **miembros activos** del cuerpo respectivo, con mínimos de veinte (20) años de servicio en el CPNP/CICPC/JNEM y haber alcanzado al menos el rango de Inspector/a (CPNP) o Comisario/a General (CICPC/JNEM). Esta regla inhibe la designación política exógena.
 
-**Artículo 132. Designaciones por concurso público + ratificación AN 3/5.** Los Directores Generales del CPNP, del CICPC y el Subdirector Nacional de Migración son designados por concurso público administrado por la Comisión Nacional del Servicio Civil (CNSC) con jurado mixto nacional + veedores internacionales designados por OACNUDH + CIDH + ACNUR+FRONTEX. Su nombramiento requiere ratificación por la Asamblea Nacional con mayoría de tres quintos (3/5). La AN no nombra; ratifica o rechaza — el rechazo obliga a nuevo proceso concursal.
+**Artículo 132. Designaciones por concurso público + ratificación Asamblea Nacional (AN) 3/5.** Los Directores Generales del CPNP, del CICPC y el Subdirector Nacional de Migración son designados por concurso público administrado por la Comisión Nacional del Servicio Civil (CNSC) con jurado mixto nacional + veedores internacionales designados por Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (OACNUDH) + CIDH + ACNUR+FRONTEX. Su nombramiento requiere ratificación por la Asamblea Nacional con mayoría de tres quintos (3/5). La AN no nombra; ratifica o rechaza — el rechazo obliga a nuevo proceso concursal.
 
-**Artículo 133. Veeduría internacional permanente.** El CPNP, el CICPC y la JNEM están sujetos a **veeduría internacional vinculante** ejercida por un panel OACNUDH + CIDH durante ocho (8) años, con poder de investigación + publicación de informes trimestrales vinculantes + facultad de señalización ante la AN con tres cuartos (3/4) y ante la CPI si surgen patrones delictivos.
+**Artículo 133. Veeduría internacional permanente.** El CPNP, el CICPC y la JNEM están sujetos a **veeduría internacional vinculante** ejercida por un panel OACNUDH + CIDH durante ocho (8) años, con poder de investigación + publicación de informes trimestrales vinculantes + facultad de señalización ante la AN con tres cuartos (3/4) y ante la Corte Penal Internacional (CPI) si surgen patrones delictivos.
 
 ### Capítulo V — Cláusula de continuidad específica
 
@@ -83,7 +83,7 @@ Las cláusulas de continuidad son **transversales** — afectan a múltiples pil
 
 **Artículo 138. Fusión CPNP-CICPC.** Cualquier intento de fusionar orgánicamente el CPNP con el CICPC — revirtiendo la separación funcional documentada en Chile desde 1975 — requiere mayoría calificada de **tres cuartos (3/4) + reforma constitucional** (analogía explícita a la prohibición de fusión ANIC-PTJ 1969).
 
-**Artículo 139. Traspaso migratorio.** El traspaso del mando operativo de puertos, aeropuertos o pasos fronterizos a cualquier autoridad distinta de la JNEM/CICPC (incluida la FAN) requiere mayoría calificada de **tres cuartos (3/4)** + referéndum popular ratificatorio.
+**Artículo 139. Traspaso migratorio.** El traspaso del mando operativo de puertos, aeropuertos o pasos fronterizos a cualquier autoridad distinta de la JNEM/CICPC (incluida la Fuerza Armada Nacional (FAN)) requiere mayoría calificada de **tres cuartos (3/4)** + referéndum popular ratificatorio.
 
 **Artículo 140. Principio *career-only* blindado.** Cualquier modificación de los requisitos exigidos en el Artículo 131 (carrera interna mínima, rangos, veeduría internacional) requiere mayoría calificada de **tres cuartos (3/4)** + referéndum popular ratificatorio. Toda designación política exógena que viole el principio *career-only* es nula de nulidad absoluta desde el inicio con responsabilidad penal directa del funcionario que la haya ordenado o aceptado.
 
@@ -97,7 +97,7 @@ Las cláusulas de continuidad son **transversales** — afectan a múltiples pil
 
 **Artículo 141. Creación de la Dirección Nacional de Planificación Estratégica y Prospectiva (DNPEP).** Se crea la DNPEP como servicio desconcentrado dependiente del Presidente de la República, con **rango constitucional** mediante reforma del art. 237 CRBV, regida por las normas de la presente Sección.
 
-**Artículo 142. Plan Quinquenal vinculante.** La DNPEP elabora el Plan Quinquenal durante el primer año de gestión presidencial, incluyendo Plan de Operaciones + Presupuesto Plurianual vinculante trienal + Indicadores con publicación trimestral obligatoria + Rating independiente anual. El Plan Quinquenal entra en vigencia previa presentación pública en VePass+Bind y aprobación por mayoría absoluta de la Asamblea Nacional dentro de los plazos que fija la presente Sección.
+**Artículo 142. Plan Quinquenal vinculante.** La DNPEP elabora el Plan Quinquenal durante el primer año de gestión presidencial, incluyendo Plan de Operaciones + Presupuesto Plurianual vinculante trienal + Indicadores con publicación trimestral obligatoria + Rating independiente anual. El Plan Quinquenal entra en vigencia previa presentación pública en Clave Única de Identidad Digital (VePass)+Bind y aprobación por mayoría absoluta de la Asamblea Nacional dentro de los plazos que fija la presente Sección.
 
 ### Capítulo II — Unidad de Prospectiva Estratégica (UPE)
 
@@ -123,7 +123,7 @@ Las cláusulas de continuidad son **transversales** — afectan a múltiples pil
 
 **Artículo 148. Creación del MIED-LAM.** Se crea el Ministerio de Investigación, Educación y Desarrollo Cognitivo como ministerio de carácter constitucional, con rango y prerrogativas equivalentes a las de un ministerio del sector defensa, conforme al Pilar 0 y al Pilar III.3. Tiene mandato específico de promover el desarrollo cognitivo y cognitivo-poblacional en Venezuela, conforme a la doctrina del Informe UNESCO 1984 que sirvió de base al MEDI original (1979-1984).
 
-**Artículo 149. Programas nacionales.** El MIED-LAM opera ocho (8) programas nacionales coordinados con el sistema educativo nacional, la academia y los cuerpos de investigación:
+**Artículo 149. Programas nacionales.** El Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (MIED-LAM) opera ocho (8) programas nacionales coordinados con el sistema educativo nacional, la academia y los cuerpos de investigación:
 1. Proyecto Familia (capacitación prenatal a 6 años)
 2. Proyecto Inteligencia (programas de cognición escolar)
 3. Aprender a Pensar (programas Edward de Bono)
@@ -157,10 +157,10 @@ Las cláusulas de continuidad son **transversales** — afectan a múltiples pil
 
 **Artículo 155. Creación de la Ley Orgánica de Régimen de Privatización de Servicios Públicos (LORPSP).** Se establece el régimen general de privatización de los servicios públicos nacionales, incluyendo los siguientes elementos obligatorios:
 
-1. **Privatización 100%** de Corpoelec + CANTV + las 9 hidrológicas regionales de HIDROVEN, conforme a la arquitectura del Pilar III.5 §III.5.5.
+1. **Privatización 100%** de Corpoelec + Compañía Anónima Nacional Teléfonos de Venezuela (CANTV) + las 9 hidrológicas regionales de HIDROVEN, conforme a la arquitectura del Pilar III.5 §III.5.5.
 2. **Régimen 20 años exoneración** para los concesionarios / prestadores privados de servicios públicos, aplicable a ISLR, IGTF, impuestos municipales y tasas especiales. Solo paga contraprestación de servicios regulados. A partir del año 21 pago de únicamente IVA.
 3. **Servicio Universal garantizado** en pliego de cada concesión.
-4. **Regulador independiente**: CONATEL (telecomunicaciones), OFGEM/UK (electricidad), SUNAA nueva (agua y saneamiento).
+4. **Regulador independiente**: CONATEL (telecomunicaciones), OFGEM/UK (electricidad), Superintendencia Nacional de Aguas y Saneamiento (SUNAA) nueva (agua y saneamiento).
 5. **Tarifa social focalizada** para hogares vulnerables: subsidio cruzado o aporte estatal directo.
 
 **Artículo 156. Junta especial de control.** Cada privatización es monitoreada por una Junta Especial de Control presidida por la DNPEP (Pilar III.8) + DNA-RB + JNEM/USDA, según correspondiere. Cualquier desviación respecto al pliego o destrucción del servicio público genera caducidad inmediata de la concesión.
@@ -179,7 +179,7 @@ Las cláusulas de continuidad son **transversales** — afectan a múltiples pil
 
 **Artículo 160. Departamento de Puntos Migratorios (DNPM).** La JNEM opera los puntos migratorios en puertos marítimos, aeropuertos y pasos fronterizos, en coordinación con INAC (aeronáutica), puertos y empresas de transporte internacional. **El control migratorio en frontera queda excluida** del mando de la Fuerza Armada Nacional.
 
-**Artículo 161. Convención 1951 sobre Refugiados.** Venezuela ratifica su compromiso pleno con la Convención sobre el Estatuto de los Refugiados (Ginebra 1951) y el Protocolo de 1967. Los procedimientos de asilo son operados por la JNEM con primera instancia ante el Subdirector Nacional de Migración y revisión ante el TSJ meritocrático.
+**Artículo 161. Convención 1951 sobre Refugiados.** Venezuela ratifica su compromiso pleno con la Convención sobre el Estatuto de los Refugiados (Ginebra 1951) y el Protocolo de 1967. Los procedimientos de asilo son operados por la JNEM con primera instancia ante el Subdirector Nacional de Migración y revisión ante el Tribunal Supremo de Justicia (TSJ) meritocrático.
 
 **Artículo 162. Prohibición de devolución en frontera.** Toda devolución (refoulement) sin debido proceso + recurso suspensivo efectivo ante el TSJ meritocrático queda prohibida. Toda devolución ejecutada sin tales garantías es nula de pleno derecho y sus autores cometen delito internacional.
 
@@ -189,7 +189,7 @@ Las cláusulas de continuidad son **transversales** — afectan a múltiples pil
 
 ## TÍTULO XIV — RÉGIMEN DE COMISIONES ESPECIALES NACIONALES (CARMEN NAVAS)
 
-> Consolidación del documento específico `v0.1_comision_carmen_navas.md`. PENDIENTE de la LORAFEE de la CEV-CN.
+> Consolidación del documento específico `v0.1_comision_carmen_navas.md`. PENDIENTE de la Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas (LORAFEE) de la CEV-CN.
 
 **Artículo 164. Creación de la Comisión Especial Nacional para la Verdad, Memoria y Reparación "Carmen Navas" (CEV-CN).** Se crea como organismo con mandato temporal de 7 años, independencia funcional del Ejecutivo, planta propia de profesionales (106 profesionales), inmunidades procesales para comisionados, presupuesto anillo-financing 0,05% PIB anual obligatorio, transferencia automática por el BCV.
 
@@ -282,10 +282,10 @@ Las siguientes materias del Estado venezolano gozan del régimen de cláusula de
 
 **Artículo 181. Derogaciones.** Quedan derogadas todas las normas que contradigan las disposiciones de la presente Ley y, expresamente, las siguientes:
 - LOPSPP 2014 (LOOPPP) derogada por LOPSEP (Pilar III.8).
-- Ley Antibloqueo para el Desarrollo Nacional 2020 derogada por incompatibilidad con el OPI PDVSA matriz.
+- Ley Antibloqueo para el Desarrollo Nacional 2020 derogada por incompatibilidad con el Oferta Pública Inicial (OPI) Petróleos de Venezuela S.A. (PDVSA) matriz.
 - Funcionamiento del SAIME derogado; sus funciones asumen JNEM/CICPC.
 - LOPSPP 2014 derogada por LOPSEP.
-- LOAFSP 2000 y COT 2014 reformados parcialmente.
+- Ley Orgánica de la Administración Financiera del Sector Público (LOAFSP) 2000 y Código Orgánico Tributario (COT) 2014 reformados parcialmente.
 
 **Artículo 182. Remisiones expresas.** Todo lo no previsto en esta Ley respecto de los organismos y regímenes creados se rige por las leyes específicas siguientes:
 - Servicio civil: Ley Orgánica del Servicio Civil Meritocrático (LOSCM, Título II de Doc. 5).
@@ -300,7 +300,7 @@ Las siguientes materias del Estado venezolano gozan del régimen de cláusula de
 
 **Artículo 183. Cláusula final de interpretación.** La presente Ley Orgánica se interpreta en conformidad con los principios de meritoría, transparencia, subsidiariedad, evaluación y continuidad (Pilar 0 §II), buscando la integración sistémica entre Títulos y pilares del proyecto. Toda duda se resuelve por el Comité de Reforma del Estado (CRE) conforme al Pilar IV §IV.2, y en defecto por el TSJ meritocrático como intérprete supremo del ordenamiento jurídico.
 
-**Artículo 184. Cierre procesal.** La presente Ley puede entrar en vigor en paquete único en los **90 días iniciales del nuevo Gobierno** (Mes 0 a Mes 3) conforme al Plan de Implementación (Pilar IV). El ingreso progresivo de Títulos complementarios (LORPSP, LOBMC, LOPSEP, reforma LOAFSP, modificaciones LOPSPP, reforma LOH 2026 + LOM 2026 + LOPSPP 2014 + otras leyes orgánicas) se operativiza en los plazos establecidos por cada Título específico.
+**Artículo 184. Cierre procesal.** La presente Ley puede entrar en vigor en paquete único en los **90 días iniciales del nuevo Gobierno** (Mes 0 a Mes 3) conforme al Plan de Implementación (Pilar IV). El ingreso progresivo de Títulos complementarios (LORPSP, LOBMC, LOPSEP, reforma LOAFSP, modificaciones LOPSPP, reforma Ley Orgánica de Hidrocarburos (LOH) 2026 + Ley Orgánica de Minas (LOM) 2026 + LOPSPP 2014 + otras leyes orgánicas) se operativiza en los plazos establecidos por cada Título específico.
 
 ---
 
@@ -345,3 +345,49 @@ entra en plena aplicación una vez cumplidos los hitos Mes 36. Antes de eso, ope
 *La presente Sección V del Proyecto cierra el articulado del Estado venezolano prevista en la reforma. Las cláusulas de continuidad se fundamentan en la evidencia histórica-documental del Pilar I.1 (Diagnóstico sobre la discontinuidad), en el Informe UNESCO 1984 §275 (advertencia de discontinuidad en programas cognitivos), en el patrón documentado por las 4 sentencias Corte IDH vinculantes para VE, en el CIDH Doc. 253/24, en PROVEA 2025, y en la naturaleza misma del derecho constitucional comparado (art. 5° CF 1958). Las cláusulas 3/4 + referéndum son la única garantía material contra la revocación partidista recurrente que ha desarticulado el Estado venezolano desde 1984. Constituyen el verdadero fundamento garantista del proyecto, sin el cual todas las demás reformas serían reversibles por ley ordinaria — y por tanto, ilusión legislativa. La Sección V es la prueba de que la reforma se ha tomado en serio su propio carácter histórico.*
 
 **— Documento vivo: este archivo se actualiza conforme evolucione el proceso constituyente y las leyes orgánicas posteriores. La Versión 0.1 es el primer esqueleto consolidado; versiones 0.2+ introducirán refinamientos.**
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **ACNUR** | Alto Comisionado de las Naciones Unidas para los Refugiados |
+| **AN** | Asamblea Nacional |
+| **BCV** | Banco Central de Venezuela |
+| **BND** | Banco Nacional de Datos |
+| **CANTV** | Compañía Anónima Nacional Teléfonos de Venezuela |
+| **CICPC** | Cuerpo de Investigaciones Científicas, Penales y Criminalísticas |
+| **CIDH** | Comisión Interamericana de Derechos Humanos |
+| **CNSC** | Comisión Nacional del Servicio Civil |
+| **COT** | Código Orgánico Tributario |
+| **CPI** | Corte Penal Internacional |
+| **CPNP** | Cuerpo de Policía Nacional Profesional |
+| **CRBV** | Constitución de la República Bolivariana de Venezuela |
+| **DNA-RB** | Dirección Nacional Anticorrupción y Recuperación de Bienes |
+| **DNPEP** | Dirección Nacional de Planificación Estratégica y Prospectiva |
+| **FAN** | Fuerza Armada Nacional |
+| **FEM** | Fondo de Estabilización Macroeconómica |
+| **FNIP** | Fondo Nacional de Inversión Productiva |
+| **FOSEIP** | Fondo Soberano de Estabilización e Inversión Productiva |
+| **JNEM** | Junta Nacional de Evaluación Médica |
+| **LOAFSP** | Ley Orgánica de la Administración Financiera del Sector Público |
+| **LOBCV** | Ley Orgánica del Banco Central de Venezuela |
+| **LOH** | Ley Orgánica de Hidrocarburos |
+| **LOM** | Ley Orgánica de Minas |
+| **LORAFEE** | Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas |
+| **LORPSP** | Ley Orgánica de Reforma del Sector Público |
+| **LOSCM** | Ley Orgánica del Servicio Civil Meritocrático |
+| **MEDI** | Ministerio del Desarrollo de la Inteligencia |
+| **MIED-LAM** | Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado |
+| **OACNUDH** | Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos |
+| **OPI** | Oferta Pública Inicial |
+| **PDVSA** | Petróleos de Venezuela S.A. |
+| **RTER** | Régimen de Tres Exámenes Rigurosos |
+| **RUI** | Registro Único de Inmuebles |
+| **SAIME** | Servicio Administrativo de Identificación, Migración y Extranjería |
+| **SUNAA** | Superintendencia Nacional de Aguas y Saneamiento |
+| **TSJ** | Tribunal Supremo de Justicia |
+| **UNESCO** | Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura |
+| **VePass** | Clave Única de Identidad Digital |
+

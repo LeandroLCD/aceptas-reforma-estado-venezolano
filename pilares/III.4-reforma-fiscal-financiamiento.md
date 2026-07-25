@@ -29,10 +29,10 @@ cambio_h1_2026-07-15: La sección III.4.2 "Diversificación macroeconómica" fue
 
 Venezuela es uno de los casos más extremos del mundo del fenómeno conocido como **enfermedad holandesa** (*Dutch disease*): una economía cuya abundancia de recursos naturales no renovables genera un tipo de cambio real que destruye la competitividad del resto de los sectores productivos, induce al Estado a financiarse con renta extractiva en lugar de con tributación, y captura la elite política en una red de patronazgo petrolero.
 
-Las consecuencias son conocidas y han sido diagnosticadas por todas las escuelas económicas (desde el FMI hasta el Banco Central de Venezuela, desde CEPAL hasta los trabajos de Ricardo Hausmann):
+Las consecuencias son conocidas y han sido diagnosticadas por todas las escuelas económicas (desde el Fondo Monetario Internacional (FMI) hasta el Banco Central de Venezuela, desde Comisión Económica para América Latina y el Caribe (CEPAL) hasta los trabajos de Ricardo Hausmann):
 
 1. **Más del 90% de las exportaciones** venezolanas son hidrocarburos. En 1998 el petróleo explicaba ~70% del PIB fiscal; hoy esa cifra supera el 95% en años de precios altos.
-2. **La recaudación tributaria no petroleta** apenas supera el 6% del PIB —una de las tasas más bajas del mundo—. En Chile es ~17%, en Singapur ~14%, en los países OCDE promedio ~34%.
+2. **La recaudación tributaria no petroleta** apenas supera el 6% del PIB —una de las tasas más bajas del mundo—. En Chile es ~17%, en Singapur ~14%, en los países Organización para la Cooperación y el Desarrollo Económicos (OCDE) promedio ~34%.
 3. **El tipo de cambio real es artificialmente apreciado**: importar es barato, producir nacionalmente es inviable.
 4. **El Estado se ha acostumbrado a no cobrar impuestos a los ciudadanos**: el vínculo contributivo-ciudadano está roto.
 
@@ -234,4 +234,21 @@ Esta cláusula es la que asegura que ningún ciclo político posterior pueda vol
 
 ---
 
-*Continuará: III.5 Justicia y anticorrupción → inspirado en CPI Singapur + Ley de Extinción de Dominio.*
+*Continuará: III.5 Justicia y anticorrupción → inspirado en Corte Penal Internacional (CPI) Singapur + Ley de Extinción de Dominio.*
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **BCV** | Banco Central de Venezuela |
+| **CEPAL** | Comisión Económica para América Latina y el Caribe |
+| **COT** | Código Orgánico Tributario |
+| **CPI** | Corte Penal Internacional |
+| **FEM** | Fondo de Estabilización Macroeconómica |
+| **FMI** | Fondo Monetario Internacional |
+| **FOSEIP** | Fondo Soberano de Estabilización e Inversión Productiva |
+| **LOAFSP** | Ley Orgánica de la Administración Financiera del Sector Público |
+| **OCDE** | Organización para la Cooperación y el Desarrollo Económicos |
+

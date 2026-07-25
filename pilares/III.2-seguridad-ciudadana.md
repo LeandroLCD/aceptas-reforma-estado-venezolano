@@ -44,7 +44,7 @@ clausula_continuidad: 3/4 + referéndum ratificatorio
 # III.2. Seguridad ciudadana y restauración del orden público
 
 > *"La seguridad pública es enemiga del ciudadano. Se han convertido en una mafia, una estructura criminal que vive de la extorsión y el secuestro."*
-> — Voz del usuario venezolano, identificada como descripción literal de los cuerpos de seguridad del Estado (tal como documentan PROVEA, CIDH y Amnistía Internacional).
+> — Voz del usuario venezolano, identificada como descripción literal de los cuerpos de seguridad del Estado (tal como documentan PROVEA, Comisión Interamericana de Derechos Humanos (CIDH) y Amnistía Internacional).
 
 ## III.2.1. Diagnóstico integral: la cadena de captura institucional
 
@@ -52,7 +52,7 @@ El sistema de seguridad ciudadana venezolano es —según las propias conclusion
 
 ### III.2.1.1. Los cuerpos de seguridad operan estructuralmente como mafias
 
-La Ley Orgánica del Servicio de Policía y del Cuerpo de Policía Nacional Bolivariana (LOSPCN 2008) —122 chunks disponibles en la KB— reconoció desde su artículo 1 el carácter civil de los cuerpos de policía y prohibió expresamente la existencia de cuerpos armados con *"carácter paramilitar"* (Art. 332 CRBV). Sin embargo, la práctica documentada por los organismos de derechos humanos diverge sistemáticamente del marco normativo, en cinco dimensiones simultáneas:
+La Ley Orgánica del Servicio de Policía y del Cuerpo de Policía Nacional Bolivariana (LOSPCN 2008) —122 chunks disponibles en la KB— reconoció desde su artículo 1 el carácter civil de los cuerpos de policía y prohibió expresamente la existencia de cuerpos armados con *"carácter paramilitar"* (Art. 332 Constitución de la República Bolivariana de Venezuela (CRBV)). Sin embargo, la práctica documentada por los organismos de derechos humanos diverge sistemáticamente del marco normativo, en cinco dimensiones simultáneas:
 
 | # | Falla estructural | Evidencia documentada | KB |
 |---|-------|------------|---|
@@ -62,7 +62,7 @@ La Ley Orgánica del Servicio de Policía y del Cuerpo de Policía Nacional Boli
 | 4 | Sueldos incompatibles con la subsistencia: el Estado diseña salarios que obligan al policía a buscar "ingresos complementarios" — el modelo mafioso | OVV 2023 (categorías de muertes violentas: 953 fallecidos en "intervención policial" que requieren auditoría independiente) | `data/venezuela/seguridad/ovv/ovv_informe_2023.md` |
 | 5 | Reclutamiento de civiles armados como "colectivos" parapolicías, en cohabitación con cuerpos oficiales | PROVEA 2025, cap. 18 (Vida) + Análisis contextual CIDH 253/24 | `data/venezuela/haya/provea/Provea-2025-18Vida.md` |
 
-La cifra consolidada del OVV 2023 (`data/venezuela/seguridad/ovv/ovv_informe_2023.md`) es concluyente: 6.973 muertes violentas en 2023 (tasa 26,8/100K, estimada sobre 26M de habitantes), lo que representa una reducción del 25% respecto a 2021-2022 (9.447 y 9.367 respectivamente, tasas de 34,9 y 35,3), pero con la persistencia sospechosa de 953 fallecidos en *intervención policial* (categoría que debe auditarse por el nuevo CPNP propuesto).
+La cifra consolidada del OVV 2023 (`data/venezuela/seguridad/ovv/ovv_informe_2023.md`) es concluyente: 6.973 muertes violentas en 2023 (tasa 26,8/100K, estimada sobre 26M de habitantes), lo que representa una reducción del 25% respecto a 2021-2022 (9.447 y 9.367 respectivamente, tasas de 34,9 y 35,3), pero con la persistencia sospechosa de 953 fallecidos en *intervención policial* (categoría que debe auditarse por el nuevo Cuerpo de Policía Nacional Profesional (CPNP) propuesto).
 
 ### III.2.1.2. Captura institucional del Poder Ciudadano y de los órganos de control
 
@@ -77,7 +77,7 @@ A estas se suma el **Informe CIDH Doc. 253/24** (27/12/2024), aprobado por la Co
 
 ### III.2.1.3. Crisis de formación cívica que precede a todas las anteriores
 
-Esta sección se vincula argumentativamente con la I.1 de la Parte I (Diagnóstico Integral), pero aquí se añade la perspectiva penal. Los cuerpos de seguridad no se forman en DDHH ni en servicio público porque el sistema educativo que debía proveer la base meritocrática fue desarmado en 1984 (MEDI). El presente diagnóstico queda **incompleto si se reforma la policía sin reformar simultáneamente MIED-LAM (Pilar III.3) y el Servicio Civil Meritocrático (Pilar III.1)**.
+Esta sección se vincula argumentativamente con la I.1 de la Parte I (Diagnóstico Integral), pero aquí se añade la perspectiva penal. Los cuerpos de seguridad no se forman en DDHH ni en servicio público porque el sistema educativo que debía proveer la base meritocrática fue desarmado en 1984 (Ministerio del Desarrollo de la Inteligencia (MEDI)). El presente diagnóstico queda **incompleto si se reforma la policía sin reformar simultáneamente Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (MIED-LAM) (Pilar III.3) y el Servicio Civil Meritocrático (Pilar III.1)**.
 
 ### III.2.1.4. Crímenes contra la humanidad documentados por la comunidad internacional
 
@@ -120,7 +120,7 @@ La Ley Orgánica del Servicio de Policía Municipal, junto con la LOSPCN 2008, f
 
 ### III.2.2.3. Regime disciplinario actual — diseño correcto, ejecución capturada
 
-La LOSPCN 2008 art. 78 prevé participación comunitaria y Consejos Comunales en evaluación policial, y su art. 56 organiza jerarquías en tres niveles (operativo, táctico, estratégico). Está correctamente diseñada. **Falta ejecución y coordinación con DNA-RB (Pilar III.6) y Ministerio Público unificado**, que es lo que este pilar III.2 propone explícitamente.
+La LOSPCN 2008 art. 78 prevé participación comunitaria y Consejos Comunales en evaluación policial, y su art. 56 organiza jerarquías en tres niveles (operativo, táctico, estratégico). Está correctamente diseñada. **Falta ejecución y coordinación con Dirección Nacional Anticorrupción y Recuperación de Bienes (DNA-RB) (Pilar III.6) y Ministerio Público unificado**, que es lo que este pilar III.2 propone explícitamente.
 
 ## III.2.3. Responsabilidad penal individual internacional — investigación activa del CPI
 
@@ -276,7 +276,7 @@ Arquitectura de seguridad pública (modelo Carabineros + PDI Chile)
         └── Escuela de Migraciones y Extranjería (especialización JNEM)
 ```
 
-**Nota arquitectónica**: el CPNP y el CICPC son **dos cuerpos diferenciados de carácter civil** con regímenes estatutarios y presupuestarios separados, análogos a Carabineros/PDI en Chile. No hay subordinación orgánica entre ambos: comparten VePass-Firma obligatoria, BND, Ministerio Público unificado y patrones de protección DDHH, pero cada uno tiene su propio Director General ratificado por AN 3/5 + período 6 años único + 7 causales de destitución. La coordinación operativa es regional (ver III.2.7.3) y por casos complejos (investigaciones conjuntas, intercambios de inteligencia).
+**Nota arquitectónica**: el CPNP y el Cuerpo de Investigaciones Científicas, Penales y Criminalísticas (CICPC) son **dos cuerpos diferenciados de carácter civil** con regímenes estatutarios y presupuestarios separados, análogos a Carabineros/PDI en Chile. No hay subordinación orgánica entre ambos: comparten VePass-Firma obligatoria, Banco Nacional de Datos (BND), Ministerio Público unificado y patrones de protección DDHH, pero cada uno tiene su propio Director General ratificado por Asamblea Nacional (AN) 3/5 + período 6 años único + 7 causales de destitución. La coordinación operativa es regional (ver III.2.7.3) y por casos complejos (investigaciones conjuntas, intercambios de inteligencia).
 
 ### III.2.7.3. Regiones operativas: reagrupamiento territorial
 
@@ -419,14 +419,14 @@ Esta regla *career-only* opera también como **compromiso institucional contra c
 ### III.2.8.3. Procedimiento expedito de separación
 
 Ante notificación de investigación internacional o sanción extranjera (causal #6):
-1. El TSJ meritocrático (Pilar III.6) designa Director General interino en 15 días.
+1. El Tribunal Supremo de Justicia (TSJ) meritocrático (Pilar III.6) designa Director General interino en 15 días.
 2. La AN se pronuncia en 30 días calendario.
 3. Si la decisión es de separación, opera de pleno derecho por ministerio de la ley.
 4. Recursos ante jurisdicción internacional competente respetan el debido proceso.
 
 ### III.2.8.4. Veeduría internacional obligatoria
 
-La gestión del CPNP está sujeta a **veeduría internacional permanente** de 8 años posteriores a la designación, ejercida por un panel mixto OACNUDH + CIDH con poder de:
+La gestión del CPNP está sujeta a **veeduría internacional permanente** de 8 años posteriores a la designación, ejercida por un panel mixto Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (OACNUDH) + CIDH con poder de:
 - Acceso irrestricto a todos los archivos internos del CPNP.
 - Publicación inmediata de informes trimestrales vinculantes.
 - Facultad de señalización ante la AN (3/4) y ante la CPI si surgen patrones delictivos.
@@ -435,24 +435,24 @@ La gestión del CPNP está sujeta a **veeduría internacional permanente** de 8 
 
 Análogamente al régimen del CPNP (sección §III.2.8), el Director General del CICPC está sometido al siguiente estatuto:
 
-1. **Designación**: concurso público nacional de méritos y antecedentes con jurado mixto: (a) 5 expertos en investigación criminal (UNODC/INTERPOL) designados por la CNSC (Pilar III.1); (b) 2 veedores internacionales designados por la UNODC y la OEA-CICIG.
+1. **Designación**: concurso público nacional de méritos y antecedentes con jurado mixto: (a) 5 expertos en investigación criminal (UNODC/INTERPOL) designados por la Comisión Nacional del Servicio Civil (CNSC) (Pilar III.1); (b) 2 veedores internacionales designados por la UNODC y la OEA-CICIG.
 2. **Procedencia obligatoria de las filas del cuerpo técnico (*career-only*, principio de carrera interna)**: el Director General del CICPC debe haber sido **miembro activo del cuerpo técnico del CICPC (o del cuerpo técnico-forense predecesor, o de un cuerpo policial especializado equivalente)** durante un mínimo de **veinte (20) años continuos o discontinuos** y haber alcanzado al menos el rango de **Comisario/a General (Directivo Superior del cuerpo)** o su equivalente funcional. Esta regla cierra la injerencia política exógena y mantiene la coherencia técnico-institucional, alineando con la práctica del Director de la Policía Federal de Australia (AFP), del jefe de la BKA alemana, del Director General de la PDI chilena.
 3. **Ratificación por la Asamblea Nacional con mayoría de 3/5**.
 4. **Período único de 6 años no reelegible**.
 5. **Incompatibilidad post-mandato de 5 años**.
 6. **7 causales de destitución idénticas** a las del Director del CPNP (análogas a la sección §III.2.8.2), incluyendo causal #6 (investigación internacional) **con blindaje reforzado en lo referente a investigación de delitos contra DDHH**.
 7. **Veeduría internacional obligatoria por 8 años** ejercida por el mismo panel mixto OACNUDH + CIDH que supervisa el CPNP, con poder reforzado de investigación de delitos contra DDHH y**obligación expresa de cooperar con la CPI** en el caso Venezuela I.
-8. **Vinculación presupuestaria al BCV**: asigna un mínimo del **0,2% del PIB** al CICPC, transferido mensualmente con prohibición de retención, fiscalizado por la DNA-RB (Pilar III.6).
+8. **Vinculación presupuestaria al Banco Central de Venezuela (BCV)**: asigna un mínimo del **0,2% del PIB** al CICPC, transferido mensualmente con prohibición de retención, fiscalizado por la DNA-RB (Pilar III.6).
 9. **Director General es incompatible con cualquier cargo de elección popular ni del Poder Ciudadano**.
 
 **Procedimiento expedito de separación (causal #6)**: análogo al del Director del CPNP (§III.2.8.3), con notificación al TSJ meritocrático quien designa Director General interino del CICPC. En caso de **investigación de la CPI por delitos específicamente relacionados con criminalística falsa, cadena de custodia rota, o fabricación de prueba pericial**, la separación opera de pleno derecho por ministerio de la ley, sin sustitución temporal del Director.
 
 ### III.2.8.6. Régimen del Subdirector Nacional de Migración (JNEM)
 
-El Subdirector Nacional de Migración tiene **rango equivalente al Director del CPNP** (régimen paralelo §III.2.8) en lo referente a JNEM:
+El Subdirector Nacional de Migración tiene **rango equivalente al Director del CPNP** (régimen paralelo §III.2.8) en lo referente a Junta Nacional de Evaluación Médica (JNEM):
 
-1. **Designación**: concurso público de méritos con jurado mixto: (a) 5 expertos nacionales designados por la CNSC (Pilar III.1); (b) 2 veedores internacionales designados por ACNUR y OIM.
-2. **Procedencia obligatoria de las filas del cuerpo (*career-only*, principio de carrera interna con crossover dedicado)**: el Subdirector Nacional de Migración debe haber sido **miembro activo de la JNEM** o de un cuerpo similar migratorio predecesor (SAIME, DIEX/DIM, o de la división de control migratorio de cualquier cuerpo especializado) durante un mínimo de **quince (15) años continuos o discontinuos** y haber alcanzado al menos el rango de **Comisario/a General migratorio** o equivalente funcional. Regla *career-only* análoga a la del CPNP y del CICPC.
+1. **Designación**: concurso público de méritos con jurado mixto: (a) 5 expertos nacionales designados por la CNSC (Pilar III.1); (b) 2 veedores internacionales designados por Alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR) y OIM.
+2. **Procedencia obligatoria de las filas del cuerpo (*career-only*, principio de carrera interna con crossover dedicado)**: el Subdirector Nacional de Migración debe haber sido **miembro activo de la JNEM** o de un cuerpo similar migratorio predecesor (Servicio Administrativo de Identificación, Migración y Extranjería (SAIME), DIEX/DIM, o de la división de control migratorio de cualquier cuerpo especializado) durante un mínimo de **quince (15) años continuos o discontinuos** y haber alcanzado al menos el rango de **Comisario/a General migratorio** o equivalente funcional. Regla *career-only* análoga a la del CPNP y del CICPC.
 3. **Ratificación por la AN con mayoría de 3/5**.
 4. **Período único de 6 años no reelegible**.
 5. **Incompatibilidad post-mandato de 5 años**.
@@ -612,7 +612,7 @@ El modelo está diseñado para que la **tasa de aprobación global del RTER sea 
 La tasa estimada de transición por cuerpo (18 meses):
 - CPNP: ~30% aprobación directa, ~10% segunda oportunidad = ~50% transición exitosa. Resto: salida honrosa + investigación DNA-RB según corresponda.
 - CICPC: ~55% aprobación directa por la naturaleza ya pre-técnica del cuerpo (mayor proporción de personal con formación universitaria de base); ~10% segunda oportunidad.
-- GNB + DGCIM + DISP + PNASPMH: no se reincorporan al CPNP ni al CICPC. Salida honrosa con indemnización según escala y reconversión PND según convenga.
+- GNB + Dirección General de Contrainteligencia Militar (DGCIM) + DISP + PNASPMH: no se reincorporan al CPNP ni al CICPC. Salida honrosa con indemnización según escala y reconversión PND según convenga.
 
 Esta **no es una limpieza ideológica**: el RTER es una evaluación técnica multidimensional de aptitud. La tasa de rechazo no representa una decisión política sobre quién es "amigo del régimen", sino el **informe técnico** sobre una organización del Estado que los organismos internacionales han acreditado reiteradamente como estructurada en torno a prácticas de lesa humanidad. Quien apruebe los tres exámenes es candidato legítimo; quien no apruebe, no accede a funciones estructurales del Estado en materia de seguridad.
 
@@ -642,7 +642,7 @@ La Jefatura Nacional de Extranjería y Migración es la **ventana institucional*
 - **ACNUR** (Alto Comisionado de la ONU para los Refugiados) — adhesión a la Convención 1951 sobre el Estatuto de los Refugiados + Protocolo de 1967 + Convención apátrida de 1954; recepción y procesamiento de solicitudes de estatus de refugiado; verificación de condiciones en país de origen; procesamiento con debido proceso (audiencia, derecho a defensa, apelaciones ante TSJ meritocrático).
 - **OIM** (Organización Internacional para las Migraciones) — cooperación técnica para centros de recepción, asistencia a migrantes vulnerables, programas de retorno voluntario.
 - **OMC y OIT** — facilitación del comercio transfronterizo y derechos del trabajador migrante.
-- **FRONTEX UE** (Agencia Europea de Fronteras) — cooperación en control de flujos migratorios regulares y lucha contra flujos irregulares.
+- **Agencia Europea de la Guardia de Fronteras y Costas (FRONTEX) UE** (Agencia Europea de Fronteras) — cooperación en control de flujos migratorios regulares y lucha contra flujos irregulares.
 - **Mecanismos regionales de integración** (Mercosur, OTCA) para facilitación de tránsito y residencia.
 
 La JNEM es evaluada periódicamente (anualmente) por estas agencias con informes públicos vinculantes, replicando el principio de **veeduría internacional** del CPNP y del CICPC en sí mismos.
@@ -669,7 +669,7 @@ La JNEM es evaluada periódicamente (anualmente) por estas agencias con informes
 ### III.2.10.5. Con Pilar III.4 Reforma Fiscal
 
 - Costo del CPNP: ~USD 4.500 M/año (~150.000 agentes a USD 2.500 promedio + estructura administrativa + sobrevalor zonas calientes).
-- Financiamiento: OPI PDVSA (USD 8-15 MM una vez, Pilar III.5 III.5.2) + reforma tributaria ampliada del Pilar III.4 + crédito externo reestructurado (Pilar III.4 III.4.6).
+- Financiamiento: Oferta Pública Inicial (OPI) Petróleos de Venezuela S.A. (PDVSA) (USD 8-15 MM una vez, Pilar III.5 III.5.2) + reforma tributaria ampliada del Pilar III.4 + crédito externo reestructurado (Pilar III.4 III.4.6).
 
 ## III.2.11. Cronograma de implementación (0-12 meses)
 
@@ -761,7 +761,7 @@ El **Cuerpo de Policía Nacional Profesional**, su naturaleza civil, su estructu
 3. **Reversión de la auditoría independiente** (vigilancia OACNUDH/CIDH o equivalente): requiere mayoría de **tres cuartos (3/4)** + referéndum popular ratificatorio.
 4. **Supresión del BND-ADN para fines forenses** o descontinuación del perfil obligatorio para detenidos: requiere mayoría de **tres cuartos (3/4)** + referéndum popular ratificatorio.
 5. **Eliminación del Comité Nacional de Coordinación Interinstitucional CPNP↔CICPC** o sustitución por subordinación orgánica: requiere mayoría de **tres cuartos (3/4)** + referéndum popular ratificatorio.
-6. **Reversión o eliminación de la transferencia de la Jefatura Nacional de Extranjería y Migración (JNEM)** desde el SAIME a la CICPC, o cualquier regreso del control migratorio a la FAN: requiere mayoría de **tres cuartos (3/4)** + referéndum popular ratificatorio.
+6. **Reversión o eliminación de la transferencia de la Jefatura Nacional de Extranjería y Migración (JNEM)** desde el SAIME a la CICPC, o cualquier regreso del control migratorio a la Fuerza Armada Nacional (FAN): requiere mayoría de **tres cuartos (3/4)** + referéndum popular ratificatorio.
 7. **Modificación del régimen de VePass-Firma obligatoria** en JNEM (suspensión del control biográfico para extranjeros residentes): mayoría de **tres cuartos (3/4)** + referéndum popular ratificatorio.
 8. **Traspaso del mando operativo de puertos, aeropuertos o pasos fronterizos a cualquier otra autoridad distinta de la JNEM/CICPC** (incluida la FAN): mayoría de **tres cuartos (3/4)** + referéndum popular ratificatorio. Cualquier intento de regreso al control migratorio militarizado queda explícitamente prohibido.
 9. **Procedimientos de expulsión administrativa sin debido proceso o revisión TSJ meritocrática**: inconstitucional de nulidad; expulsión solo procede por sentencia firme del TSJ meritocrático o por procedimiento administrativo ratificado por el Subdirector Nacional de Migración.
@@ -769,8 +769,56 @@ El **Cuerpo de Policía Nacional Profesional**, su naturaleza civil, su estructu
 
 **Salvaguardia contra designación política exógena**: el principio *career-only* para el Director General del CPNP, el Director General del CICPC y el Subdirector Nacional de Migración (procedencia obligatoria desde las filas del cuerpo) es una garantía blindada constitucionalmente. Cualquier intento de modificación de los requisitos *career-only* (reducción de años mínimos de servicio, sustitución por equivalencias abusivas, ingreso de externos al cuerpo antes de los plazos establecidos, sustitución por designado político directo) requiere mayoría de **tres cuartos (3/4)** + referéndum popular ratificatorio. **Toda designación que viole el principio *career-only* es nula de nulidad absoluta** desde el inicio, **responsabilidad penal directa** del funcionario que la haya ordenado o aceptado, y proceder de separación inmediata por causal #1 (omisión deliberada de funciones) + causal #6 (internacional) si procediere.
 
-**Fundamento**: análoga a la cláusula de blindaje del MIED-LAM (Pilar III.3) y de la PSC (Pilar III.1), se justifica por la confirmación histórica y documental —en el diagnóstico de este mismo pilar con base en CIDH Doc. 253/24, las 4 sentencias de la Corte IDH y los capítulos 14/15/16/18 de PROVEA 2025— de que Venezuela desactiva sistemáticamente las capacidades de seguridad profesional en cada ciclo político. Sin blindaje, será desmontada por el próximo ciclo y las violaciones continuarían. La justificación específica de la separación orgánica CPNP/CICPC se fundamenta en la historia venezolana (fusión ANIC-PTJ de 1969 que abrió camino a la politización de la investigación criminal bajo la PTJ pre-2008) y en la experiencia chilena (Carabineros/PDI desde 1975 como modelo exitoso).
+**Fundamento**: análoga a la cláusula de blindaje del MIED-LAM (Pilar III.3) y de la Public Service Commission (PSC) (Pilar III.1), se justifica por la confirmación histórica y documental —en el diagnóstico de este mismo pilar con base en CIDH Doc. 253/24, las 4 sentencias de la Corte IDH y los capítulos 14/15/16/18 de PROVEA 2025— de que Venezuela desactiva sistemáticamente las capacidades de seguridad profesional en cada ciclo político. Sin blindaje, será desmontada por el próximo ciclo y las violaciones continuarían. La justificación específica de la separación orgánica CPNP/CICPC se fundamenta en la historia venezolana (fusión ANIC-PTJ de 1969 que abrió camino a la politización de la investigación criminal bajo la PTJ pre-2008) y en la experiencia chilena (Carabineros/PDI desde 1975 como modelo exitoso).
 
 ---
 
 *Próximo paso: la integración operativa con el Pilar III.5 (FNIP coordinado con CPNP en zonas mineras) y el Pilar III.7 (BND-ADN como infraestructura crítica) se documentará en el Plan de Implementación (Pilar IV) y en el Texto Articulado (Pilar V).*
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **ACNUR** | Alto Comisionado de las Naciones Unidas para los Refugiados |
+| **AN** | Asamblea Nacional |
+| **BCV** | Banco Central de Venezuela |
+| **BND** | Banco Nacional de Datos |
+| **CICPC** | Cuerpo de Investigaciones Científicas, Penales y Criminalísticas |
+| **CIDH** | Comisión Interamericana de Derechos Humanos |
+| **CNSC** | Comisión Nacional del Servicio Civil |
+| **CPI** | Corte Penal Internacional |
+| **CPIB** | Corrupt Practices Investigation Bureau |
+| **CPNP** | Cuerpo de Policía Nacional Profesional |
+| **CRBV** | Constitución de la República Bolivariana de Venezuela |
+| **CSC** | Civil Service College |
+| **Cédula-RUT** | Cédula con Rol Único Tributario |
+| **DGCIM** | Dirección General de Contrainteligencia Militar |
+| **DNA-RB** | Dirección Nacional Anticorrupción y Recuperación de Bienes |
+| **DNPEP** | Dirección Nacional de Planificación Estratégica y Prospectiva |
+| **FAN** | Fuerza Armada Nacional |
+| **FEM** | Fondo de Estabilización Macroeconómica |
+| **FNIP** | Fondo Nacional de Inversión Productiva |
+| **FRONTEX** | Agencia Europea de la Guardia de Fronteras y Costas |
+| **GAFI** | Grupo de Acción Financiera Internacional |
+| **GNB** | Guardia Nacional Bolivariana |
+| **INTERPOL** | Organización Internacional de Policía Criminal |
+| **JNEM** | Junta Nacional de Evaluación Médica |
+| **LCA** | Ley de Carrera Administrativa |
+| **LOSPCN** | Ley Orgánica del Servicio de Policía y Cuerpo de Policía Nacional |
+| **MEDI** | Ministerio del Desarrollo de la Inteligencia |
+| **MIED-LAM** | Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado |
+| **OACNUDH** | Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos |
+| **OEA** | Organización de los Estados Americanos |
+| **OPI** | Oferta Pública Inicial |
+| **PDVSA** | Petróleos de Venezuela S.A. |
+| **PNUD** | Programa de las Naciones Unidas para el Desarrollo |
+| **PSC** | Public Service Commission |
+| **RTER** | Régimen de Tres Exámenes Rigurosos |
+| **RUI** | Registro Único de Inmuebles |
+| **RUP** | Registro Único de Profesionales |
+| **SAIME** | Servicio Administrativo de Identificación, Migración y Extranjería |
+| **TSJ** | Tribunal Supremo de Justicia |
+| **VePass** | Clave Única de Identidad Digital |
+

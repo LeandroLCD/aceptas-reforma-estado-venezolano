@@ -72,9 +72,9 @@ La vía de salida es única: **desmonopolizar paulatinamente la extracción** (c
 
 ### III.5.1.3. La ruptura constitucional de 1999: lo que pudo haber sido un éxito
 
-El Art. 299 CRBV consagra un horizonte promisorio: *"El Estado, en conjunto con la iniciativa privada, promoverá el desarrollo económico y la diversificación productiva, en armónica relación con la planificación estratégica, el desarrollo humano integral y la integración latinoamericana."* Ese articulado **reconoce que el Estado NO debe sustituir al mercado**, pero debe **orquestar** la diversificación.
+El Art. 299 Constitución de la República Bolivariana de Venezuela (CRBV) consagra un horizonte promisorio: *"El Estado, en conjunto con la iniciativa privada, promoverá el desarrollo económico y la diversificación productiva, en armónica relación con la planificación estratégica, el desarrollo humano integral y la integración latinoamericana."* Ese articulado **reconoce que el Estado NO debe sustituir al mercado**, pero debe **orquestar** la diversificación.
 
-Más adelante, las **Leyes Orgánicas** dictadas en el período afectado (LOPSPP/LOPP 2014, LOAFSP 2000, COT 2014) sí incluyen mecanismos virtuosos — pero el Estado ha capturado su gestión, mediante ONAPRE, SUNACC y la LOH cuya aplicación real ha sido impedir la diversificación.
+Más adelante, las **Leyes Orgánicas** dictadas en el período afectado (LOPSPP/LOPP 2014, Ley Orgánica de la Administración Financiera del Sector Público (LOAFSP) 2000, Código Orgánico Tributario (COT) 2014) sí incluyen mecanismos virtuosos — pero el Estado ha capturado su gestión, mediante ONAPRE, SUNACC y la Ley Orgánica de Hidrocarburos (LOH) cuya aplicación real ha sido impedir la diversificación.
 
 ## III.5.2. Estrategia en cuatro frentes simultáneos
 
@@ -82,12 +82,12 @@ Siguiendo la fórmula consolidada en el Pilar III.4 §III.4.2, esta sección rea
 
 ### III.5.2.1. Frente 1 — Fondo Soberano de Estabilización e Inversión Productiva (FOSEIP)
 
-Modelo inspirado en GPFG de Noruega (USD 1,7 billones, propiedad pública al 100%, gestión externa), FRP/FEES chileno (aportes fiscales automáticos) y GIC Temasek (manejo con orientación de mercado). El FOSEIP:
+Modelo inspirado en Government Pension Fund Global (GPFG) de Noruega (USD 1,7 billones, propiedad pública al 100%, gestión externa), FRP/FEES chileno (aportes fiscales automáticos) y GIC Temasek (manejo con orientación de mercado). El Fondo Soberano de Estabilización e Inversión Productiva (FOSEIP):
 
 - Todo ingreso petrolero **por encima del precio de referencia plurianual** (promedio móvil 10 años, rebalanceo cada 5 años para evitarpath dependencies) se deposita automáticamente.
 - Los recursos se invierten **exclusivamente** en (a) activos financieros internacionales de bajo riesgo, (b) participación accionaria en **empresas no petroleras venezolanas estratégicas** (tecnología, agroindustria, manufactura avanzada).
 - Los retornos financian infraestructura y capital humano, **nunca** gasto corriente.
-- Directorio de **5 miembros designados por la AN con ratificación 3/5** por períodos no coincidentes con el ciclo político (8 años cada uno, vencimiento escalonado), con prohibición absoluta de contratar con el Estado venezolano.
+- Directorio de **5 miembros designados por la Asamblea Nacional (AN) con ratificación 3/5** por períodos no coincidentes con el ciclo político (8 años cada uno, vencimiento escalonado), con prohibición absoluta de contratar con el Estado venezolano.
 - **Cláusula de continuidad 3/4 + referéndum** para eliminarlo o modificarlo (más detallada en §III.5.11).
 
 ### III.5.2.2. Frente 2 — Reforma tributaria no petroleta (resumida del Pilar III.4)
@@ -106,13 +106,13 @@ Meta al año 5: pasar de ~6% a 14% de recaudación no petroleta del PIB. Espacio
 
 Conforme al Pilar III.4 §III.4.2(3), pero detallado como sección propia:
 
-- **Agroindustria**: eliminación del control de cambios + impuesto al patrimonio neto para tierras ociosas + catastro digital RUI (Pilar III.7 §III.7.3.2) + simplificación de la propiedad rural.
+- **Agroindustria**: eliminación del control de cambios + impuesto al patrimonio neto para tierras ociosas + catastro digital Registro Único de Inmuebles (RUI) (Pilar III.7 §III.7.3.2) + simplificación de la propiedad rural.
 - **Manufactura avanzada**: Zonas Económicas Especiales (ZEE) con conectividad garantizada + energía estable (parques solares fiscales) + exoneración 10 años.
 - **Servicios**: turismo + hub financiero regional + servicios de salud para la diáspora (modelo Medellín 2010s).
 
 ### III.5.2.4. Frente 4 — Reforma del régimen cambiario (resumida del Pilar III.4 §III.4.2(4))
 
-Cronograma de **18 meses** arrancando en el mes 1: apertura de banda cambiaria ±15% (mes 1) → eliminación recargo 25% + IGTF (mes 1-6) → sanción LOBCV (mes 3-6) → flotación administrada con meta inflación <30% (mes 6-12) → autonomía plena del BCV + *crawling-peg* explícito (mes 12) → convergencia y sanción Ley de Dolarización (mes 12-15) → transición (mes 15-18) → dolarización oficial del USD como moneda de curso legal (mes 18).
+Cronograma de **18 meses** arrancando en el mes 1: apertura de banda cambiaria ±15% (mes 1) → eliminación recargo 25% + IGTF (mes 1-6) → sanción Ley Orgánica del Banco Central de Venezuela (LOBCV) (mes 3-6) → flotación administrada con meta inflación <30% (mes 6-12) → autonomía plena del BCV + *crawling-peg* explícito (mes 12) → convergencia y sanción Ley de Dolarización (mes 12-15) → transición (mes 15-18) → dolarización oficial del USD como moneda de curso legal (mes 18).
 
 El bolívar queda como **moneda simbólica** (modelo Panamá 1904) — moedas fraccionarias y registro contable, sin curso legal forzoso. Cláusula de continuidad en el Art. 318 CRBV reformado: 3/5 AN + referéndum.
 
@@ -122,7 +122,7 @@ El bolívar queda como **moneda simbólica** (modelo Panamá 1904) — moedas fr
 
 El Art. 303 CRBV literal dice: *"el Estado conservará la totalidad de las acciones de Petróleos de Venezuela, S.A."* Esto implica monopolio absoluto del Estado en PDVSA matriz, incompatible con nuestra propuesta del 51% estatal.
 
-Solución ya redactada en Doc. 3 §III.4.2(3) y Doc. 5 Art. 24: **sentencia interpretativa del TSJ meritocrático** (Pilar III.6) en sala constitucional que sustituya "totalidad" por **"al menos el cincuenta y uno por ciento (51%) de las acciones ordinarias con derecho a voto"**. Publicación en Gaceta Oficial con carácter vinculante *erga omnes*. Detalles del mecanismo en Pilar III.6 sección III.6.X.
+Solución ya redactada en Doc. 3 §III.4.2(3) y Doc. 5 Art. 24: **sentencia interpretativa del Tribunal Supremo de Justicia (TSJ) meritocrático** (Pilar III.6) en sala constitucional que sustituya "totalidad" por **"al menos el cincuenta y uno por ciento (51%) de las acciones ordinarias con derecho a voto"**. Publicación en Gaceta Oficial con carácter vinculante *erga omnes*. Detalles del mecanismo en Pilar III.6 sección III.6.X.
 
 La reinterpretación respeta la jerarquía constitucional (Art. 334 la propia CRBV permite reformas por sala constitucional cuando hay ambigüedad interpretativa) y permite soberanía pública + privada sin necesidad de reforma constitiuyente.
 
@@ -140,7 +140,7 @@ Ingresos esperados: **USD 8.000-15.000 millones** netos (después de comisiones)
 - 30% al **FOSEIP** (§III.5.2.1).
 - 30% al **FEM** (Pilar III.4) para acumulación de reservas BCV.
 - 15% al **FNIP** (Fondo Nacional de Inversión Productiva, §III.5.7).
-- 15% a la **reconversión** del CPNP (Pilar III.2) + 10% al MIED-LAM (Pilar III.3).
+- 15% a la **reconversión** del Cuerpo de Policía Nacional Profesional (CPNP) (Pilar III.2) + 10% al Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (MIED-LAM) (Pilar III.3).
 
 ### III.5.3.3. Directorio meritocrático bajo CNSC
 
@@ -168,7 +168,7 @@ La nueva LOH (Gaceta 6978 Ext., indexada en la KB) redefine **"Empresa Mixta"** 
 
 (Siguiendo el patrón único del proyecto, esta ley está consolidada como Título IV del Texto Articulado — ver Doc. 5).
 
-La LORAFEE define **cuándo** el Estado puede **adquirir** (a través de la DNA-RB del Pilar III.6) hasta el 51% de una empresa estratégica mixta o privada cotizada:
+La Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas (LORAFEE) define **cuándo** el Estado puede **adquirir** (a través de la Dirección Nacional Anticorrupción y Recuperación de Bienes (DNA-RB) del Pilar III.6) hasta el 51% de una empresa estratégica mixta o privada cotizada:
 
 **Causales taxativas (7 cláusulas)**:
 1. Amenaza concreta a la soberanía energética, alimentaria o de defensa nacional verificada por el DNPEP (Pilar III.8).
@@ -219,10 +219,10 @@ Cuerpoelec, donde se centraliza el colapso eléctrico, se privatiza en **7 uen**
 
 Dos procedimientos paralelos:
 
-- **CANTV**: licitación pública internacional mes 0-6, con enajenación accionaria al 100% vía decreto presidencial ejecutivo + pliego de condiciones técnicas y laborales.
+- **Compañía Anónima Nacional Teléfonos de Venezuela (CANTV)**: licitación pública internacional mes 0-6, con enajenación accionaria al 100% vía decreto presidencial ejecutivo + pliego de condiciones técnicas y laborales.
 - **Movilnet**: enajenación mes 6-12.
 
-Ambas privatizaciones respetan los **compromisos laborales vigentes** (LOTTT + prestaciones post-privatización), garantizando estabilidad del empleo por 24 meses.
+Ambas privatizaciones respetan los **compromisos laborales vigentes** (Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras (LOTTT) + prestaciones post-privatización), garantizando estabilidad del empleo por 24 meses.
 
 Marco regulatorio independiente: **CONATEL** (existente, LOTEL 2011) se mantiene como regulador técnico independiente.
 
@@ -383,8 +383,47 @@ Todo intento de reforma por **decreto presidencial, ley habilitante o asamblea c
 
 ## III.5.13. Nota arquitectónica
 
-Este Pilar III.5 es la **columna vertebral material** del proyecto. Pero por sí solo no transforma: depende de III.1 (meritocracia para los directorios), III.2 (seguridad en zonas mineras y eléctricas), III.3 (capital humano para empresas mixtas), III.4 (reforma tributaria + cronograma monetario), III.6 (DNA-RB para procesar cualquier compra forzosa), III.7 (BND y VePass para trazabilidad de transacciones corporativas) y III.8 (DNPEP para presupuesto plurianual). La propuesta es **integrada**, no sectorial.
+Este Pilar III.5 es la **columna vertebral material** del proyecto. Pero por sí solo no transforma: depende de III.1 (meritocracia para los directorios), III.2 (seguridad en zonas mineras y eléctricas), III.3 (capital humano para empresas mixtas), III.4 (reforma tributaria + cronograma monetario), III.6 (DNA-RB para procesar cualquier compra forzosa), III.7 (Banco Nacional de Datos (BND) y Clave Única de Identidad Digital (VePass) para trazabilidad de transacciones corporativas) y III.8 (DNPEP para presupuesto plurianual). La propuesta es **integrada**, no sectorial.
 
 ---
 
-*Continuación: Texto Articulado del proyecto (Pilar V) consolida el régimen de LORAFEE, LORPSP, LOBMC y LOPSEP en un único cuerpo legal al servicio del proceso constituyente de la AN pluricultural.*
+*Continuación: Texto Articulado del proyecto (Pilar V) consolida el régimen de LORAFEE, Ley Orgánica de Reforma del Sector Público (LORPSP), LOBMC y LOPSEP en un único cuerpo legal al servicio del proceso constituyente de la AN pluricultural.*
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **AN** | Asamblea Nacional |
+| **BCV** | Banco Central de Venezuela |
+| **BND** | Banco Nacional de Datos |
+| **CANTV** | Compañía Anónima Nacional Teléfonos de Venezuela |
+| **CNSC** | Comisión Nacional del Servicio Civil |
+| **COT** | Código Orgánico Tributario |
+| **CPNP** | Cuerpo de Policía Nacional Profesional |
+| **CRBV** | Constitución de la República Bolivariana de Venezuela |
+| **DNA-RB** | Dirección Nacional Anticorrupción y Recuperación de Bienes |
+| **DNPEP** | Dirección Nacional de Planificación Estratégica y Prospectiva |
+| **FEM** | Fondo de Estabilización Macroeconómica |
+| **FNIP** | Fondo Nacional de Inversión Productiva |
+| **FOSEIP** | Fondo Soberano de Estabilización e Inversión Productiva |
+| **GPFG** | Government Pension Fund Global |
+| **LOAFSP** | Ley Orgánica de la Administración Financiera del Sector Público |
+| **LOBCV** | Ley Orgánica del Banco Central de Venezuela |
+| **LOH** | Ley Orgánica de Hidrocarburos |
+| **LOM** | Ley Orgánica de Minas |
+| **LOPP** | Ley Orgánica de Planificación Pública |
+| **LORAFEE** | Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas |
+| **LORPSP** | Ley Orgánica de Reforma del Sector Público |
+| **LOT** | Ley Orgánica del Trabajo |
+| **LOTTT** | Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras |
+| **MIED-LAM** | Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado |
+| **OACNUDH** | Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos |
+| **OPI** | Oferta Pública Inicial |
+| **PDVSA** | Petróleos de Venezuela S.A. |
+| **RUI** | Registro Único de Inmuebles |
+| **SUNAA** | Superintendencia Nacional de Aguas y Saneamiento |
+| **TSJ** | Tribunal Supremo de Justicia |
+| **VePass** | Clave Única de Identidad Digital |
+

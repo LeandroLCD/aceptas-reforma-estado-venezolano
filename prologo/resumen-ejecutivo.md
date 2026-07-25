@@ -24,7 +24,7 @@ Venezuela atraviesa la crisis institucional más profunda de su historia republi
 
 Esta propuesta no es un manifiesto ideológico. Es un **documento técnico** que:
 
-1. **Diagnostica** la crisis con base en fuentes primarias verificables: el informe UNESCO de 1984 sobre los programas cognitivos del Ministerio para el Desarrollo de la Inteligencia (MEDI), el libro fundacional de Luis Alberto Machado (1975), análisis académicos contemporáneos y el propio marco constitucional vigente.
+1. **Diagnostica** la crisis con base en fuentes primarias verificables: el informe Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) de 1984 sobre los programas cognitivos del Ministerio para el Desarrollo de la Inteligencia (MEDI), el libro fundacional de Luis Alberto Machado (1975), análisis académicos contemporáneos y el propio marco constitucional vigente.
 2. **Identifica la causa-raíz**: la **discontinuidad partidista de políticas de Estado**, mecánica que se ha repetido en cada ciclo desde 1984 y que el propio informe UNESCO ya advertía como riesgo mortal.
 3. **Propone una reforma por pilares**, tomando a **Singapur como modelo aspiracional** (mérito, anticorrupción, continuidad) y al **DNU 70/2023 de Argentina como espejo crítico** (qué copiar, qué no copiar de la "motosierra").
 4. **Constitucionaliza la continuidad**: ninguna reforma será legítima si no incluye una cláusula anti-discontinuidad que impida que el próximo ciclo político desmonte lo construido.
@@ -57,7 +57,7 @@ La metodología es deliberadamente austera:
 El documento se fundamenta en una base de conocimiento local de ~12.200 fragmentos documentales (`kb_gobierno`), accesible vía búsqueda semántica, que incluye:
 
 - **Marco legal venezolano vigente**: Constitución 1999, Ley Orgánica de la Administración Pública, Ley de Carrera Administrativa 2002, Ley Orgánica del Servicio de Policía y Cuerpo de Policía Municipal 2009, Ley Orgánica de Planificación Pública, Código Orgánico Tributario, Ley Orgánica del Poder Ciudadano, Ley Orgánica del Trabajo, Ley Orgánica de Simplificación de Trámites, entre otras.
-- **Fuentes primarias internacionales**: informe UNESCO/OREALC 1984 sobre evaluación de los programas de desarrollo de la inteligencia en Venezuela (226 pp); libro de Luis Alberto Machado *La Revolución de la Inteligencia* (1975), transcrito vía OCR con ML Kit on-device desde escaneo IRIS; papers de Everest-Phillips y otros sobre meritocracia en Singapur.
+- **Fuentes primarias internacionales**: informe UNESCO/OREALC 1984 sobre evaluación de los programas de desarrollo de la inteligencia en Venezuela (226 pp); libro de Luis Alberto Machado *La Revolución de la Inteligencia* (1975), transcrito vía Optical Character Recognition (OCR) con ML Kit on-device desde escaneo IRIS; papers de Everest-Phillips y otros sobre meritocracia en Singapur.
 - **Reformas argentinas**: DNU 70/2023 y Ley Bases 27.742, con análisis comparados críticos (no endorsement acrítico).
 - **Modelo Singapur**: meritocracia, Public Service Commission, Civil Service College, Prevention of Corruption Act, Police Force, Corrupt Practices Investigation Bureau (CPIB).
 - **Análisis académicos contemporáneos** sobre la crisis institucional venezolana (incluida la voz del usuario que identificó el patrón cíclico como problema central).
@@ -69,3 +69,15 @@ El documento se fundamenta en una base de conocimiento local de ~12.200 fragment
 - **Parte III** (8 pilares `v0.X_pilar_iiiX_*.md`): pilares de reforma. Pueden leerse de forma independiente según el interés.
 - **Parte IV** (`v0.1_implementacion.md`, H6): mecanismo de implementación. Crítica para quien dude de la viabilidad.
 - **Parte V** (H7): cláusula de continuidad y disposiciones finales. Lo que protege la reforma contra el próximo ciclo político.
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **CPIB** | Corrupt Practices Investigation Bureau |
+| **MEDI** | Ministerio del Desarrollo de la Inteligencia |
+| **OCR** | Optical Character Recognition |
+| **UNESCO** | Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura |
+
