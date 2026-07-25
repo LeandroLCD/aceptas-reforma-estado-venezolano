@@ -34,7 +34,7 @@ La CEV-CN es creada por **ley orgánica de la Asamblea Nacional** dentro de los 
 
 ### V.1.2. Duración
 
-**Mandato temporal de 7 años**: período inicial de 4 años (2026-2030) con cierre y reporte público final, ampliable por mayoría 3/5 de la AN a 3 años adicionales (2030-2033) si las metas pendientes lo requieren.
+**Mandato temporal de 7 años**: período inicial de 4 años (2026-2030) con cierre y reporte público final, ampliable por mayoría 3/5 de la Asamblea Nacional (AN) a 3 años adicionales (2030-2033) si las metas pendientes lo requieren.
 
 ### V.1.3. Mandato triple
 

@@ -171,7 +171,7 @@ Aplica solo si se ejecuta un gobierno de transición antes del "mes 0" oficial.
 **Hitos regionales y consolidación**:
 
 - **Mes 12-18**: **Período de convergencia** del cronograma monetario (Pilar III.4) — Ley de Dolarización sancionada, acumulación de reservas ~USD 8-12 MM adicionales, **bolívar como moneda opcional subsidiaria**.
-- **Mes 18**: **DOLARIZACIÓN OFICIAL**. Bolivar simbólico moneda Panamá 1904 (sólo fraccionaria y registro contable). BCV opera como cámara de compensación de reservas en USD.
+- **Mes 18**: **DOLARIZACIÓN OFICIAL**. Bolivar simbólico moneda Panamá 1904 (sólo fraccionaria y registro contable). Banco Central de Venezuela (BCV) opera como cámara de compensación de reservas en USD.
 - **Mes 18-24**: Aniversario del shock. Consolidación operativa del CPNP y del CICPC. Primeras estadísticas estables de victimización (OVD).
 - **Mes 24**: **CIERRE** de Fase 2 = fin del cronograma monetario III.4 + fin del cronograma de Oferta Pública Inicial (OPI) PDVSA (Mes 9-12) + Régimen de Tres Exámenes Rigurosos (RTER) CICPC consolidado + operativa JNEM/DNPM plena. Plan Quinquenal entra en operación completa con DNPEP.
 

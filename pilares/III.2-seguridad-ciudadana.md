@@ -129,7 +129,7 @@ El 3 de noviembre de 2021 la Sala de Cuestiones Preliminares I de la **Corte Pen
 - **Recusación del Procurador Karim Khan** (ICC-02/18-109, 10/02/2025) — primera recusación formal por conflicto de interés en la historia de la CPI.
 - **Solicitud del Procurador de ser excusado** (ICC-02/18-118, 01/08/2025) — la Sala de Apelaciones decide a través del documento ICC-02/18-127 (19/09/2025).
 - **Procesamiento de solicitudes de organizaciones civiles** (El Amparo Foundation y Arcadia Foundation) en el primer trimestre 2026.
-- **Referrals de Uruguay (06/09/2024) y Ecuador (09/01/2025)** reconociendo formalmente la jurisdicción de la CPI sobre hechos cometidos en territorio venezolano.
+- **Referrals de Uruguay (06/09/2024) y Ecuador (09/01/2025)** reconociendo formalmente la jurisdicción de la Corte Penal Internacional (CPI) sobre hechos cometidos en territorio venezolano.
 
 El registro completo de Court Records está capturado en `data/venezuela/haya/cpi/cpi_venezuela_i_records_listado.md`. Aunque los PDFs específicos de cada decisión no pudieron ser descargados programáticamente (protección anti-bot de la CPI), el caso es **activo y vinculante** para la reforma que se propone.
 
@@ -305,7 +305,7 @@ Nota: el número exacto de regiones y sus límites precisos serán definidos por
 - **Policías estadales**: transferidas a la coordinación regional del CPNP. Conservan su carácter civil y autonomía presupuestaria estadal bajo nuevas reglas de coordinación.
 - **Policías municipales**: idem; bajo el nuevo principio de subsidiariedad conservan el rol de policía de proximidad comunitaria con VePass-Firma obligatoria.
 - **CICPC** (Cuerpo de Investigaciones Científicas, Penales y Criminalísticas): **subsiste como cuerpo diferenciado paralelo al CPNP** (ver §III.2.7.5). No se fusiona. Se reforma internamente para profesionalizar su carrera, blindar su VePass-Firma obligatoria, asegurar su autonomía respecto del mando policial territorial, mantener su carácter técnico-civil y garantizar su cooperación operativa diaria con el CPNP regional. Análogo a la relación Carabineros-PDI en Chile.
-- **GNB (Guardia Nacional Bolivariana)**: queda fuera del CPNP y del CICPC. Su rol se reforma independientemente en otro pilar (no III.2), dependiente de DNPEP (Pilar III.8) para funciones de gestión de riesgos soberanos, no de seguridad pública.
+- **Guardia Nacional Bolivariana (GNB) (Guardia Nacional Bolivariana)**: queda fuera del CPNP y del CICPC. Su rol se reforma independientemente en otro pilar (no III.2), dependiente de DNPEP (Pilar III.8) para funciones de gestión de riesgos soberanos, no de seguridad pública.
 - **PNASPMH-DGCIM-DISP**: excepción, **disueltas**. Son capturadas por las redes denunciadas en CIDH Doc. 253/24 (inteligencia militar usada para represión). Sus bases deben juzgarse por el nuevo régimen del Ministerio Público (Pilar III.6). Su personal no se reincorpora ni al CPNP ni al CICPC.
 
 ### III.2.7.5. CICPC: cuerpo diferenciado de investigaciones y criminalística (analogía con la PDI chilena)
