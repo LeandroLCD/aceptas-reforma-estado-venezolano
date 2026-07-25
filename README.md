@@ -128,12 +128,41 @@ Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Albe
 
 8. **Trazabilidad fetal que cierra el fraude**: el BND retiene 75 años el ADN de todo óbito fetal. Ningún nacido vivo puede coincidir con ese perfil sin orden judicial previa — y el intento fraudulento deja huella indeleble.
 
+9. **🆕 Poder Ciudadano ampliado como blindaje constitucional contra la motosierra sucesoria** (decisión 25-jul-2026): reforma del **Art. 273 CRBV** para incluir **CNSC** (Comisión Nacional del Servicio Civil) y **DNA-RB** (Dirección Nacional Anticorrupción y Recuperación de Bienes) junto a CGR, Defensor del Pueblo y Ministerio Público. El Servicio Civil y la Función Pública se adscriben al 4° Poder, no a un Ministerio: el régimen meritocrático queda constitucionalmente blindado contra la captura partidista del Ejecutivo. La DNA-RB se inspira en el modelo Singapur **CPIB** (Corrupt Practices Investigation Bureau). Sólo una reforma constitucional 3/4 + referéndum popular puede disolver este Poder ampliado.
+
 ---
+
+## Catalogo del Estado reformado (25-jul-2026)
+
+**9 ministerios** del Poder Ejecutivo (de 35 cargos ministeriales vigentes = **−74%**):
+
+| # | Ministerio | Pilares |
+|---|---|---|
+| 1 | Interior y Seguridad | III.2 + Régimen Penitenciario |
+| 2 | **MIED-LAM** (del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado) | III.3 |
+| 3 | Economía y Finanzas | III.4 |
+| 4 | Energía y Minas | III.5 |
+| 5 | Infraestructura y Servicios | Aguas privatizadas + Transporte |
+| 6 | Planificación Estratégica y Prospectiva | III.8 |
+| 7 | Gobierno Digital (+ Registros, Notariado, Registro Civil) | III.7 |
+| 8 | Relaciones Exteriores (+ Cooperación Jurídica Internacional) | Diplomacia + Veeduría 8 años |
+| 9 | Ambiente | Política ambiental + INPARQUES |
+
+**1 ente presidencial**: Consejo Nacional de Defensa (FAN + GNB + DGCIM reformado).
+
+**5 instituciones del Poder Ciudadano ampliado** (Art. 273 CRBV reformado):
+1. Contraloría General (Art. 288 subsistente)
+2. Defensor del Pueblo (Art. 280 subsistente)
+3. Ministerio Público — Fiscalía General (Art. 273, 6 años no reelegible)
+4. **CNSC ⭐** (Servicio Civil y Función Pública, blindado contra motosierra)
+5. **DNA-RB ⭐** (anticorrupción especializada, modelo Singapur CPIB)
+
+**Poder Electoral separado** (5° Poder independiente): CNE.
 
 ## Versión y estado
 
-- **Versión actual**: v0.1 — 2026-07-16
-- **Cobertura**: 8 pilares, Plan IV, Comisión Carmen Navas IV-K, Sección V Cláusula de Continuidad, Documento Final Compilatorio
+- **Versión actual**: v0.1 — 2026-07-16 (cerrado) + agregados estructurales 2026-07-25
+- **Cobertura**: 8 pilares, Plan IV, Comisión Carmen Navas IV-K, Sección V Cláusula de Continuidad, Documento Final Compilatorio, 9 ministerios + Poder Ciudadano ampliado
 - **Total texto**: ~580 KB, ~42.940 palabras en borradores
 - **Knowledge Base**: 18.718 chunks indexados (Qdrant `kb_gobierno`)
 - **KB stack**: Qdrant 1.18.2 + `intfloat/multilingual-e5-small` (384 dim, cosine)
