@@ -1,7 +1,7 @@
 ---
 titulo: Reforma Integral del Estado Venezolano - Pilar III.4 Reforma Fiscal y Financiamiento Territorial
 parte: III.4
-version: 0.2 (cronograma cambiario 18 meses: banda mes 1, autonomía BCV mes 12, dolarización mes 18, bolívar simbólico Panamá post-mes 18)
+version: "0.2 (cronograma cambiario 18 meses: banda mes 1, autonomía BCV mes 12, dolarización mes 18, bolívar simbólico Panamá post-mes 18)"
 fecha: 2026-07-13
 fuentes_primarias: OCDE municipal finance, SUBDERE Chile, DNP Colombia, ONAPRE Venezuela, FOSEIP Noruega/Chile/Singapur, Ecuador 2000 (Ley de Transformación Económica), Panamá 1904 (balboa simbólica), BCRA Argentina Ley 27.514 (autonomía)
 marco_legal_reformado: LOPPM, LOAFSP, COT, Ley Orgánica Catastro, CRBV arts. 156.9, 178, 318 (reforma), nueva LOBCV
