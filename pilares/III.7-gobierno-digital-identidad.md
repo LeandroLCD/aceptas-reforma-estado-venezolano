@@ -1,7 +1,7 @@
 ---
 titulo: Reforma Integral del Estado Venezolano - Pilar III.7
 parte: III.7
-version: 0.1.2 (limpieza final: 0 caracteres no-Latinos; regla RUN-ADN, hospital local, captura obligatoria adultos; RUI en III.7.3.2; algoritmo DV en III.7.5.6)
+version: "0.1.2 (limpieza final: 0 caracteres no-Latinos; regla RUN-ADN, hospital local, captura obligatoria adultos; RUI en III.7.3.2; algoritmo DV en III.7.5.6)"
 fecha: 2026-07-15
 instituciones_nuevas: Servicio Nacional de Identificación, Superintendencia de Protección de Datos Personales (SPDP), Centro de Datos Guri-1/2/3, Servicio Nacional del Registro Inmobiliario (SNRI), Superintendencia Nacional de Catastro (SUNAC)
 infraestructura_critica: 3 sitios redundantes cerca del Guri (100 ha + 40 MW pico)

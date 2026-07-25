@@ -19,9 +19,9 @@ jurisprudencia_vinculante:
   - Amnistía Internacional Informe Anual 2025/26 sobre Venezuela (julio 2026)
   - OVV Informe Anual de Violencia 2023 (6.973 muertes violentas, tasa 26,8/100K)
 investigacion_internacional:
-  - "Caso Venezuela I" ICC-02/18 (auto de apertura 3 nov 2021 PTC I)
-  - "Recusación del Procurador Karim Khan" ICC-02/18-109 (10 feb 2025)
-  - "Solicitud del Procurador de ser excusado" ICC-02/18-127 (2 sept 2025)
+  - "Caso Venezuela I ICC-02/18 (auto de apertura 3 nov 2021 PTC I)"
+  - "Recusación del Procurador Karim Khan ICC-02/18-109 (10 feb 2025)"
+  - "Solicitud del Procurador de ser excusado ICC-02/18-127 (2 sept 2025)"
   - "Referrals Uruguay (6 sept 2024) + Ecuador (9 ene 2025) reconociendo jurisdicción CPI"
 referentes_principales:
   - Singapur: Singapore Police Force (SPF), Corrupt Practices Investigation Bureau (CPIB), Civil Service College (CSC), Service Intelligence and Security Command
