@@ -1,0 +1,301 @@
+---
+titulo: "Ficha Técnica — Ministerio de Gobierno Digital"
+version: "0.1 (FT.7 — versión ficha técnica, 25-jul-2026)"
+estado: "Borrador operativo. Operacionaliza el Pilar VII v0.1.2 (`v0.1_pilar_iii7_gobierno_digital.md`, ~800 líneas). Centro nervioso de la transformación digital del Estado reformado."
+parte: "FT — Fichas Técnicas"
+ministerio: "Nº 7 — Gobierno Digital"
+ministerios_agrupados_vigentes: "#24 parte Despacho de la Presidencia (BND) + #29 MPPP Comunicación e Información (parte) + Registros y Notariado (transferidos del ex-MPP Justicia) + Registro Civil (transferido del ex-MPP Justicia)"
+entes_maximos_segun_tope: "~6-7 entes de los 40 totales"
+clausula_continuidad: "3/4 + referéndum popular ratificatorio (Innovación #1)"
+innovaciones_materializadas: "VePass-Firma obligatoria (todo el Estado), BND-RUT con chip, BND-RUI, BND-ADN (Innovación #8 trazabilidad), Caja de Datos Guri-1/2/3, INIA (IA soberana)"
+referente_principal: "Chile (RUN = RUT, ClaveUnica, Cedula QR+NFC, Conservador Bienes Raices) + Estonia (X-Road) + India (Aadhaar) + Suecia (Lantmateriet, sistema Torrens)"
+complejo_data_center: "Centro Nacional de Datos Guri-1/2/3 — Centro de cómputo soberano cerca del complejo hidroeléctrico del Guri"
+---
+
+# FT.7 — Ficha Técnica del Ministerio de Gobierno Digital
+
+> **Mandato constitucional**:
+>
+> *"Le corresponde al Ministerio de Gobierno Digital diseñar, ejecutar y evaluar las políticas nacionales en materia de gobierno electrónico, identidad digital, gestión de datos públicos, firma electrónica obligatoria de funcionarios del Estado, ciberseguridad, transformación digital de registros y notariado, gestión catastral, integración de datos salud-educación-tributación con VePass-Firma obligatoria, trazabilidad biológica y registral con BND-ADN, y administración del complejo de datos soberano Centro Guri-1/2/3; coordinar con la Veeduría Internacional Permanente la audibilidad del sistema BND; coordinar con el Ministerio del Interior la jurisdicción del Servicio Nacional de Identificación; coordinar con el Ministerio de Economía y Finanzas la VePass-Cédula y el SNI para evitar duplicación tributaria."*
+
+El Ministerio de Gobierno Digital es **el ministerio del Estado reformado de mayor densidad técnica por funcionario**: concentra las capacidades digitales, identitarias y registrales del Estado, articuladas a través del **Banco Nacional de Datos (BND)** como protocolo de interoperabilidad federada (modelo X-Road Estonia). El BND **no centraliza datos físicamente** — opera como capa de interoperabilidad entre repositorios institucionales pre-existentes, con VePass-Firma obligatoria como mecanismo de acceso.
+
+Adscribe las funciones del Despacho de la Presidencia (BND, parte), MPPP Comunicación e Información (parte), Registros y Notariado, Registro Civil (transferido del ex-MPP Justicia extinto), y la creación de la Superintendencia de Protección de Datos Personales (SPDP) como ente independiente.
+
+## 0. Resumen ejecutivo
+
+**Adscripción**: 2 ministerios vigentes + ex-MPP Justicia (Registros, Notariado, Registro Civil) + 1 entidad nueva (SPDP).
+
+**Objetivo central**: federar la identidad, los datos y los registros del Estado venezolano bajo VePass-Firma obligatoria. Todos los funcionarios públicos firman electrónicamente sus actos con BND-IP estampado (Innovación #3). La identidad ciudadana converge en un único número (Cédula-RUT = RUI-RUP-BND-IP) con chip biométrico NFC.
+
+**Capacidades materializadas**:
+- **Caja de Datos Guri-1/2/3** (modelo Estonia X-Road): 3 nodos rojos cerca de Central Hidroeléctrica del Guri (soberanía computacional + energía hidroeléctrica estable).
+- **VePass** + **VePass-Firma** + **VePass-Plus** (claves graduales): acceso, firma con VePass-Firma + BND-IP estampada, validación con selfie + PIN + VePass.
+- **Cédula-RUT** con chip NFC + QR: reemplaza cédula vigente + identidad tributaria + electoral + salud + propiedad + formación.
+- **BND-ADN** (Innovación #8) + **BND-RUI** (propiedad inmobiliaria) + **BND-RUP** (títulos profesionales) + **BND-RUTI** (Registro Unico Tributario).
+- **SPDP**: Superintendencia de Protección de Datos Personales, ente independiente, análogo a UE RGPD (Reglamento General de Protección de Datos).
+
+## 1. Marco constitucional y legal
+
+### 1.1 Reformas constitucionales
+
+| Reforma CRBV | Justificación |
+|---|---|
+| **Art. 110 reformado** | La Ley Orgánica de Identidad Digital tendrá rango constitucional, especificando los principios de soberanía digital, datos sensibles y auditoría democrática. |
+| **Art. 156 numeral 9 reformado** | Servicio Nacional de Identificación como competencia nacional exclusiva (no estadal/municipal). |
+| **Art. 299 reformado** | Las nuevas Tecnologías de la Información y Comunicación forman parte del Plan Quinquenal Nacional vinculante (Pilar VIII). |
+| **Art. 237 reformado** | Atribuciones presidenciales en firma electrónica de actos administrativos: el VePass-Firma oficial del Presidente mediante BND-IP. |
+| **Art. 156 numeral 14 aditivo** | Protección de datos personales como derecho constitucional. |
+
+### 1.2 Leyes orgánicas nuevas y reformas necesarias
+
+| Ley | Estado | Función |
+|---|---|---|
+| **LOID — Ley Orgánica de Identidad Digital** | A redactar | Estatuto orgánico del SNI + Cédula-RUT + BND; rango constitucional |
+| **LORC — Ley Orgánica del Registro Civil** | A redactar | Registro Civil digital integrado BND con VePass; auto-declaración por VePass-Plus |
+| **LORPI — Ley Orgánica del Registro Público Inmobiliario** | A redactar | SNRI + SUNAC; sistema Torrens adaptado a VE |
+| **LORN — Ley Orgánica del Registro y Notariado** | A redactar | Mesas Virtuales de Notariado por VePass-Firma |
+| **LPD — Ley de Protección de Datos Personales** | A redactar | SPDP independiente; análogo a UE RGPD; régimen de sanciones |
+| **Reforma LOAE** (Ley Orgánica de la Administración Pública) | Reforma | Inserta VePass-Firma obligatoria para todos los actos administrativos |
+| **Reforma LOCTEL** | Reforma | CONATEL + espectro radioeléctrico salen a Ministerio de Infraestructura (#5); ICT permanece en Gobernación Digital |
+| **Reforma LEICN** (Ley Especial Contra Delitos Informáticos) | Reforma | Ciberseguridad actualizada para BNPRES |
+| **Nueva Ley Orgánica de Centro de Datos Guri-1/2/3** | A redactar | Estatuto técnico del complejo de datos soberano |
+
+### 1.3 Vinculación con Marco Articulado
+
+- **Texto Articulado Arts. 95-100** — Reglas de la cédula electrónica y VePass.
+- **Texto Articulado Arts. 102-110** — Superintendencia de Protección de Datos Personales.
+- **Texto Articulado Arts. 111-115** — Servicio Nacional del Registro Inmobiliario.
+- **Texto Articulado Arts. 116-120** — Centro de Datos Guri-1/2/3.
+
+## 2. Estructura orgánica
+
+### 2.1 Organigrama
+
+```
+Ministerio de Gobierno Digital
+├── Despacho del Ministro
+│   ├── Viceministerio de Identidad Digital y SNI
+│   │   ├── Dirección General de Cédula-RUT y Documentación
+│   │   ├── Dirección General del Servicio Nacional de Identificación (SNI)
+│   │   ├── Dirección General de BND-IP (blockchain institucional)
+│   │   └── Dirección General de VePass (3 niveles: Lite, Plus, Fuerte)
+│   ├── Viceministerio de Registros y Catastro
+│   │   ├── Dirección General del Registro Civil Modernizado
+│   │   ├── Dirección General del Servicio Nacional del Registro Inmobiliario (SNRI)
+│   │   ├── Dirección General del Superintendencia Nacional de Catastro (SUNAC)
+│   │   ├── Dirección General de Notariado Virtual
+│   │   └── Dirección General de BND-RUI + BND-RUP + BND-RUTI
+│   ├── Viceministerio de Datos, BND e Infraestructura
+│   │   ├── Dirección General del BND (protocolo X-Road venezolano)
+│   │   ├── Dirección General del Centro de Datos Guri-1/2/3
+│   │   ├── Dirección General de BND-ADN (Innovación #8 — trazabilidad biológica)
+│   │   ├── Dirección General de Ciberseguridad y BNPRES (nuevo)
+│   │   └── Dirección General de Datos Abiertos y CKAN
+│   ├── Viceministerio de Transformación Digital y Programas
+│   │   ├── Dirección General de Programas de Simplificación Administrativa
+│   │   ├── Dirección General de Innovación (coordinación con FNIP del Pilar V)
+│   │   ├── Dirección General de Ciudadanía Digital (formación DNI en la población)
+│   │   └── Dirección General de Coordinación con Gobiernos Digitales Locales
+│   ├── Superintendencia de Protección de Datos Personales (SPDP)
+│   │   ├── Dirección de Investigación y Sanciones
+│   │   ├── Dirección de Regulación y Registro de Bases de Datos
+│   │   └── Dirección de Auditoría y Cumplimiento
+│   └── Secretaría General del Ministerio
+│       ├── Dirección de Administración y Concursos CNSC
+│       ├── Consultoría Jurídica
+│       ├── Oficina Nacional de Datos Abiertos
+│       ├── VePass-Firma obligatoria (Innovación #3)
+│       └── Unidad de Coordinación con DNA-RB + CGR + OACNUDH
+└── Entes adscritos (ver §3)
+```
+
+### 2.2 Misiones principales
+
+#### 2.2.1 Identidad digital y SNI (Viceministerio 1)
+
+- **Cédula-RUT** con chip NFC + QR + foto + 10 huellas + firma + RUN numérico único (no objeto de rediseño, objeto de consolidación).
+- **Biometría multimodal**: además de las 10 huellas, reconocen voz + iris + ADN.
+- **VePass**: 3 niveles de acceso:
+  - **Lite**: ingreso al sistema, identidad básica, foto.
+  - **Plus**: consentimiento de actos administrativos (registro civil, salud, etc.).
+  - **Fuerte**: firma con BND-IP estampada (actos del Estado, actos notariales).
+- **BND-IP** = blockchain institucional del Estado: cada acto del Estado tiene activado un estampillado fehaciente.
+- **Renovación cifrada**: la Cédula-RUT se renueva automáticamente cada 10 años, sin necesidad de trámite presencial.
+
+#### 2.2.2 Registros y Catastro (Viceministerio 2)
+
+- **Registro Civil** modernizado: integrado con el BND, declaraciones por VePass-Plus, actas firmadas VePass-Fuerte, envío automático al CNE + SAIME + salud.
+- **SNRI** (Servicio Nacional del Registro Inmobiliario): registra inmuebles con código RUI único, linderos georeferenciados, cadena de titulación completa (Torrens adaptado).
+- **SUNAC** (Superintendencia Nacional de Catastro): autoridad reguladora del catastro; vincula RUI + RUT + impuestos; alimentación al BND.
+- **Notariado Virtual**: mesa de notario con VePass-Firma + BND-IP; conectividad vía Guri-1/2/3.
+- **BND-RUI + BND-RUP + BND-RUTI**: tres grandes bases digitales federadas con interoperabilidad X-Road.
+
+#### 2.2.3 Datos, BND e Infraestructura (Viceministerio 3)
+
+- **BND** (protocolo X-Road venezolano): capa de interoperabilidad sobre repositorios institucionales.
+- **Guri-1/2/3**: 3 nodos rojos del complejo de datos soberano (3 ubicaciones geográficamente separadas, energía hidroeléctrica confiable).
+- **BND-ADN** (Innovación #8): trazabilidad fetal de los óbitos fetales — base de datos institucional para validar no coincidencia de identidad.
+- **Ciberseguridad y BNPRES**: red nacional de respuesta a incidentes de seguridad digital, equipo CERT-VE.
+- **Datos Abiertos CKAN** con VePass-Público: publicación trimestral obligatoria.
+
+#### 2.2.4 Transformación Digital y Programas (Viceministerio 4)
+
+- Simplificación administrativa: cada procedimiento del Estado debe completarse digitalmente, con VePass-Firma en la mayoría.
+- Ciudadanía digital: programa nacional de educación digital (coordinación MIED-LAM).
+- Coordinación con Gobiernos Digitales Locales: sincronización con el nivel municipal (coordinación Ministerio del Interior + Ministerio de Economía y Finanzas).
+
+#### 2.2.5 Superintendencia de Protección de Datos Personales (SPDP) — ente independiente
+
+Inicialmente concebida como dirección del ministerio, pero siguiendo el patrón UE RGPD, el usuario podría elevar la SPDP a nivel de ente adscrito con autonomía funcional y presupuestaria. La decisión arquitectónica queda abierta; mientras tanto, modelamos como Dirección especializada con categoría de Ente con autonomía funcional, en la órbita del Viceministerio de Datos.
+
+## 3. Entes adscritos
+
+| # | Ente | Naturaleza | Tipo | Origen |
+|---|---|---|---|---|
+| 1 | **SNI** (Servicio Nacional de Identificación) | Servicio desconcentrado | Operativo BND | Nuevo; rango constitucional via LOID |
+| 2 | **BND** (Banco Nacional de Datos) | Servicio desconcentrado del Ministerio | Operativo interoperabilidad | Nuevo; rango nuevo; asigna UID único (RUN) |
+| 3 | **Centro de Datos Guri-1/2/3** | Servicio técnico | Operativo soberanía computacional | Nuevo; complejo tri-nodo |
+| 4 | **SNRI** (Servicio Nacional del Registro Inmobiliario) | Servicio desconcentrado SUNAC-adjunto | Operativo registral | Nuevo; sistema Torrens |
+| 5 | **SUNAC** (Superintendencia Nacional de Catastro) | Superintendencia técnica | Regulador + Operativo | Nuevo; autoridad catastral |
+| 6 | **SPDP** (Superintendencia de Protección de Datos Personales) | Superintendencia técnica independiente | Auditor y regulatoria | Nuevo; análogo RGPD UE |
+| 7 | **INIA** (Instituto Nacional de Inteligencia Artificial) | Servicio técnico | Investigación + Producto | Nuevo (XSEDE del Estado) |
+
+**Total entes**: 7 dentro del tope de 40 (Art. 9 Texto Articulado).
+
+> **Entes suprimidos o transferidos**:
+> - SENATEL + IPOSTEL: integrado en el Viceministerio 1 (atención al cliente VePass y comunicaciones digitales).
+> - SAIME: subsistente como oficina operativa del SNI (expedición Cédula-RUT).
+> - CNE: subsistente con régimen constitucional; SNI alimenta el padrón electoral automáticamente.
+> - CANTV.NET: privatizado (Pilares V + V.5). Mantén regulación independiente (CONATEL del Ministerio #5 Infraestructura).
+> - PROCOMPETENCIA + SAPI + SENCAMER + TIC: integrados en SICDEL del Ministerio #3 Economía.
+
+## 4. Designaciones políticas
+
+### 4.1 Ministro de Gobierno Digital
+
+- **Concurso público organizado por CNSC** con jurado mixto (5 nacionales especialistas en transformación digital + 2 veedores internacionales de Estonia X-Road + Singapore GovTech + India Aadhaar + Chile DGCIR).
+- **Ratificación por la AN con mayoría de 3/5.**
+- Requisitos: venezolano por nacimiento; mayor de 35 años; postgrado en informática, matemática, ciencia de datos, derecho digital o afines; **experiencia profesional ≥ 10 años** en transformaciones digitales complejas (registros civiles digitales, gobierno electrónico, banca, salud); **no militar retirado** ni vinculado a partidos políticos.
+- Período: **6 años no prorrogable ni reelegible** (analogía DNA-RB).
+- Destitución: 3/4 AN con 7 causales taxativas (analogía Pilar VI v0.5); causal #6 = **vulneración del BND o captura de datos ciudadanos**.
+
+### 4.2 Viceministros + Superintendentes (SPDP, SUNAC)
+
+Concurso meritocrático CNSC cada 5 años.
+
+## 5. Funcionarios públicos — régimen meritocrático
+
+| Cargo | USD/mes |
+|---|---|
+| Ministro | 9K-12K |
+| Viceministro | 7K-9K |
+| Director General del ministerio / Superintendente | 6K-8K |
+| Director de Servicio (SNI / BND / Guri-1/2/3 / SNRI / SPDP) | 5K-7K |
+| Arquitecto de datos / Criptógrafo / Especialista IAM | 4K-6K |
+| Ingeniero de software / Datos | 2.5K-4.5K |
+| Técnico de operación Guri | 1.4K-2.5K |
+| Auxiliar de oficina SNI (oficinas de Cédula-RUT) | 800-1.2K |
+
+Tope 14:1.
+
+## 6. Cronograma 0-36 meses
+
+| Mes | Hito |
+|---|---|
+| 0 | Sanción LOID 2026. Reforma arts. CRBV 110, 156.9. Instalación del Ministerio. Primeros concursos CNSC para Ministro + Viceministros + Superintendentes. |
+| 1-6 | Adecuación arquitectónica del BND (X-Road venezolano). Implementación del VePass 3-niveles. Arranque de la construcción del Centro de Datos Guri-1 (nodo principal). |
+| 7-12 | Implementación del SNI. Inscripción VePass-Cédula-RUT primeros 5M usuarios. Primera emisión Cédula-RUT. Establecimiento de Guri-1 operativo. |
+| 13-24 | Construcción de Guri-2 + Guri-3. Puesta en marcha del BND completo. Registro Civil digital integrado SNI. SNRI + SUNAC en operación. |
+| 25-36 | Transformación digital completa. Eliminar procesos administrativos presenciales. 100% VePass-Firma obligatoria en actos del Estado. BND-ADN en operación. |
+
+## 7. Presupuesto del Ministerio de Gobierno Digital
+
+| Concepto | USD/año | % PIB |
+|---|---|---|
+| Masa salarial (~1.000 funcionarios ministeriales + SNI + BND + Guri + SPDP + SUNAC) | 100M | 0,045% |
+| Operación Guri-1/2/3 (data center soberano: energía, cooling, housing) | 80M | 0,036% |
+| Operación BND + VePass + X-Road (hardware + software + mantenimiento) | 120M | 0,055% |
+| Operación SNRI + SUNAC + SPDP | 60M | 0,027% |
+| Operación SNI (oficinas de Cédula-RUT) | 50M | 0,023% |
+| BND-ADN (Innovación #8 — trazabilidad biológica) | 40M | 0,018% |
+| Programa de Ciudadanía Digital (coordinación MIED-LAM) | 30M | 0,014% |
+| Ciberseguridad + BNPRES | 30M | 0,014% |
+| Reserva + Coordinación Internacional + Veeduría OACNUDH CIDH | 25M | 0,011% |
+| Inversión plurianual (construcción Guri-2/3) | 100M capital | 0,045% |
+| **Total Ministerio de Gobierno Digital** | **~535M USD/año + USD 200M one-shot** | **~0,24% PIB** |
+
+## 8. Indicadores de éxito
+
+| Indicador | Línea base | Meta año 3 | Meta año 6 |
+|---|---|---|---|
+| Ciudadanos con VePass-Cédula | 0 | 50% | 100% |
+| BND con VePass-Firma obligatoria en sector público | 0 | 70% | 100% |
+| Actos administrativos completamente digitales | < 5% | 60% | 90% |
+| Procedimientos ciudadanos completados digitalmente end-to-end | < 10% | 70% | 100% |
+| Centro de Datos Guri operativo | 0 nodo | Guri-1 + Guri-2 | Guri-1/2/3 |
+| BND-ADN funcionando | no | sí | sí (Integración 100% obstetricia) |
+| Cumplimiento de la SPDP (rating VN) | n/a | B+ | A |
+| Cero filtraciones masivo de datos públicos | muchos | ≤ 1/año | 0 |
+| Rating de transparencia | bajo | B | A |
+| Alineamiento con comparados (Singapur Chile Estonia) | n/a | Comparable | Leading |
+
+## 9. Riesgos y mitigación
+
+| Riesgo | Prob. | Impacto | Mitigación |
+|---|---|---|---|
+| **Captura política del VePass-Cédula-RUT** con fines electorales | Alta | Crítico | 3/4 + referendum + concursos meritocráticos + veeduría OACNUDH BID PNUD |
+| **Vulneración de la caja de datos Guri** | Media | Crítico | 3 nodos rojos + cybersecurity BND/BNPRES + cadena de bloques BND-IP + auditoría externa anual |
+| **Captura de la SPDP** | Media | Alto | Supervisor independiente con concurso + 6 años no reelegible + veeduría UE RGPD |
+| **Resistencia de oficinas de Cédula-RUT vigentes** (politización) | Alta | Medio | Cronograma gradual con incentivo de estabilidad laboral a la reconversión (LOTTT 24 meses) |
+| **Vulnerabilidad de la biometría** | Media | Crítico | Biometría multimodal + reconocimiento de múltiple factor (PIN + cara + cédula física + banco biometric tokens) |
+| **Brecha digital rural** | Alta | Medio | Programa de modernización comunitaria (coordinación con Ministerio del Interior) |
+| **Riesgo de vigilancia masiva** | Media | Alto | SPDP autónoma + auditoría interna + derecho al olvido en los registros públicos + VePass de la autoridad judicial para acceso |
+| **Hackeo adversario externo** | Media | Crítico | Centro nacional de respuesta CERT-VE + cifrado post-cuántico + sitios espejo en otros países de geopolítica alineada |
+| **Costo de la Cédula-RUT** para personas sin ingresos formales | Alta | Medio | Plan gratuito para inscripción VePass-Cédula-RUT + autorización con VePass-Plus basada en declaración auto |
+| **Resistencia municipal** | Alta | Medio | Coordinación con Ministerio del Interior + Paz Territorial (Viceministerio de Interior #1) |
+| **Reemplazo digital del modelo papel** muy rápido → olvidos de gente mayor | Alta | Medio | Ventanilla dual obligatoria: VePass-si; presencia-impresa-pago-si |
+| **Centralización de dados en una sola capa X-Road** (punto único de falla) | Baja | Crítico | 3 nodos rojos físicamente separados + redundancia + control técnico automatizado |
+
+## 10. Cláusula de continuidad específica
+
+### 10.1 Reforma del Art. 343 CRBV con blindaje reforzado (análoga al MIED-LAM y DNA-RB):
+
+> *"Ninguna reforma del Título IX-D ni a los artículos relativos al Ministerio de Gobierno Digital, al Servicio Nacional de Identificación (SNI), al Banco Nacional de Datos (BND), al Centro de Datos Guri-1/2/3, a la Superintendencia de Protección de Datos Personales (SPDP), al Servicio Nacional del Registro Inmobiliario (SNRI), a la Superintendencia Nacional de Catastro (SUNAC), ni al Instituto Nacional de Inteligencia Artificial (INIA), podrá aprobarse sin el voto de las tres cuartas partes (3/4) de los miembros de la Asamblea Nacional y la ratificación mediante referéndum popular."*
+
+### 10.2 Garantías específicas blindadas contra modificación discrecional:
+
+- Creación, fusión, supresión o modificación sustancial del BND o de la SPPC: 3/4.
+- Eliminación de la Cédula-RUT como documento único de identidad: 3/4 + referendum.
+- Privatización del Centro de Datos Guri-1/2/3: 3/4 + referendum.
+- Eliminación o sustitución del BND-IP: 3/4 + referendum.
+- Eliminación o sustitución del BND-ADN (Innovación #8): 3/4 + referendum.
+
+## 11. Innovaciones arquitectónicas materializadas
+
+| Innovación | Materialización |
+|---|---|
+| #3 VePass-Firma obligatoria | VePass-Cédula-RUT para todos los ciudadanos + VePass-Firma para todos los actos del Estado con estampilla BND-IP blockchain institucional |
+| #8 Trazabilidad fetal + bancaria | BND-ADN + BND-RUI + BND-RUP + BND-RUTI arquitecturas federadas con VePass |
+
+## 12. Documentos conexos
+
+- **Pilar VII v0.1.2** (`v0.1_pilar_iii7_gobierno_digital.md`, ~800 líneas) — Fuente doctrinal completa.
+- **Pilar II** — CPNP usa VePass en operativos; veeduría RUI-mig.
+- **Pilar VI** — DNA-RB y CGR con BND-IP.
+- **Pilar V** — BND coordina RUI-mig para inversiones extraterritoriales.
+- **Texto Articulado Arts. 95-120** — cuerpo normativo del Pilar VII.
+- **Anexo A.5** — rattachation vigente.
+- **Anexo A.10** — distribución ex-Justicia.
+
+---
+
+*Esta ficha operativa consolida y operacionaliza la doctrina del Pilar VII sin duplicarla. VePass-Firma obligatoria + BND-IP + Caja de Datos Guri-1/2/3 son los elementos centralmente operativos del ministerio.*
+
+*Versión 0.1 — 25-jul-2026. Pendiente: descripción detallada por Dirección General + KPIs mensuales.*
+
+**Próximas fichas técnicas (FT.8 → FT.11)**:
+- FT.8 Relaciones Exteriores (Veeduría Internacional Permanente)
+- FT.9 Ambiente (INPARQUES + IGVSB + Fundambiente + INAMEH)
+- FT.10 Consejo Nacional de Defensa (ente presidencial)
+- FT.11 Cinco instituciones del Poder Ciudadano ampliado

@@ -5,7 +5,7 @@ version: 0.1
 fecha: 2026-07-16
 seccion: IV (Plan de Implementación consolidado del proyecto)
 marco_de_referencia:
-  - "Parte III - 8 pilares (III.1 a III.8) vigentes a la fecha"
+  - "Parte III - 8 pilares (I a VIII) vigentes a la fecha"
   - "Pilar 0: Prólogo + Diagnóstico + Principios (separado en H5)"
   - "Marco normativo vigente: CRBV 1999 + 9 leyes orgánicas del nuevo ordenamiento (LOSCM, LOMIEDLAM, LOCPNP, LORPSS reformada, LOBCV, Ley Dolarización, LORAFEE, LOBMC, LORPSP) + reforma Arts. 303, 318, 332 CRBV"
 recursos_estimados:
@@ -15,7 +15,7 @@ recursos_estimados:
   - "Reestructuración deuda externa: USD ~60.000 M (negociación plurianual)"
   - "Créditos multilaterales (BID, BM, IFC, CAF): USD 12.000-18.000 M plurianual"
   - "Inversión inicial del Estado: USD 4.200 M año 1; USD 6.800 M año 2; USD 9.200 M año 3"
-plan_quinquenal_vinculante: "Vinculación obligatoria con Pilar III.8 DNPEP: el Plan de Implementación es la traducción cronológica del Plan Quinquenal. Aprobación inicial DNPEP → ratificación AN 3/5 → ejecución bajo control DNPEP."
+plan_quinquenal_vinculante: "Vinculación obligatoria con Pilar VIII DNPEP: el Plan de Implementación es la traducción cronológica del Plan Quinquenal. Aprobación inicial DNPEP → ratificación AN 3/5 → ejecución bajo control DNPEP."
 duracion_total_proceso: "36 meses (shock + consolidación); 18 meses cronograma monetario; 60 meses consolidación institucional"
 clausula_continuidad: 3/4 AN + referéndum ratificatorio para suspender hitos críticos
 ---
@@ -86,14 +86,14 @@ PRESIDENTE DE LA REPÚBLICA (voz y voto dirimente)
         │       └── Secretaría Técnica (STCRE) — 30 profesionales
         │
         ├── Mesas Técnicas por Pilar (8) — coordinadas por STCRE
-        │       ├── M1: Servicio Civil Meritocrático (III.1)
-        │       ├── M2: Seguridad, Investigación y Migración (III.2)
-        │       ├── M3: MIED-LAM (III.3)
-        │       ├── M4: Fiscal-tributario (III.4)
-        │       ├── M5: Económico-productivo (III.5)
-        │       ├── M6: Justicia + anticorrupción (III.6)
-        │       ├── M7: Gobierno Digital (III.7)
-        │       └── M8: Planificación estratégica (III.8)
+        │       ├── M1: Servicio Civil Meritocrático (I)
+        │       ├── M2: Seguridad, Investigación y Migración (II)
+        │       ├── M3: MIED-LAM (III)
+        │       ├── M4: Fiscal-tributario (IV)
+        │       ├── M5: Económico-productivo (V)
+        │       ├── M6: Justicia + anticorrupción (VI)
+        │       ├── M7: Gobierno Digital (VII)
+        │       └── M8: Planificación estratégica (VIII)
         │
         └── Sistema de Monitoreo Semanal Presidencial (SMSP)
                 ├── 20 KPIs automatizados
@@ -140,12 +140,12 @@ Aplica solo si se ejecuta un gobierno de transición antes del "mes 0" oficial.
 
 | Ley | Materia | Voto AN | Aprobación esperada |
 |---|---|---|---|
-| **LOSCM** | Servicio Civil Meritocrático + CNSC + régimen unificado (III.1) | Cámara única | Mes 1-2 |
-| **LOMIEDLAM** | Ministerio MIED-LAM conforme a Constitucionalización (III.3) | Cámara única | Mes 1-2 |
-| **LOCPNP reformada** | CPNP + CICPC + JNEM + VNPD (III.2 + III.5) | Cámara única | Mes 2-3 |
-| **LORAFEE** | Régimen de Adquisición Forzosa pay-before-take (III.5) | Cámara única | Mes 2-3 |
-| **LOBCV** | Banco Central de Venezuela autonomía + crawling-peg + dolarización (III.4) | Cámara única | Mes 2-3 |
-| **Ley de Dolarización** | Transición 18 meses (III.4) | Cámara única | Mes 2-3 |
+| **LOSCM** | Servicio Civil Meritocrático + CNSC + régimen unificado (I) | Cámara única | Mes 1-2 |
+| **LOMIEDLAM** | Ministerio MIED-LAM conforme a Constitucionalización (III) | Cámara única | Mes 1-2 |
+| **LOCPNP reformada** | CPNP + CICPC + JNEM + VNPD (II + V) | Cámara única | Mes 2-3 |
+| **LORAFEE** | Régimen de Adquisición Forzosa pay-before-take (V) | Cámara única | Mes 2-3 |
+| **LOBCV** | Banco Central de Venezuela autonomía + crawling-peg + dolarización (IV) | Cámara única | Mes 2-3 |
+| **Ley de Dolarización** | Transición 18 meses (IV) | Cámara única | Mes 2-3 |
 | **Reformas CRBV Arts. 303, 318, 332, 237, 329** | incluyendo cláusula 3/4 + referéndum | Cámara única + Referendo | Mes 0-6 (CRBV) / Mes 0-12 (referendos) |
 
 #### IV.3.2.1. Mes a mes · Fase 1
@@ -170,10 +170,10 @@ Aplica solo si se ejecuta un gobierno de transición antes del "mes 0" oficial.
 
 **Hitos regionales y consolidación**:
 
-- **Mes 12-18**: **Período de convergencia** del cronograma monetario (Pilar III.4) — Ley de Dolarización sancionada, acumulación de reservas ~USD 8-12 MM adicionales, **bolívar como moneda opcional subsidiaria**.
-- **Mes 18**: **DOLARIZACIÓN OFICIAL**. Bolivar simbólico moneda Panamá 1904 (sólo fraccionaria y registro contable). BCV opera como cámara de compensación de reservas en USD.
+- **Mes 12-18**: **Período de convergencia** del cronograma monetario (Pilar IV) — Ley de Dolarización sancionada, acumulación de reservas ~USD 8-12 MM adicionales, **bolívar como moneda opcional subsidiaria**.
+- **Mes 18**: **DOLARIZACIÓN OFICIAL**. Bolivar simbólico moneda Panamá 1904 (sólo fraccionaria y registro contable). Banco Central de Venezuela (BCV) opera como cámara de compensación de reservas en USD.
 - **Mes 18-24**: Aniversario del shock. Consolidación operativa del CPNP y del CICPC. Primeras estadísticas estables de victimización (OVD).
-- **Mes 24**: **CIERRE** de Fase 2 = fin del cronograma monetario III.4 + fin del cronograma de Oferta Pública Inicial (OPI) PDVSA (Mes 9-12) + Régimen de Tres Exámenes Rigurosos (RTER) CICPC consolidado + operativa JNEM/DNPM plena. Plan Quinquenal entra en operación completa con DNPEP.
+- **Mes 24**: **CIERRE** de Fase 2 = fin del cronograma monetario IV + fin del cronograma de Oferta Pública Inicial (OPI) PDVSA (Mes 9-12) + Régimen de Tres Exámenes Rigurosos (RTER) CICPC consolidado + operativa JNEM/DNPM plena. Plan Quinquenal entra en operación completa con DNPEP.
 
 ### IV.3.4. Fase 3 — Dolarización oficial + Consolidación Plurianual (Mes 18-36)
 
@@ -184,13 +184,13 @@ Aplica solo si se ejecuta un gobierno de transición antes del "mes 0" oficial.
 | **Mes 18** | **Dolarización oficial**: USD curso legal; bolívar simbólico Panamá 1904; BCV opera como cámara de compensación de reservas |
 | **Mes 19-24** | Consolidación operativa progresiva del nuevo Estado. **Baja mortalidad**: revisión anual 1era. del DNPEP bajo CoN UE + Plan Quinquenal acabado por publicarse. |
 | **Mes 24** | **Cierre del shock**: RTER estabilizado (todos los cuerpos con VePass-Firma obligatoria activa). PG evaluación **independiente ACNUR+CIDH** sobre cumplimiento Convención 1951 + protocolos DDHH. |
-| **Mes 24-30** | Entrada plena del Plan Quinquenal bajo DNPEP (Pilar III.8.6): Plan Inicial de 5 años aprobado por AN 3/5 + auditoría externa rating A-D publicada anualmente. |
-| **Mes 24-36** | Apertura de los **cambios quinquenales** del Plan Plurianual vinculante (Pilar III.8.7). |
+| **Mes 24-30** | Entrada plena del Plan Quinquenal bajo DNPEP (Pilar VVI): Plan Inicial de 5 años aprobado por AN 3/5 + auditoría externa rating A-D publicada anualmente. |
+| **Mes 24-36** | Apertura de los **cambios quinquenales** del Plan Plurianual vinculante (Pilar VVII). |
 | **Mes 36** | **Cierre del Plan de Implementación fase consolidación**; evaluación externa completa por el CAI + publicación de los **100 KPIs cuantificados**. Diseminación internacional de la experiencia. Activación del **ciclo de revisión clase 1** (veeduría CIDH + ACNUR + STL + FRONTEX UE + OACNUDH conjunta). |
 
 ## IV.4. Plan por pilar (consolidado)
 
-### IV.4.1. Pilar III.1 Servicio civil meritocrático
+### IV.4.1. Pilar I Servicio civil meritocrático
 
 | Mes | Acción |
 |---|---|
@@ -202,7 +202,7 @@ Aplica solo si se ejecuta un gobierno de transición antes del "mes 0" oficial.
 | 12-24 | **Funcionarios que aprueben**: porcentaje objetivo 75% del existente (objetivo: ingresos/recuperación profesional). 25% NO aprobados: reubicación + indemnización + eliminación de idoneidad para puestos del Estado. |
 | 24-36 | **Servicio Civil consolidado**: concursos abiertos regulares por la CNSC, basados completamente en mérito + capacidades + transparencia |
 
-### IV.4.2. Pilar III.2 Seguridad, Investigación y Migración
+### IV.4.2. Pilar II Seguridad, Investigación y Migración
 
 | Mes | Acción |
 |---|---|
@@ -215,7 +215,7 @@ Aplica solo si se ejecuta un gobierno de transición antes del "mes 0" oficial.
 | 12-18 | RTER 100% para todos los cuerpos + reexaminación periódica |
 | 18-36 | Consolidación operativa + Plan Fronterizo DNPEP + cooperación activa con ACNUR + FRONTEX UE |
 
-### IV.4.3. Pilar III.3 MIED-LAM
+### IV.4.3. Pilar III MIED-LAM
 
 | Mes | Acción |
 |---|---|
@@ -225,21 +225,21 @@ Aplica solo si se ejecuta un gobierno de transición antes del "mes 0" oficial.
 | 12-24 | Programas piloto en 5 entidades federales + Ley Orgánica del MIED-LAM sancionada + Directorio designado + estatuto de personal docente y deportivo |
 | 24-36 | Línea base establecida + manuales técnicos de los 8 programas + ampliación a 10 entidades federales |
 
-### IV.4.4. Pilar III.4 Reforma Fiscal
+### IV.4.4. Pilar IV Reforma Fiscal
 
 | Mes | Acción |
 |---|---|
 | 0-2 | Nueva Ley Orgánica de Bancos + LOBCV + Ley de Dolarización (paquete único) |
-| 1-3 | Reforma tributaria del Pilar III.4 (IVA 15% general, 5% canasto, ISLR progresivo, Impuesto Patrimonio Neto, eliminación IGTF) |
+| 1-3 | Reforma tributaria del Pilar IV (IVA 15% general, 5% canasto, ISLR progresivo, Impuesto Patrimonio Neto, eliminación IGTF) |
 | 3-12 | Período de transición tributaria + adaptación del contribuyente + estimación de ingresos |
-| 6-12 | Período de flotación administrada con revisión trimestral del ancho de banda + meta inflación <30% (Pilar III.4 §III.4.2(4)(d)) |
+| 6-12 | Período de flotación administrada con revisión trimestral del ancho de banda + meta inflación <30% (Pilar IV §IV.2(4)(d)) |
 | 12 | Hito de autonomía plena del BCV + meta de inflación publicada + crawling-peg explícito |
 | 12-15 | Período de convergencia + acumulación reservas (USD 8-12 MM adicionales) + sanción Ley de Dolarización |
 | 15-18 | Período de transición (bolívar opcional y unidad de cuenta subsidiaria) |
 | 18 | **Dolarización oficial** (mes 18) |
-| 24-36 | Política fiscal acomodada al nuevo régimen monetario + Plan Plurianual vinculante III.4 → III.8 |
+| 24-36 | Política fiscal acomodada al nuevo régimen monetario + Plan Plurianual vinculante IV → VIII |
 
-### IV.4.5. Pilar III.5 Reforma Económica y Productiva
+### IV.4.5. Pilar V Reforma Económica y Productiva
 
 | Mes | Acción |
 |---|---|
@@ -253,7 +253,7 @@ Aplica solo si se ejecuta un gobierno de transición antes del "mes 0" oficial.
 | 12-18 | Consolidación ingresos OPI + Privatizaciones + entrada del FOSEIP + devaluación controlada de la OPI |
 | 18-36 | Variación acumulada +60% producción matriz al año 3, +120% al año 6. Banca de desarrollo (FIDE+BANDAES+BANMI) operativa al año 2. Mercado de capitales (Bolsa Caracas) reactivado Mes 18. |
 
-### IV.4.6. Pilar III.6 Anticorrupción + Justicia
+### IV.4.6. Pilar VI Anticorrupción + Justicia
 
 | Mes | Acción |
 |---|---|
@@ -264,11 +264,11 @@ Aplica solo si se ejecuta un gobierno de transición antes del "mes 0" oficial.
 | 12-24 | Consolidación justicia + DNA-RB activa en investigaciones macro |
 | 24-36 | Estabilización del TSJ meritocrático + DNA-RB operativa al máximo |
 
-### IV.4.7. Pilar III.7 Gobierno Digital (BND + VePass + VePass-Mig)
+### IV.4.7. Pilar VII Gobierno Digital (BND + VePass + VePass-Mig)
 
 | Mes | Acción |
 |---|---|
-| 0-2 | Ley de VePass + Ley de BND + reforma LOPC (Pilar III.7) |
+| 0-2 | Ley de VePass + Ley de BND + reforma LOPC (Pilar VII) |
 | 1-3 | Inicio adquisición de 3 Data Centers en el Guri + conexión satelital inicial |
 | 3-6 | Primera emisión de Cédula-RUT (BND-RUT) + encendido de la VePass |
 | 6-9 | Carga inicial de datos de identidad + emisión BND-RUI migratorio + integración con CPNP/CICPC/JNEM |
@@ -276,7 +276,7 @@ Aplica solo si se ejecuta un gobierno de transición antes del "mes 0" oficial.
 | 12-24 | Replicación a 10 Data Centers rurales + sistema de salud + sistema educativo |
 | 24-36 | Consolidación: VePass disponible 100% presencial + en pasos fronterizos + en zonas mineras |
 
-### IV.4.8. Pilar III.8 Planificación Estratégica
+### IV.4.8. Pilar VIII Planificación Estratégica
 
 | Mes | Acción |
 |---|---|
@@ -342,14 +342,14 @@ El **Sistema de Monitoreo Semanal Presidencial (SMSP)** automatiza el seguimient
 | # | Riesgo | Probabilidad | Impacto | Mitigación |
 |---|--------|--------------|---------|------------|
 | 1 | **Resistencia burocrática** que retrase más allá de 90 días la sanción del paquete único | Alta | Crítico | Paquete único + voto en bloque + negociación previa con oposiciones en Mes -6; proyecto se publica masivamente para presionar aprobación |
-| 2 | **Captura política del CRE** vía operadores colocados antes de inicio del Mes 0 | Media | Crítico | Cláusula *career-only* (Pilar III.2) + veeduría CIDH/OACNUDH preliminar + jurados internacionales mixtos desde el inicio |
+| 2 | **Captura política del CRE** vía operadores colocados antes de inicio del Mes 0 | Media | Crítico | Cláusula *career-only* (Pilar II) + veeduría CIDH/OACNUDH preliminar + jurados internacionales mixtos desde el inicio |
 | 3 | **Fuga de capitales** durante Fase 1 | Alta | Alto | Mes 0: Decreto de prohibición de transferencias grandes al exterior + restricciones de viaje a PDVSA + Mes 3: SCREENING BND + entrada de VePass con control biográfico |
 | 4 | **Caída de OPI** por sanciones o falta de demanda | Media | Alto | Negociación paralela con tratados de cumplimiento + veeduría OACNUDH + Mesa Internacional de Garantías (USA/UE/LATAM) + colocación prioritaria a fondos soberanos como anchor investors |
 | 5 | **Crisis social** por desempleo privado + cierre de cuerpos estadales sin transición | Alta | Alto | Indemnización 100% servicio × meses + reubicación obligatoria en dependencias del Estado + programas de reconversión PND + fondos de estabilización temporal |
 | 6 | **Sabotaje militar** durante la transición a CPNP | Baja | Crítico | La GNB queda fuera del CPNP por diseño + comunicación frecuente con oficiales del alto mando FAN + estímulos a cooperación + amnistías explicitas para subalternos |
 | 7 | **Resistencia interna del personal SAIME/PNB** al RTER | Alta | Alto | RTER generoso con indemnizaciones + programas de reconversión profesional + transferencia parcial al CPNP regional para casos aprobados |
-| 8 | **Falla en la acumulación de reservas** antes del Mes 18 (dolarización condicionada) | Media | Alto | Activación automática del FEM (Pilar III.4 §III.4.5) con financiamiento externo de contingencia (BID+BM+CAF) |
-| 9 | **Conflictos diplomáticos** con Guyana/CIJEsequibo durante el proceso | Media | Alto | DNPEP coordina plan de contingencia + Pilar III.5 §III.5.11 mitigación #10 |
+| 8 | **Falla en la acumulación de reservas** antes del Mes 18 (dolarización condicionada) | Media | Alto | Activación automática del FEM (Pilar IV §IV.5) con financiamiento externo de contingencia (BID+BM+CAF) |
+| 9 | **Conflictos diplomáticos** con Guyana/CIJEsequibo durante el proceso | Media | Alto | DNPEP coordina plan de contingencia + Pilar V §V.11 mitigación #10 |
 | 10 | **Sequía presupuestaria** por crisis de balances durante Fase 1 (PIB caída >5%) | Media | Alto | Reserva presupuestaria obligatoria en el FEM (5% del PIB) + cláusula de salvaguarda fiscal excepcional con mayoría simple AN + activación de créditos multilaterales de emergencia |
 | 11 | **Desconfianza social** sobre la implementación (riesgo de primera crisis de credibilidad) | Alta | Medio | Mes 0-12: campañas masivas de comunicación pública + VePass como símbolo de la nueva identidad + victorias tempranas del CPNP (semanas 1-12) en zonas calientes |
 | 12 | **Fuga de talento** entre firmas requeridas para OPI PDVSA | Media | Alto | BROW NIC + política de retención de profesionales + concursos específicos paralelos |
@@ -403,7 +403,7 @@ El Plan de Implementación se somete a **revisión trimestral general** por el C
 
 | Firma | Auditoría | Frecuencia |
 |---|---|---|
-| Binder Dijker Otte (BDO) o equivalente | Cierre trimestral de gastos (Pilar III.4 + III.5) | Trimestral |
+| Binder Dijker Otte (BDO) o equivalente | Cierre trimestral de gastos (Pilar IV + V) | Trimestral |
 | KPMG / Ernst & Young | Estados financieros BND + BCV + FEM + FOSEIP | Trimestral |
 | Gobiernos amigos (Alemania, Japón, Chile, Uruguay, Canadá) + ACNUR + FRONTEX UE | Aspectos migratorios y fronterizos | Anual |
 | OACNUDH + CIDH | Cumplimiento Convención 1951+ DDHH VE | Trimestral |

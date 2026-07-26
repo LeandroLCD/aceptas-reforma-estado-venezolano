@@ -1,0 +1,380 @@
+---
+titulo: "Ficha Técnica — Ministerio de Infraestructura y Servicios"
+version: "0.1 (FT.5 — versión ficha técnica, 25-jul-2026)"
+estado: "Borrador operativo. Operacionaliza los regímenes de privatización del Pilar V v0.2 (Corpoelec, CANTV, HIDROVEN 9 hidrológicas, transporte, vivienda) y la creación de reguladores independientes CONAELEC + SUNAA."
+parte: "FT — Fichas Técnicas"
+ministerio: "Nº 5 — Infraestructura y Servicios"
+ministerios_agrupados_vigentes: "#32 MPP Energía Eléctrica + #33 MPP Atención de las Aguas + #34 MPP Obras Públicas + #35 MPP Transporte + #12 MPP Hábitat y Vivienda"
+entes_maximos_segun_tope: "~6-8 entes de los 40 totales"
+clausula_continuidad: "3/4 + referéndum popular ratificatorio (Innovación #1) — vinculada a privatizaciones + Pilar V"
+corpoelec_privatizacion: "100% privatizada en 5-7 lotes regionales con régimen 20 años exoneración + sólo IVA año 21"
+hidroven_privatizacion: "100% privatizada en 9 lotes regionales independientes (Hidrocapital, Hidrocentro, Hidrolago, Hidroandes, Hidrolara, Hidrocaribe, Hidropaez, Hidrosuroeste, Hidrollanos)"
+cantv_privatizacion: "100% privatizada + Movilnet + CONATEL como regulador independiente"
+reguladores_independientes: "CONAELEC (eléctrico) + SUNAA (hídrico) + CONATEL (telecom)"
+veeduria_internacional: "Veeduría Internacional Permanente 8 años (Innovación #2) coordina con PPP-DNP en infracstructura crítica"
+---
+
+# FT.5 — Ficha Técnica del Ministerio de Infraestructura y Servicios
+
+> **Mandato constitucional**:
+>
+> *"Le corresponde al Ministerio de Infraestructura y Servicios diseñar, ejecutar y evaluar las políticas nacionales en materia de energía eléctrica privatizada por regionales + agua potable y saneamiento privatizada por 9 hidrológicas + obras públicas nacionales + transporte multimodal + hábitat y vivienda; coordinar con los reguladores independientes CONAELEC (energía), SUNAA (aguas) y CONATEL (telecomunicaciones); ejecutar el cronograma de privatización 100% de Corpoelec, HIDROVEN-9-regionales, CANTV y Movilnet con régimen 20 años exoneración + sólo IVA en año 21; mantener el régimen de Infraestructura Nacional con cláusulas de continuidad anti-cambio político; facilitar la regeneración del transporte urbano con VePass-Firma individual en cada modo; coordinar con la DNPEP del Pilar VIII el Presupuesto Plurianual."*
+
+El Ministerio de Infraestructura y Servicios es **el ministerio del Estado reformado con mayor volumen operativo privatizador**: ejecuta la **privatización 100% de tres sectores críticos** (electricidad, agua, telecomunicaciones) bajo un cronograma de 12 meses, mientras mantiene la rectoría de obras públicas, transporte multimodal y vivienda social. Está condicionado por dos regímenes de cláusulas de continuidad (Pilar V para privadas + Pilar IV FEM para inversiones) y por dos organismos de veeduría internacional (OACNUDH CIDH para Bodyelec SUNAA CONATEL).
+
+La paradoja constitucional que resuelve: el Estado **deja de operar** energía, agua y telecomunicaciones (transferidos a operadores privados regulados) **PERO** mantiene el control público indirecto del BLOQUE de cláusulas de continuidad + la potestad regulatoria de los entes independientes (CONAELEC SUNAA CONATEL) + el establecimiento de la politica habitacional y obras públicas. Es decir, el ministerio pasa de "operador" a "coordinador-regulador".
+
+## 0. Resumen ejecutivo
+
+**Adscripción**: 5 ministerios vigentes concentrados.
+
+**Privatización 100% cronograma 12 meses** (Pilar V cronograma):
+
+| Sector | Cronograma | Modelo | Ingresos esperados |
+|---|---|---|---|
+| **Corpoelec (electricidad)** 5-7 lotes regionales | Mes 0-12 | Licitación pública internacional, modelo OFGEM/UK (regulador independiente con precio regulado) | USD 2.000-4.000M one-shot + cánones durante concesión 20 años |
+| **HIDROVEN 9 hidrológicas regionales** | Mes 0-12 (mes 1-6 los 4 mayores) | 9 licitaciones independientes, 20 años exoneración + sólo IVA año 21 | USD 1.000-2.500M one-shot (suma de las 9) + cánones |
+| **CANTV + Movilnet (telecom)** | Mes 0-6 (CANTV), 6-12 (Movilnet) | Enajenación accionaria al 100% vía decreto presidencial + pliego de condiciones técnicas | USD 1.500-3.000M one-shot |
+
+**Obras Públicas + Transporte + Vivienda**: permanecen como rectoría y operación directa del Estado, sin privatización.
+
+**3 reguladores independientes**:
+- **CONAELEC** — electricidad, modelo UK OFGEM (modelo Britain 1989 liberalizante con tarifas reguladas + peaje troncal + mercado mayorista de generación)
+- **SUNAA** — agua potable y saneamiento, modelo OFGEM/UK análogo + 9 agencias regionales equivalentes
+- **CONATEL** — telecomunicaciones, ya existente (LOTEL 2011) reformada para mayor independencia técnica
+
+**Vinculación con el MIED-LAM**: los nuevos operadores privados deben comprometerse a implementar programas de capacitación en administración de empresas con VePass-Firma obligatoria, conforme al Pilar III.
+
+## 1. Marco constitucional y legal
+
+### 1.1 Reformas constitucionales
+
+| Reforma CRBV | Justificación |
+|---|---|
+| **Art. 302 reformado (inciso final)** | Sector eléctrico, telecomunicaciones y agua salen de la reserva estatal (privatizables al 100%); refinación y petroquímica básica mantienen reserva |
+| **Art. 178 reformado** | Catálogo taxativo de ingresos propios municipales + FCM/FEM con rango constitucional — refuerza la autonomía territorial para obras públicas municipales (Pilar IV) |
+| **Art. 184 reformado (competencia nacional)** | Definición explícita de "obras públicas nacionales" vs "obras públicas municipales" + coordinación con alcaldías |
+
+### 1.2 Leyes orgánicas nuevas y reformas necesarias
+
+| Ley | Estado | Función |
+|---|---|---|
+| **LORPSP** (Ley Orgánica de Régimen de Privatización de Servicios Públicos) | A redactar Título V Texto Articulado | Régimen uniforme de privatización con cláusulas de continuidad anti-discontinuidad |
+| **Reforma Ley Orgánica del Servicio Eléctrico (1999)** | A redactar conforme Pilar V | Eliminar monopolio estatal + privatización + régimen 20 años exoneración |
+| **Nueva LOEA** (Ley Orgánica de Energía Eléctrica y Telecomunicaciones) | A redactar | Régimen institucional común a energía eléctrica + telecomunicaciones, con servicio universal garantizado |
+| **Nueva LOAPSA** (Ley Orgánica del Agua Potable y Saneamiento) | A redactar Título XIV Texto Articulado | Reforma integral del sector hídrico + 9 hidrológicas + SUNAA independiente |
+| **Reforma Ley Orgánica de Transporte y Tránsito Terrestre (2009)** | A redactar | Sistema nacional de transporte multimodal + régimen de operación privada supervisada |
+| **Reforma LOTEL 2011** | A redactar | Independencia reforzada de CONATEL |
+| **Reforma LOAE** (Ley Orgánica de Ambiente) y cruce con Pilar III.9 Ambiente | A redactar | Aplica principios ambientales al agua potable con el Ministerio del Ambiente |
+
+### 1.3 Vinculación con el Marco Articulado
+
+- **Texto Articulado Arts. 41-44** — Telecomunicaciones (CANTV/Movilnet, ya redactado).
+- **Texto Articulado Arts. 31-34** — Electricidad (privatización Corpoelec, ya redactado).
+- **Texto Articulado Título XIV** — Agua Potable y Saneamiento (9 hidrológicas + SUNAA, Pilar IV §A.5 ya redactado).
+
+## 2. Estructura orgánica
+
+### 2.1 Organigrama
+
+```
+Ministerio de Infraestructura y Servicios
+├── Despacho del Ministro
+│   ├── Viceministerio de Energía Eléctrica y Privatización
+│   │   ├── Dirección General de Privatización Corpoelec
+│   │   ├── Dirección General de Coordinación con CONAELEC
+│   │   ├── Dirección General de Servicio Universal Eléctrico
+│   │   └── Unidad de Tarifa Social Focalizada (subsidios cruzados)
+│   ├── Viceministerio de Agua Potable y Saneamiento
+│   │   ├── Dirección General de Privatización HIDROVEN
+│   │   ├── Dirección General de las 9 Hidrológicas Regionales
+│   │   ├── Dirección General de Coordinación con SUNAA (regulador)
+│   │   └── Unidad de Calidad y Aforo de Aguas (BDH-ADN-DAFH)
+│   ├── Viceministerio de Telecomunicaciones
+│   │   ├── Dirección General de Privatización CANTV + Movilnet
+│   │   ├── Dirección General de Coordinación con CONATEL
+│   │   └── Unidad de Servicio Universal de Telecomunicaciones
+│   ├── Viceministerio de Transporte Multimodal
+│   │   ├── Dirección General de Transporte Terrestre
+│   │   ├── Dirección General de Transporte Aéreo Nacional
+│   │   ├── Dirección General de Transporte Acuático y Puertos
+│   │   ├── Dirección General de Ferrocarriles y Metros
+│   │   └── Unidad de Coordinación con CPNP en territorio (transporte + seguridad pública)
+│   ├── Viceministerio de Obras Públicas
+│   │   ├── Dirección General de Infraestructura Vial Nacional
+│   │   ├── Dirección General de Infraestructura No Vial (puentes, aeropuertos, hidroeléctricas nacionales)
+│   │   ├── Dirección General de Mantenimiento Vial
+│   │   └── Unidad de Coordinación con MPC (municipios + regiones)
+│   ├── Viceministerio de Hábitat y Vivienda
+│   │   ├── Dirección General de Programas Habitacionales
+│   │   ├── Dirección General de Regularización de Tierras Urbanas y Catastro Digital
+│   │   ├── Dirección General de Financiamiento Habitacional (vinculado a BANAVIH y banca de desarrollo)
+│   │   └── Unidad de Vivienda Rural y Comunitaria
+│   └── Secretaría General del Ministerio
+│       ├── Dirección de Administración y Concursos CNSC
+│       ├── Consultoría Jurídica (incluye privatización LORPSP)
+│       ├── Oficina Nacional de Datos Abiertos
+│       ├── Unidad VePass-Firma obligatoria (Innovación #3)
+│       └── Coordinación Internacional (OACNUDH CIDH CPNP)
+└── Entes adscritos (ver §3)
+```
+
+### 2.2 Viceministerios — mandatos
+
+#### 2.2.1 Energía Eléctrica y Privatización
+
+Ejecuta cronograma privatización 100% Corpoelec en 5-7 lotes regionales:
+- Lotes distribución (5-7 unidades): diferentes concesionarios con servicio universal obligatorio por pliego
+- Lote transmisión troncal: operador único bajo régimen de peaje regulado
+- Lote generación: mercado mayorista competitivo
+- Rector iluminación: pequeña Dirección General de Energía Eléctrica con funciones regulatorias y peaje-mayorista
+
+Régimen 20 años exoneración post-privatización:
+- Primeros 20 años: exoneración total de ISLR, IGTF, impuestos municipales, tasas
+- Año 21 en adelante: pago únicamente IVA a la alícuota general,ISLR y IGTF
+- Los recursos del IVA alimentan el FOSEN (Fondo de Sostenimiento del Sistema Eléctrico Nacional)
+
+#### 2.2.2 Agua Potable y Saneamiento
+
+Ejecuta cronograma privatización 100% HIDROVEN-9-regionales en 9 licitaciones independientes:
+
+| # | Filial | Cobertura geográfica | Estimación privatización |
+|---|---|---|---|
+| 1 | Hidrocapital | Caracas, Miranda, Vargas | USD 220M |
+| 2 | Hidrocentro | Carabobo, Aragua, Cojedes | USD 150M |
+| 3 | Hidrolago | Zulia, Trujillo, Mérida | USD 180M |
+| 4 | Hidroandes | Táchira, Barinas, Portuguesa, Apure | USD 120M |
+| 5 | Hidrolara | Lara, Yaracuy | USD 80M |
+| 6 | Hidrocaribe | Anzoátegui, Sucre, Nueva Esparta, Monagas, Delta Amacuro | USD 130M |
+| 7 | Hidropaez | Portuguesa | USD 60M |
+| 8 | Hidrosuroeste | Táchira, Sur del Lago | USD 50M |
+| 9 | Hidrollanos | Apure, Guárico, Barinas (zona llanos) | USD 70M |
+| **Total esperado** | | | **USD 1.060M** |
+
+HIDROVEN matriz subsiste como holding técnico del Estado — coordina política nacional + planificación hidrológica + regulación técnica con SUNAA.
+
+Régimen idéntico al eléctrico (20 años exoneración + IVA, ISLR año 21) + cláusulas ambientales (Art. 35 CRBV reformado).
+
+#### 2.2.3 Telecomunicaciones
+
+- **CANTV** privatización 100%: enajenación accionaria mes 0-6. Marco regulatorio CONATEL independiente.
+- **Movilnet** privatización 100%: enajenación mes 6-12.
+- CONATEL se mantiene como regulador técnico con LOTEL 2011 reformada.
+- BOLIPUERTOS + BAERONAVES privatizables (Pilar V).
+- Servicio Universal garantizado por pliego + tarifa social focalizada.
+
+#### 2.2.4 Transporte Multimodal
+
+Tierra + aire + agua + ferroviario:
+- INTT para regulación terrestre + terminal de autobuses
+- IAFAE (Instituto Autónomo de Ferrocarriles del Estado) → privatizable o reordenable
+- Metro Caracas + Metros similares → operación mixta público-privada
+- BOLIPUERTOS + BAERONAVES → privatizables
+- Coordinación con CPNP en cabeceras de transporte público
+
+#### 2.2.5 Obras Públicas
+
+- Construcciones nacionales (puentes, carreteras troncales, aeropuertos, puertos, edificios públicos)
+- Mantenimiento vial
+- Coordinación con municipios para obras menores (transferencia de tecnología + Foncomun)
+
+#### 2.2.6 Hábitat y Vivienda
+
+- Programas habitacionales
+- Regularización de tierras urbanas + catastro digital (Pilar VII)
+- BANAVIH transformado en banca de vivienda
+- Vivienda rural y comunitaria en coordinación con pueblos indígenas (Viceministerio de Interior)
+
+## 3. Entes adscritos
+
+| # | Ente | Naturaleza | Tipo | Origen |
+|---|---|---|---|---|
+| 1 | **CONAELEC** (transformado a «Comisión Nacional de Energía Eléctrica») | Organismo técnico independiente | Regulador de electricidad | Nuevo; modelo UK OFGEM; estructura de transparencia tarifaria + reclamos + peaje |
+| 2 | **SUNAA** (Superintendencia Nacional de Aguas y Saneamiento) | Organismo técnico independiente | Regulador de agua potable y saneamiento | Nuevo; modelo OFGEM/UK; 9 agencias regionales equivalentes |
+| 3 | **CONATEL** | Organismo técnico independiente | Regulador de telecomunicaciones | Vigente subsistente; LOTEL 2011 reformada para mayor independencia |
+| 4 | **INAFAE** (Instituto Autónomo Nacional de Ferrocarriles + Aeropuertos Estatales) | Organismo de planificación y operación | Rectoría ferroviario + aeroportuaria nacional (puede reorganizar) | Vigente subsistente con nueva denominación |
+| 5 | **INOSEHAB** (Instituto Nacional de Obras Sanitarias + Equipamiento Habitacional) | Ente de estudios + diseño | Apoyo técnico del ministerio en materia de hábitat y vivienda (transferencia a la banca de vivienda) | Nuevo o reorganización de entes vigentes |
+| 6 | **PDV** (Planificación del Transporte Vial) | Ente de planificación | Estudios y proyección de transporte multimodal | Nuevo |
+| 7 | **ILUMINA** (Dirección General de Iluminación Pública) | Pequeña unidad operativa | Mantenimiento y ampliación de la red de iluminación pública (cuenta de servicios regularizado por CONAELEC) | Nuevo o reorganización |
+
+**Total entes**: 7 dentro del tope de 40 (Art. 9 Texto Articulado).
+
+> **Entes suprimidos o transferidos**:
+> - CORPOELEC: privada como matriz — privatizada mes 0-12
+> - CADAFE: privatizada + fusionada a lote regional
+> - C.A. Electricidad de Caracas: privatizada (lote regional Metropolitano-Litoral)
+> - HIDROVEN matriz: subsistente como holding técnico del Estado
+> - 9 hidroregionales: privatizadas mes 0-12
+> - MERCAL: transferida al Ministerio de Economía y Finanzas §Alimentación
+> - PLC: privatizada en el lote correspondiente
+> - FONTUR + INAVI + BANAVIH + BOLIPUERTOS + BAERONAVES + CONVIASA: privatizables (Pilar V)
+> - IAFE: integrado en INAFAE
+> - CANTV + MOVILNET: privatizadas mes 0-12
+> - CONSTRUMETRO: privatizada o disuelta con sus activos transferidos a filiales
+> - INTT: se mantiene con nueva denominación INTT-VE (regulador terrestre)
+
+## 4. Designaciones políticas del ministerio
+
+### 4.1 Ministro de Infraestructura y Servicios
+
+- **Concurso público CNSC** con jurado mixto (4 nacionales + 3 internacionales de IFC World Bank / OFGEM / BID Agua).
+- Ratificación AN 3/5.
+- Requisitos: venezolano por nacimiento, mayor 35, postgrado en ingeniería civil, urbanismo, economía de servicios públicos o derecho administrativo + 15 años experiencia en regulación de servicios públicos
+- Período 7 años no prorrogable
+- Destitución 3/4 AN con 7 causales taxativas; #6 = **interferencia indebida en la autonomía regulatoria de CONAELEC, SUNAA o CONATEL**
+
+### 4.2 Viceministros
+
+Concurso meritocrático CNSC cada 5 años; rangos análogos al Ministerio de Energía y Minas.
+
+### 4.3 Director de Regulador Independiente (CONAELEC / SUNAA / CONATEL)
+
+Ver cláusula #3.4 — diseño de autonomía orgánica y financiera de los reguladores.
+
+## 5. Funcionarios del ministerio — régimen meritocrático
+
+### 5.1 Escala salarial
+
+| Cargo | USD/mes |
+|---|---|
+| Ministro | 9K-12K |
+| Viceministro | 7K-9K |
+| Director General de regulador independiente | 8K-11K (con sobresueldo por veeduría OACNUDH) |
+| Director de Servicio | 5K-7K |
+| Director de Hidrológica privatizada (Director Estatal HIDROVEN holding) | 6K-8K |
+| Profesional técnico | 2.5K-4.5K |
+| Técnico administrativo | 1.4K-2.5K |
+| Auxiliar | 800-1.2K |
+
+Tope 14:1.
+
+### 5.2 Concursos CNSC + VePass-Firma obligatoria
+
+Todos los cargos directivos son concursados CNSC. Cada decisión del ministerio (licitación, resolución, adjudicación, sanción) lleva VePass-Firma individual con estampilla BND-IP.
+
+## 6. Diseño de los reguladores independientes
+
+### 6.1 Diseño común (modelo OFGEM/UK)
+
+| Característica | Diseño |
+|---|---|
+| Naturaleza | Entidad descentralizada con personalidad jurídica y patrimonio propio |
+| Directorio | 5 miembros designados por concurso público CNSC + ratificación AN 3/5; períodos 6 años no prorrogables |
+| Independencia | No recibe instrucciones del Ejecutivo de turno + presupuesto no reprogramable transferido mensualmente del BCV |
+| Transparencia | Publica informes trimestrales en CKAN/Open Data Charter + audiencias públicas anuales |
+| Veeduría | OACNUDH + CIDH mantienen veeduría anual durante 8 años |
+| Servicio Universal | Garantizado por pliego + tarjeta subsidiada por hogar vulnerable |
+
+### 6.2 CONAELEC (electricidad)
+
+- **Función**: regulación tarifaria (peaje troncal + distribución), peaje mayorista de generación, supervisión técnica + estándares calidad, autorización de licencias regionales.
+- **Operador privado del lote regional**: depende de la empresa privatizada; CONAELEC es solo regulador.
+- **Servicio Universal**: garantía de suministro eléctrico a hogares vulnerables.
+
+### 6.3 SUNAA (agua potable + saneamiento)
+
+- **Función**: regulación tarifaria, autorizaciones a las 9 operadoras regionales, supervisión técnica + estándares de calidad de agua (con Ministerio del Ambiente — sinergia Pilar III.9), supervisión del sistema de protección de fuentes hídricas.
+- **Coordinación con Ministerio del Ambiente**: sinergia entre Ministerio del Ambiente (#9) y SUNAA para política ambiental + protección de fuentes.
+- **Coordinación con Veeduría Internacional**: OACNUDH y ACNUR supervisan anualmente.
+
+### 6.4 CONATEL (telecom, ya existente)
+
+- Reforma LOTEL 2011 para mayor independencia técnica.
+- Privatización 100% de CANTV + Movilnet + sus lotes.
+- BOLIPUERTOS privatizable y BAERONAVES privatizable (Pilar V).
+- Servicio universal por pliego.
+
+## 7. Cronograma 12 meses (privatización + obra pública)
+
+| Mes | Hito |
+|---|---|
+| 0 | Sentencia interpretativa publicada en GO Extraordinaria. Instalación del ministerio. Primeros concursos CNSC para Ministro y Viceministros. |
+| 1-3 | Pliegos de electricidad, agua, telecomunicaciones publicados oficialmente; convocatoria pública nacional + internacional. |
+| 3-6 | **CANTV privatizada** (adjudicación + transferencia de 100%). **Hidrocapital e Hidrocentro** y **2da fila de hidrológicas** (Hidrolago, Hidroandes) licitadas. 2 lotes regionales Corpoelec licitados. |
+| 4-6 | **Transición operativa**: marcado de la nueva matriz HIDROVEN estatal + directorio meritocrático de SUNAA. |
+| 6-9 | **Movilnet privatizada**. 3ra fila de hidrológicas (Hidrolara, Hidrocaribe). 2 lotes Corpoelec adicionales licitados. |
+| 9-12 | **4ta fila de hidrológicas** (Hidropáez, Hidrosuroeste, Hidrollanos). Último lote Corpoelec. Estabilización tarifaria con tarifa social focalizada para hogares vulnerables (Pilar IV IV-I). |
+| 12 | Directorio PDVSA meritocrático instalado en paralelo (Pilar V). Veeduría Internacional Permanente 8 años activa en CONAELEC + SUNAA + CONATEL. |
+
+## 8. Presupuesto del Ministerio de Infraestructura y Servicios
+
+| Concepto | USD/año | Observaciones |
+|---|---|---|
+| Masa salarial del ministerio (~2.500 funcionarios) | 50M | Concursos meritocráticos CNSC, escala competitiva |
+| Regulación independiente: CONAELEC + SUNAA + CONATEL | 90M (presupuestos no reprogramables transferidos mensualmente del BCV) | Incluidos aquí como agregado; en realidad se transfieren directamente sin control ministerial |
+| Mantenimiento y operación de infraestructura nacional (obras públicas) | 350M | Carreteras troncales, puentes, aeropuertos, puertos, edificios públicos |
+| Concesión de obras nuevas (licitadas) | 300M | Mixto público-privado, con VePass-Firma individual de los responsables de cada obra |
+| Subsidios cruzados agua + electricidad | 250M | Para hogares vulnerables (Pilar IV IV-I, FCM/FEM) |
+| Estudios + catastro digital + vivienda rural + hábitat | 80M | Coordinación con MIED-LAM + BND/Cédula-RUT (Pilar VII) |
+| Reserva emergencia + cooperación internacional con OACNUDH CIDH | 50M | Para veeduría Internacional Permanente 8 años |
+| **Total Ministerio de Infraestructura y Servicios** | **~1.170M USD/año** | ~0,53% PIB |
+
+> **Nota**: las nóminas de las empresas privatizadas son trasladadas a éstas; el ministerio paga solamente la rectoría + regulación independiente + obras públicas.
+
+## 9. Indicadores de éxito
+
+| Indicador | Línea base (2026) | Meta año 3 | Meta año 6 |
+|---|---|---|---|
+| Privatización Corpoelec completa | 0% | 100% licitada + 50% adjudicada | 100% adjudicada |
+| Privatización HIDROVEN 9-regionales | 0% | 100% licitada + 30% adjudicada | 100% adjudicada |
+| Privatización CANTV + Movilnet | 0% | 100% licitada + 100% adjudicada | Mantenida cotizada + nuevos operadores ISP |
+| Cobertura servicio eléctrico nacional | <60% | 80% | 95% |
+| Cobertura agua potable por red domiciliaria | <50% | 70% | 90% |
+| Cobertura conectividad banda ancha | <30% | 65% | 90% |
+| Mantenimiento vial (carreteras troncales) | Deficiente | 70% adecuado | 100% adecuado |
+| Reducción tiempo de viaje Caracas-Valencia por carretera | Variable | 30% reducción | 50% reducción |
+| Cumplimiento servicio universal garantía | <30% | 70% | 95% |
+| Cumplimiento tarifa social focalizada | No existe | 80% sectores vulnerables cubiertos | 95% sectores vulnerables cubiertos |
+| OACNUDH CIDH informes anuales CONAELEC + SUNAA + CONATEL | 0 | 3 informes publicados | 6 informes publicados |
+| Competitividad construcción formal | -90% nivel histórico | +50% | +150% |
+| Precio electricidad residencial (USD/kWh) | n/a | Paquete competencia regulada por mercado mayorista | Regulada por área + tariSocial focalizada |
+
+## 10. Riesgos y mitigaciones
+
+| Riesgo | Prob. | Impacto | Mitigación |
+|---|---|---|---|
+| Fracaso licitaciones Corpoelec por desconfianza inversionista | Alta | Crítico | Enmienda de pliego + prolongación de cronograma + información al BCV para aclarar marco cambiario (Pilar IV) |
+| Shocks tarifarios post-privatización (riesgo Milei) | Alta | Crítico | Tarifa social focalizada (subsidios cruzados entre sectores) + Fondo de Sostenimiento del Sistema Eléctrico Nacional (FOSEN) y Fondo SUNAA ambiental |
+| Captura regulatoria (reguladores CONAELEC SUNAA CONATEL) | Media | Alto | Directorio 5 miembros por concurso + AN 3/5 + independencia presupuestaria + veeduría OACNUDH CIDH |
+| Resistencia del MIIEE a la fusión conSector Agua privatizado | Media | Medio | Cronograma gradual + compensación al personal transferido |
+| Captura del FOSEN o del Fondo SUNAA | Media | Alto | Auditoría trimestral CGR + reglas automáticas técnicas de movilización de fondos (NO discrecionales) |
+| Caída de la inversión por inconsistencia del cronograma 18m Pilar IV | Alta | Alto | Continuidad paralela + inyección FEM + roteiro publicitado internacional |
+| Evasión proporcional en cobranza de servicios | Alta | Medio | Tarifa social con centros de autoliquidación automática (BND-RUI + VePass) |
+| Privatización hidroeléctrica + mineras (aguas arriba) tiene impacto ambiental | Alta | Medio | Consulta con Ministerio del Ambiente + aplicación de directrices ambientales Pilar III.9 (Ambiente) + veeduría LIDHAA |
+| Privatización del transporte aéreo y puertos causa reducción de rutas aisladas | Media | Alto | Servicio universal obligatorio + oscuridad necesaria: rutas pequeñas aislados con subsidación cruzada para las rutas principales |
+| Riesgo tarifa cero-país (no pago de servicios) | Alta | Medio | Mora controlada con indemnización efectiva desde Pov Régeln Local (Pilar IV) + alimentación inteligente |
+
+## 11. Cláusula de continuidad específica
+
+Reforma constitucional Art. 343 con blindaje reforzado (analogía MIED-LAM y DNA-RB):
+
+> *"Cualquier modificación del Art. 302 reformado (inciso final, regimen de reservas vs privatizable); cualquier eliminación o fusión de CONAELEC, SUNAA o CONATEL; cualquier cambio del régimen 20 años exoneración + sólo IVA año 21; cualquier eliminación de los servicios universales garantizados; cualquier modificación del cronograma 12 meses para la privatización Corpoelec, HIDROVEN 9-regionales, CANTV + Movilnet sin cumplir; cualquier intento de reversión de privatizaciones realizadas conforme a este régimen, requiere mayoría de tres cuartos (3/4) de la Asamblea Nacional y ratificación mediante referéndum popular. Incluidot a su vez que la indemnización alpropietario reverso se aplica con pay-before-take inverso (justiprecio + 30%)."*
+
+## 12. Innovaciones arquitectónicas materializadas
+
+| Innovación | Materialización en MEM |
+|---|---|
+| #1 Cláusula de continuidad | Privatizaciones blindadas con 3/4 + referendum + pay-before-take inverso |
+| #2 Veeduría Internacional Permanente | CONAELEC + SUNAA + CONATEL bajo veeduría anual 8 años |
+| #3 VePass-Firma obligatoria | Todas las licitaciones y decisiones + BND-IP estampadas |
+| #6 CEV-CN Carmen Navas | Comité independiente puede investigar decisiones de privatización + recomendar revocación en 60 días |
+| #7 Plan Quinquenal vinculante (Pilar VIII) | Vinculación del Plan Quinquenal Nacional con el cronograma de privatizaciones |
+
+## 13. Documentos conexos
+
+- **Pilar V v0.2** (§V.5 Corpoelec + §V.6 HIDROVEN — fuente doctrinal completa)
+- **Pilar IV v0.1** — FCM / FEM / transferencias a municipios
+- **Pilar II v0.1** — Coordinación con CPNP en infraestructura crítica
+- **Pilar VII** — BND + VePass-Firma
+- **Pilar III.9 Ambiente** — Política ambiental de agua y residuos
+- **Texto Articulado Arts. 41-44** — Telecom (CANTV/Movilnet)
+- **Texto Articulado Arts. 31-34** — Electricidad (privatización Corpoelec)
+- **Texto Articulado Título XIV** — Agua Potable (HIDROVEN)
+- **Anexo A.5** — rattachation vigente
+- **Anexo A.10** — Distribución funciones (incluye ex-Justicia)
+
+---
+
+*Esta ficha operativa consolida y operacionaliza la doctrina del Pilar V sin duplicarla. El cronograma 12m de privatización completa + 3 reguladores independentes + régimen 20 años exoneración son los elementos centralmente operativos del ministerio.*
+
+*Versión 0.1 — 25-jul-2026. Pendiente: descripción detallada por Viceministerio + KPIs mensuales.*

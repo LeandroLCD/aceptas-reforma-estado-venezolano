@@ -8,7 +8,7 @@ marco_legal: CRBV arts. 49 (debido proceso), 50 (libertad personal), 55 (protecc
 mandato_institucional: "Comisión Especial Nacional para la Verdad, Memoria y Reparación como mecanismo institucional de investigación de violaciones sistemáticas a los derechos humanos, identificación de víctimas mortales, revisión de expedientes de personas detenidas en el contexto del patrón represivo documentado (CIDH Doc. 253/24, sentencias Corte IDH, informes PROVEA 2025, Amnistía Internacional 2025/26, Misión FFM) y emisión de la lista nominada de personas cuya liberación inmediata o revisión judicial prioritaria se solicita formalmente al Ejecutivo conforme a compromisos de derechos humanos y obligaciones internacionales del Estado"
 denominacion_oficial: "Comisión Especial Nacional para la Verdad, Memoria y Reparación 'Carmen Navas' — CEV-CN"
 referentes_internacionales: "Comisión Nacional de Verdad y Reconciliación de Chile (1990-1991, Patricio Aylwin); Comisión Esclarecimiento Histórico de Guatemala (1997-1999, CEH); CVR de Perú (2001-2003, Salomón Lerner); Comisión de Verdad y Reconciliación de SudAfrica (1995-2000, Desmond Tutu); JEP de Colombia (2017-actualidad); México CNIDH; CRPD de Brasil"
-relaciones: "MP unificado (Pilar III.6), TSJ meritocrático, CICPC con BND-ADN (Pilar III.2), DNPEP (Pilar III.8), Defensor del Pueblo meritocrático (Pilar III.6.7-A)"
+relaciones: "MP unificado (Pilar VI), TSJ meritocrático, CICPC con BND-ADN (Pilar II), DNPEP (Pilar VIII), Defensor del Pueblo meritocrático (Pilar VI.7-A)"
 clausula_continuidad: 3/4 AN + referéndum ratificatorio para afectar la CEV-CN
 ---
 
@@ -30,11 +30,11 @@ En homenaje a Carmen Navas y a las miles de víctimas análogas (Foro Penal, Com
 
 ### V.1.1. Creación
 
-La CEV-CN es creada por **ley orgánica de la Asamblea Nacional** dentro de los primeros 6 meses del nuevo gobierno, mediante rango constitucional otorgado por **sentencia interpretativa del Tribunal Supremo de Justicia (TSJ) meritocrático** (Pilar III.6) en aplicación del **artículo 333 Constitución de la República Bolivariana de Venezuela (CRBV)**. La CEV-CN **no es un ministerio** (no preside consejos de ministros); es una **comisión especial de carácter temporal** con mandato claro, poder ejecutivo limitado y dependencia funcional del Comité de Reforma del Estado (CRE - Pilar IV §IV.2).
+La CEV-CN es creada por **ley orgánica de la Asamblea Nacional** dentro de los primeros 6 meses del nuevo gobierno, mediante rango constitucional otorgado por **sentencia interpretativa del Tribunal Supremo de Justicia (TSJ) meritocrático** (Pilar VI) en aplicación del **artículo 333 Constitución de la República Bolivariana de Venezuela (CRBV)**. La CEV-CN **no es un ministerio** (no preside consejos de ministros); es una **comisión especial de carácter temporal** con mandato claro, poder ejecutivo limitado y dependencia funcional del Comité de Reforma del Estado (CRE - Pilar IV §IV.2).
 
 ### V.1.2. Duración
 
-**Mandato temporal de 7 años**: período inicial de 4 años (2026-2030) con cierre y reporte público final, ampliable por mayoría 3/5 de la AN a 3 años adicionales (2030-2033) si las metas pendientes lo requieren.
+**Mandato temporal de 7 años**: período inicial de 4 años (2026-2030) con cierre y reporte público final, ampliable por mayoría 3/5 de la Asamblea Nacional (AN) a 3 años adicionales (2030-2033) si las metas pendientes lo requieren.
 
 ### V.1.3. Mandato triple
 
@@ -89,7 +89,7 @@ El/la **Presidente/a de la CEV-CN** es elegido/a por sus pares (los 15 comisiona
 |---|---:|---|
 | Secretario Técnico General (STCEV-CN) | 1 | Concurso CNSC, 6 años único (régimen idéntico) |
 | Equipos de investigación temática | ~50 profesionales | Concurso público |
-| Equipos forenses | ~25 profesionales | Coordinación con CICPC criminalística (Pilar III.2 §III.2.7.5) |
+| Equipos forenses | ~25 profesionales | Coordinación con CICPC criminalística (Pilar II §II.7.5) |
 | Equipos legales | ~15 profesionales | Abogados + estudiantes |
 | Equipos administrativos | ~15 profesionales | Apoyo general |
 | **Total** | **~106 profesionales** | Plantilla de la CEV-CN |
@@ -106,7 +106,7 @@ El/la **Presidente/a de la CEV-CN** es elegido/a por sus pares (los 15 comisiona
 
 ### V.3.2. Atribuciones de justicia restaurativa (revisión de expedientes y liberación)
 
-**Este conjunto específico de atribuciones es crítico al Pilar III.2+III.6+III.7 y define el alcance de la Comisión Carmen Navas.**
+**Este conjunto específico de atribuciones es crítico al Pilar II+VI+VII y define el alcance de la Comisión Carmen Navas.**
 
 #### V.3.2.1. Revisión de expedientes — modalidad operativa
 
@@ -185,10 +185,10 @@ Los comisionados que voten favorablemente por una liberación están **inmunizad
 ### V.3.3. Atribuciones de memoria y reparación
 
 1. **Levantamiento del Registro Nacional de Víctimas (RNV)** en **18 meses**: número, identidad, hechos, contexto, vínculos al patrón represivo documentado.
-2. **Coordinación con la BND-ADN del CICPC** (Pilar III.2 §III.2.7.5): fusión del BND-ADN criminalístico con el BND-RUVI de víctimas mortales.
+2. **Coordinación con la BND-ADN del CICPC** (Pilar II §II.7.5): fusión del BND-ADN criminalístico con el BND-RUVI de víctimas mortales.
 3. **Localización, exhumación, identificación y restitución de cuerpos** de víctimas mortales, en coordinación con el ICMP (Comité Internacional para Personas Desaparecidas) y el Grupo Argentino de Antropología Forense.
-4. **Construcción del Museo Nacional de la Memoria Democrática** (sitio de honor a Carmen Navas + listado de víctimas mortales en plaza + colección documental permanente) en una nueva sede del Estado con presupuesto plurianual (MFP desde Pilar III.4).
-5. **Programas de educación en DDHH** en coordinación con el MIED-LAM (Pilar III.3), en escuelas y academias de formación funcionaria.
+4. **Construcción del Museo Nacional de la Memoria Democrática** (sitio de honor a Carmen Navas + listado de víctimas mortales en plaza + colección documental permanente) en una nueva sede del Estado con presupuesto plurianual (MFP desde Pilar IV).
+5. **Programas de educación en DDHH** en coordinación con el MIED-LAM (Pilar III), en escuelas y academias de formación funcionaria.
 6. **Reparaciones administrativas**:
    - **Indemnización administrativa** por violaciones acreditadas (escala según la CIDH en VGM Informe 2019).
    - **Pensiones vitalicias por prisión política** bajo la escala CNSC.
@@ -202,29 +202,29 @@ Los comisionados que voten favorablemente por una liberación están **inmunizad
 La CEV-CN **no asume funciones jurisdiccionales en materia penal** pero coordina con:
 
 - **Causas activas ante la Fiscalía CPI caso Venezuela I** (ICC-02/18): entrega información documentada + testimonios de víctimas + cumplimiento de la cooperación.
-- **Ministerio Público unificado** (Pilar III.6 §III.6.7): para iniciar investigaciones nuevas sobre violaciones no esclarecidas + solicitar las acciones de cumplimiento internacional.
-- **TSJ meritocrático** (Pilar III.6): revisión de sentencias con vicios documentados por la CEV-CN.
-- **DNA-RB** (Pilar III.6): derivación a investigación patrimonial cuando el caso lo amerite.
+- **Ministerio Público unificado** (Pilar VI §VI.7): para iniciar investigaciones nuevas sobre violaciones no esclarecidas + solicitar las acciones de cumplimiento internacional.
+- **TSJ meritocrático** (Pilar VI): revisión de sentencias con vicios documentados por la CEV-CN.
+- **DNA-RB** (Pilar VI): derivación a investigación patrimonial cuando el caso lo amerite.
 
 ## V.4. Coordinación interinstitucional
 
-### V.4.1. Con la CICPC criminalística (Pilar III.2 §III.2.7.5)
+### V.4.1. Con la CICPC criminalística (Pilar II §II.7.5)
 
 - La CICPC establece una **Sección Forense sobre Desaparición Forzada** dependiente de su Dirección Nacional de Criminalística, dedicada exclusivamente a trabajo con la CEV-CN.
 - Esta Sección Especial opera con veeduría CIDH + OACNUDH + CPI.
 - El BND-ADN alimenta el Registro Nacional de Víctimas Mortales.
 
-### V.4.2. Con la JNEM (Pilar III.2 + esta Comisión)
+### V.4.2. Con la JNEM (Pilar II + esta Comisión)
 
 - La Junta Nacional de Evaluación Médica (JNEM) verifica el estatus migratorio de víctimas exiliadas y emite documentos de viaje para testigos protegidos.
 - Reconoce a exiliados políticos forzados el derecho al retorno seguro con garantías (reparación de ciudadanía activa).
 
-### V.4.3. Con la DNPEP (Pilar III.8)
+### V.4.3. Con la DNPEP (Pilar VIII)
 
 - Los indicadores de la CEV-CN forman parte del Tablero Nacional de Indicadores (TNI) de la DNPEP como dimensión de **memoria, verdad y reparación**.
 - La reparación administrativa (indemnizaciones, pensiones) se contabiliza como partida específica del presupuesto plurianual.
 
-### V.4.4. Con el Ministerio Público unificado (Pilar III.6)
+### V.4.4. Con el Ministerio Público unificado (Pilar VI)
 
 - Coopera en causas de jurisdicción ordinaria abiertas a partir de los informes de la CEV-CN.
 - Intercambia información BND-RUVI + BND-RUI + BND-ADN.
@@ -280,7 +280,7 @@ La CEV-CN **no asume funciones jurisdiccionales en materia penal** pero coordina
 | 5 | Expedientes BND-RUVI completos | ≥95% año 3 |
 | 6 | Investigados efectivamente procesados ante TSJ meritocrático (a partir de informes CEV-CN) | ≥50% año 3 |
 | 7 | Personas beneficiarias de reparaciones administrativa | ≥70% año 3 |
-| 8 | Programa educativo DDHH obligatorio en escuelas (MFR-Pilar III.3) | ≥95% año 3 |
+| 8 | Programa educativo DDHH obligatorio en escuelas (MFR-Pilar III) | ≥95% año 3 |
 | 9 | Cobertura geográfica de la CEV-CN | 100% estados año 2 |
 | 10 | Personas recibiendo indemnización administrativa | ≥80% año 3 |
 | 11 | Personas retornadas del exilio (reconocimiento de derecho al retorno) | ≥60% año 3 |
@@ -297,9 +297,9 @@ La CEV-CN **no asume funciones jurisdiccionales en materia penal** pero coordina
 | 3 | **Falsa declaración cooperativa** del Ejecutivo | Media | Alto | Auditoría externa anual por STCRE + indicadores publicados trimestrales + evaluación CIDH |
 | 4 | **Desencuentros entre la CEV-CN y la jurisdicción penal** | Media | Alto | Regla expresa: dictamen CEV-CN no vincula a la jurisdicción penal. Coordinación operativa pero separación funcional. |
 | 5 | **Riesgo de revelación** de identidad de testimoniantes | Media | Alto | Programa de testigos protegidos BND-R + claves CEV-CN + ISP dedicado + accesos registreless |
-| 6 | **Reinserción laboral de presos liberados** sea precaria | Alta | Alto | Coordinación con FNIP (Pilar III.5) y CNSC (Pilar III.1) para ubicación en empleo administrativo + evaluación técnica |
+| 6 | **Reinserción laboral de presos liberados** sea precaria | Alta | Alto | Coordinación con FNIP (Pilar V) y CNSC (Pilar I) para ubicación en empleo administrativo + evaluación técnica |
 | 7 | **Exilio imposibilitado de retorno** de testigos clave | Alta | Alto | Línea directa CEV-CN + JNEM + pasajes especiales de retorno seguro |
-| 8 | **Dilación excesiva de procesos judiciales ordinarios** vinculados | Alta | Medio | TSJ meritocrático (Pilar III.6) tiene plazo máximo + poderes disciplinarios |
+| 8 | **Dilación excesiva de procesos judiciales ordinarios** vinculados | Alta | Medio | TSJ meritocrático (Pilar VI) tiene plazo máximo + poderes disciplinarios |
 | 9 | **Pérdida de credibilidad pública** si los resultados son magros | Media | Medio | Comunicación pública transparente, hitos tempranos, lista cuantificada y verificable |
 | 10 | **DDHH victimarios usen como base para lavado de activos (cobrando indemnizaciones falsos)** | Baja | Alto | BND-patrimonio-due diligence; auditoría ADN intensiva antes de Indemnización |
 
@@ -309,7 +309,7 @@ La existencia, mandato, presupuesto y competencias de la CEV-CN están blindados
 
 1. **Eliminación de la CEV-CN** o fusión con otro organismo: requiere mayoría 3/4 + referéndum ratificatorio.
 2. **Modificación del mandato revisor-liberador**: requiere mayoría 3/4 + referéndum ratificatorio.
-3. **Presupuesto anual de la CEV-CN**: anillo-financing tipo Fondo Soberano de Estabilización e Inversión Productiva (FOSEIP) (Pilar III.5), mínimo 0,05% del PIB anual obligatorio, transferido mensualmente por Banco Central de Venezuela (BCV) sin retención.
+3. **Presupuesto anual de la CEV-CN**: anillo-financing tipo Fondo Soberano de Estabilización e Inversión Productiva (FOSEIP) (Pilar V), mínimo 0,05% del PIB anual obligatorio, transferido mensualmente por Banco Central de Venezuela (BCV) sin retención.
 4. **Inmunidad de comisionados**: blindada con cláusula constitucional — solo remoción por sentencia firme del TSJ meritocrático tras debido proceso + mayoría 3/4 en el Pleno + veeduría CIDH/OACNUDH participa.
 5. **Cualquier reforma de esta Comisión que no haya sido aprobada por la CEV-CN misma + la veeduría CIDH+OACNUDH**: nula de nulidad absoluta por alteración del marco básico (analogía al art. 69 CRBV).
 
@@ -317,7 +317,7 @@ La existencia, mandato, presupuesto y competencias de la CEV-CN están blindados
 
 A diferencia de comisiones que escriben un informe y luego desaparecen, **la CEV-CN se inscribe en el sistema educativo nacional**:
 
-- Los hallazgos de la CEV-CN son parte del **curriculum oficial MIED-LAM** (Pilar III.3).
+- Los hallazgos de la CEV-CN son parte del **curriculum oficial MIED-LAM** (Pilar III).
 - La base BND-RUVI queda públicamente disponible como **archivo histórico abierto** después del cierre.
 - La experiencia operativa de los comisionados es **transferida al sistema de Veeduría Internacional Permanente** OACNUDH para el monitoreo postcomisional, años 5-10.
 - El legado del procesamiento documentado tiene como propósito **nunca más repetir el patrón**: promover una **cultura política de respeto a DDHH** mediante educación institucional, no solo retórica.

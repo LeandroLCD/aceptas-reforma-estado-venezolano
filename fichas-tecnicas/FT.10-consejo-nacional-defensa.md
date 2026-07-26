@@ -1,0 +1,282 @@
+---
+titulo: "Ficha Técnica — Consejo Nacional de Defensa (ente presidencial)"
+version: "0.1 (FT.10 — versión ficha técnica, 25-jul-2026)"
+estado: "Borrador operativo. Ficha técnica del ente presidencial dependiente directo del Presidente de la República; sucesor del MPP Defensa #23 vigente. Articulación con reforma Arts. 332-333 CRBV y carácter civil de los cuerpos."
+parte: "FT — Fichas Técnicas"
+ministerio: "NO es un ministerio — dependiente directo del Presidente de la República"
+ministerios_agrupados_vigentes: "#23 MPP Defensa (suprimido) — se adscribe al ente presidencial"
+entes_maximos_segun_tope: "~3-4 entes de los 40 totales"
+clausula_continuidad: "3/4 + referéndum popular ratificatorio (Innovación #1)"
+presupuesto: "1,9% PIB = ~USD 4.180M/año (no reprogramable, análogo Ley 13.196 Chile); añadido 2026-07-26"
+comandante_jefe: "Presidente de la República (Art. 236.6 CRBV)"
+reforma_crbv: "Arts. 332-333 reformados (carácter civil de los cuerpos)"
+relaciones_con_otros_organos:
+  - "CPNP + CICPC + JNEM del Ministerio del Interior #1 (civil, fuera de Fuerza Armada)"
+  - "Ministerio de Gobierno Digital #7 para BND + VePass-Firma obligatoria"
+  - "Poder Ciudadano (Pilar VI) para interfaz con Ministerio Público (extradiciones)"
+  - "Ministerio de Relaciones Exteriores #8 para demandas internacionales"
+---
+
+# FT.10 — Ficha Técnica del Consejo Nacional de Defensa (ente presidencial)
+
+> **Mandato presidencial**:
+>
+> *"El Consejo Nacional de Defensa se constituye como ente dependiente directo del Presidente de la República, Comandante en Jefe de las Fuerzas Armadas; comprenderá la Fuerza Armada Nacional Bolivariana en su carácter militar estricto (Ejército, Armada, Aviación, Guardia Nacional Bolivariana); la reforma de los Arts. 332-333 CRBV consagra el carácter civil de los cuerpos de seguridad pública (CPNP+CICPC+JNEM) que pasan al Ministerio del Interior y Seguridad; la inteligencia militar bajo supervision civil estricta; cualquier participación de fuerzas militares en funciones civiles de orden público constituye inconstitucionalidad; las Fuerzas Armadas se profesionalizan, se especializan y se blindan contra uso político partidista."*
+
+El **Consejo Nacional de Defensa** es el **ente presidencial** dependiente directamente del Comandante en Jefe de la Fuerza Armada Nacional (el Presidente de la República conforme al Art. 236.6 CRBV). No es un ministerio del Ejecutivo. Es el sucesor institucional del MPP Defensa #23 vigente, pero suprimido como ministerio. Cubre la **vertiente militar del Estado** con separación clara de las funciones civiles de seguridad (Pilar II).
+
+Adscribe las funciones del MPP Defensa #23 + GNB (carácter militar tras reforma Art. 332-333) + DGCIM (a suprimir reformada) + IAN (cuadros específicos) + entes adscritos.
+
+## 0. Resumen ejecutivo
+
+**Adscripción**: 1 ministerio vigente suprimido + transferencia civil de CPNP+CICPC+JNEM al Ministerio del Interior (Pilar II).
+
+**Objetivo central**: profesionalización militar al estándar OTAN, democrática y sujeto a control civil eficaz. Las FAN se especializan en:
+
+1. **Defensa nacional** externa (frontera, soberanía territorial, art. 332)
+2. **Disuasión militar** estratégica (coordinación con geopolítica)
+3. **Apoyo en casos de emergencia** civil (calamidades Art. 338, evacuaciones vía CPNP-DIN)
+4. **Cooperación militar internacional** (coordinación con Ministerio de Relaciones Exteriores #8)
+
+Carácter civil: ninguna unidad militar forma parte de funciones de seguridad pública civil. Las FAN tienen prohibido el uso político (cláusula anti-cuatelaje). Cualquier militar es personal militar del Estado, no de partido.
+
+## 1. Marco constitucional y legal
+
+### 1.1 Reformas constitucionales
+
+| Reforma CRBV | Justificación |
+|---|---|
+| **Art. 332 reformado** | Los órganos de seguridad pública civil son una función pública de naturaleza civil; las FAN son una institución esencialmente militar y profesional; cualquier fusión, militarización, transformación parcial o total de su carácter, supresión, requiere mayoría calificada de tres cuartos (3/4) de los integrantes de la AN + ratificación mediante referéndum popular |
+| **Art. 333 reformado** | La formación profesional de los cuerpos militares se rige por la academia militar (Academia Militar, Escuela Naval, Escuela Aviación) con planes de estudio publicados y transparentes; se prohíbe el uso del uniforme militar para fines políticos; cualquier sanción disciplinaria es competencia del Tribunal Disciplinario Militar (creado por este pilar) y no de la cadena de mando política |
+| **Art. 236 numeral 6 mantenido** | El Presidente es el Comandante en Jefe de la FAN; tiene atribución de mando pero se reforma Art. 236.30 numerales para clarificar que las decisiones políticas militares requieren refrendación ministerial civil |
+| **Art. 236.30 aditivo** | El Presidente NO puede impartir órdenes políticas a la FAN directamente; todas las órdenes pasan por el Vicepresidente del Consejo Nacional de Defensa (perfil militar+político) |
+
+### 1.2 Leyes orgánicas nuevas y reformas necesarias
+
+| Ley | Estado | Función |
+|---|---|---|
+| **Reforma LODM** (Ley Orgánica de la Defensa Militar) | Reforma | Transforma la FAN de "Fuerza Armada Bolivariana" a "Fuerza Armada Nacional Profesional"; establece profesionalización a la OTAN; elimina lealtad partidista |
+| **Reforma de la Ley Orgánica de la DGCIM** | Reforma | Supresión de la inteligencia militar en sentido civil; coordinación con **Dirección General de Contrainteligencia Militar** (reformada como organismo técnico no antisistémico) |
+| **Reforma de la Ley Orgánica del Servicio de Policía y Cuerpo de Policía Nacional Bolivariana (2009-2018)** | Reforma | Subordinación completa del PNB a CPNP+MIS; sin funciones separadas de FAN |
+| **Nueva Reforma del Código Penal Militar** | Reforma | Tribunales disciplinarios militares independientes; cuerpos de tortura tipificados como crimen contra la humanidad |
+| **Nueva LODGDN — Ley Orgánica de la Guardia Nacional Bolivariana de carácter militar** | A redactar | Reforma para confirmar carácter militar estricto de la GNB; GNB + Ejército + Armada + Aviación = FAN; coordinación civil sólo para emergencias |
+
+### 1.3 Vinculación con Marco Articulado
+
+- **Texto Articulado Arts. 261-275** — Reforma del régimen militar venezolano.
+- **Texto Articulado Arts. 276-280** — Tribunales disciplinarios militares.
+
+## 2. Estructura orgánica
+
+### 2.1 Organigrama
+
+```
+Consejo Nacional de Defensa (ente presidencial)
+├── Presidencia (= Comandante en Jefe = Presidente de la República)
+│   ├── Jefatura Nacional de la Defensa
+│   │   ├── Estado Mayor Conjunto de la FAN (EMC-FAN)
+│   │   │   ├── Estado Mayor General del Ejército (EMGE)
+│   │   │   ├── Estado Mayor General de la Armada (EMGA)
+│   │   │   └── Estado Mayor General de la Aviación (EMGAV)
+│   │   └── Dirección de Inteligencia Militar (DGCIM reformada)
+│   │
+│   ├── Academias Militares
+│   │   ├── Academia Militar de Venezuela (Universidad Militar Bolivariana)
+│   │   ├── Escuela Naval de Venezuela
+│   │   ├── Escuela de Aviación Militar de Venezuela
+│   │   ├── Escuela de la GNB
+│   │   └── Academia de Inteligencia Militar
+│   │
+│   ├── Tribunales Disciplinarios Militares Independientes
+│   │   ├── Tribunal Disciplinario Militar de Primera Instancia
+│   │   ├── Corte Disciplinaria Militar de Apelación
+│   │   └── Ministerio Público Militar (Fiscalía Militar Independiente)
+│   │
+│   ├── Logística y Apoyo
+│   │   ├── Dirección General de Logística y Mantenimiento (DIGELOMA)
+│   │   ├── Dirección General de Abastecimiento Militar
+│   │   └── Dirección General de Bienestar Social Militar (IPSFA + salud + educación)
+│   │
+│   ├── Dirección de Industria Militar (DIMIL)
+│   │   ├── Fábrica de Armas y Municiones (FAM)
+│   │   ├── Fabrica Militar de Helicópteros
+│   │   └── Astilleros Militares (DIANCA)
+│   │
+│   ├── Dirección General de Relaciones Militares Internacionales
+│   │   ├── Escuela Conjunta de Operaciones Militares
+│   │   └── Oficina de Cooperación Bilateral Militar
+│   │
+│   ├── DNPEP-Militar — Coordinación con DNPEP (Pilar VIII)
+│   ├── Dirección General de Defensa Civil (coordinación con Gestión de Riesgos del MIS)
+│   └── Secretaría General del Consejo Nacional de Defensa
+│       ├── Oficina Nacional de Prestaciones Sociales del Militar (IPSFA reformada)
+│       ├── Oficina de VePass-Firma obligatoria (Innovación #3, BND-IP aplicada a todos los actos militares)
+│       ├── Unidad de Transparencia y Datos Abiertos (CKAN)
+│       └── Unidad de Coordinación con Poder Ciudadano (auditoría DNPEP-DNA-RB)
+└── Entes adscritos (ver §3)
+```
+
+### 2.2 Misiones principales
+
+#### 2.2.1 Defensa Nacional externa
+
+- Defensa marítima, terrestre, aérea y espacial del territorio venezolano.
+- Cooperación militar con Estados aliados: China, Rusia, India, Brasil, Colombia, Cuba, Argentina.
+- Cumplimiento de acuerdos de integración militar hemisférica.
+
+#### 2.2.2 Disuasión estratégica
+
+- Mantenimiento de capacidad estratégica de disuasión: aviones caza, submarinos, etc., conforme estándares hemisféricos.
+- Adquisiciones militares transparentes con DNPEP-veeduría BID-PNUD.
+
+#### 2.2.3 Apoyo en emergencias civiles
+
+- Participación en calamidades públicas declaradas (Art. 338 CRBV) con mando civil del Ministerio del Interior.
+- Logística militar para traslados masivos durante eventos hidrometeorológicos.
+
+#### 2.2.4 Inteligencia militar
+
+- DGCIM reformada: sólo funciones técnicas de defensa e inteligencia militar.
+- Las funciones de inteligencia civil son del Ministerio del Interior (CPNP-CICPC-DNPEP) y del Poder Ciudadano (DNA-RB).
+
+## 3. Entes adscritos
+
+| # | Ente | Naturaleza | Tipo | Origen |
+|---|---|---|---|---|
+| 1 | **IPSFA** (Instituto de Previsión Social de las Fuerzas Armadas) | Servicio desconcentrado | Seguridad social militar | Vigente, subsistente, reformada (reformada coordinación COPREFA civil) |
+| 2 | **UNEFM** (Universidad Nacional Experimental de la Fuerza Armada) | Servicio desconcentrado | Académico militar | Vigente, subsistente con reforma integral a las academias militares profesionales |
+| 3 | **COPREFA** (Coordinación de Prevención y cooperación militar civil) | Servicio desconcentrado (civil-militar) | Coordinación FAN con MIS/MED/MA | Nuevo; derivada de reforma Art. 332-333; explícitamente civil (no seguridad pública), coordina apoyo militar en emergencias civiles |
+
+**Total entes**: 3 dentro del tope de 40 (Art. 9 Texto Articulado).
+
+> **Entes suprimidos o transferidos**:
+> - SEBIN: suprimido (Pilar II — funciones civiles transferidas al CPNP).
+> - PNB (Policía Nacional Bolivariana): funciones civiles transferidas al CPNP (Pilar II del MIS).
+> - DGCIM como entidad paramilitar: suprimida; dirección reformada (sólo inteligencia militar técnica).
+
+## 4. Designaciones políticas del ente
+
+### 4.1 Comandante en Jefe = Presidente de la República
+
+Atribución constitucional Art. 236.6 con refrendación obligatoria del Vicepresidente del Consejo Nacional de Defensa (perfil militar+político confirmado por concurso CNSC).
+
+### 4.2 Jefe del Estado Mayor Conjunto de la FAN (EMC-FAN)
+
+- **Concurso público especializado CNSC** con jurado mixto (5 generales en retiro + 2 expertos internacionales militares OTAN-equivalentes).
+- Ratificación AN con 3/5.
+- Requisitos: ciudadano venezolano; más de 35 años; rango mínimo General de Brigada; 20 años de servicio militar; **sin afiliación política** reciente (5 años previos).
+- Período: **4 años no renovable**.
+- Destitución: mayoría calificada AN con causal taxativa de insubordinación constitucional o violación DDHH militar (con referendo al Tribunal Disciplinario Militar Independiente).
+
+### 4.3 Vicepresidente del Consejo Nacional de Defensa
+
+- **Incompatibilidad absoluta**: civil (no militar activo), experiencia acreditable en DDHH militar, política comparada de defensa y reforma militar.
+
+## 5. Régimen de personal militar
+
+| Cargo | USD/mes | USD indexado post-mes 18 |
+|---|---|---|
+| Presidente Comandante en Jefe | 12K-15K | sí |
+| Vicepresidente del Consejo | 10K-13K | sí |
+| Jefe EMC-FAN | 9K-12K | sí |
+| Director General | 7K-9K | sí |
+| Officer (Comandante) | 4K-6K | sí |
+| Sub-Officer (Capitán + Teniente) | 2.5K-4K | sí |
+| Tropa profesional | 1.8K-3K | sí |
+
+Tope 14:1 (aunque el Presidente es el Comandante en Jefe, el militaire supremo efectiva tiene tope salarial, no excepciones).
+
+Reseña: **ningún militar profesional cobra prima política ni gastos reservados excesivos** (GAEs), salvo fundada justificación operativa con VePass-Firma.
+
+## 6. Cronograma de implementación
+
+| Mes | Hito |
+|---|---|
+| 0 | Reforma Constitucional Arts. 332, 333, 236.30, 236.6 publicado en GO Extraordinaria. Creación formal del Consejo. Concurso CNSC para Jefe EMC-FAN. |
+| 1-3 | Restructuración formal de la FAN: nueva identidad institucional "Fuerza Armada Nacional Profesional" (FAN) en lugar de "Bolivariana"; instalación de los Tribunales Disciplinarios Militares Independientes; reforma COPREFA. |
+| 4-6 | Profesionalización de oficiales y clases mediante cursos: cambio técnico-programático; implementación VePass-Firma obligatoria (Innovación #3) en todos los actos militares. |
+| 7-9 | Primer ciclo de aprendizaje bajo la academia militar reformada; implementación de códigos de ética y de DDHH militar; coordinación con DNA-RB para supervisión operativa. |
+| 10-12 | Lanzamiento formal del Consejo como ente independiente del Ejecutivo con reportaje directo al Presidente; cierre del ciclo de transferencia civil de cuerpos al MIS. |
+
+## 7. Presupuesto del Consejo Nacional de Defensa
+
+**Anclaje 2026-07-26 (decisión del usuario)**: presupuesto de funcionamiento de **1,9% PIB = ~USD 4.180M/año** (PIB base referencial USD 220B). Benchmark comparable: Chile Ley 13.196 (FAN profesional post-Pinochet) ~1,8% PIB; UK MoD ~2,2% PIB; promedio LAC ~1,4% PIB. El 1,9% refleja una FAN profesional, moderna, con control civil democrático reforzado, pero sin sobredimensionamiento regional.
+
+| Concepto | USD/año | % PIB | Observaciones |
+|---|---|---|---|
+| Masa salarial militar profesional (tropa + oficiales + sub-oficiales, ~80K efectivos) | 1.200M | 0,55% | Escala USD 1.800-15K/mes (Art. 5); tope 14:1; VePass-Firma obligatoria |
+| Operación y mantenimiento de equipos (Ejército + Armada + Aviación + GNB) | 900M | 0,41% | Incluye mantenimiento corriente; reposición equipos + munición |
+| Inversiones plurianuales (modernización + readecuación + doctrina militar nueva) | 700M | 0,32% | Ring-fenced vía Presupuesto Plurianual Vinculante del Pilar VIII; no reprogramable |
+| Inteligencia militar técnica (sucesión DGCIM reformada) | 280M | 0,13% | VePass-Firma obligatoria + supervisión DNA-RB (Pilar VI) |
+| UNEFM (academia militar) + IAN (cuadros específicos) | 180M | 0,08% | Becas mérito; coordinación MIED-LAM para carreras cognitivas |
+| IPSFA (previsión social militar) | 350M | 0,16% | Régimen especial cerrado, sin nuevas admisiones; pasivo controlado |
+| COPREFA (coordinación civil-militar emergencias) | 50M | 0,02% | Servicio desconcentrado civil-militar; coordina con MIS + MED + MA |
+| Reserva de contingencia + cooperación militar bilateral | 220M | 0,10% | Apoyo a emergencias (Art. 332 reformado); acuerdos bilaterales con FANvecinos |
+| Unidad de cumplimiento Veeduría Internacional Permanente (8 años) | 300M | 0,14% | Coordinación OACNUDH+CIDH+ACNUR+FRONTEX+INTERPOL; **transferencia mensual directa del BCV** (no reprogramable por el Ejecutivo) |
+| **Total Consejo Nacional de Defensa** | **~4.180M USD/año** | **~1,90% PIB** | — |
+
+> **Régimen presupuestario**: el presupuesto del Consejo es **no reprogramable por el Ejecutivo** (analogía FAN chilena Ley 13.196): la Asamblea Nacional aprueba anualmente el monto total mediante ley especial; los reasignaciones internas las decide el Jefe del EMC-FAN con VePass-Firma. Esto blinda la FAN contra uso político-partidista y contra recortes discrecionales en coyunturas presupuestarias.
+
+## 8. Indicadores de éxito
+
+| Indicador | Línea base | Meta año 3 | Meta año 6 |
+|---|---|---|---|
+| Militares inscritos en VePass-Firma obligatoria | 0 | 95% | 100% |
+| Militares vinculados a filas partidistas | política de facto | <5% | <2% |
+| Tasa de tortura documentada por Veeduría (DGCIM + exteriores) | n/a | -50% | -80% |
+| Sanciones disciplinarias internas VePass-Firma | manuales | 100% VePass-Plus | VePass-Firma |
+| Cumplimiento de recomendaciones vinculantes de la Veeduría Internacional | 0 | 70% | 95% |
+| Coordinación FAN-MIS en emergencias | irregular | formal | formal + tabla de tiempos |
+| Cumplimiento de cooperación militar bilateral | baja | normal | alta |
+| Fortalecimiento del control civil democrático | bajo | medio | alto |
+
+## 9. Riesgos y mitigación
+
+| Riesgo | Prob. | Impacto | Mitigación |
+|---|---|---|---|
+| **Captura partidista de la FAN** pese a la reforma | Alta | Crítico | Cláusula 3/4 + referendum + veeduría internacional 8 años + CNSC concurso + COPREFA civil |
+| **Uso político de FAN durante elecciones** (ciclo electoral crítico) | Alta | Crítico | Códigos DDHH militar impuestos con VePass-Firma; Tribunal Disciplinario Independiente; veeduría anual OACNUDH+CIDH |
+| **Perpetuación militar de cuerpos paramilitares disfrazados** | Alta | Crítico | Supresión efectiva DGCIM como paramilitar; reforma al carácter técnico; veeduría de 5 entidades internacionales (descritas en FT.8 — Relaciones Exteriores) |
+| **Represión a través de operaciones de inteligencia militar** | Alta | Crítico | Límites claridad funcional entre inteligencia militar (técnica de defensa) e inteligencia civil (Poder Ciudadano + MIS); prohíbe explícitamente |
+| **Fuga de cuadros técnicos** a actividades paramilitares privadas | Media | Alto | Escala salarial competitiva + VePass-Reincorporación + régimen disciplinario VePass-Firma |
+| **Caída del mantenimiento técnico** por mala gestión presupuestaria | Media | Alto | ENPP del Pilar IV + auditoria DNPEP-DNA-RB + Veeduría Internacional Permanente |
+
+## 10. Cláusula de continuidad específica
+
+### 9.1 Reforma del Art. 343 CRBV con blindaje reforzado (analogía MIED-LAM, DNA-RB, DNPEP)
+
+> *"Ninguna reforma del Título IX-G ni a los artículos relativos al Consejo Nacional de Defensa, al carácter militar de las Fuerzas Armadas, a la profesionalización militar, ni al carácter civil de los cuerpos de seguridad pública, podrá aprobarse sin el voto de las tres cuartas partes (3/4) de los miembros de la Asamblea Nacional y la ratificación mediante referéndum popular."*
+
+### 9.2 Garantías específicas blindadas
+
+- Restablecer el carácter paramilitar-paralelo de las FAN: 3/4 + referendum.
+- Cualquier fusión de carácter civil con militar: 3/4 + referendum.
+- Supresión de Tribunales Disciplinarios Independientes: 3/4.
+- Supresión de VePass-Firma obligatoria militar: 3/4 + referendum.
+- Eliminación de COPREFA Civil: 3/4.
+
+## 11. Innovaciones arquitectónicas materializadas
+
+| Innov. | Materialización |
+|---|---|
+| #1 Cláusula 3/4 + referendum | Carácter civil de cuerpos + profesionalización militar blindados |
+| #3 VePass-Firma obligatoria | Cada acto militar con estampilla BND-IP en blockchain; cada sanción disciplinaria con VePass-Firma + BND |
+| #6 CEV-CN Carmen Navas | Verdad, memoria, reparación de crímenes del pasado junto al Defender del Pueblo del Poder Ciudadano |
+
+## 12. Documentos conexos
+
+- **Pilar II** — Fuente doctrinal completa del nuevo carácter civil del CPNP+CICPC+JNEM.
+- **Pilar VI** — DNA-RB coordina con Consejo Nacional de Defensa para violaciones graves a DDHH cometidas por personal militar.
+- **Pilar VII** — BND para VePass-Firma obligatoria + trazabilidad de actos militares.
+- **Pilar VIII** — DNPEP coordinaría auditoría militar con estadísticas presupuestarias.
+- **Texto Articulado Arts. 261-280** — Reforma del régimen militar venezolano.
+- **Anexo A.5** — rattachation vigente.
+- **Anexo A.10** — distribución de funciones del ex-MPP Defensa.
+
+---
+
+*Esta ficha operativa consolida la reforma del régimen militar venezolano sin duplicar las doctrinas de los Pilares. La separación neta entre cuerpos civiles y militares es la **Innovación Arquitectónica #4** del proyecto; la profesionalización militar se detalla en los textos Pilares referenciados.*
+
+*Versión 0.1 — 25-jul-2026. Pendiente: descripción detallada por Componente de la FAN + KPIs mensuales.*
+
+**Próxima ficha técnica: FT.11 — Cinco instituciones del Poder Ciudadano ampliado**.
