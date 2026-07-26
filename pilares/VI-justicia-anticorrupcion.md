@@ -504,8 +504,11 @@ Cada sala de la DNA-RB exhibirá el retrato de uno de estos luchadores con su ci
 | **CPI** | Corte Penal Internacional |
 | **CPIB** | Corrupt Practices Investigation Bureau |
 | **CRBV** | Constitución de la República Bolivariana de Venezuela |
+| **DDDHH** | Defensor del Pueblo |
 | **DNA-RB** | Dirección Nacional Anticorrupción y Recuperación de Bienes |
+| **FAN** | Fuerza Armada Nacional |
 | **INTERPOL** | Organización Internacional de Policía Criminal |
+| **MEDI** | Ministerio del Desarrollo de la Inteligencia |
 | **MIED-LAM** | Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado |
 | **OEA** | Organización de los Estados Americanos |
 | **TSJ** | Tribunal Supremo de Justicia |

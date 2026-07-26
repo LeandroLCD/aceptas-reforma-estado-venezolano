@@ -124,6 +124,7 @@ La LOSCM incluye una cláusula inspirée en el artículo 5° de la Constitución
 
 | Sigla | Nombre completo |
 |---|---|
+| **AN** | Asamblea Nacional |
 | **CNSC** | Comisión Nacional del Servicio Civil |
 | **CPIB** | Corrupt Practices Investigation Bureau |
 | **CRBV** | Constitución de la República Bolivariana de Venezuela |

@@ -324,9 +324,12 @@ Su advertencia en la inauguración del MEDI fue premonitoria: *"Por primera vez 
 
 | Sigla | Nombre completo |
 |---|---|
+| **AN** | Asamblea Nacional |
+| **BCV** | Banco Central de Venezuela |
 | **CNSC** | Comisión Nacional del Servicio Civil |
 | **CRBV** | Constitución de la República Bolivariana de Venezuela |
 | **FEM** | Fondo de Estabilización Macroeconómica |
+| **GPFG** | Government Pension Fund Global |
 | **MEDI** | Ministerio del Desarrollo de la Inteligencia |
 | **MIED-LAM** | Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado |
 | **TSJ** | Tribunal Supremo de Justicia |

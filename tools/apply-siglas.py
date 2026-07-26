@@ -1,30 +1,26 @@
 #!/usr/bin/env python3
 """
-v2: Aplica convencion de siglas con deteccion robusta de "ya definido".
+Script para aplicar la convencion de siglas en el repo Aceptas.
 
-Reglas mejoradas:
-- Detecta estos patrones y NO expande (ya estan definidos):
-  1. **SIGLA** ya expandido: **(Full Name (SIGLA))**
-  2. **SIGLA** (Full Name) en negrita seguido de nada o texto
-  3. SIGLA seguido inmediatamente de (Full Name) en cualquier formato
-  4. Full Name (SIGLA) en cualquier sitio
-- Compuestos tipo "VePass-Firma" se preservan (no se inserta expansion).
-- Solo tablas: mantener sigla limpia, sin expansion.
-- Solo headings: dejarlos como estan.
-- Frontmatter YAML: ignorar (no expandir).
-- Code blocks: ignorar.
-- Glosario al pie solo si no existe ya.
+Convención:
+- En prosa: 1ra mención de una sigla → "Full Name (SIGLA)"; siguientes menciones quedan igual.
+- En tablas, headings, code blocks, frontmatter YAML: NO se toca (las tablas mantienen sigla).
+- Al final de cada doc: agregar una sección "## Glosario de siglas" con las siglas efectivamente usadas.
+
+Uso:
+    python3 tools/apply-siglas.py --all                   # procesar todo el repo
+    python3 tools/apply-siglas.py --file PATH/FICHERO.md  # procesar un solo archivo
 """
 
-import os
-import re
 import sys
 import argparse
+import re
 from pathlib import Path
 
-REPO = Path("/home/develop/Documentos/aceptas-reforma-estado-venezolano")
+REPO = Path(__file__).resolve().parent.parent
 
 SIGLAS = {
+    # A. Marco constitucional y legal
     "CRBV": "Constitución de la República Bolivariana de Venezuela",
     "LOAP": "Ley Orgánica de la Administración Pública",
     "LOAFSP": "Ley Orgánica de la Administración Financiera del Sector Público",
@@ -44,6 +40,7 @@ SIGLAS = {
     "LOE": "Ley Orgánica de Educación",
     "COT": "Código Orgánico Tributario",
     "COPP": "Código Orgánico Procesal Penal",
+    # B. Poderes e instituciones
     "AN": "Asamblea Nacional",
     "BCV": "Banco Central de Venezuela",
     "CGR": "Contraloría General de la República",
@@ -51,6 +48,7 @@ SIGLAS = {
     "FAN": "Fuerza Armada Nacional",
     "PG": "Procuraduría General de la República",
     "TSJ": "Tribunal Supremo de Justicia",
+    # C. Organismos nuevos
     "BND": "Banco Nacional de Datos",
     "CDF": "Certificado de Defunción Fetal",
     "CICPC": "Cuerpo de Investigaciones Científicas, Penales y Criminalísticas",
@@ -74,6 +72,7 @@ SIGLAS = {
     "SUNAA": "Superintendencia Nacional de Aguas y Saneamiento",
     "VePass": "Clave Única de Identidad Digital",
     "Cédula-RUT": "Cédula con Rol Único Tributario",
+    # D. Empresas del Estado
     "BANAVIH": "Banco Nacional de Vivienda y Hábitat",
     "CADAFE": "Compañía Anónima de Administración y Fomento Eléctrico",
     "CANTV": "Compañía Anónima Nacional Teléfonos de Venezuela",
@@ -89,9 +88,12 @@ SIGLAS = {
     "SENIAT": "Servicio Nacional Integrado de Administración Aduanera y Tributaria",
     "SUDEBAN": "Superintendencia de las Instituciones del Sector Bancario",
     "SUSCERTE": "Superintendencia de Servicios de Certificación Electrónica",
+    # E. Cuerpos de seguridad
     "DGCIM": "Dirección General de Contrainteligencia Militar",
     "GNB": "Guardia Nacional Bolivariana",
+    # F. Justicia
     "DDDHH": "Defensor del Pueblo",
+    # G. Internacional
     "ACNUR": "Alto Comisionado de las Naciones Unidas para los Refugiados",
     "BCRA": "Banco Central de la República Argentina",
     "BID": "Banco Interamericano de Desarrollo",
@@ -110,63 +112,51 @@ SIGLAS = {
     "OEA": "Organización de los Estados Americanos",
     "PNUD": "Programa de las Naciones Unidas para el Desarrollo",
     "UNESCO": "Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura",
+    # H. Comparado
     "BNDES": "Banco Nacional de Desenvolvimento Econômico e Social",
     "CPF": "Central Provident Fund",
     "CSC": "Civil Service College",
     "GPFG": "Government Pension Fund Global",
     "PCA": "Prevention of Corruption Act",
     "PSC": "Public Service Commission",
+    # I. Conceptos
     "FOIA": "Freedom of Information Act",
     "KPI": "Key Performance Indicator",
     "OPI": "Oferta Pública Inicial",
     "OPA": "Oferta Pública de Adquisición",
     "OCR": "Optical Character Recognition",
+    # J. Programas
     "CLAP": "Comité Local de Abastecimiento y Producción",
 }
 
 
 def is_compound_token(line, pos, sigla):
-    """Detect if siglas at position pos is part of a compound like VePass-Firma or Sigla/Sigla."""
-    # Check character before
     before = line[pos-1] if pos > 0 else ""
     after_start = pos + len(sigla)
     after = line[after_start:after_start+1] if after_start < len(line) else ""
-
-    if before in ("-", "/", "_") or after in ("-", "/", "_", "."):
-        return True
-    return False
+    return before in ("-", "/", "_") or after in ("-", "/", "_", ".")
 
 
 def line_already_has_expansion(line, sigla, full_name):
-    """Check if line contains an expansion of this sigla already (don't double-expand).
-
-    Faster version: precompiled patterns, limited backtracking.
-    """
     # Pattern: Full Name (SIGLA)
     p1 = re.escape(full_name) + r"\s*\(" + re.escape(sigla) + r"\)"
     if re.search(p1, line):
         return True
-    # Pattern: (SIGLA) (Full Name)
     p2 = r"\(" + re.escape(sigla) + r"\)\s*\(" + re.escape(full_name) + r"\)"
     if re.search(p2, line):
         return True
-    # Pattern: **Full Name (SIGLA)**
     p3 = r"\*\*" + re.escape(full_name) + r"\s*\(" + re.escape(sigla) + r"\)" + r"\*\*"
     if re.search(p3, line):
         return True
-    # Pattern: **(SIGLA)** followed by (Full Name) -- e.g., "**CNSC** (Comisión Nacional...)"
     p4 = r"\*\*\(" + re.escape(sigla) + r"\)\*\*\s*\(" + re.escape(full_name) + r"\)"
     if re.search(p4, line):
         return True
-    # Pattern: **(SIGLA)** followed by parenthesis (any definition)
     p5 = r"\*\*" + re.escape(sigla) + r"\*\*"
     m5 = re.search(p5, line)
     if m5:
-        # Tail after bold sigla
         tail = line[m5.end():].lstrip(" :-,.").strip()
         if tail.startswith("("):
             return True
-    # Pattern: SIGLA preceded by a significant word from full name in same line
     sig_pattern = rf"\b{re.escape(sigla)}\b"
     m_sig = re.search(sig_pattern, line)
     if m_sig:
@@ -192,26 +182,17 @@ def detect_frontmatter_bounds(content):
 
 
 def expand_prose_line(line, seen_siglas, file_siglas_used):
-    """Expand sigla in prose line. Apply convention only once per file per sigla."""
     if is_in_table(line):
-        # Tables: track siglas used but don't expand
         for sigla in SIGLAS:
             if re.search(rf"\b{re.escape(sigla)}\b", line):
                 file_siglas_used.add(sigla)
         return line
-
-    # Skip headings
     if line.lstrip().startswith("#"):
         return line
-
-    # Skip YAML frontmatter
     if line.strip() == "---":
         return line
-
-    # Sort by descending length to handle multi-char siglas first
     sorted_siglas = sorted(SIGLAS.keys(), key=len, reverse=True)
     new_line = line
-
     for sigla in sorted_siglas:
         if sigla in seen_siglas:
             continue
@@ -220,29 +201,22 @@ def expand_prose_line(line, seen_siglas, file_siglas_used):
             seen_siglas.add(sigla)
             file_siglas_used.add(sigla)
             continue
-        # Find first whole-word occurrence in line
         pattern = rf"(?<![A-Za-zÁ-Úá-ú0-9]){re.escape(sigla)}(?![A-Za-zÁ-Úá-ú0-9\-/])"
         match = re.search(pattern, new_line)
         if not match:
             continue
-        # Check if part of compound
         start, end = match.span()
         if is_compound_token(new_line, start, sigla):
             continue
-        # Check if any non-trivial word in the full name precedes the sigla in the same line
-        # (e.g., "Régimen RTER" where "Régimen" is in full name "Régimen de Tres...")
         preceding_chars = new_line[:start].rstrip()
-        # Last word before sigla
         m_prev = re.search(r"([A-Za-zÁ-Úá-ú]+)\s*$", preceding_chars)
         if m_prev:
             prev_word = m_prev.group(1).lower()
             full_lower = full_name.lower()
             if prev_word and prev_word in full_lower.split():
-                # Some word in the full name appears just before the sigla -- already defined in this context
                 seen_siglas.add(sigla)
                 file_siglas_used.add(sigla)
                 continue
-        # Replace this first occurrence with "Full Name (SIGLA)"
         new_line = new_line[:start] + f"{full_name} ({sigla})" + new_line[end:]
         seen_siglas.add(sigla)
         file_siglas_used.add(sigla)
@@ -268,26 +242,19 @@ def process_file(filepath):
     text = filepath.read_text(encoding="utf-8")
     if not text.strip():
         return False, "empty"
-
     has_any_sigla = any(re.search(rf"\b{re.escape(s)}\b", text) for s in SIGLAS.keys())
     if not has_any_sigla:
-        return False, "no sigils"
-
-    # Don't re-process if already has glosario
+        return False, "no siglas"
     if already_has_glosario(text):
         return False, "glosario ya presente"
-
     lines = text.splitlines()
     new_lines = []
     seen_siglas = set()
     file_siglas_used = set()
-
     fm_bounds = detect_frontmatter_bounds(text)
     fm_end = fm_bounds[1] if fm_bounds else -1
-
     in_codeblock = False
     for idx, line in enumerate(lines):
-        # Track code block state
         stripped = line.lstrip()
         if stripped.startswith("```"):
             in_codeblock = not in_codeblock
@@ -296,48 +263,43 @@ def process_file(filepath):
         if in_codeblock:
             new_lines.append(line)
             continue
-        # Frontmatter
         if fm_bounds and fm_bounds[0] <= idx <= fm_end:
             new_lines.append(line)
             continue
-        # Expand prose
         expanded = expand_prose_line(line, seen_siglas, file_siglas_used)
         new_lines.append(expanded)
-
     new_content = "\n".join(new_lines)
     if not already_has_glosario(new_content):
         glosario = build_glosario_table(file_siglas_used)
         if not new_content.endswith("\n"):
             new_content += "\n"
         new_content = new_content.rstrip() + "\n" + glosario + "\n"
-
     if new_content == text:
-        return False, "no changes"
-
+        return False, "no cambios"
     filepath.write_text(new_content, encoding="utf-8")
     return True, f"applied ({len(file_siglas_used)} siglas)"
 
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--file", help="Single file")
+    parser.add_argument("--file", help="Procesar un solo archivo (ruta relativa al repo)")
     parser.add_argument("--all", action="store_true")
-    parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
-
     if args.file:
         paths = [REPO / args.file]
     elif args.all:
-        skip_subdirs = {".git", "anexos"}
+        skip_subdirs = {".git", "anexos", "tools"}
+        skip_files = {"glosario-de-siglas.md"}
         paths = []
         for p in REPO.rglob("*.md"):
             if any(s in p.parts for s in skip_subdirs):
                 continue
+            if p.name in skip_files:
+                continue
             paths.append(p)
     else:
-        print("Specify --file or --all")
+        print("Especificar --file o --all")
         sys.exit(1)
-
     paths = sorted(set(paths))
     changed = 0
     for p in paths:
@@ -349,9 +311,7 @@ def main():
                 changed += 1
         except Exception as e:
             print(f"ERROR  {rel}: {e}")
-            import traceback
-            traceback.print_exc()
-    print(f"\n{changed} archivos modificados de {len(paths)} totales")
+    print(f"\n{changed} archivos modificados de {len(paths)}")
 
 
 if __name__ == "__main__":

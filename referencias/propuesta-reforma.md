@@ -4,7 +4,7 @@
 **Proyecto:** Reforma del Estado venezolano — Modelo shock + Singapur (versión 12 meses)
 **Autor:** Equipo de reforma
 **Fecha:** Julio 2026
-**Fuentes:** Diagnóstico (Doc. 1, `docs/diagnostico.md`), Marco comparativo (Doc. 2, `docs/marco_comparativo.md`), CRBV 1999, LOAP 2014, LOPPM 2009, LOPP 2014, LOAFSP, COT 2014, LOH reforma 2026, LOM 2026, DNU 70/2023 y Ley Bases 27.742 (Argentina), modelo Singapur (Lee Kuan Yew, Temasek, GIC), base de conocimiento `kb_gobierno` (Qdrant local).
+**Fuentes:** Diagnóstico (Doc. 1, `docs/diagnostico.md`), Marco comparativo (Doc. 2, `docs/marco_comparativo.md`), Constitución de la República Bolivariana de Venezuela (CRBV) 1999, LOAP 2014, LOPPM 2009, Ley Orgánica de Planificación Pública (LOPP) 2014, Ley Orgánica de la Administración Financiera del Sector Público (LOAFSP), Código Orgánico Tributario (COT) 2014, Ley Orgánica de Hidrocarburos (LOH) reforma 2026, Ley Orgánica de Minas (LOM) 2026, DNU 70/2023 y Ley Bases 27.742 (Argentina), modelo Singapur (Lee Kuan Yew, Temasek, GIC), base de conocimiento `kb_gobierno` (Qdrant local).
 
 ---
 
@@ -13,7 +13,7 @@
 El presente documento concreta la propuesta de reforma del Estado venezolano organizada en **ocho dimensiones** correspondientes al diagnóstico del Doc. 1. La arquitectura de la reforma se rige por los **diez principios consolidados** en la bitácora del proyecto (`~/qdrant-kb/memory.md`):
 
 1. Alcance: shock estilo Milei, ejecutado en **12 meses**, sin red universal de protección.
-2. Empresas del Estado: holding profesionalizado. **PDVSA matriz 51% estatal + 49% privado (OPI + estratégica)**; filiales mixtas cotizan en bolsa; Corpoelec y CANTV **privatizadas al 100%**.
+2. Empresas del Estado: holding profesionalizado. **Petróleos de Venezuela S.A. (PDVSA) matriz 51% estatal + 49% privado (Oferta Pública Inicial (OPI) + estratégica)**; filiales mixtas cotizan en bolsa; Corpoelec y Compañía Anónima Nacional Teléfonos de Venezuela (CANTV) **privatizadas al 100%**.
 3. Sectores protegidos del ajuste: **salud, educación y pensiones no contributivas** (no se tocan planta ni presupuesto).
 4. Reforma del Art. 303: por **reinterpretación auténtica** o **enmienda constitucional mínima** que sustituya "totalidad" por "al menos el 51%"; el resto de la reforma opera con **leyes orgánicas vigentes** (LOAP, LOPPM, LOPP, COT, LOAFSP, etc.).
 5. Función pública: **motosierra -30% en 12 meses** con retiros voluntarios incentivados.
@@ -35,7 +35,7 @@ Restringir el hiperpresidencialismo, restablecer la supremacía constitucional e
 ### 1.2. Acciones concretas (shock)
 1. **Tope a las leyes habilitantes**: se prohíbe la concesión de leyes habilitantes durante los primeros 24 meses del período constitucional; a partir de allí, solo una ley habilitante por período legislativo, con plazo máximo de 12 meses y materias taxativas.
 2. **Cláusula de evaluación ex post obligatoria**: toda ley con más de 5 años de vigencia debe ser evaluada por la **Superintendencia Nacional de Evaluación de Políticas Públicas** (creada en dimensión 6) en un plazo máximo de 18 meses; el informe se publica y es vinculante para el inicio de su reforma o derogatoria.
-3. **Reinterpretación auténtica del Art. 303 CRBV**: el TSJ meritocrático (ver dimensión 4) emite, en sala constitucional, una **sentencia interpretativa** que sustituye "totalidad" por "al menos el cincuenta y uno por ciento (51%)" de las acciones ordinarias con derecho a voto de PDVSA matriz. La sentencia se publica en Gaceta Oficial con carácter vinculante *erga omnes*.
+3. **Reinterpretación auténtica del Art. 303 CRBV**: el Tribunal Supremo de Justicia (TSJ) meritocrático (ver dimensión 4) emite, en sala constitucional, una **sentencia interpretativa** que sustituye "totalidad" por "al menos el cincuenta y uno por ciento (51%)" de las acciones ordinarias con derecho a voto de PDVSA matriz. La sentencia se publica en Gaceta Oficial con carácter vinculante *erga omnes*.
 4. **Enmienda constitucional de blindaje**: si la sentencia interpretativa es considerada insuficiente, se promueve una **enmienda constitucional puntual** (Art. 341 CRBV, referendum aprobatorio) que sustituya la frase del Art. 303 y habilite expresamente la cotización bursátil de filiales mixtas.
 
 ### 1.3. Instrumentos legales
@@ -121,22 +121,22 @@ Recuperar la solvencia fiscal mediante tres medidas de choque simultáneas: (a) 
    - Banco de inversión internacional (Goldman Sachs, JP Morgan, Lazard) coordina OPI primaria en NYSE + LSE.
    - Colocación estratégica del 15% adicional a un socio industrial (modelo Petrobras-ENI) con *golden share* del Estado venezolano.
    - Recaudación esperada: **USD 8.000-15.000 millones** (a precio de mercado secundario ajustado al riesgo).
-2. **Recompra estatal hasta 51% con justificación técnica y aprobación judicial** (LORAFEE, ver dimensión 4): si la participación privada supera el 49%, el Estado activa el mecanismo de la ley.
+2. **Recompra estatal hasta 51% con justificación técnica y aprobación judicial** (Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas (LORAFEE), ver dimensión 4): si la participación privada supera el 49%, el Estado activa el mecanismo de la ley.
 3. **Reforma tributaria integral (mes 0-6)**:
    - Unificación de alícuotas de IVA en 16% general + 8% reducido (alimentos, medicinas, servicios educativos).
    - Reducción de ISLR a 25% para empresas, 15% para PYMEs.
    - Eliminación del IGTF para transacciones en moneda extranjera (preparación del levantamiento del cepo).
    - Eliminación de las exoneraciones discrecionales (más de 100 vigentes); solo permanecen las del Art. 64 COT autorizadas por ley orgánica.
 4. **Eliminación del control cambiario y transición a la dolarización — cronograma 18 meses (en paralelo al shock de 12 meses)**:
-   - Mes 1: apertura de la banda cambiaria (unificación de cotizaciones, ancho inicial ±15%, Decreto BCV).
+   - Mes 1: apertura de la banda cambiaria (unificación de cotizaciones, ancho inicial ±15%, Decreto Banco Central de Venezuela (BCV)).
    - Mes 1-6: eliminación del recargo del 25% en operaciones en divisas; eliminación del IGTF en transacciones USD; permiso universal de mantener, transar y depositar en divisas (modelo Panamá/Ecuador con marco anti-lavado estricto).
    - Mes 3-6: sanción de la nueva **Ley Orgánica del BCV (LOBCV)**: autonomía, prohibición de financiamiento monetario, directorio de 7 miembros con cláusula de no remoción.
-   - Mes 6-12: flotación administrada con revisión trimestral del ancho de banda; meta de inflación anual <30%; meta de reservas BCV USD 15.000-20.000 M (capitalizadas con OPI PDVSA 49% + 30% ingresos petroleros al FEM).
+   - Mes 6-12: flotación administrada con revisión trimestral del ancho de banda; meta de inflación anual <30%; meta de reservas BCV USD 15.000-20.000 M (capitalizadas con OPI PDVSA 49% + 30% ingresos petroleros al Fondo de Estabilización Macroeconómica (FEM)).
    - Mes 12: hito de **autonomía plena del BCV**; meta de inflación publicada; adopción de *crawling-peg* explícito (devaluación mensual ≤2%) para anclar expectativas.
    - Mes 12-15: período de **convergencia**; acumulación de reservas hasta umbral de dolarización (≥6 meses de importaciones ≈ USD 8.000-12.000 M adicionales); sanción de la **Ley de Dolarización** (tipo de cambio fijo irrevocable a la paridad vigente al momento del cambio, redenominación de contratos a esa paridad).
    - Mes 15-18: período de **transición**; USD se declara moneda de curso legal; el bolívar se mantiene como uso opcional y unidad de cuenta subsidiaria por 12 meses adicionales.
    - Mes 18: **dolarización oficial**; el BCV deja de emitir bolívar para transacciones y opera como cámara de compensación de reservas en USD; el bolívar se redenomina como **moneda simbólica** (modelo Panamá 1904: solo monedas fraccionarias y registro contable, sin curso legal forzoso).
-   - **Cláusula constitucional de blindaje**: reforma del Art. 318 CRBV con exigencia de 3/5 AN + referéndum 90 días para cualquier reversión.
+   - **Cláusula constitucional de blindaje**: reforma del Art. 318 CRBV con exigencia de 3/5 Asamblea Nacional (AN) + referéndum 90 días para cualquier reversión.
    - **Prohibición de financiamiento monetario del déficit** (inspirada en Art. 123 Constitución ecuatoriana 2008 y Ley 27.514 Argentina).
 
 ### 3.3. Instrumentos legales (combinación shock 12 meses + plan monetario paralelo 18 meses)
@@ -181,7 +181,7 @@ Recuperar la solvencia fiscal mediante tres medidas de choque simultáneas: (a) 
 
 **Contexto y diagnóstico**: el servicio de agua potable en Venezuela es prestado por **HIDROVEN** (matriz) y **9 hidrológicas filiales** (Hidrocapital, Hidrocentro, Hidrolago, Hidroandes, Hidrolara, Hidrocaribe, Hidropaez, Hidrosuroeste, Hidrollanos). La práctica ha demostrado colapso operativo: racionamiento >50% en zonas urbanas, agua no potable en >60% de la red, infraestructura obsoleta, financiamiento crónico del Estado.
 
-**Objetivo**: aplicar al sector agua la **misma plantilla aplicada a electricidad** (Doc. 5 Art. 31-34): privatización 100% mediante **9 licitaciones regionales independientes** + exoneración tributaria 20 años + regulador independiente (SUNAA).
+**Objetivo**: aplicar al sector agua la **misma plantilla aplicada a electricidad** (Doc. 5 Art. 31-34): privatización 100% mediante **9 licitaciones regionales independientes** + exoneración tributaria 20 años + regulador independiente (Superintendencia Nacional de Aguas y Saneamiento (SUNAA)).
 
 #### 3.7.1. Acciones concretas (shock)
 
@@ -301,12 +301,12 @@ Construir un Poder Judicial meritocrático, autónomo y financieramente digno, c
 ## 5. Dimensión digital
 
 ### 5.1. Objetivo de reforma
-Cerrar la brecha digital, modernizar el Estado y sentar las bases para una economía digital; el detalle técnico está en el **Pilar VII (Borrador de reforma)** ya redactado.
+Cerrar la brecha digital, modernizar el Estado y sentar las bases para una economía digital; el detalle técnico está en el **Pilar III.7 (Borrador de reforma)** ya redactado.
 
 ### 5.2. Acciones concretas (shock)
-1. **Ejecución del cronograma 7 años del Pilar VII**, acelerado a **4 años** mediante shock:
-   - **Fase 1 (mes 0-12)**: licitación del data center Guri-1, sanción de la LOPD, creación de la Superintendencia de Protección de Datos Personales (SPDP), lanzamiento del VePass Lite (identidad digital temporal).
-   - **Fase 2 (mes 12-24)**: BND operativo con 4 bases federadas iniciales (Saime, Seniat, CNE, IVSS), Cédula-RUT emitida para 10 millones de venezolanos.
+1. **Ejecución del cronograma 7 años del Pilar III.7**, acelerado a **4 años** mediante shock:
+   - **Fase 1 (mes 0-12)**: licitación del data center Guri-1, sanción de la LOPD, creación de la Superintendencia de Protección de Datos Personales (SPDP), lanzamiento del Clave Única de Identidad Digital (VePass) Lite (identidad digital temporal).
+   - **Fase 2 (mes 12-24)**: Banco Nacional de Datos (BND) operativo con 4 bases federadas iniciales (Saime, Seniat, Consejo Nacional Electoral (CNE), Instituto Venezolano de los Seguros Sociales (IVSS)), Cédula con Rol Único Tributario (Cédula-RUT) emitida para 10 millones de venezolanos.
    - **Fase 3 (mes 24-36)**: BND con 11 bases federadas, Cédula-RUT para 25 millones.
    - **Fase 4 (mes 36-48)**: BND universal, 30 millones de Cédula-RUT emitidas.
 2. **Privatización simultánea de CANTV (mes 0-6)** y Movilnet (mes 6-12):
@@ -531,7 +531,7 @@ Profesionalizar la función pública, reducir la planta en 30%, separar el IVSS 
 | **Ministros, viceministros, diputados, jueces, fiscales, contralor, defensor** | **5.000** | 10,0x |
 | **Presidente de la República** | **7.000** | 14,0x |
 
-**Compresión de la pirámide**: la distancia entre el Presidente y el salario mínimo pasa de un ratio estimado >100:1 en la actualidad a **14:1**, alineado con los estándares de países OCDE comparables (Noruega ~12:1, Suecia ~13:1, Finlandia ~14:1). Esta compresión envía tres señales simultáneas:
+**Compresión de la pirámide**: la distancia entre el Presidente y el salario mínimo pasa de un ratio estimado >100:1 en la actualidad a **14:1**, alineado con los estándares de países Organización para la Cooperación y el Desarrollo Económicos (OCDE) comparables (Noruega ~12:1, Suecia ~13:1, Finlandia ~14:1). Esta compresión envía tres señales simultáneas:
 
 1. **Servicio civil dignificado**: USD 500/mes es un salario que permite vida digna y saca al empleado público de la lógica de supervivencia-extorsión.
 2. **Carrera meritocrática viable**: profesor/policía a USD 1.200 supera al salario mínimo privado y compite con la economía informal.
@@ -634,7 +634,7 @@ La nueva escala salarial cumple cuatro funciones simultáneas de mitigación del
 ## 9. Dimensión educación (incorporada 2026-07-13)
 
 ### 9.1. Objetivo de reforma
-Refundar el sistema educativo venezolano sobre la base de cuatro principios: **meritocracia docente, autonomía escolar progresiva, evaluación estandarizada nacional y rendición de cuentas con rankings públicos**. Derogar la LOE 2009 y reemplazarla por la nueva LOE 2026 (Título XIII del Doc. 5). Transformar o eliminar las universidades politizadas sin méritos académicos acreditables.
+Refundar el sistema educativo venezolano sobre la base de cuatro principios: **meritocracia docente, autonomía escolar progresiva, evaluación estandarizada nacional y rendición de cuentas con rankings públicos**. Derogar la Ley Orgánica de Educación (LOE) 2009 y reemplazarla por la nueva LOE 2026 (Título XIII del Doc. 5). Transformar o eliminar las universidades politizadas sin méritos académicos acreditables.
 
 ### 9.2. Acciones concretas (shock)
 
@@ -775,3 +775,39 @@ Pasados los 12 meses, la fatiga social, la captura burocrática residual y la di
 ---
 
 *Documento elaborado en el marco del proyecto de Reforma del Estado venezolano, con base en la base de conocimiento `kb_gobierno` (Qdrant) y referencias citadas. Las cifras deben ser actualizadas con datos oficiales antes de la versión final. Los principios rectores están consolidados en `~/qdrant-kb/memory.md`.*
+
+---
+
+## Glosario de siglas
+
+| Sigla | Nombre completo |
+|---|---|
+| **AN** | Asamblea Nacional |
+| **BCV** | Banco Central de Venezuela |
+| **BND** | Banco Nacional de Datos |
+| **CANTV** | Compañía Anónima Nacional Teléfonos de Venezuela |
+| **CNE** | Consejo Nacional Electoral |
+| **COT** | Código Orgánico Tributario |
+| **CRBV** | Constitución de la República Bolivariana de Venezuela |
+| **Cédula-RUT** | Cédula con Rol Único Tributario |
+| **FEM** | Fondo de Estabilización Macroeconómica |
+| **IVSS** | Instituto Venezolano de los Seguros Sociales |
+| **LOAFSP** | Ley Orgánica de la Administración Financiera del Sector Público |
+| **LOAP** | Ley Orgánica de la Administración Pública |
+| **LOBCV** | Ley Orgánica del Banco Central de Venezuela |
+| **LOE** | Ley Orgánica de Educación |
+| **LOH** | Ley Orgánica de Hidrocarburos |
+| **LOM** | Ley Orgánica de Minas |
+| **LOPP** | Ley Orgánica de Planificación Pública |
+| **LORAFEE** | Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas |
+| **LOTSJ** | Ley Orgánica del Tribunal Supremo de Justicia |
+| **LOTTT** | Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras |
+| **OCDE** | Organización para la Cooperación y el Desarrollo Económicos |
+| **OPI** | Oferta Pública Inicial |
+| **PDVSA** | Petróleos de Venezuela S.A. |
+| **SNI** | Sistema Nacional de Identidad |
+| **SPDP** | Superintendencia de Protección de Datos Personales |
+| **SUNAA** | Superintendencia Nacional de Aguas y Saneamiento |
+| **TSJ** | Tribunal Supremo de Justicia |
+| **VePass** | Clave Única de Identidad Digital |
+

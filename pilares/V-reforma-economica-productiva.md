@@ -1,6 +1,6 @@
 ---
-titulo: Reforma Integral del Estado Venezolano - Pilar V Reforma Económica y Productiva v0.2
-parte: Parte III — Pilares de la Reforma · Pilar V
+titulo: Reforma Integral del Estado Venezolano - Pilar III.5 Reforma Económica y Productiva v0.2
+parte: Parte III — Pilares de la Reforma · Pilar III.5
 version: 0.2 (expansión de v0.1 esqueleto — 2026-07-16)
 fecha: 2026-07-16
 fuentes_primarias:
@@ -8,7 +8,7 @@ fuentes_primarias:
   - "Ley Orgánica de Minas (LOM) 2026 (Gaceta 7020 Ext.) — indexada en KB"
   - "Ley Antibloqueo para el Desarrollo Nacional 2020 — indexada en KB"
   - "LOPSPP/LOPP 2014 + LOAFSP 2000 + COT 2014 (marco vigente a reformar/derogar)"
-  - "Reforma tributaria del Pilar IV (Doc. 3 §IV.2)"
+  - "Reforma tributaria del Pilar III.4 (Doc. 3 §III.4.2)"
   - "Texto Articulado del proyecto (Doc. 5 Arts. 24-29 + Título II + Título III)"
 marco_legal:
   - "CRBV arts. 115 (propiedad privada), 299 (desarrollo económico), 302 (reserva industries), 303 (PDVSA matriz reinterpretado), 318 (sistema monetario)"
@@ -26,32 +26,32 @@ referentes_principales:
   - "Chile: modelo de empresas públicas profesionales (CODELCO + ENAP)"
   - "México: Pemex 2014 reforma + CFE (reforma constitucional energética)"
 relaciones_con_otros_pilares:
-  - I Servicio Civil Meritocrático (CNSC aporta concursos para directorios PDVSA, Corpoelec, CANTV)
-  - II Seguridad Ciudadana (cooperación CPNP en zonas mineras donde opera el crimen organizado)
-  - IV Reforma Fiscal (reforma tributaria no petroleta financia meritocracia y obras)
-  - VI Anticorrupción (DNA-RB investiga expropiaciones forzosas fraudulentas)
-  - VII Gobierno Digital (BND y VePass-Firma para trazabilidad de títulos de propiedad minera)
-  - VIII Planificación Estratégica (DNPEP coordina Presupuesto Plurianual + Plan Quinquenal con estas reformas)
+  - III.1 Servicio Civil Meritocrático (CNSC aporta concursos para directorios PDVSA, Corpoelec, CANTV)
+  - III.2 Seguridad Ciudadana (cooperación CPNP en zonas mineras donde opera el crimen organizado)
+  - III.4 Reforma Fiscal (reforma tributaria no petroleta financia meritocracia y obras)
+  - III.6 Anticorrupción (DNA-RB investiga expropiaciones forzosas fraudulentas)
+  - III.7 Gobierno Digital (BND y VePass-Firma para trazabilidad de títulos de propiedad minera)
+  - III.8 Planificación Estratégica (DNPEP coordina Presupuesto Plurianual + Plan Quinquenal con estas reformas)
 clausula_continuidad: 3/4 Asamblea + referéndum ratificatorio para afectar Art. 303 CRBV reinterpretado y régimen de filiales mixtas
 ---
 
 # PARTE III — PILARES DE LA REFORMA
 
-# V. Reforma económica y productiva: de la enfermedad holandesa a la empresa pública profesionalizada
+# III.5. Reforma económica y productiva: de la enfermedad holandesa a la empresa pública profesionalizada
 
 > *"El Estado no puede sustituir al mercado, pero puede corregir las externalidades que la enfermedad holandesa genera — y debe hacerlo al servicio de la productividad, no del patronazgo."*
 >
-> — Síntesis doctrinal del Pilar V v0.2.
+> — Síntesis doctrinal del Pilar III.5 v0.2.
 
-Este Pilar V cierra el capítulo económico del proyecto. Su v0.1 (15 de julio de 2026) fue un esqueleto con sólo la sección V.1 (estrategia de diversificación copiada del Pilar IV fiscal). Esta **v0.2 expande** el pilar completo con el régimen de PDVSA matriz, filiales mixtas, privatización de servicios públicos, banca de desarrollo, mercado de capitales y el calendario de reformas legales y operativas.
+Este Pilar III.5 cierra el capítulo económico del proyecto. Su v0.1 (15 de julio de 2026) fue un esqueleto con sólo la sección III.5.1 (estrategia de diversificación copiada del Pilar III.4 fiscal). Esta **v0.2 expande** el pilar completo con el régimen de PDVSA matriz, filiales mixtas, privatización de servicios públicos, banca de desarrollo, mercado de capitales y el calendario de reformas legales y operativas.
 
 La tesis central es **abandonar el modelo rentístico-petista** (Estado extractivo patronizandoClientelismo político mediante la industria del petróleo) y sustituirlo por un **modelo de empresas públicas profesionalizadas** abiertas a mercado de capitales, con reglas de control público establecidas por ley, blindadas contra la captura partidista mediante cláusulas anti-discontinuidad.
 
 ---
 
-## V.1. La enfermedad holandesa, el patronazgo extractivo y la ruptura constitucional de 1999
+## III.5.1. La enfermedad holandesa, el patronazgo extractivo y la ruptura constitucional de 1999
 
-### V.1.1. Diagnóstico: Venezuela exporta aprox. 4 MM bpd y recauda no petroleto ~6% del PIB
+### III.5.1.1. Diagnóstico: Venezuela exporta aprox. 4 MM bpd y recauda no petroleto ~6% del PIB
 
 Venezuela dejó de ser atractivo a la inversión privada en sector petrolero en 2001-2007 con la corrida de PDVSA bajo Hugo Chávez (despidos masivos del personal técnico en 2002-2003, ataque al directorio independiente de 2004), y simultánearnente acentuó la enfermedad holandesa desde 2003 vía el control de cambios. La combinación produce:
 
@@ -64,23 +64,23 @@ Venezuela dejó de ser atractivo a la inversión privada en sector petrolero en 
 | Inflación acumulada 2018-2024 | >10.000% |
 | Hiperinflación + control de cambios | secuela estructural |
 
-### V.1.2. La economía del patronazgo extractivo
+### III.5.1.2. La economía del patronazgo extractivo
 
 El patrón capturado por el Regla 1 del Pilar 0 (filosofía pragmática) describe el problema correctamente: la opción por mantener actividad extractiva bajo control absoluto del Ejecutivo, desincentivando la competencia privada nacional y extranjera, solo preserva el régimen si los ingresos petroleros son altos. Venezuela ha gastado décadas cayendo en la trampa: el precio del crudo baja, el fisco colapsa, la inflación explota, y se racionaliza la dictadura por necesidad fáctica. Esta es la versión siglo XXI del *"yugo colonial de la dependencia del oro"* que la doctrina cepalina describía para el estaño en Bolivia.
 
 La vía de salida es única: **desmonopolizar paulatinamente la extracción** (con control público mayoritario y participación minoritaria privada), **construir músculo tributario propio** (impuestos no petroletos como porcentaje del PIB al nivel de pares), y **financiar el desarrollo humano** mediante fondos soberanos de ahorro intergeneracional que aislen los shocks.
 
-### V.1.3. La ruptura constitucional de 1999: lo que pudo haber sido un éxito
+### III.5.1.3. La ruptura constitucional de 1999: lo que pudo haber sido un éxito
 
 El Art. 299 Constitución de la República Bolivariana de Venezuela (CRBV) consagra un horizonte promisorio: *"El Estado, en conjunto con la iniciativa privada, promoverá el desarrollo económico y la diversificación productiva, en armónica relación con la planificación estratégica, el desarrollo humano integral y la integración latinoamericana."* Ese articulado **reconoce que el Estado NO debe sustituir al mercado**, pero debe **orquestar** la diversificación.
 
 Más adelante, las **Leyes Orgánicas** dictadas en el período afectado (LOPSPP/LOPP 2014, Ley Orgánica de la Administración Financiera del Sector Público (LOAFSP) 2000, Código Orgánico Tributario (COT) 2014) sí incluyen mecanismos virtuosos — pero el Estado ha capturado su gestión, mediante ONAPRE, SUNACC y la Ley Orgánica de Hidrocarburos (LOH) cuya aplicación real ha sido impedir la diversificación.
 
-## V.2. Estrategia en cuatro frentes simultáneos
+## III.5.2. Estrategia en cuatro frentes simultáneos
 
-Siguiendo la fórmula consolidada en el Pilar IV §IV.2, esta sección rearticulada como sección propia del Pilar V (la cualifica al servicio de V.2-V.7 específicas):
+Siguiendo la fórmula consolidada en el Pilar III.4 §III.4.2, esta sección rearticulada como sección propia del Pilar III.5 (la cualifica al servicio de III.5.2-III.5.7 específicas):
 
-### V.2.1. Frente 1 — Fondo Soberano de Estabilización e Inversión Productiva (FOSEIP)
+### III.5.2.1. Frente 1 — Fondo Soberano de Estabilización e Inversión Productiva (FOSEIP)
 
 Modelo inspirado en Government Pension Fund Global (GPFG) de Noruega (USD 1,7 billones, propiedad pública al 100%, gestión externa), FRP/FEES chileno (aportes fiscales automáticos) y GIC Temasek (manejo con orientación de mercado). El Fondo Soberano de Estabilización e Inversión Productiva (FOSEIP):
 
@@ -88,52 +88,45 @@ Modelo inspirado en Government Pension Fund Global (GPFG) de Noruega (USD 1,7 bi
 - Los recursos se invierten **exclusivamente** en (a) activos financieros internacionales de bajo riesgo, (b) participación accionaria en **empresas no petroleras venezolanas estratégicas** (tecnología, agroindustria, manufactura avanzada).
 - Los retornos financian infraestructura y capital humano, **nunca** gasto corriente.
 - Directorio de **5 miembros designados por la Asamblea Nacional (AN) con ratificación 3/5** por períodos no coincidentes con el ciclo político (8 años cada uno, vencimiento escalonado), con prohibición absoluta de contratar con el Estado venezolano.
-- **Cláusula de continuidad 3/4 + referéndum** para eliminarlo o modificarlo (más detallada en §V.11).
+- **Cláusula de continuidad 3/4 + referéndum** para eliminarlo o modificarlo (más detallada en §III.5.11).
 
-### V.2.2. Frente 2 — Reforma tributaria no petroleta (resumida del Pilar IV)
+### III.5.2.2. Frente 2 — Reforma tributaria no petroleta (resumida del Pilar III.4)
 
-Consolidar y repotenciar la reforma tributaria no petroleta del Pilar IV, específicamente:
+Consolidar y repotenciar la reforma tributaria no petroleta del Pilar III.4, específicamente:
 
-- **IVA** unificado en alícuota general de 16% con exenciones totales (0%) en medicamentos, salud, educación, transporte público, energía doméstica, canasta básica alimentaria, primera vivienda (Bloque A.3, decisión 25-jul-2026).
-- **ISLR** Personas Naturales: exoneradas las que ganan menos de 15 salarios mínimos anuales; escala progresiva del 6% al 10% (Bloque A.1+A.2, decisión 25-jul-2026). ISLR Personas Jurídicas: tope máximo 12% (microempresas formalizadas exentas 3 años, después 5%; PyMEs 8%; grandes 12%; sectores estratégicos privatizados 12% + gravamen ambiental vigente). Única exención sectorial: **ONGs sin fines de lucro** con personería jurídica (Bloque B.2, decisión 25-jul-2026). NO hay exención general sectorial agrícola primario, ni exención verde/industrial, ni exención cultural. Las **organizaciones religiosas** tributan al 12% sobre su actividad económica lucrativa, aunque **sus templos, conventos y monasterios** están exentos del IPN por el Bloque A.4. Criterio: umbral de exoneración amplio cierra fuga a informalidad; tope bajo elimina la barrera que obreros y profesionales medios colocan entre formal y sumergido; las únicas exenciones sectoriales son microempresas nuevas (transitorias) y ONGs sin fines de lucro (permanentes).
-- **Impuesto al Patrimonio Neto (IPN)** con umbral ≥ USD 500K sobre patrimonios totales acumulados de Personas Naturales y con tramos progresivos: 0,2% (500K-1M) / 0,5% (1M-5M) / 1,0% (5M-20M) / 1,5% (20M-50M) / 2,0% (>50M) — exenciones: primera vivienda propia (hasta USD 200K valor fiscal) y bienes religiosos (Bloque A.4, decisión 25-jul-2026). Aplicable a Personas Jurídicas con activos > USD 10M (régimen empresarial paralelo).
-- **Régimen tributario sectorial (Bloque E, 25-jul-2026)**:
-  - **IDM**: 3% / gran minería 6%; distribución 70% Municipio + 30% Estado.
-  - **IDN**: 3% / 70-30 idéntica.
-  - **Regalías petroleras 30%**: distribución por tramos de volumen (≤ 50K: 70/20/10 Estado/Estado-ext/Municipio; 50K-200K: 60/25/15; 200K-800K: 50/30/20; >800K: 40/30/30).
-  - **Regalías mineras metálicas 4-6%**: 70/20/10.
-  - **ISLR Minero**: aplica general 12% sin régimen especial.
-- **Eliminación del IGTF (Bloque F, 25-jul-2026)**: eliminación completa desde el mes 1 del cronograma monetario del Pilar IV, sin compensación alternativa. Razón: tras la dolarización oficial, el IGTF perdió su función original (contrarrestar subfacturación cambiaria) y por el contrario arancelaba el uso del sistema financiero formal, restringiendo la bancarización. El Fondo de Estabilización Macroeconómica (FEM) ring-fenced cumple ahora la función estabilizadora con criterio técnico automático, no impositivo sobre transacciones individuales.
+- **IVA** unificado en alícuota general de 15% + reducida 5% en canasta básica.
+- **ISLR** progresiva en cuatro tramos (10%-35%) + gravar riqueza financiera y ganancias de capital > USD 50.000.
+- **Impuesto al Patrimonio Neto** 0,5%-1,5% sobre patrimonios individuales > USD 1M y empresas con activos > USD 10M.
 - **Eliminación del IGTF**, sustituido por IVA 5% sobre servicios financieros.
 - **Renta internacional** vía negociación OPEP+ para un esquema de valorización en origen (Noruega/Saudi Aramco como referencia).
 
-Meta al año 5: pasar de ~6% a 14% de recaudación no petroleta del PIB. Espacio financiero: ~USD 8-15 MM adicionales anuales para meritocracia + Pilar II + III + VIII.
+Meta al año 5: pasar de ~6% a 14% de recaudación no petroleta del PIB. Espacio financiero: ~USD 8-15 MM adicionales anuales para meritocracia + Pilar III.2 + III.3 + III.8.
 
-### V.2.3. Frente 3 — Promoción activa de sectores no petroleros
+### III.5.2.3. Frente 3 — Promoción activa de sectores no petroleros
 
-Conforme al Pilar IV §IV.2(3), pero detallado como sección propia:
+Conforme al Pilar III.4 §III.4.2(3), pero detallado como sección propia:
 
-- **Agroindustria**: eliminación del control de cambios + impuesto al patrimonio neto para tierras ociosas + catastro digital Registro Único de Inmuebles (RUI) (Pilar VII §VII.3.2) + simplificación de la propiedad rural.
+- **Agroindustria**: eliminación del control de cambios + impuesto al patrimonio neto para tierras ociosas + catastro digital Registro Único de Inmuebles (RUI) (Pilar III.7 §III.7.3.2) + simplificación de la propiedad rural.
 - **Manufactura avanzada**: Zonas Económicas Especiales (ZEE) con conectividad garantizada + energía estable (parques solares fiscales) + exoneración 10 años.
 - **Servicios**: turismo + hub financiero regional + servicios de salud para la diáspora (modelo Medellín 2010s).
 
-### V.2.4. Frente 4 — Reforma del régimen cambiario (resumida del Pilar IV §IV.2(4))
+### III.5.2.4. Frente 4 — Reforma del régimen cambiario (resumida del Pilar III.4 §III.4.2(4))
 
-Cronograma de **18 meses** arrancando en el mes 1: apertura de banda cambiaria ±15% (mes 1) → eliminación recargo 25% + IGTF (mes 1-6) → sanción Ley Orgánica del Banco Central de Venezuela (LOBCV) (mes 3-6) → flotación administrada con meta inflación <30% (mes 6-12) → autonomía plena del Banco Central de Venezuela (BCV) + *crawling-peg* explícito (mes 12) → convergencia y sanción Ley de Dolarización (mes 12-15) → transición (mes 15-18) → dolarización oficial del USD como moneda de curso legal (mes 18).
+Cronograma de **18 meses** arrancando en el mes 1: apertura de banda cambiaria ±15% (mes 1) → eliminación recargo 25% + IGTF (mes 1-6) → sanción Ley Orgánica del Banco Central de Venezuela (LOBCV) (mes 3-6) → flotación administrada con meta inflación <30% (mes 6-12) → autonomía plena del BCV + *crawling-peg* explícito (mes 12) → convergencia y sanción Ley de Dolarización (mes 12-15) → transición (mes 15-18) → dolarización oficial del USD como moneda de curso legal (mes 18).
 
 El bolívar queda como **moneda simbólica** (modelo Panamá 1904) — moedas fraccionarias y registro contable, sin curso legal forzoso. Cláusula de continuidad en el Art. 318 CRBV reformado: 3/5 AN + referéndum.
 
-## V.3. PDVSA matriz: 51% estatal / 49% privado con OPI en mercados globales
+## III.5.3. PDVSA matriz: 51% estatal / 49% privado con OPI en mercados globales
 
-### V.3.1. El problema Art. 303 CRBV — reinterpretación auténtica
+### III.5.3.1. El problema Art. 303 CRBV — reinterpretación auténtica
 
 El Art. 303 CRBV literal dice: *"el Estado conservará la totalidad de las acciones de Petróleos de Venezuela, S.A."* Esto implica monopolio absoluto del Estado en PDVSA matriz, incompatible con nuestra propuesta del 51% estatal.
 
-Solución ya redactada en Doc. 3 §IV.2(3) y Doc. 5 Art. 24: **sentencia interpretativa del Tribunal Supremo de Justicia (TSJ) meritocrático** (Pilar VI) en sala constitucional que sustituya "totalidad" por **"al menos el cincuenta y uno por ciento (51%) de las acciones ordinarias con derecho a voto"**. Publicación en Gaceta Oficial con carácter vinculante *erga omnes*. Detalles del mecanismo en Pilar VI sección VI.X.
+Solución ya redactada en Doc. 3 §III.4.2(3) y Doc. 5 Art. 24: **sentencia interpretativa del Tribunal Supremo de Justicia (TSJ) meritocrático** (Pilar III.6) en sala constitucional que sustituya "totalidad" por **"al menos el cincuenta y uno por ciento (51%) de las acciones ordinarias con derecho a voto"**. Publicación en Gaceta Oficial con carácter vinculante *erga omnes*. Detalles del mecanismo en Pilar III.6 sección III.6.X.
 
 La reinterpretación respeta la jerarquía constitucional (Art. 334 la propia CRBV permite reformas por sala constitucional cuando hay ambigüedad interpretativa) y permite soberanía pública + privada sin necesidad de reforma constitiuyente.
 
-### V.3.2. La propuesta: OPI del 49% en NYSE / LSE / BVC
+### III.5.3.2. La propuesta: OPI del 49% en NYSE / LSE / BVC
 
 La Oferta Pública Inicial (OPI) del 49% de la matriz PDVSA es el corazón del plan. Calendario:
 
@@ -144,25 +137,25 @@ La Oferta Pública Inicial (OPI) del 49% de la matriz PDVSA es el corazón del p
 
 Ingresos esperados: **USD 8.000-15.000 millones** netos (después de comisiones). Estos ingresos se canalizan:
 
-- 30% al **FOSEIP** (§V.2.1).
-- 30% al **FEM** (Pilar IV) para acumulación de reservas BCV.
-- 15% al **FNIP** (Fondo Nacional de Inversión Productiva, §V.7).
-- 15% a la **reconversión** del Cuerpo de Policía Nacional Profesional (CPNP) (Pilar II) + 10% al Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (MIED-LAM) (Pilar III).
+- 30% al **FOSEIP** (§III.5.2.1).
+- 30% al **FEM** (Pilar III.4) para acumulación de reservas BCV.
+- 15% al **FNIP** (Fondo Nacional de Inversión Productiva, §III.5.7).
+- 15% a la **reconversión** del Cuerpo de Policía Nacional Profesional (CPNP) (Pilar III.2) + 10% al Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (MIED-LAM) (Pilar III.3).
 
-### V.3.3. Directorio meritocrático bajo CNSC
+### III.5.3.3. Directorio meritocrático bajo CNSC
 
-El Art. 27 del texto articulado (Doc. 5) ya prevé este esquema: directorio designado por el **Consejo de Accionistas** a propuesta del Comité de Nominaciones (perfil técnico, trayectoria internacional, idoneidad comprobada) **y verificado por la CNSC** (Pilar I). Trece miembros:
+El Art. 27 del texto articulado (Doc. 5) ya prevé este esquema: directorio designado por el **Consejo de Accionistas** a propuesta del Comité de Nominaciones (perfil técnico, trayectoria internacional, idoneidad comprobada) **y verificado por la CNSC** (Pilar III.1). Trece miembros:
 
 - 5 designados por la República (Estado, mayoritaria 51%).
 - 4 designados por tenedores privados del 49% listado.
 - 2 independientes (uno designado por universidades, uno por la FECAPI) — fuentes citadas en Pilar I.3 sobre meritocracia.
 - 1 designado por los trabajadores no sindicalizados de PDVSA.
 
-Ningún directivo podrá ejercer simultáneamente cargo de elección popular (Art. 27 final). Período único de **6 años no reelegible**, con causales de destitución análogas a las del Director del CPNP (Pilar II §II.8).
+Ningún directivo podrá ejercer simultáneamente cargo de elección popular (Art. 27 final). Período único de **6 años no reelegible**, con causales de destitución análogas a las del Director del CPNP (Pilar III.2 §III.2.8).
 
-## V.4. Filiales mixtas: cotización en bolsa + régimen LORAFEE
+## III.5.4. Filiales mixtas: cotización en bolsa + régimen LORAFEE
 
-### V.4.1. Lo que ya permite la LOH 2026
+### III.5.4.1. Lo que ya permite la LOH 2026
 
 La nueva LOH (Gaceta 6978 Ext., indexada en la KB) redefine **"Empresa Mixta"** como: *"sociedades en las que la República o un ente público posean una participación mayor del cincuenta por ciento (50%) del capital social, que le otorgue el control accionario"*. Esto es **compatible con nuestra propuesta**: filiales mixtas con 51% estatal (cumplen definición Legal) y 49% privado (pueden listarse en bolsa).
 
@@ -171,23 +164,23 @@ La nueva LOH (Gaceta 6978 Ext., indexada en la KB) redefine **"Empresa Mixta"** 
 - Verificación de la integridad de los libros contables.
 - Auditoría forense del auditor externo registrado ante el BCV.
 
-### V.4.2. La LORAFEE — Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas
+### III.5.4.2. La LORAFEE — Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas
 
 (Siguiendo el patrón único del proyecto, esta ley está consolidada como Título IV del Texto Articulado — ver Doc. 5).
 
-La Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas (LORAFEE) define **cuándo** el Estado puede **adquirir** (a través de la Dirección Nacional Anticorrupción y Recuperación de Bienes (DNA-RB) del Pilar VI) hasta el 51% de una empresa estratégica mixta o privada cotizada:
+La Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas (LORAFEE) define **cuándo** el Estado puede **adquirir** (a través de la Dirección Nacional Anticorrupción y Recuperación de Bienes (DNA-RB) del Pilar III.6) hasta el 51% de una empresa estratégica mixta o privada cotizada:
 
 **Causales taxativas (7 cláusulas)**:
-1. Amenaza concreta a la soberanía energética, alimentaria o de defensa nacional verificada por el DNPEP (Pilar VIII).
+1. Amenaza concreta a la soberanía energética, alimentaria o de defensa nacional verificada por el DNPEP (Pilar III.8).
 2. Concentración excesiva de capital extranjero adverso en el sector estratégico (>40% en una sola jurisdicción).
-3. Crisis sistémica verificada por la DNA-RB (Pilar VI).
+3. Crisis sistémica verificada por la DNA-RB (Pilar III.6).
 4. Disolución o quiebra inminente que afecte servicios esenciales.
 5. Riesgo comprobado de transferencia de tecnología estratégica a jurisdicción adversa.
 6. Amenaza a la continuidad operativa de un servicio público tras denegación privada.
 7. Decisión judicial por incumplimiento de contrato estratégico (pago de regalías, etc.).
 
 **Procedimiento judicializado**:
-- Auto de inicio del Procurador General (Pilar VI) o del BCV.
+- Auto de inicio del Procurador General (Pilar III.6) o del BCV.
 - **Acción judicial ante sala constitucional del TSJ meritocrático**.
 - Sentencia con valoración independiente bancaria.
 - **Cláusula pay-before-take**: el Estado NO toma el control de las acciones ni de la empresa hasta haber pagado el 100% del costo de la compra. Las acciones quedan bajo custodia judicial del banco tasador independiente.
@@ -196,7 +189,7 @@ La Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Es
 
 Esto **cierra la trampa** que justificaba históricamente el patronazgo: la expropiación indirecta vía confiscación de facto sin pago.
 
-### V.4.3. Topes accionarios + cláusulas de protección del inversor
+### III.5.4.3. Topes accionarios + cláusulas de protección del inversor
 
 Cada filial cotizada mantiene la regla del **51% estatal** como techo absoluto. Si la participación accionaria del Estado cae por debajo de 51% (vía dilución del mercado), el Estado **puede recomprar** hasta restaurar 51% bajo la LORAFEE. Esta **golden share** europea + control jurisdiccional reforzado:
 
@@ -204,11 +197,11 @@ Cada filial cotizada mantiene la regla del **51% estatal** como techo absoluto. 
 - El derecho de veto está documentado en el folleto de emisión.
 - La golden share **no se puede expropiar** (cláusula anti-discontinuidad).
 
-## V.5. Privatización 100% de Corpoelec y CANTV
+## III.5.5. Privatización 100% de Corpoelec y CANTV
 
 Esta sección operativiza los principios ya redactados en el Doc. 3 §3.7 y Doc. 5 Art. 31-34 (electricidad) + Art. 41-44 (telecomunicaciones).
 
-### V.5.1. Cuerpoelec (electricidad) — privatización 100%
+### III.5.5.1. Cuerpoelec (electricidad) — privatización 100%
 
 Cuerpoelec, donde se centraliza el colapso eléctrico, se privatiza en **7 uen** (cuerpos regionales):
 
@@ -222,7 +215,7 @@ Cuerpoelec, donde se centraliza el colapso eléctrico, se privatiza en **7 uen**
 - **Primeros 20 años**: exoneración total de ISLR, IGTF, impuestos municipales, tasas y contribuciones especiales. Solo paga contraprestación de servicios regulados.
 - **Año 21 en adelante**: pago de **únicamente IVA** a la alícuota general. Los recursos del IVA alimentan el **Fondo de Sostenimiento del Sistema Eléctrico Nacional (FOSEN)** para reforzar la red de transmisión y servicios marginales.
 
-### V.5.2. Privatozación CANTV + Movilnet
+### III.5.5.2. Privatozación CANTV + Movilnet
 
 Dos procedimientos paralelos:
 
@@ -233,18 +226,18 @@ Ambas privatizaciones respetan los **compromisos laborales vigentes** (Ley Orgá
 
 Marco regulatorio independiente: **CONATEL** (existente, LOTEL 2011) se mantiene como regulador técnico independiente.
 
-### V.5.3. Servicio Universal + Tarifa Social
+### III.5.5.3. Servicio Universal + Tarifa Social
 
 Como **contrapeso a la liberalización tarifaria** (riesgo Milei de shocks sociales), se establece:
 
 - Servicio Universal garantizado en el pliego de cada concesión eléctrica y cada licencia de telecom.
-- **Tarifa social focalizada** para hogares vulnerables: subsidio cruzado o aporte estatal directo (USD 200-400 millones/año agregado al Fondo IV IV-I).
+- **Tarifa social focalizada** para hogares vulnerables: subsidio cruzado o aporte estatal directo (USD 200-400 millones/año agregado al Fondo III.4 IV-I).
 
-## V.6. HIDROVEN: matriz subsistente + 9 hidrológicas privatizadas
+## III.5.6. HIDROVEN: matriz subsistente + 9 hidrológicas privatizadas
 
 Siguiendo la plantilla eléctrica ya redactada en Doc. 3 §3.7 y Doc. 5 Título XIV (Plan paralelo a electricidad).
 
-### V.6.1. Estructura
+### III.5.6.1. Estructura
 
 - **HIDROVEN matriz**: subsiste como holding técnico del Estado. Coordina política nacional + regulación técnica + planificación hidrológica. No se privatiza.
 - **9 hidrológicas regionales**: filiales privatizadas 100% mediante **9 licitaciones independientes**:
@@ -261,17 +254,17 @@ Siguiendo la plantilla eléctrica ya redactada en Doc. 3 §3.7 y Doc. 5 Título 
 | 8 | Hidrosuroeste | Táchira, Sur del Lago |
 | 9 | Hidrollanos | Apure, Guárico, Barinas (zona llanos) |
 
-### V.6.2. Régimen 20 años exoneración + sólo IVA en año 21
+### III.5.6.2. Régimen 20 años exoneración + sólo IVA en año 21
 
-Idéntico al eléctrico ya descrito en §V.5.1. Regulador: nueva **SUNAA** (Superintendencia Nacional de Aguas y Saneamiento), análoga a CONATEL, con modelo OFGEM/UK.
+Idéntico al eléctrico ya descrito en §III.5.5.1. Regulador: nueva **SUNAA** (Superintendencia Nacional de Aguas y Saneamiento), análoga a CONATEL, con modelo OFGEM/UK.
 
-### V.6.3. Ingresos esperados
+### III.5.6.3. Ingresos esperados
 
 USD 1.000-2.500 millones por las 9 privatizaciones regionales (USD 110-280 M por región). Suma total al FOSEIP para sostenibilidad.
 
-## V.7. Banca de desarrollo + mercado de capitales
+## III.5.7. Banca de desarrollo + mercado de capitales
 
-### V.7.1. Nueva Ley Orgánica de Banca de Desarrollo y Mercado de Capitales (LOBMC)
+### III.5.7.1. Nueva Ley Orgánica de Banca de Desarrollo y Mercado de Capitales (LOBMC)
 
 La nueva ley orgánica reemplaza el régimen actual por uno **funcionalmente separado** que evita los riesgos de captura:
 
@@ -281,9 +274,9 @@ La nueva ley orgánica reemplaza el régimen actual por uno **funcionalmente sep
 
 Diseño inspirado en modelo **KNOC** (Corea, banca de desarrollo sectorial), pero con directorio y supervigilancia distintos a la BND.
 
-### V.7.2. Fondo Nacional de Inversión Productiva (FNIP)
+### III.5.7.2. Fondo Nacional de Inversión Productiva (FNIP)
 
-Nuevo fondo, dependencia del DNPEP (Pilar VIII), dedicado a:
+Nuevo fondo, dependencia del DNPEP (Pilar III.8), dedicado a:
 
 - Co-inversión con empresas medianas nacionales (USD 2-25 M por proyecto) en sectores no petroleros.
 - Dotación inicial: USD 1.500 millones (15% de OPI PDVSA).
@@ -291,30 +284,30 @@ Nuevo fondo, dependencia del DNPEP (Pilar VIII), dedicado a:
 - Reglas: co-inversión tipo joint venture con mayoría privada (FKPI privado: 60% — FNIP: 40%); co-inversión tipo coinversión **estado-municipal** con ciudades (mínimo 10% municipio).
 - Cláusula anti-discontinuidad: el FNIP **no se modifica sino por ley con 3/5**.
 
-### V.7.3. Mercado de capitales y régimen bursátil
+### III.5.7.3. Mercado de capitales y régimen bursátil
 
 - Reapertura efectiva de la **Bolsa de Valores de Caracas** (paralizada desde 2017) con nuevo marco regulatorio independiente (SNAVALE + Conexión Electrónica SIBE).
 - Títulos de deuda pública al **3,5% - 5,5% real anual** en escenario estable, comparables a bonos brasileños.
 - Reforma del mercado secundario con reglas estrictas de protección al minoritario + información completa.
 - **Plazo para activar**: Mes 12-18 (paralelo al plan monetario).
 
-## V.8. Marco legal nuevo y reformas
+## III.5.8. Marco legal nuevo y reformas
 
-### V.8.1. Leyes nuevas (síntesis desde Doc. 5)
+### III.5.8.1. Leyes nuevas (síntesis desde Doc. 5)
 
 | Ley | Objeto | Estado |
 |---|---|---|
 | **LORAFEE** (Título IV del Doc. 5) | Régimen de adquisición forzosa + pay-before-take + golden share | Redactada, consolidada en Texto Articulado |
 | **LORPSP** (Título V propuesto) | Régimen general de privatización de servicios públicos con 20 años exoneración | A redactar |
-| **LOBMC** | Banca de desarrollo sectorial + mercado de capitales | A redactar §V.7 |
+| **LOBMC** | Banca de desarrollo sectorial + mercado de capitales | A redactar §III.5.7 |
 | **Reforma COT** | Reemplazar exenciones discrecionales por exenciones finalistas con coste fiscal publicado | A redactar |
 | **Reforma LOM 2026** | Incorpora cláusula de control estatal 51% en minera | A redactar ajustes específicos |
-| **Reforma LOPSPP** | Derogación a favor de la LOPSEP (Pilar VIII) | En aprobación |
+| **Reforma LOPSPP** | Derogación a favor de la LOPSEP (Pilar III.8) | En aprobación |
 | **Reforma Ley Antibloqueo 2020** | Derogación por incompatibilidad + transición | A coordinar |
 | **Reforma Art. 303 CRBV** vía sentencia interpretativa | 51% estatal en PDVSA matriz | Pendiente acción judicial TSJ meritocrático |
 | **Reforma Art. 318 CRBV** | Dolarización oficial con cláusula 3/5 | Pendiente |
 
-### V.8.2. Decretos ejecutivos necesarios
+### III.5.8.2. Decretos ejecutivos necesarios
 
 | Decreto | Materia | Estado |
 |---|---|---|
@@ -325,21 +318,21 @@ Nuevo fondo, dependencia del DNPEP (Pilar VIII), dedicado a:
 | Decreto de creación del FOSEIP | Fondo Soberano | A emitir en Mes 0 |
 | Decreto de creación del Comité de Nominaciones del directorio PDVSA | Mes 3 | A emitir |
 
-## V.9. Cronograma 0-12 meses (paralelo a plan monetario 18 meses)
+## III.5.9. Cronograma 0-12 meses (paralelo a plan monetario 18 meses)
 
 | Mes | Hito |
 |---|---|
-| **Mes 0** | Sanción de LORAFEE, LOBMC y LOPSEP (Pilar VIII) + creación FEM, FOSEIP, FNIP + Decreto de banca de desarrollo + Decreto de privatización CANTV |
+| **Mes 0** | Sanción de LORAFEE, LOBMC y LOPSEP (Pilar III.8) + creación FEM, FOSEIP, FNIP + Decreto de banca de desarrollo + Decreto de privatización CANTV |
 | **Mes 1-3** | Selección del banco de inversión para OPI PDVSA + due-diligence técnica (reservas probadas) + proceso de privatización CANTV (mes 0-6) + proceso de privatización de las 2 primeras hidrológicas (Hidrocapital, Hidrocentro) |
 | **Mes 3-6** | Privatización 2da fila de hidrológicas (Hidrolago, Hidroandes, Hidrolara) + fin proceso Hidrolago + road-show OPI PDVSA a fondos soberanos |
 | **Mes 6-9** | Privatización 3ra fila de hidrológicas + book-building OPI PDVSA + proceso de privatización Corpoelec-distribución (5 lotes) + Decreto de creación del Comité de Nominaciones directorio PDVSA |
 | **Mes 9** | Lanzamiento NYSE/LSE/BVC OPI PDVSA + entrega inicial 49% a anchor investors |
 | **Mes 9-12** | Privatización Corpoelec-restantes + Privatización Cuerpoelec-Generación mercado mayorista + Privatización Solar/fotovoltaica zonal + Privatización Movilnet (mes 6-12) + Privatización Hidrológicas 4ta fila (Hidrocaribe, Hidropaez, Hidrosuroeste, Hidrollanos) |
-| **Mes 12** | Directorio PDVSA meritocrático instalado (nuevos 13 miembros). Litigio CIJ sobre Esequibo (Doc. VI) se mantiene escenario invariante |
+| **Mes 12** | Directorio PDVSA meritocrático instalado (nuevos 13 miembros). Litigio CIJ sobre Esequibo (Doc. III.6) se mantiene escenario invariante |
 
-> **Vínculo con Pilar IV (monetario)**: los hitos mes 6-12 (flotación administrada) y mes 12 (autonomía plena BCV + crawling-peg) son críticos porque el ingreso de divisas de la OPI PDVSA (USD 8.000-15.000 M en mes 9) depende de un sistema cambiario creíble. La secuenciación es íntima: el éxito del cronograma de V está condicionado al cumplimiento del cronograma de IV.
+> **Vínculo con Pilar III.4 (monetario)**: los hitos mes 6-12 (flotación administrada) y mes 12 (autonomía plena BCV + crawling-peg) son críticos porque el ingreso de divisas de la OPI PDVSA (USD 8.000-15.000 M en mes 9) depende de un sistema cambiario creíble. La secuenciación es íntima: el éxito del cronograma de III.5 está condicionado al cumplimiento del cronograma de III.4.
 
-## V.10. Indicadores de éxito (al cierre del año 5)
+## III.5.10. Indicadores de éxito (al cierre del año 5)
 
 | # | Indicador | Meta |
 |---|-----------|------|
@@ -356,27 +349,27 @@ Nuevo fondo, dependencia del DNPEP (Pilar VIII), dedicado a:
 | 11 | Producción no petrolera como % del PIB | ≥ 12% año 5 |
 | 12 | Inflación | < 30% año 1 |
 | 13 | Tasa de empleo informal | < 35% año 5 |
-| 14 | Tipo de cambio libre + reservas BCV ≥ 6 meses importación | Año 18 (Pilar IV) |
+| 14 | Tipo de cambio libre + reservas BCV ≥ 6 meses importación | Año 18 (Pilar III.4) |
 | 15 | Bolsa de Caracas operativa | Mes 18 |
 
-## V.11. Riesgos y mitigación
+## III.5.11. Riesgos y mitigación
 
 | # | Riesgo | Probabilidad | Impacto | Mitigación |
 |---|--------|--------------|---------|------------|
 | 1 | **OPI infravalora PDVSA** (suma privado + Estado subprecia activos) | Media | Alto | Banco de inversión independiente + due-diligence internacional SPR-PRMS + prueba de libro a 5 firmas independientes + veeduría OACNUDH en proceso |
 | 2 | **Filiales mixtas fallen en bolsa** por falta de interés | Media | Medio | Solo listar las 3 con reservas certificadas; resto a mercado secundario + colocaciones estratégicas pre-fijadas |
-| 3 | **Crítica política post-privatización**: oposición reclama patrimonial público dilapidado | Alta | Alto | **Cláusula de continuidad 3/4 + referéndum para revertir privatización** (ver §V.12); el blindaje jurídico es transparente: lo privatizado no se devuelve |
+| 3 | **Crítica política post-privatización**: oposición reclama patrimonial público dilapidado | Alta | Alto | **Cláusula de continuidad 3/4 + referéndum para revertir privatización** (ver §III.5.12); el blindaje jurídico es transparente: lo privatizado no se devuelve |
 | 4 | **Captura del FOSEIP** por élites políticas | Baja | Alto | Directorio sin coincidencia con ciclo político + prohibición absoluta de contratar con el Estado + auditoría externa anual |
 | 5 | **Cierre migratorio de profesionales** en privatizaciones | Media | Medio | Estabilizar el empleo durante 24 meses posteriores a privatización (LOTTT + reforma de regulación laboral Pilar III.X) |
-| 6 | **Demora en reformas** (LORAFEE, LOBMC, LORPSP) | Alta | Alto | Lista de decretos ejecutivos anticipados; DNPEP (Pilar VIII) coordina ejecutivo + AN |
+| 6 | **Demora en reformas** (LORAFEE, LOBMC, LORPSP) | Alta | Alto | Lista de decretos ejecutivos anticipados; DNPEP (Pilar III.8) coordina ejecutivo + AN |
 | 7 | **Caída del precio del petróleo** durante el proceso | Media | Alto | Bandas de protección vía FOSEIP (precio referencia plurianual); reingresos pensionales de fondos soberanos |
 | 8 | **Sanciones internacionales** que compliquen los mercados | Baja | Alto | Renegociación estructurada con tratado de cumplimiento + veeduría OACNUDH como garante |
 | 9 | **Falta de mercado financiero para Hidrocapital** | Media | Medio | Adelanto de 2 licitaciones (regiones menores) + operadores consorciados regionales |
-| 10 | **Decisión CIJ Guyana-VE** sobre Esequibo | Media (vinculado) | Medio | Plan de contingencia: altas finanzas extractoras en la zona ya están contempladas en los movimientos de filiales mixtas + monitoreo de seguridad CPNP II |
+| 10 | **Decisión CIJ Guyana-VE** sobre Esequibo | Media (vinculado) | Medio | Plan de contingencia: altas finanzas extractoras en la zona ya están contempladas en los movimientos de filiales mixtas + monitoreo de seguridad CPNP III.2 |
 
-## V.12. Cláusula de continuidad 3/4 + referéndum ratificatorio
+## III.5.12. Cláusula de continuidad 3/4 + referéndum ratificatorio
 
-Las siguientes cuestiones reciben blindaje reforzado según el patrón MIED-LAM (Pilar III) y DNA-RB (Pilar VI):
+Las siguientes cuestiones reciben blindaje reforzado según el patrón MIED-LAM (Pilar III.3) y DNA-RB (Pilar III.6):
 
 1. **Modificación del Art. 303 CRBV reinterpretado** (sentencia interpretativa del TSJ): requiere mayoría **3/4** de la AN.
 2. **Reversión de la OPI del 49% de PDVSA matriz**: requiere mayoría **3/4** + **referéndum popular ratificatorio**.
@@ -384,13 +377,13 @@ Las siguientes cuestiones reciben blindaje reforzado según el patrón MIED-LAM 
 4. **Eliminación del FOSEIP**: requiere mayoría **3/4** + referéndum ratificatorio.
 5. **Modificación de la golden share** o de los topes accionarios en filiales mixtas: mayoría **3/4**.
 6. **Eliminación del FNIP**: mayoría **3/4**.
-7. **Reversión del cronograma monetario/cambiario del Pilar IV** (retorno al bolívar no simbólico): mayoría **3/4** + referéndum.
+7. **Reversión del cronograma monetario/cambiario del Pilar III.4** (retorno al bolívar no simbólico): mayoría **3/4** + referéndum.
 
 Todo intento de reforma por **decreto presidencial, ley habilitante o asamblea constituyente** que afecte estas garantías debe observar idéntica mayoría 3/4 + referéndum. La continuidad está **encadenada con la del MIED-LAM**: ambos pilares se blindan juntos o caen juntos.
 
-## V.13. Nota arquitectónica
+## III.5.13. Nota arquitectónica
 
-Este Pilar V es la **columna vertebral material** del proyecto. Pero por sí solo no transforma: depende de I (meritocracia para los directorios), II (seguridad en zonas mineras y eléctricas), III (capital humano para empresas mixtas), IV (reforma tributaria + cronograma monetario), VI (DNA-RB para procesar cualquier compra forzosa), VII (Banco Nacional de Datos (BND) y Clave Única de Identidad Digital (VePass) para trazabilidad de transacciones corporativas) y VIII (DNPEP para presupuesto plurianual). La propuesta es **integrada**, no sectorial.
+Este Pilar III.5 es la **columna vertebral material** del proyecto. Pero por sí solo no transforma: depende de III.1 (meritocracia para los directorios), III.2 (seguridad en zonas mineras y eléctricas), III.3 (capital humano para empresas mixtas), III.4 (reforma tributaria + cronograma monetario), III.6 (DNA-RB para procesar cualquier compra forzosa), III.7 (Banco Nacional de Datos (BND) y Clave Única de Identidad Digital (VePass) para trazabilidad de transacciones corporativas) y III.8 (DNPEP para presupuesto plurianual). La propuesta es **integrada**, no sectorial.
 
 ---
 
@@ -423,6 +416,7 @@ Este Pilar V es la **columna vertebral material** del proyecto. Pero por sí sol
 | **LOPP** | Ley Orgánica de Planificación Pública |
 | **LORAFEE** | Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas |
 | **LORPSP** | Ley Orgánica de Reforma del Sector Público |
+| **LOT** | Ley Orgánica del Trabajo |
 | **LOTTT** | Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras |
 | **MIED-LAM** | Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado |
 | **OACNUDH** | Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos |

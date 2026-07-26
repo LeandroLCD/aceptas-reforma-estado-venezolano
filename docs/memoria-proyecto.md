@@ -276,7 +276,7 @@ Texto extraído directamente de la Gaceta Oficial 6978:
 
 **Acción recomendada**: clarificar con el usuario si la regla fue "tope MAYORITARIO 51%" o "tope MINORITARIO 51%". Esta distinción cambia el régimen jurídico aplicable.
 
-> **Estado de búsqueda 2026-07-11 00:39**: Reforma LOH 2026 ✅ indexada. Wikipedia PDVSA ✅ indexada. Ley Orgánica de Minas (LOM) 2026 ✅ indexada (2026-07-11 00:43). **2026-07-13**: ✅ indexadas Ley Orgánica de Hidrocarburos Gaseosos (1999), Ley Antibloqueo (2020), Ley Orgánica del Tribunal Supremo de Justicia (LOTSJ) (2010), LOSPCPN (2008), Ley Orgánica del Poder Popular (2010) y LOTTT (2012 reforma).
+> **Estado de búsqueda 2026-07-11 00:39**: Reforma LOH 2026 ✅ indexada. Wikipedia PDVSA ✅ indexada. LOM 2026 ✅ indexada (2026-07-11 00:43). **2026-07-13**: ✅ indexadas Ley Orgánica de Hidrocarburos Gaseosos (1999), Ley Antibloqueo (2020), Ley Orgánica del Tribunal Supremo de Justicia (LOTSJ) (2010), LOSPCPN (2008), Ley Orgánica del Poder Popular (2010) y LOTTT (2012 reforma).
 
 ### ✅ ACLARACIÓN DEL USUARIO (2026-07-13)
 
@@ -694,41 +694,41 @@ cd ~/qdrant-kb && python3 ingest.py --input-dir ./data/<carpeta> --collection kb
 | 0.a | **Prólogo + Resumen ejecutivo** | `v0.1_prologo_resumen_ejecutivo.md` | v0.1 (2026-07-16, post-H5) | 71 | 893 |
 | 0.b | **Diagnóstico integral** | `v0.1_diagnostico_integral.md` | v0.1 (2026-07-16, post-H5) | 115 | 1.743 |
 | 0.c | **Principios generales** | `v0.1_principios_generales.md` | v0.1 (2026-07-16, post-H5) | 65 | 781 |
-| I | **Servicio Civil Meritocrático** | `v0.2_pilar_iii1_servicio_civil_meritocracia.md` | v0.2 (2026-07-15, post-H1) | 118 | 1.410 |
-| II | **Seguridad Ciudadana** | *(pendiente H2, vence 18/07)* | — | — | — |
-| III | **MIED-LAM Constitucional** | `v0.2_pilar_iii3_mied_lam.md` | v0.2 (2026-07-15, post-H1) | 318 | 3.698 |
-| IV | **Reforma Fiscal + Financiamiento Territorial** | `v0.1_pilar_iii4_reforma_fiscal_financiamiento.md` | v0.1 (2026-07-15, post-extracción IV.2) | 237 | 2.682 |
-| V | **Reforma Económica y Productiva** | `v0.1_pilar_iii5_reforma_economica_productiva.md` | v0.1 esqueleto (2026-07-15, H3 pendiente) | 113 | 1.749 |
-| VI | **Justicia Independiente + Anticorrupción** | `v0.5_pilar_iii6_justicia_anticorrupcion.md` | v0.5 (2026-07-15, vigente) | 493 | 7.167 |
-| VII | **Gobierno Digital, Identidad y Soberanía de Datos** | `v0.1_pilar_iii7_gobierno_digital.md` | v0.1.2 (2026-07-15, post-RUI+CDF+SAIME) | 1.556 | 19.146 |
-| VIII | **Planificación Estratégica y Prospectiva** | `v0.1_pilar_iii8_planificacion_estrategica.md` | v0.1 (2026-07-16, post-H4) | 330 | 3.671 |
+| III.1 | **Servicio Civil Meritocrático** | `v0.2_pilar_iii1_servicio_civil_meritocracia.md` | v0.2 (2026-07-15, post-H1) | 118 | 1.410 |
+| III.2 | **Seguridad Ciudadana** | *(pendiente H2, vence 18/07)* | — | — | — |
+| III.3 | **MIED-LAM Constitucional** | `v0.2_pilar_iii3_mied_lam.md` | v0.2 (2026-07-15, post-H1) | 318 | 3.698 |
+| III.4 | **Reforma Fiscal + Financiamiento Territorial** | `v0.1_pilar_iii4_reforma_fiscal_financiamiento.md` | v0.1 (2026-07-15, post-extracción III.4.2) | 237 | 2.682 |
+| III.5 | **Reforma Económica y Productiva** | `v0.1_pilar_iii5_reforma_economica_productiva.md` | v0.1 esqueleto (2026-07-15, H3 pendiente) | 113 | 1.749 |
+| III.6 | **Justicia Independiente + Anticorrupción** | `v0.5_pilar_iii6_justicia_anticorrupcion.md` | v0.5 (2026-07-15, vigente) | 493 | 7.167 |
+| III.7 | **Gobierno Digital, Identidad y Soberanía de Datos** | `v0.1_pilar_iii7_gobierno_digital.md` | v0.1.2 (2026-07-15, post-RUI+CDF+SAIME) | 1.556 | 19.146 |
+| III.8 | **Planificación Estratégica y Prospectiva** | `v0.1_pilar_iii8_planificacion_estrategica.md` | v0.1 (2026-07-16, post-H4) | 330 | 3.671 |
 | **TOTAL** | | **9 archivos vigentes + 1 archivado** | | **3.416** | **42.940** |
 
 **Versión archivada** (histórico, reemplazada por v0.2):
 - `v0.1_pilar_iii6_justicia_anticorrupcion.md` (256 líneas, 2.851 palabras) — obsoleto, mantener solo como antecedente.
 
 **Pilares faltantes** (no redactados aún, parcialmente cubiertos en Doc. 3):
-- **II Seguridad Ciudadana** (⏳ pendiente H2, vence 2026-07-18) — único pilar sin redactar.
-- **V Económico-productivo** (🟡 esqueleto v0.1 — pendiente H3 expansión, vence 2026-07-22).
+- **III.2 Seguridad Ciudadana** (⏳ pendiente H2, vence 2026-07-18) — único pilar sin redactar.
+- **III.5 Económico-productivo** (🟡 esqueleto v0.1 — pendiente H3 expansión, vence 2026-07-22).
 
-### Contenido del Pilar VII (2026-07-12)
+### Contenido del Pilar III.7 (2026-07-12)
 
 13 subsecciones, 63 KB, 785 líneas:
-- VII.1 Diagnóstico: 7 sistemas de identificación fragmentados (cédula, RIF, Instituto Venezolano de los Seguros Sociales (IVSS), Consejo Nacional Electoral (CNE), registro civil, pasaporte, tarjeta patria).
-- VII.2 Data center soberano cerca del Guri: 3 sitios redundantes — Guri-1 (100 ha, 10→40 MW), Guri-2 (backup), Guri-3 (cueva Macizo Guayanés).
-- VII.3 Banco Nacional de Datos (BND) — arquitectura federada tipo X-Road, 11 bases sectoriales.
-- VII.4 Clave Única de Identidad Digital (VePass) (modelo ClaveÚnica chilena): 4 niveles (Lite, Plus, Fuerte, Firma) + Red RENAV.
-- VII.5 SNI (modelo RUN/RUT): hospital → niño vivo (ADN + huellas plantares + foto) → 24h → RUN = RUT → Cédula-RUT con QR + NFC + chip biométrico.
-- VII.6 Cédula-RUT: especificacionesinspirado en cédula chilena 2019; activación biométrica; bloqueo por portador.
-- VII.7 Casos especiales huellas: 10 dedos estándar → pérdida dedos mano → pérdida mano completa → pérdida ambas manos (familiar directo) → sin familiares → banco ADN como factor definitivo.
-- VII.8 Ley Orgánica Protección Datos Personales (LOPD) + Superintendencia SPDP.
-- VII.9 Acceso defensa con control civil reforzado.
-- VII.10 Cláusula de continuidad 3/4 + referéndum.
-- VII.11 Cronograma 7 años.
-- VII.12 Indicadores (10 KPIs).
-- VII.13 Riesgos y mitigación (8 riesgos).
+- III.7.1 Diagnóstico: 7 sistemas de identificación fragmentados (cédula, RIF, Instituto Venezolano de los Seguros Sociales (IVSS), Consejo Nacional Electoral (CNE), registro civil, pasaporte, tarjeta patria).
+- III.7.2 Data center soberano cerca del Guri: 3 sitios redundantes — Guri-1 (100 ha, 10→40 MW), Guri-2 (backup), Guri-3 (cueva Macizo Guayanés).
+- III.7.3 Banco Nacional de Datos (BND) — arquitectura federada tipo X-Road, 11 bases sectoriales.
+- III.7.4 Clave Única de Identidad Digital (VePass) (modelo ClaveÚnica chilena): 4 niveles (Lite, Plus, Fuerte, Firma) + Red RENAV.
+- III.7.5 SNI (modelo RUN/RUT): hospital → niño vivo (ADN + huellas plantares + foto) → 24h → RUN = RUT → Cédula-RUT con QR + NFC + chip biométrico.
+- III.7.6 Cédula-RUT: especificacionesinspirado en cédula chilena 2019; activación biométrica; bloqueo por portador.
+- III.7.7 Casos especiales huellas: 10 dedos estándar → pérdida dedos mano → pérdida mano completa → pérdida ambas manos (familiar directo) → sin familiares → banco ADN como factor definitivo.
+- III.7.8 Ley Orgánica Protección Datos Personales (LOPD) + Superintendencia SPDP.
+- III.7.9 Acceso defensa con control civil reforzado.
+- III.7.10 Cláusula de continuidad 3/4 + referéndum.
+- III.7.11 Cronograma 7 años.
+- III.7.12 Indicadores (10 KPIs).
+- III.7.13 Riesgos y mitigación (8 riesgos).
 
-**Comparación de escala con la industria** (Pilar VII § 3):
+**Comparación de escala con la industria** (Pilar III.7 § 3):
 - Meta Eagle Mountain Utah: 485 ha / 1.000 MW
 - AWS Ashburn: 320 ha / 400 MW
 - Google The Dalles: 280 ha / 400 MW
@@ -794,11 +794,11 @@ cd ~/qdrant-kb && python3 ingest.py --input-dir ./data/<carpeta> --collection kb
   - Mes 12-15 — convergencia + acumulación de reservas (umbral de dolarización ≈ USD 8.000-12.000 M adicionales) + sanción de la Ley de Dolarización + reforma Art. 318 CRBV.
   - Mes 18 — dolarización oficial; USD de curso legal; bolívar como moneda simbólica (modelo Panamá 1904).
 - **Archivos modificados**:
-  - `borrador_reforma/2026/v0.1_pilar_iii4_reforma_fiscal_financiamiento.md` (versión 0.1 → 0.2; nueva sección IV.2(4) detallada).
+  - `borrador_reforma/2026/v0.1_pilar_iii4_reforma_fiscal_financiamiento.md` (versión 0.1 → 0.2; nueva sección III.4.2(4) detallada).
   - `docs/texto_articulado.md` Art. 50 (12 → 18 meses) + nuevos Arts. 50-A (cláusula blindaje Art. 318 CRBV) y 50-B (prohibición financiamiento monetario).
   - `docs/propuesta_reforma.md` §3.2(4), §3.3, §3.4 y §3.5 (instrumentos + cronograma + KPIs actualizados con hitos mes 12 y mes 18).
   - `docs/plan_implementacion.md` (nuevo "Mes 1 monetario", "Mes 12 autonomía BCV", "Mes 12-15 convergencia", "Mes 15-18 transición", "Mes 18 dolarización"; KPIs 28-32 nuevos; Anexo 1 con doble cronograma; §10.1 con columna mes 18).
-- **Re-ingesta**: 2 ingestas (drafts + docs) en append; KB total pasó de 13168 → 13459 chunks (+291 = Pilar IV expandido + nuevos chunks en propuesta y plan_implementacion). Sin duplicados (IDs estables).
+- **Re-ingesta**: 2 ingestas (drafts + docs) en append; KB total pasó de 13168 → 13459 chunks (+291 = Pilar III.4 expandido + nuevos chunks en propuesta y plan_implementacion). Sin duplicados (IDs estables).
 - **Referentes teóricos asumidos** (sin documentos específicos en la KB, conviene ingestar en próxima sesión):
   - Ecuador 2000 (Ley de Transformación Económica; dolarización desde sucre a 25.000).
   - Panamá 1904 (balboa como moneda simbólica; sin banco central).
@@ -806,18 +806,18 @@ cd ~/qdrant-kb && python3 ingest.py --input-dir ./data/<carpeta> --collection kb
   - Bolivia bimonetarismo informal.
   - El Salvador 2001 (dolarización con remesas).
   - Caputo crawling-peg 2024-2025 (bandas USD/ARS $1000-$1400).
-- **Próximo paso sugerido**: ingestar al menos Ecuador 2000 y BCRA Ley 27.514 antes de la próxima redacción del Pilar IV v0.3.
+- **Próximo paso sugerido**: ingestar al menos Ecuador 2000 y BCRA Ley 27.514 antes de la próxima redacción del Pilar III.4 v0.3.
 
-## Reforma del Ministerio Público — Pilar VI §VI.7 (2026-07-13)
+## Reforma del Ministerio Público — Pilar III.6 §III.6.7 (2026-07-13)
 
-- **Solicitud del usuario** (ronda 1): revisar VI.7 con tres cambios: (a) documentar el patrón de captura institucional del MP por el Ejecutivo usando los últimos 3 fiscales como evidencia (Isaías Rodríguez 2000-2004, Luisa Ortega Díaz 2007-2017, Tarek William Saab 2017-2024); (b) cambiar el período de 10 años propuesto en v0.2 a **6 años únicos y no reelegibles** (sincronizado con art. 230 CRBV); (c) agregar cláusula de **destitución por la Asamblea Nacional (AN)** con 3/4 y debido proceso.
+- **Solicitud del usuario** (ronda 1): revisar III.6.7 con tres cambios: (a) documentar el patrón de captura institucional del MP por el Ejecutivo usando los últimos 3 fiscales como evidencia (Isaías Rodríguez 2000-2004, Luisa Ortega Díaz 2007-2017, Tarek William Saab 2017-2024); (b) cambiar el período de 10 años propuesto en v0.2 a **6 años únicos y no reelegibles** (sincronizado con art. 230 CRBV); (c) agregar cláusula de **destitución por la AN** con 3/4 y debido proceso.
 - **Solicitud del usuario** (ronda 2): agregar **causal #6** de destitución por **investigación internacional o sanción extranjera**, con procedimiento expedito de separación del cargo y presentación ante tribunales extranjeros.
-- **Solicitud del usuario** (ronda 3): replicar la misma lógica (período 6 años único no reelegible + causal #6 investigación/sanción internacional + procedimiento expedito) para el **Director General de la Dirección Nacional Anticorrupción y Recuperación de Bienes (DNA-RB)** (sección VI.5) y para el **Defensor del Pueblo** (nueva sección VI.7-A).
+- **Solicitud del usuario** (ronda 3): replicar la misma lógica (período 6 años único no reelegible + causal #6 investigación/sanción internacional + procedimiento expedito) para el **Director General de la Dirección Nacional Anticorrupción y Recuperación de Bienes (DNA-RB)** (sección III.6.5) y para el **Defensor del Pueblo** (nueva sección III.6.7-A).
 - **Archivo modificado**: `borrador_reforma/2026/v0.2_pilar_iii6_justicia_anticorrupcion.md` (versión interna 0.5 en frontmatter; nombre de archivo se mantiene v0.2 para no invalidar stable_ids de chunks ya indexados).
 - **Cambios v0.5**:
-  - **VI.5 DNA-RB**: (a) Período del Director General: 8 años no coincidentes → **6 años únicos no reelegible**. (b) Designación: nombrado por el Presidente + AN 3/5 → **concurso público + AN 3/5**. (c) Nueva subsección "Régimen del Director General de la DNA-RB" con 6 cláusulas análogas al MP, incluida causal #6 + procedimiento expedito mutatis mutandis (TSJ meritocrático designa Director interino en 15 días; 30 días desde notificación para que la AN se pronuncie; separación de pleno derecho por ministerio de la ley).
-  - **Nueva sección VI.7-A "Independencia del Defensor del Pueblo"**: (a) Diagnóstico del patrón de captura. (b) Reforma con 8 cláusulas análogas: concurso público con jury mixto (juristas DDHH nacionales + veedores CIDH/OACNUDH) + ratificación AN 3/5; período único de **6 años no reelegible** (sustituyendo el esquema CRBV actual de 5 años reelegible una vez, art. 281); destitución AN 3/4 con **7 causales taxativas** (omisión deliberada de defensa, defensa selectiva, declaraciones partidistas, incompatibilidad sobreviniente, ineficiencia manifiesta, condena penal, investigación internacional/sanción extranjera) + procedimiento expedito idéntico al del MP; prohibición de instrucciones del Ejecutivo (reforma art. 282 CRBV, texto propuesto); autonomía presupuestaria 0,3% PIB no reprogramable; carrera meritocrática + Escuela Nacional de la Judicatura; incompatibilidad post-mandato 5 años; veeduría internacional 8 años.
-- **Re-ingesta**: KB total pasó de 13614 → 13714 chunks (+100 = VI.5 modificado + nueva sección VI.7-A completa).
+  - **III.6.5 DNA-RB**: (a) Período del Director General: 8 años no coincidentes → **6 años únicos no reelegible**. (b) Designación: nombrado por el Presidente + AN 3/5 → **concurso público + AN 3/5**. (c) Nueva subsección "Régimen del Director General de la DNA-RB" con 6 cláusulas análogas al MP, incluida causal #6 + procedimiento expedito mutatis mutandis (TSJ meritocrático designa Director interino en 15 días; 30 días desde notificación para que la AN se pronuncie; separación de pleno derecho por ministerio de la ley).
+  - **Nueva sección III.6.7-A "Independencia del Defensor del Pueblo"**: (a) Diagnóstico del patrón de captura. (b) Reforma con 8 cláusulas análogas: concurso público con jury mixto (juristas DDHH nacionales + veedores CIDH/OACNUDH) + ratificación AN 3/5; período único de **6 años no reelegible** (sustituyendo el esquema CRBV actual de 5 años reelegible una vez, art. 281); destitución AN 3/4 con **7 causales taxativas** (omisión deliberada de defensa, defensa selectiva, declaraciones partidistas, incompatibilidad sobreviniente, ineficiencia manifiesta, condena penal, investigación internacional/sanción extranjera) + procedimiento expedito idéntico al del MP; prohibición de instrucciones del Ejecutivo (reforma art. 282 CRBV, texto propuesto); autonomía presupuestaria 0,3% PIB no reprogramable; carrera meritocrática + Escuela Nacional de la Judicatura; incompatibilidad post-mandato 5 años; veeduría internacional 8 años.
+- **Re-ingesta**: KB total pasó de 13614 → 13714 chunks (+100 = III.6.5 modificado + nueva sección III.6.7-A completa).
 - **Coherencia**: los tres cargos del Poder Ciudadano (Fiscal General, Director DNA-RB, Defensor del Pueblo) tienen ahora régimen unificado en: (a) procedimiento de designación (concurso público + AN 3/5); (b) período (6 años únicos no reelegible); (c) causales de destitución (incluida investigación internacional/sanción extranjera); (d) procedimiento expedito de separación del cargo ante notificación internacional (30 días + pleno derecho + 15 días para interino).
 - **Pendiente** (carry-over):
   - Renombrar archivo a `v0.5_pilar_iii6_justicia_anticorrupcion.md` (requiere borrado de chunks viejos + re-ingest limpio).
@@ -833,19 +833,19 @@ cd ~/qdrant-kb && python3 ingest.py --input-dir ./data/<carpeta> --collection kb
 ## Re-planificación del documento y unificación a 8 pilares (2026-07-15)
 - **Solicitud del usuario**: revisar el `planes/2026-07-12-documento-reforma.md` (7 pilares con numeración rota, caracteres CJK "inspirado en", y ausencia de un pilar económico explícito).
 - **Problemas detectados en plan v2026-07-12**:
-  1. Numeración inconsistente (I–VIII mezclado con IV.1/4.2/4.3 y V/6/7 listados dos veces).
-  2. Caracteres CJK ("inspirado en") colados en descripciones de VI, VII y VIII.
-  3. Educación subsumida dentro de III MIED-LAM en los borradores pero todavía figuraba como pilar independiente en el plan.
+  1. Numeración inconsistente (III.1–III.8 mezclado con III.4.1/4.2/4.3 y III.5/6/7 listados dos veces).
+  2. Caracteres CJK ("inspirado en") colados en descripciones de III.6, III.7 y III.8.
+  3. Educación subsumida dentro de III.3 MIED-LAM en los borradores pero todavía figuraba como pilar independiente en el plan.
   4. No había cronograma con dependencias ni criterios de aceptación por Task.
   5. Faltaba Task 1, Task 5, Task 6 como entregables con archivos de salida explícitos.
-- **Decisión del usuario**: separar el componente económico-productivo (PDVSA, privatizaciones) como **Pilar V propio**, no subsumirlo en IV fiscal. Resultado: **8 pilares**.
+- **Decisión del usuario**: separar el componente económico-productivo (PDVSA, privatizaciones) como **Pilar III.5 propio**, no subsumirlo en III.4 fiscal. Resultado: **8 pilares**.
 - **Plan reescrito**: `~/Documentos/reforma_estado_ve/planes/2026-07-15-documento-reforma.md`.
-  - Numeración I – VIII sin saltos.
+  - Numeración III.1 – III.8 sin saltos.
   - Nombre normalizado: **MIED-LAM** (Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado).
   - Nueva convención: privatización de PDVSA / activos estratégicos requiere cláusula 3/4 + referéndum, alineada con blindaje del MIED-LAM.
   - Cronograma H1–H9 con dependencias y fechas.
   - Tabla de "Esquema de pilares" cruzando plan ↔ archivos reales en `borrador/`.
-  - Acciones explícitas de renumeración y separación de archivos (split de `03_iii1_iii3_*` en I y III; extracción de IV.2 → base del nuevo V; renumeración de anticorrupción y digital).
+  - Acciones explícitas de renumeración y separación de archivos (split de `03_iii1_iii3_*` en III.1 y III.3; extracción de III.4.2 → base del nuevo III.5; renumeración de anticorrupción y digital).
 - **Ingesta del plan en KB**:
   - Symlink `qdrant-kb/data/venezuela/plan/2026/2026-07-15-documento-reforma.md` → plan original.
   - `python3 qdrant-kb/ingest.py --input-dir qdrant-kb/data/venezuela/plan/2026 --collection kb_gobierno` (append).
@@ -853,8 +853,8 @@ cd ~/qdrant-kb && python3 ingest.py --input-dir ./data/<carpeta> --collection kb
   - Sin duplicados (IDs estables).
 - **Pendiente (carry-over a próxima sesión)**:
   - Renumerar/borrador: split de `03_iii1_iii3_*` y renumeración de `03_iii6_*` y `03_iii7_*` (no altera KB; solo filesystem).
-  - Redactar Pilar V (económico-productivo) con PDVSA + privatizaciones + mercado de capitales.
-  - Revisar la separación del Pilar V con el usuario antes de redactar.
+  - Redactar Pilar III.5 (económico-productivo) con PDVSA + privatizaciones + mercado de capitales.
+  - Revisar la separación del Pilar III.5 con el usuario antes de redactar.
 ## H1 — Renumeración y separación de borradores (2026-07-15) ✅
 
 **Objetivo**: ejecutar H1 del plan `2026-07-15-documento-reforma.md` (vence H1 2026-07-16).
@@ -865,16 +865,16 @@ cd ~/qdrant-kb && python3 ingest.py --input-dir ./data/<carpeta> --collection kb
    - `v0.2_pilar_iii1_servicio_civil_meritocracia.md` (20 chunks, frontmatter nuevo)
    - `v0.2_pilar_iii3_mied_lam.md` (55 chunks, frontmatter nuevo)
    - Original eliminado.
-2. **Extracción IV.2 → base del nuevo Pilar V**:
-   - Creado `v0.1_pilar_iii5_reforma_economica_productiva.md` (25 chunks, esqueleto v0.1 con secciones V.2–5.9 marcadas como `[Pendiente H3]`).
-   - `v0.1_pilar_iii4_reforma_fiscal_financiamiento.md` modificado: sección IV.2 extraída, secciones IV.3–4.6 renumeradas a IV.2–4.5; nota de transferencia añadida al frontmatter.
+2. **Extracción III.4.2 → base del nuevo Pilar III.5**:
+   - Creado `v0.1_pilar_iii5_reforma_economica_productiva.md` (25 chunks, esqueleto v0.1 con secciones III.5.2–5.9 marcadas como `[Pendiente H3]`).
+   - `v0.1_pilar_iii4_reforma_fiscal_financiamiento.md` modificado: sección III.4.2 extraída, secciones III.4.3–4.6 renumeradas a III.4.2–4.5; nota de transferencia añadida al frontmatter.
 3. **Rename `v0.2_pilar_iii6_justicia_anticorrupcion.md` → `v0.5_pilar_iii6_justicia_anticorrupcion.md`** (alinea filename con versión interna frontmatter 0.5).
-4. **CJK cleanup en VI v0.5**: detectado y reemplazado "evidencia" (chino para "evidencia") por "evidencia" en línea 273 (cláusula del procedimiento expedito ante investigación internacional).
+4. **CJK cleanup en III.6 v0.5**: detectado y reemplazado "evidencia" (chino para "evidencia") por "evidencia" en línea 273 (cláusula del procedimiento expedito ante investigación internacional).
 
 ### Limpieza de duplicación histórica detectada y resuelta
 
 - **Bug pre-existente**: chunks de los borradores estaban duplicados con DOS source paths distintos: `borrador_reforma/2026/...` (prefijo corto) y `data/venezuela/borrador_reforma/2026/...` (prefijo vía symlink). La nota §13166 de memory.md ("sin duplicados") era **incorrecta**.
-- **Resolución**: en este H1, se eliminaron los chunks con prefijo corto `borrador_reforma/2026/...` para los archivos tocados (I+III, IV, VI v0.2) y también para los no tocados (VI v0.1 archivado, VII, prólogo). El canónico es ahora exclusivamente `data/venezuela/borrador_reforma/2026/...`.
+- **Resolución**: en este H1, se eliminaron los chunks con prefijo corto `borrador_reforma/2026/...` para los archivos tocados (III.1+III.3, III.4, III.6 v0.2) y también para los no tocados (III.6 v0.1 archivado, III.7, prólogo). El canónico es ahora exclusivamente `data/venezuela/borrador_reforma/2026/...`.
 - **Resultado**: 1.405 chunks duplicados eliminados vía Qdrant delete (filter `match` sobre `source`). Sin necesidad de `--recreate`.
 
 ### Estado KB post-H1
@@ -899,7 +899,7 @@ cd ~/qdrant-kb && python3 ingest.py --input-dir ./data/<carpeta> --collection kb
 
 ### Decisión arquitectónica relevante
 
-- Se descubrió **un segundo set de borradores paralelo** en `~/Documentos/reforma_estado_ve/borrador/` (jul 12, paths viejos `03_iiiX_*.md` sin versionar, sin las reformas VI v0.5 ni otras mejoras de jul 13). **No se tocó en H1** porque el canónico per `memory.md §686` es `~/qdrant-kb/borrador_reforma/2026/`. El plan 2026-07-15 referencia paths de este set viejo, lo cual es una inconsistencia a corregir en próxima iteración (revisar el plan para que use paths `v0.X_pilar_iiiX_*.md`).
+- Se descubrió **un segundo set de borradores paralelo** en `~/Documentos/reforma_estado_ve/borrador/` (jul 12, paths viejos `03_iiiX_*.md` sin versionar, sin las reformas III.6 v0.5 ni otras mejoras de jul 13). **No se tocó en H1** porque el canónico per `memory.md §686` es `~/qdrant-kb/borrador_reforma/2026/`. El plan 2026-07-15 referencia paths de este set viejo, lo cual es una inconsistencia a corregir en próxima iteración (revisar el plan para que use paths `v0.X_pilar_iiiX_*.md`).
 
 ### Pendiente siguiente (H2)
 
@@ -919,7 +919,7 @@ El plan original usaba paths `03_iiiX_*.md` (sin versionar, jul 12) que **solo e
 |---|---|---|
 | Esquema de pilares | `03_iiiX_*.md` (8 paths obsoletos) | `v0.X_pilar_iiiX_*.md` (paths canónicos reales) |
 | Task 1–6 outputs | `borrador/00_prologo_resumen.md` y similares (paths sin versionar) | `v0.1_prologo_resumen_ejecutivo.md` y similares |
-| Task 4 acciones | 7 pasos con paths inexactos + renumeraciones ya hechas | 3 acciones pendientes (II, V expansión, VIII) |
+| Task 4 acciones | 7 pasos con paths inexactos + renumeraciones ya hechas | 3 acciones pendientes (III.2, III.5 expansión, III.8) |
 | Hitos | Sin columna de estado | H1 marcado ✅ ejecutado 2026-07-15; resto ⏳ |
 | Convenciones | Sin naming convention explícita | Naming `vN.M_pilar_iiiX_<nombre_corto>.md` documentado; caso histórico de error CJK mantenido como advertencia sin el carácter literal |
 | Riesgos | 4 riesgos | 6 riesgos (añadidos duplicación KB y confusión set viejo/canónico) |
@@ -934,15 +934,15 @@ Encontré un CJK en la línea 95 del plan tras la primera reescritura (los carac
 - Eliminé 28 chunks viejos del plan (paths `data/...` y `plan/...`).
 - Re-ingesté el plan corregido: 28 chunks nuevos con paths canónicos.
 - **KB**: 12.866 → 12.894 puntos (+28).
-- Smoke test: query "hitos cronograma fechas II V VIII" → top-1 score 0.8812, source = `data/venezuela/plan/2026/2026-07-15-documento-reforma.md` chunk 12.
+- Smoke test: query "hitos cronograma fechas III.2 III.5 III.8" → top-1 score 0.8812, source = `data/venezuela/plan/2026/2026-07-15-documento-reforma.md` chunk 12.
 
 ### Acción derivada
 
 - El set viejo en `~/Documentos/reforma_estado_ve/borrador/` debe eliminarse tras H8 (riesgo de confusión si alguien lo edita). Marcado en sección de Riesgos del plan.
 
-## Limpieza de artefactos en Pilar VII (2026-07-15)
+## Limpieza de artefactos en Pilar III.7 (2026-07-15)
 
-**Objetivo**: eliminar escapes literales `\n\n` introducidos en versiones previas del Pilar VII que ensuciaban el renderizado Markdown.
+**Objetivo**: eliminar escapes literales `\n\n` introducidos en versiones previas del Pilar III.7 que ensuciaban el renderizado Markdown.
 
 ### Artefactos detectados
 
@@ -969,22 +969,22 @@ Búsqueda con regex `\\n\\n` sobre el archivo binario identificó **4 ocurrencia
 
 ### KB update
 
-- 971 chunks viejos del archivo VII eliminados (contenían texto distinto al actual, probablemente de una versión previa con duplicados más extensos).
+- 971 chunks viejos del archivo III.7 eliminados (contenían texto distinto al actual, probablemente de una versión previa con duplicados más extensos).
 - 130 chunks nuevos re-ingestados con el contenido limpio.
 - **KB**: 12.894 → 12.053 puntos (-841).
 - Smoke test: query "VePass niveles autenticación lite plus fuerte firma" → top-1 bi_score **0.9073**, top-2 0.8823, ambos desde `data/venezuela/borrador_reforma/2026/v0.1_pilar_iii7_gobierno_digital.md`.
 
-## Nueva sección VII.5.5 Nacidos sin vida (2026-07-15)
+## Nueva sección III.7.5.5 Nacidos sin vida (2026-07-15)
 
 **Solicitud del usuario**: cubrir el escenario de óbito fetal con protocolo anti-robo de niños, mediante captura obligatoria de ADN del producto + emisión de documento similar a certificado de defunción.
 
-**Solución adoptada**: nueva subsección VII.5.5 "Nacidos sin vida (óbito fetal): protocolo anti-robo y trazabilidad genética" insertada entre VII.5.4 y Etapa 2 del Pilar VII.
+**Solución adoptada**: nueva subsección III.7.5.5 "Nacidos sin vida (óbito fetal): protocolo anti-robo y trazabilidad genética" insertada entre III.7.5.4 y Etapa 2 del Pilar III.7.
 
-### Contenido de VII.5.5
+### Contenido de III.7.5.5
 
 11 subsecciones:
 
-1. **Definición clínica/legal**: óbito fetal = ≥22 semanas o ≥500g (CIE-10/11 OMS). Por debajo del umbral = aborto espontáneo (VII.5.6 pendiente).
+1. **Definición clínica/legal**: óbito fetal = ≥22 semanas o ≥500g (CIE-10/11 OMS). Por debajo del umbral = aborto espontáneo (III.7.5.6 pendiente).
 2. **El problema**: óbito fetal como vector de robo de niños (sustracción hospitalaria simulada, sustitución familiar, fraude de beneficios).
 3. **Procedimiento obligatorio en centro de salud** — 4 pasos dentro de 2 horas del evento:
    - Paso 1: Constatación clínica del óbito.
@@ -1007,16 +1007,16 @@ Búsqueda con regex `\\n\\n` sobre el archivo binario identificó **4 ocurrencia
 
 ### KB update
 
-- 130 chunks viejos de VII eliminados.
-- 188 chunks nuevos (480 totales del archivo, 188 son VII).
+- 130 chunks viejos de III.7 eliminados.
+- 188 chunks nuevos (480 totales del archivo, 188 son III.7).
 - **KB**: 12.053 → 12.053 + 58 = 12.111 puntos (estimación, +58 netos por la sección).
 - Smoke test: query "óbito fetal certificado defunción trampa genética" → top-1 bi_score **0.9096** (chunk 85), top-2 0.9069 (chunk 93), top-3 0.9063 (chunk 102), todos desde `data/venezuela/borrador_reforma/2026/v0.1_pilar_iii7_gobierno_digital.md`.
 
-## Nueva sección VII.3.2 RUI - Registro Único de Inmuebles (2026-07-15)
+## Nueva sección III.7.3.2 RUI - Registro Único de Inmuebles (2026-07-15)
 
 **Solicitud del usuario**: incorporar al BND una base análoga al Conservador de Bienes Raíces chileno para todos los inmuebles (casas, apartamentos, edificios, terrenos).
 
-**Solución adoptada**: nueva subsección VII.3.2 "Registro Único de Inmuebles (RUI)" insertada entre RUP (VII.3.1) y VePass (VII.4).
+**Solución adoptada**: nueva subsección III.7.3.2 "Registro Único de Inmuebles (RUI)" insertada entre RUP (III.7.3.1) y VePass (III.7.4).
 
 ### Diseño RUI (16 subsecciones)
 
@@ -1029,7 +1029,7 @@ Búsqueda con regex `\\n\\n` sobre el archivo binario identificó **4 ocurrencia
 7. **Regularización de inmuebles informales**: declaración posesoria notarial + 90 días publicación + inscripción si no oposición. Meta: bajar informalidad del ~40% a <5% en 10 años.
 8. **Migración de registros preexistentes**: catastro municipal + Registro Público Propiedad estatal + Catastro Nacional MARN + registros especiales (INTi, bosques) → RUI único. Caducidad registral 10 años para inscripciones no migradas.
 9. **Operaciones cotidianas cubiertas**: compraventa, hipoteca, herencia, donación, división, permuta, arrendamiento, embargo, expropiación, sucesión intestada.
-10. **Integración transversal**: IBI fiscal (IV), privatización activos Estado (V), lavado de activos (VI DNA-RB), asignación de centro salud/escuela/mesa electoral (VII).
+10. **Integración transversal**: IBI fiscal (III.4), privatización activos Estado (III.5), lavado de activos (III.6 DNA-RB), asignación de centro salud/escuela/mesa electoral (III.7).
 11. **Marco constitucional**: reforma art. 115 CRBV + pena 8-15 años por falsificación/alteración/supresión registral.
 12. **Marco penal complementario**: fraude inmobiliario (8-15 años, agravante 12-20), ejercicio ilegal de notario (6-12 años), cooperación del Colegio de Notarios.
 13. **Cláusula de continuidad 3/4 + referéndum**: **séptimo componente** con esta jerarquía.
@@ -1049,25 +1049,25 @@ Búsqueda con regex `\\n\\n` sobre el archivo binario identificó **4 ocurrencia
 
 ### Archivos actualizados
 
-- `borrador_reforma/2026/v0.1_pilar_iii7_gobierno_digital.md`: frontmatter (versión 0.1.1, fecha 2026-07-15, instituciones_nuevas, sistemas_clave, referente_principal), tabla BND (fila RUI añadida), nueva sección VII.3.2 RUI.
+- `borrador_reforma/2026/v0.1_pilar_iii7_gobierno_digital.md`: frontmatter (versión 0.1.1, fecha 2026-07-15, instituciones_nuevas, sistemas_clave, referente_principal), tabla BND (fila RUI añadida), nueva sección III.7.3.2 RUI.
 - Tamaño: 73.912 → 90.890 bytes (+16.978).
 - 0 CJK, 0 escapes literales.
 
 ### KB update
 
-- 188 chunks viejos eliminados, 232 chunks nuevos (520 generados, 232 son VII).
+- 188 chunks viejos eliminados, 232 chunks nuevos (520 generados, 232 son III.7).
 - KB total: 12.076 → **12.116 puntos** (+40 netos por la sección).
-- Smoke test: query "Registro Único Inmuebles RUI conservador bienes raíces catastral" → top-1 bi_score **0.9016**, top-2 0.8990, top-3 0.8947, todos desde VII.
+- Smoke test: query "Registro Único Inmuebles RUI conservador bienes raíces catastral" → top-1 bi_score **0.9016**, top-2 0.8990, top-3 0.8947, todos desde III.7.
 
 ### Componentes con cláusula de continuidad 3/4 + referéndum (actualizado a 7)
 
-1. MIED-LAM (III)
-2. VePass (VII)
-3. BND + Banco Nacional ADN (VII)
-4. RUP (VII.3.1)
-5. DNA-RB (VI)
-6. CDF (VII.5.5) — Certificado de Defunción Fetal
-7. **RUI (VII.3.2)** ← nuevo
+1. MIED-LAM (III.3)
+2. VePass (III.7)
+3. BND + Banco Nacional ADN (III.7)
+4. RUP (III.7.3.1)
+5. DNA-RB (III.6)
+6. CDF (III.7.5.5) — Certificado de Defunción Fetal
+7. **RUI (III.7.3.2)** ← nuevo
 
 ## Marco legal primario del SAIME (2026-07-15)
 
@@ -1088,20 +1088,20 @@ Búsqueda con regex `\\n\\n` sobre el archivo binario identificó **4 ocurrencia
 
 4. **Ingresos propios** (art. 71, 7 incisos): hasta **75% de tasas de timbre fiscal** + convenios + leyes especiales + intereses + donaciones + aportes presupuestarios + autogestión. Este ingreso explica parcialmente la lógica de autogestión que llevó al colapso operativo (escasez de pasaportes mientras la institución tenía ingresos propios).
 
-5. **Patrón jurídico análogo**: artículos 75-79 del mismo Decreto crean el **Servicio Autónomo de Registros y Notarías (SAREN)** con la misma naturaleza jurídica de servicio desconcentrado. Esto es relevante porque la reforma RUI (Pilar VII.3.2) aprovecha esta arquitectura para separar registros públicos (que van al SNRI) del Registro Civil (que va al SNI).
+5. **Patrón jurídico análogo**: artículos 75-79 del mismo Decreto crean el **Servicio Autónomo de Registros y Notarías (SAREN)** con la misma naturaleza jurídica de servicio desconcentrado. Esto es relevante porque la reforma RUI (Pilar III.7.3.2) aprovecha esta arquitectura para separar registros públicos (que van al SNRI) del Registro Civil (que va al SNI).
 
-### Actualización de la sección VII.5.7 del Pilar VII
+### Actualización de la sección III.7.5.7 del Pilar III.7
 
-- Nueva subsección **VII.5.7.1 "Marco legal primario"**: transcripción íntegra de los artículos 68-74 del Decreto 6.733 como fuente primaria.
-- Nueva subsección **VII.5.7.2 "Diagnóstico jurídico comparado"**: tabla 9 filas contrastando cada aspecto del Decreto 6.733 con la propuesta de reforma. La tabla demuestra que **cada rasgo del SAIME actual que produce la crisis es invertido por la reforma**.
+- Nueva subsección **III.7.5.7.1 "Marco legal primario"**: transcripción íntegra de los artículos 68-74 del Decreto 6.733 como fuente primaria.
+- Nueva subsección **III.7.5.7.2 "Diagnóstico jurídico comparado"**: tabla 9 filas contrastando cada aspecto del Decreto 6.733 con la propuesta de reforma. La tabla demuestra que **cada rasgo del SAIME actual que produce la crisis es invertido por la reforma**.
 - Derogatoria expresa actualizada: "Derogados expresamente los **artículos 68 a 74** de la Sección IX del Decreto 6.733".
 - Anexo PDF guardado en el proyecto: `borrador_reforma/2026/anexos/gaceta_39196_decreto_6733.pdf`.
 
 ### KB update
 
-- VII: 240 → **275 chunks** (+35 por las nuevas subsecciones).
+- III.7: 240 → **275 chunks** (+35 por las nuevas subsecciones).
 - KB total: 12.140 → **12.197 puntos**.
-- Smoke test: query "artículo 68 servicio desconcentrado SAIME Decreto 6733 Viceministro Política Interior" → top-1 bi_score **0.9188** (chunk 229), top-2 0.9030 (chunk 239), ambos desde el archivo de VII.
+- Smoke test: query "artículo 68 servicio desconcentrado SAIME Decreto 6733 Viceministro Política Interior" → top-1 bi_score **0.9188** (chunk 229), top-2 0.9030 (chunk 239), ambos desde el archivo de III.7.
 
 ### Advertencia sobre la fuente
 
@@ -1117,28 +1117,28 @@ El PDF descargado proviene del portal `virtual.urbe.edu` (Universidad Privada Dr
 
 1. **H1 — Renumeración y separación de borradores** (vence H1 2026-07-16). Ejecutado 2026-07-15:
    - Split `v0.2_pilar_iii1_iii3` → `v0.2_pilar_iii1_servicio_civil_meritocracia.md` + `v0.2_pilar_iii3_mied_lam.md`.
-   - Extracción IV.2 → nuevo `v0.1_pilar_iii5_reforma_economica_productiva.md` (esqueleto).
+   - Extracción III.4.2 → nuevo `v0.1_pilar_iii5_reforma_economica_productiva.md` (esqueleto).
    - Renombre `v0.2_pilar_iii6_*` → `v0.5_pilar_iii6_*`.
-   - Renumeración secciones IV.3-4.6 → IV.2-4.5 tras extracción.
-   - CJK cleanup en VI v0.5 (palabra → evidencia).
+   - Renumeración secciones III.4.3-4.6 → III.4.2-4.5 tras extracción.
+   - CJK cleanup en III.6 v0.5 (palabra → evidencia).
    - Limpieza de 841 chunks huérfanos en Qdrant. KB: 13.733 → 12.866 puntos, 62 fuentes únicas, 0 duplicados.
 
 2. **Corrección del plan 2026-07-15**. Reescrito con paths canónicos `v0.X_pilar_iiiX_*.md`, columna de estado en tabla de hitos, KB stats actualizadas. Re-ingesta: 28 chunks.
 
-3. **Limpieza de artefactos en VII**: 4 escapes literales `\n\n` eliminados en líneas 344, 376, 467, 479. KB: -841 chunks duplicados.
+3. **Limpieza de artefactos en III.7**: 4 escapes literales `\n\n` eliminados en líneas 344, 376, 467, 479. KB: -841 chunks duplicados.
 
-4. **Nueva sección VII.5.5 — Nacidos sin vida (óbito fetal)**: protocolo anti-robo con captura obligatoria de ADN del producto + Certificado de Defunción Fetal (CDF) + trampa genética permanente. KB: +58 chunks.
+4. **Nueva sección III.7.5.5 — Nacidos sin vida (óbito fetal)**: protocolo anti-robo con captura obligatoria de ADN del producto + Certificado de Defunción Fetal (CDF) + trampa genética permanente. KB: +58 chunks.
 
-5. **Nueva sección VII.3.2 — Registro Único de Inmuebles (RUI)**: análogo al Conservador de Bienes Raíces chileno + e-Land Register estonio. Tabla BND actualizada. KB: +44 chunks.
+5. **Nueva sección III.7.3.2 — Registro Único de Inmuebles (RUI)**: análogo al Conservador de Bienes Raíces chileno + e-Land Register estonio. Tabla BND actualizada. KB: +44 chunks.
 
-6. **Nueva sección VII.5.6 — Algoritmo de cálculo del DV del RUN/RUT (Módulo 11)** con:
+6. **Nueva sección III.7.5.6 — Algoritmo de cálculo del DV del RUN/RUT (Módulo 11)** con:
    - Especificación vinculante en 6 pasos.
    - Implementación de referencia en Python (funciones `calcular_dv` y `validar_run`) compilable y ejecutable.
    - Ejemplo verificado: `19907563` → `19907563-2`.
    - Tabla de salida esperada incluida en el documento.
    - KB: +8 chunks.
 
-7. **Nueva sección VII.5.7 — Marco institucional del SNI: transformación del SAIME** + subsecciones VII.5.7.1 (Marco legal primario) y VII.5.7.2 (Diagnóstico comparado):
+7. **Nueva sección III.7.5.7 — Marco institucional del SNI: transformación del SAIME** + subsecciones III.7.5.7.1 (Marco legal primario) y III.7.5.7.2 (Diagnóstico comparado):
    - Investigación legal del SAIME: Ley Orgánica de Identificación 1971 (Gaceta 29.594), Decreto N° 6.733 (2009, Gaceta 39.196), estructura 2015.
    - Transcripción íntegra de arts. 68-74 del Decreto 6.733 como fuente primaria.
    - Patrón jurídico análogo SAREN (arts. 75-79).
@@ -1154,7 +1154,7 @@ El PDF descargado proviene del portal `virtual.urbe.edu` (Universidad Privada Dr
   - `v0.1_prologo_diagnostico_principios.md` (pendiente H5: separar en 01 + 02)
   - `v0.2_pilar_iii1_servicio_civil_meritocracia.md`
   - `v0.2_pilar_iii3_mied_lam.md`
-  - `v0.1_pilar_iii4_reforma_fiscal_financiamiento.md` (post-extracción IV.2)
+  - `v0.1_pilar_iii4_reforma_fiscal_financiamiento.md` (post-extracción III.4.2)
   - `v0.1_pilar_iii5_reforma_economica_productiva.md` (esqueleto v0.1)
   - `v0.1_pilar_iii6_justicia_anticorrupcion.md` (archivado)
   - `v0.5_pilar_iii6_justicia_anticorrupcion.md` (vigente)
@@ -1169,10 +1169,10 @@ El PDF descargado proviene del portal `virtual.urbe.edu` (Universidad Privada Dr
 
 ## H1 — Cierre (ya ejecutado ✅, falta actualización del plan)
 
-- [x] Split I/III, extracción IV.2, renombre VI, limpieza KB.
+- [x] Split III.1/III.3, extracción III.4.2, renombre III.6, limpieza KB.
 - [ ] Marcar H1 ✅ en el plan 2026-07-15 (ya marcado en columna de estado, sólo confirmar formato final).
 
-## H2 — Redactar Pilar II Seguridad ciudadana (vence 2026-07-18)
+## H2 — Redactar Pilar III.2 Seguridad ciudadana (vence 2026-07-18)
 
 - [ ] Crear `v0.1_pilar_iii2_seguridad_ciudadana.md`:
   - Diagnóstico de cuerpos policiales (PNB, CICPC, Guardia Nacional Bolivariana (GNB), policías estadales) **con cifras duras OVV 2023 + Comisión Interamericana de Derechos Humanos (CIDH) 2024 + colectivos paramilitares financiados por el Estado**.
@@ -1183,7 +1183,7 @@ El PDF descargado proviene del portal `virtual.urbe.edu` (Universidad Privada Dr
   - Creación de Cuerpo de Policía Nacional Profesional (CPNP) civil, con VePass-Firma obligatoria.
   - Cláusula de continuidad 3/4 + referéndum.
 
-### Material ya disponible en la KB para II (sesión 2026-07-16, ingestado en bloque `data/venezuela/seguridad/`)
+### Material ya disponible en la KB para III.2 (sesión 2026-07-16, ingestado en bloque `data/venezuela/seguridad/`)
 
 | Fuente | Chunks | doc_type | Uso |
 |---|---:|---|---|
@@ -1198,7 +1198,7 @@ El PDF descargado proviene del portal `virtual.urbe.edu` (Universidad Privada Dr
 
 > *"si bien el salvador es modelo muy cuestionado ha sido un modelo eficiente, en venezuela tenemos guerrilas paramilitares financiadas por el estado que deben erradicarse"*
 
-**Implicancia para el Pilar II**:
+**Implicancia para el Pilar III.2**:
 
 1. **Reconocer la asimetría de origen del actor armado**:
    - ES: pandillas autónomas (MS-13, B-18) autofinanciadas (extorsión/narco).
@@ -1216,23 +1216,23 @@ El PDF descargado proviene del portal `virtual.urbe.edu` (Universidad Privada Dr
    - Militarización de la seguridad pública (art. 332 CRBV la prohíbe).
    - Restricción de DDHH (art. 55 + 49 CRBV; PIDCP ratificado por VE).
    - Opacidad presupuestaria (incompatible con principio II.3 transparencia radical).
-   - Captura del Poder Judicial (incompatible con Pilar VI anticorrupción).
+   - Captura del Poder Judicial (incompatible con Pilar III.6 anticorrupción).
 
 4. **Lo que VE añade que ES omitió**:
-   - Depuración del propio Estado de cómplices estructurales (DNA-RB del Pilar VI).
+   - Depuración del propio Estado de cómplices estructurales (DNA-RB del Pilar III.6).
    - Cláusula 3/4 + referéndum que impida la militarización indefinida (anti-discontinuidad, blinda lo adquirido frente al ciclo político).
    - VePass-Firma obligatoria para rastreo individual de actuación policial (seguridad jurídica del policía honesto + rendición de cuentas del policía deshonesto).
    - LOPPM/LOSPCN reconvertidos (no derogados), dando transición ordenada al Cuerpo de Policía Nacional Profesional (CPNP).
    - Sueldos indexados (USD 1.200 base per Escala salarial Doc. 3) que cierren la economía del soborno.
 
-5. **Cifra clave a incorporar al diagnóstico II.1**:
+5. **Cifra clave a incorporar al diagnóstico III.2.1**:
    - OVV 2023: 26,8 muertes violentas / 100K habitantes en 2023 (reducción desde 35,3 en 2022, 8,5 puntos).
    - Distribución: 1.956 víctimas de homicidio + 953 fallecidos en intervención policial + 4.064 muertos pendientes de clasificación.
    - Diferencia crítica con ES: la categoría "intervención policial" en VE (953 casos) sugiere uso letal elevado que debe auditarse; en ES no existe esa categoría por separado.
 
 6. **Tono del pilar**: redactar con equilibrio — reconocer el dato de eficiencia operativa de Bukele SIN endosar su método. Hacerlo en clave *"ES mostró que la decisión política sostenida baja la violencia; nosotros debemos hacerlo sin sacrificar DDHH"*.
 
-## H2 ✅ — Pilar II Seguridad ciudadana y restauración del orden público (ejecutado 2026-07-16 16:21)
+## H2 ✅ — Pilar III.2 Seguridad ciudadana y restauración del orden público (ejecutado 2026-07-16 16:21)
 
 **Objetivo**: ejecutar H2 del plan `2026-07-15-documento-reforma.md` (vence 2026-07-18, anticipado 2 días).
 
@@ -1240,28 +1240,28 @@ El PDF descargado proviene del portal `virtual.urbe.edu` (Universidad Privada Dr
 
 ### Estructura del pilar (14 secciones)
 
-- **II.1** Diagnóstico integral: la cadena de captura institucional (5 subsecciones: cuerpos mafiosos, captura Poder Ciudadano, formación cívica, crímenes lesa humanidad, migración forzada)
-- **II.2** Marco constitucional y legal vigente (CRBV arts. 55, 156, 332, 333, 178; LOSPCN 2008; LOPPM 2009)
-- **II.3** Responsabilidad penal individual internacional — investigación activa del CPI (Venezuela I)
-- **II.4** Referente Singapur — modelo aspiracional (SPF + CPIB + Civil Service College (CSC))
-- **II.5** Referente El Salvador — análisis crítico condicionado (5 copiables + 4 rechazos + 4 adiciones propias)
-- **II.6** Referentes Chile y Brasil (complementarios)
-- **II.7** Propuesta central: Cuerpo de Policía Nacional Profesional (CPNP) + 10 regiones operativas
-- **II.8** Régimen del Director General del CPNP (patrón VI v0.5: concurso + AN 3/5, 6 años único, 7 causales)
-- **II.9** Régimen del personal: ingreso por concurso Comisión Nacional del Servicio Civil (CNSC) + ANSP + escala salarial VePass-Firma obligatoria
-- **II.10** Integración con Pilares I/III/IV/VI/VII/VIII
-- **II.11** Cronograma 0-12 meses
-- **II.12** Indicadores de éxito al cierre del año 6 (14 KPIs)
-- **II.13** Riesgos y mitigación (10 riesgos con probabilidad/impacto/mitigación)
-- **II.14** Cláusula de continuidad 3/4 + referéndum ratificatorio
+- **III.2.1** Diagnóstico integral: la cadena de captura institucional (5 subsecciones: cuerpos mafiosos, captura Poder Ciudadano, formación cívica, crímenes lesa humanidad, migración forzada)
+- **III.2.2** Marco constitucional y legal vigente (CRBV arts. 55, 156, 332, 333, 178; LOSPCN 2008; LOPPM 2009)
+- **III.2.3** Responsabilidad penal individual internacional — investigación activa del CPI (Venezuela I)
+- **III.2.4** Referente Singapur — modelo aspiracional (SPF + CPIB + Civil Service College (CSC))
+- **III.2.5** Referente El Salvador — análisis crítico condicionado (5 copiables + 4 rechazos + 4 adiciones propias)
+- **III.2.6** Referentes Chile y Brasil (complementarios)
+- **III.2.7** Propuesta central: Cuerpo de Policía Nacional Profesional (CPNP) + 10 regiones operativas
+- **III.2.8** Régimen del Director General del CPNP (patrón III.6 v0.5: concurso + AN 3/5, 6 años único, 7 causales)
+- **III.2.9** Régimen del personal: ingreso por concurso Comisión Nacional del Servicio Civil (CNSC) + ANSP + escala salarial VePass-Firma obligatoria
+- **III.2.10** Integración con Pilares III.1/III.3/III.4/III.6/III.7/III.8
+- **III.2.11** Cronograma 0-12 meses
+- **III.2.12** Indicadores de éxito al cierre del año 6 (14 KPIs)
+- **III.2.13** Riesgos y mitigación (10 riesgos con probabilidad/impacto/mitigación)
+- **III.2.14** Cláusula de continuidad 3/4 + referéndum ratificatorio
 
 ### Decisiones arquitectónicas explícitas
 
-1. **Lo que el diseño incluye**: CPNP civil, VePass-Firma obligatoria en todos los actos, jurado mixto CNSC + veedores PNUD/OEA, integración BND-ADN y BND-RUI (Pilar VII), cooperación activa con CPI caso Venezuela I.
+1. **Lo que el diseño incluye**: CPNP civil, VePass-Firma obligatoria en todos los actos, jurado mixto CNSC + veedores PNUD/OEA, integración BND-ADN y BND-RUI (Pilar III.7), cooperación activa con CPI caso Venezuela I.
 2. **Lo que el diseño rechaza explícitamente**: estado de excepción indefinido (estilo ES), militarización (prohibida por art. 332 CRBV), restricción DDHH, opacidad presupuestaria, captura del Poder Judicial.
 3. **Lo que el diseño reabsorbe del sistema actual**: PNB, policías estadales, municipales y CICPC se reconvierten (no se derogan) en CPNP, con concurso de reentrada para funcionarios honestos.
 4. **Lo que el diseño DISUELVE**: PNASPMH-DGCIM-DISP (inteligencia militar usada para represión). Su personal NO se reincorpora al CPNP.
-5. **GNB queda FUERA del CPNP** y se reforma independientemente (no es competencia de seguridad pública sino de gestión de riesgos soberanos, coordinada con Dirección Nacional de Planificación Estratégica y Prospectiva (DNPEP) del Pilar VIII).
+5. **GNB queda FUERA del CPNP** y se reforma independientemente (no es competencia de seguridad pública sino de gestión de riesgos soberanos, coordinada con Dirección Nacional de Planificación Estratégica y Prospectiva (DNPEP) del Pilar III.8).
 6. **Cobertura geográfica**: 10 regiones operativas alineadas con criminología real, no fragmentación por alcaldías.
 
 ### Validación técnica del archivo
@@ -1270,49 +1270,49 @@ El PDF descargado proviene del portal `virtual.urbe.edu` (Universidad Privada Dr
 - 467 líneas, 42 KB, 91 chunks en KB tras ingesta.
 - 16 headers (nivel 1 y 2), estructura coherente.
 - Smoke tests (4 queries representative):
-  - "Cuerpo Policia Nacional Profesional CPNP VePass-Firma obligatoria reestructurar" → top-1 desde II (bi=0.8982)
+  - "Cuerpo Policia Nacional Profesional CPNP VePass-Firma obligatoria reestructurar" → top-1 desde III.2 (bi=0.8982)
   - "Colectivos paramilitares financiados por Estado Venezuela erradicacion" → top-1 desde Ríos (bi=0.8795)
   - "Causales destitucion Director CPNP recusacion veeduria internacional Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (OACNUDH)" → top-1 desde CIDH Doc. 253/24 (bi=0.8906)
-  - "CRBV art 332 prohibicion cuerpos paramilitares caracter civil fuerza publica" → top-1 desde II (bi=0.8958)
-- Smoke test de integración DDHH + Pilar: "Sentencias Corte IDH Venezuela Apitz Barbera Reveron Trujillo Lopez Mendoza independencia judicial" → top-1 II (bi=0.8999), top-2+top-3 Apitz Barbera (bi=0.8948, 0.8917)
+  - "CRBV art 332 prohibicion cuerpos paramilitares caracter civil fuerza publica" → top-1 desde III.2 (bi=0.8958)
+- Smoke test de integración DDHH + Pilar: "Sentencias Corte IDH Venezuela Apitz Barbera Reveron Trujillo Lopez Mendoza independencia judicial" → top-1 III.2 (bi=0.8999), top-2+top-3 Apitz Barbera (bi=0.8948, 0.8917)
 
-### Material internacional/nacional adicional ingestado para II (sesión 2026-07-16 15:42 - 16:18)
+### Material internacional/nacional adicional ingestado para III.2 (sesión 2026-07-16 15:42 - 16:18)
 
 | Fuente | Chunks | doc_type | Relevancia |
 |---|---:|---|---|
-| **CIDH Doc. 253/24** — "Venezuela: Graves violaciones DDHH contexto electoral" (87 pp, 27/12/2024) | 391 | internacional_ddhh | Núcleo del diagnóstico II.1.4 |
-| 4 sentencias Corte IDH vs VE (Apitz Barbera, Ríos, Reverón Trujillo, López Mendoza) | 2.738 | internacional_ddhh | Base jurisprudencial vinculante II.1.2 |
-| OVV Informe Anual 2023 | 84 | seguridad | Cifras duras criminalidad II.1.1 |
+| **CIDH Doc. 253/24** — "Venezuela: Graves violaciones DDHH contexto electoral" (87 pp, 27/12/2024) | 391 | internacional_ddhh | Núcleo del diagnóstico III.2.1.4 |
+| 4 sentencias Corte IDH vs VE (Apitz Barbera, Ríos, Reverón Trujillo, López Mendoza) | 2.738 | internacional_ddhh | Base jurisprudencial vinculante III.2.1.2 |
+| OVV Informe Anual 2023 | 84 | seguridad | Cifras duras criminalidad III.2.1.1 |
 | CIDH Informe Anual 2024 cap VE | 424 | seguridad | Capítulo regional DDHH |
 | **PROVEA Informe Anual 2025** (publicado 14 mayo 2026): caps. 1, 2, 14, 15, 16, 18, 25 (241 pp) | 790 | ddhh_ve | Diagnóstico nacional ONG especializada |
 | Amnistia Internacional resumen 2025/26 (10 articulos) | 9 | internacional_ddhh | Crimenes lesa humanidad confirmados |
 | CPI overview + 116 records Venezuela I | 29 | internacional_ddhh | Caso penal individual internacional activo |
 | Material ES (DPLF, CON-SEQ, Decreto 892) | 146 | seguridad | Anti-modelo critico condicionado |
-| **TOTAL DDHH + seguridad para II** | **4.611** | | |
+| **TOTAL DDHH + seguridad para III.2** | **4.611** | | |
 
 ### Descubrimiento mayor de la sesion
 
-**CIDH Doc. 253/24** ("Venezuela: Graves violaciones DDHH contexto electoral") aprobado el 27/12/2024 por la CIDH completa (7 comisionados + Secretaria Ejecutiva) es un **documento oficial interamericano de 87 pp** dedicado al patron represivo electoral 2024. Es la fuente mas fuerte del diagnostico II y se cita explicitamente en el Pilar como **sustento normativo internacional**, junto con las 4 sentencias Corte IDH vinculantes.
+**CIDH Doc. 253/24** ("Venezuela: Graves violaciones DDHH contexto electoral") aprobado el 27/12/2024 por la CIDH completa (7 comisionados + Secretaria Ejecutiva) es un **documento oficial interamericano de 87 pp** dedicado al patron represivo electoral 2024. Es la fuente mas fuerte del diagnostico III.2 y se cita explicitamente en el Pilar como **sustento normativo internacional**, junto con las 4 sentencias Corte IDH vinculantes.
 
-### Pendiente derivado del Pilar II
+### Pendiente derivado del Pilar III.2
 
-- Anexar el Pilar II al Texto Articulado (Pilar V) como Título específico (sugerido: Título VIII nuevo, separando de los titulos actuales).
-- Integrar con Pilares IV (costo USD 4.500M/ano del CPNP) y V (Fondo Nacional de Inversión Productiva (FNIP) coordinado con CPNP en zonas mineras).
+- Anexar el Pilar III.2 al Texto Articulado (Pilar V) como Título específico (sugerido: Título VIII nuevo, separando de los titulos actuales).
+- Integrar con Pilares III.4 (costo USD 4.500M/ano del CPNP) y III.5 (Fondo Nacional de Inversión Productiva (FNIP) coordinado con CPNP en zonas mineras).
 - Decisión sobre Contralor General subsistente/abolido (carry-over desde 13/07).
 
-## H3 — Expandir Pilar V Reforma económica y productiva (vence 2026-07-22)
+## H3 — Expandir Pilar III.5 Reforma económica y productiva (vence 2026-07-22)
 
 - [ ] Expandir `v0.1_pilar_iii5_reforma_economica_productiva.md` con:
-  - V.2 PDVSA matriz (51% Estado / 49% privado conOPA).
-  - V.3 Filiales mixtas (cotización en bolsa).
-  - V.4 Privatización Corpoelec + Compañía Anónima Nacional Teléfonos de Venezuela (CANTV) + régimen 20 años exoneración.
-  - V.5 Mercado de capitales + banca de desarrollo.
-  - V.6 Reforma LOH 2026 + LOM 2026.
-  - V.7 Indicadores + cronograma.
-  - V.8 Riesgos y mitigación.
-  - V.9 Cláusula continuidad 3/4 + referéndum.
+  - III.5.2 PDVSA matriz (51% Estado / 49% privado conOPA).
+  - III.5.3 Filiales mixtas (cotización en bolsa).
+  - III.5.4 Privatización Corpoelec + Compañía Anónima Nacional Teléfonos de Venezuela (CANTV) + régimen 20 años exoneración.
+  - III.5.5 Mercado de capitales + banca de desarrollo.
+  - III.5.6 Reforma LOH 2026 + LOM 2026.
+  - III.5.7 Indicadores + cronograma.
+  - III.5.8 Riesgos y mitigación.
+  - III.5.9 Cláusula continuidad 3/4 + referéndum.
 
-## H4 ✅ — Pilar VIII Planificación estratégica y prospectiva (ejecutado 2026-07-16)
+## H4 ✅ — Pilar III.8 Planificación estratégica y prospectiva (ejecutado 2026-07-16)
 
 **Objetivo**: ejecutar H4 del plan `2026-07-15-documento-reforma.md` (vence 2026-07-24). El pilar ausente es el que sostiene la coherencia intertemporal del Estado — sin planificación vinculante, las reformas son shocks sin continuidad.
 
@@ -1321,18 +1321,18 @@ El PDF descargado proviene del portal `virtual.urbe.edu` (Universidad Privada Dr
 Confirmada por el usuario: **amplitud máxima**. Implicaciones:
 
 1. **Derogatoria expresa de la LOPP 2014** (LOPSPP), reemplazada por nueva **Ley Orgánica de Planificación Estratégica y Prospectiva (LOPSEP 2026)**.
-2. **Nueva DNPEP** (Dirección Nacional de Planificación Estratégica y Prospectiva), rango constitucional vía reforma art. 237 CRBV (siguiendo patrón MIED-LAM del Pilar III).
+2. **Nueva DNPEP** (Dirección Nacional de Planificación Estratégica y Prospectiva), rango constitucional vía reforma art. 237 CRBV (siguiendo patrón MIED-LAM del Pilar III.3).
 3. **Plan Quinquenal vinculante** aprobado por mayoría absoluta de la AN; toda inversión pública ≥ USD 50M debe estar explícitamente en él.
 4. **Presupuesto Plurianual vinculante 3 años**, anclado al art. 314 CRBV (que ya obliga al Ejecutivo a presentar marco plurianual — sin reforma constitucional).
 5. **Unidad de Prospectiva Estratégica (UPE)**, modelo Singapur Centre for Strategic Futures (CSF), integrada a la DNPEP como dependencia civil.
-6. **Evaluación independiente rattachada a la DNA-RB** (sin duplicar Contralor General, decisión pendiente en Pilar VI).
+6. **Evaluación independiente rattachada a la DNA-RB** (sin duplicar Contralor General, decisión pendiente en Pilar III.6).
 
 ### Hallazgo legal clave
 
 **CRBV art. 314 ya establece el presupuesto plurianual**, anclaje constitucional directo:
 > *"Con la presentación del marco plurianual del presupuesto, la ley especial de endeudamiento y el presupuesto anual, el Ejecutivo Nacional hará explícitos los objetivos de largo plazo para la política fiscal, y explicará cómo dichos objetivos serán logrados, de acuerdo con los principios de responsabilidad y equilibrio fiscal."*
 
-La reforma del Pilar VII (presupuesto plurianual vinculante) NO requiere reforma constitucional, solo la nueva LOPSEP para hacer operativo el mandato constitucional vigente.
+La reforma del Pilar III.7 (presupuesto plurianual vinculante) NO requiere reforma constitucional, solo la nueva LOPSEP para hacer operativo el mandato constitucional vigente.
 
 ### Referentes adoptados
 
@@ -1347,19 +1347,19 @@ La reforma del Pilar VII (presupuesto plurianual vinculante) NO requiere reforma
 
 13 secciones (330 líneas, 56 chunks):
 
-- VIII.1 Diagnóstico (5 fallas documentadas con referencia a `docs/diagnostico.md §6.2`)
-- VIII.2 Marco constitucional/legal vigente (CRBV arts. 299, 313, 314; LOPP 2014; Ley Orgánica de la Administración Financiera del Sector Público (LOAFSP))
-- VIII.3 Referente Singapur (Strategy Group, CSF, CSC)
-- VIII.4 Referente Israel (NSC, prospectiva civil, **separación explícita de Fuerza Armada Nacional (FAN)**)
-- VIII.5 Propuesta: DNPEP + estructura interna con 6 direcciones técnicas
-- VIII.6 Plan Quinquenal: elaboración, aprobación por mayoría absoluta, vinculatoriedad para inversiones ≥ USD 50M, revisión a mitad de período, evaluación al cierre con rating A-D
-- VIII.7 Presupuesto Plurianual vinculante: ley nueva, salvaguarda fiscal y social, integración con BND
-- VIII.8 Evaluación independiente: esquema de rattachación DNPEP-DNA-RB (sin duplicar Contralor)
-- VIII.9 UPE: 30-40 funcionarios, 5 productos anuales, coordinación MIED-LAM
-- VIII.10 Cronograma (Mes 0-36)
-- VIII.11 Indicadores (10 KPIs)
-- VIII.12 Riesgos y mitigación (8 riesgos con probabilidad/impacto/mitigación)
-- VIII.13 Cláusula de continuidad 3/4 + referéndum (aplicada a DNPEP, Plan Quinquenal, Presupuesto Plurianual, UPE)
+- III.8.1 Diagnóstico (5 fallas documentadas con referencia a `docs/diagnostico.md §6.2`)
+- III.8.2 Marco constitucional/legal vigente (CRBV arts. 299, 313, 314; LOPP 2014; Ley Orgánica de la Administración Financiera del Sector Público (LOAFSP))
+- III.8.3 Referente Singapur (Strategy Group, CSF, CSC)
+- III.8.4 Referente Israel (NSC, prospectiva civil, **separación explícita de Fuerza Armada Nacional (FAN)**)
+- III.8.5 Propuesta: DNPEP + estructura interna con 6 direcciones técnicas
+- III.8.6 Plan Quinquenal: elaboración, aprobación por mayoría absoluta, vinculatoriedad para inversiones ≥ USD 50M, revisión a mitad de período, evaluación al cierre con rating A-D
+- III.8.7 Presupuesto Plurianual vinculante: ley nueva, salvaguarda fiscal y social, integración con BND
+- III.8.8 Evaluación independiente: esquema de rattachación DNPEP-DNA-RB (sin duplicar Contralor)
+- III.8.9 UPE: 30-40 funcionarios, 5 productos anuales, coordinación MIED-LAM
+- III.8.10 Cronograma (Mes 0-36)
+- III.8.11 Indicadores (10 KPIs)
+- III.8.12 Riesgos y mitigación (8 riesgos con probabilidad/impacto/mitigación)
+- III.8.13 Cláusula de continuidad 3/4 + referéndum (aplicada a DNPEP, Plan Quinquenal, Presupuesto Plurianual, UPE)
 
 ### Decisión explícita sobre captura militar de la UPE
 
@@ -1371,18 +1371,18 @@ Incluye cláusula legal expresa de **no injerencia de las Fuerzas Armadas**, con
 - 330 líneas, 15 headers (`#` y `##`), estructura coherente.
 - KB antes: 12.125 → KB después: **12.181** (+56 chunks, neto = chunks nuevos del pilar).
 - Smoke tests (3 queries representative):
-  - "DNPEP Dirección Nacional Planificación Estratégica Prospectiva rango constitucional concurso público" → top-3 todo desde VIII (bi=0.8983).
-  - "Plan Quinquenal vinculante inversiones 50 millones presupuesto plurianual aprobación mayoría absoluta" → top-3 todo desde VIII (bi=0.8854).
-  - "Unidad Prospectiva Estratégica UPE Singapur CSF foresight escenarios" → top-3 todo desde VIII (bi=0.8900).
+  - "DNPEP Dirección Nacional Planificación Estratégica Prospectiva rango constitucional concurso público" → top-3 todo desde III.8 (bi=0.8983).
+  - "Plan Quinquenal vinculante inversiones 50 millones presupuesto plurianual aprobación mayoría absoluta" → top-3 todo desde III.8 (bi=0.8854).
+  - "Unidad Prospectiva Estratégica UPE Singapur CSF foresight escenarios" → top-3 todo desde III.8 (bi=0.8900).
 
 ### Cambios en Plan 2026-07-15
 
 - Línea 82 del cronograma: H4 ⏳ → **H4 ✅ ejecutado 2026-07-16**.
 
-### Pendiente derivado del Pilar VIII
+### Pendiente derivado del Pilar III.8
 
-- Actualizar Pilar VI con la decisión "Contralor General subsiste / queda absorbido por DNA-RB / se especializa en auditoría financiera de DNPEP" (carry-over del 2026-07-13, ahora refrescado con la propuesta explícita de rattachación).
-- Integrar VIII con V (FNIP coordinado con DNPEP) y VII (BND como base del seguimiento de inversión) en la siguiente sesión.
+- Actualizar Pilar III.6 con la decisión "Contralor General subsiste / queda absorbido por DNA-RB / se especializa en auditoría financiera de DNPEP" (carry-over del 2026-07-13, ahora refrescado con la propuesta explícita de rattachación).
+- Integrar III.8 con III.5 (FNIP coordinado con DNPEP) y III.7 (BND como base del seguimiento de inversión) en la siguiente sesión.
 - Documentar en el Pilar IV (Implementación) y Pilar V (Texto Articulado) la LOPSEP 2026.
 
 ## H5 ✅ — Separación prólogo + diagnóstico + principios (ejecutado 2026-07-16)
@@ -1410,7 +1410,7 @@ Incluye cláusula legal expresa de **no injerencia de las Fuerzas Armadas**, con
 
 ### Corrección post-H5 (2026-07-16 15:07)
 
-**Hallazgo del usuario**: Parte II menciona "siete pilares" cuando en realidad son **ocho** (I–VIII per plan 2026-07-15).
+**Hallazgo del usuario**: Parte II menciona "siete pilares" cuando en realidad son **ocho** (III.1–III.8 per plan 2026-07-15).
 
 **Cambios aplicados**:
 - `v0.1_principios_generales.md` línea 13: "Los **siete** pilares de la Parte III" → "Los **ocho** pilares de la Parte III".
@@ -1438,7 +1438,7 @@ Incluye cláusula legal expresa de **no injerencia de las Fuerzas Armadas**, con
 
 ## Decisión abierta del carry-over 2026-07-13
 
-- [x] **¿El Contralor General de la República subsiste paralelo a la DNA-RB o es absorbido por ésta?** (art. 288 CRBV vs Pilar VI actual). Pregunta pendiente de respuesta del usuario.
+- [x] **¿El Contralor General de la República subsiste paralelo a la DNA-RB o es absorbido por ésta?** (art. 288 CRBV vs Pilar III.6 actual). Pregunta pendiente de respuesta del usuario.
 
 ### Cierre del carry-over · 2026-07-16 16:34 — decisión del usuario: "se mantiene la contraloria general de la republica"
 
@@ -1448,46 +1448,46 @@ Incluye cláusula legal expresa de **no injerencia de las Fuerzas Armadas**, con
 
 | Función | Responsable |
 |---|---|
-| Investigación penal especializada de casos graves de corrupción | DNA-RB (Pilar VI — modelo CPIB Singapur) |
+| Investigación penal especializada de casos graves de corrupción | DNA-RB (Pilar III.6 — modelo CPIB Singapur) |
 | Investigación patrimonial y financiera (análisis de flujos, redes) | DNA-RB |
 | Protección de testigos y denunciantes | DNA-RB |
 | Cooperación internacional (INTERPOL, GAFI) | DNA-RB |
 | **Auditoría de gestión administrativa general** | **Contraloría General (subsistente)** |
 | **Fiscalización de presupuestos ordinarios** | **Contraloría General (subsistente)** |
 | **Control posterior de la gestión pública** | **Contraloría General (subsistente)** |
-| Auditoría de programas de inversión pública | DNA-RB (Pilar VI — investigación penal si hay delito) + DNPEP (Pilar VIII — evaluación de impacto) |
-| Evaluación ex post de impacto del Plan Quinquenal | DNPEP (Pilar VIII §VVIII) |
-| Rating anual de planes/programas | DNPEP (Pilar VIII §VVIII) |
+| Auditoría de programas de inversión pública | DNA-RB (Pilar III.6 — investigación penal si hay delito) + DNPEP (Pilar III.8 — evaluación de impacto) |
+| Evaluación ex post de impacto del Plan Quinquenal | DNPEP (Pilar III.8 §III.8.8) |
+| Rating anual de planes/programas | DNPEP (Pilar III.8 §III.8.8) |
 
 ### Cambios aplicados (mínima intervención)
 
-1. **Pilar VI v0.5** línea 182: matizada la frase "sustituye cualquier disposición contraria de la Ley Orgánica de la Contraloría General" → ahora dice: *"sustituye cualquier disposición contraria del decreto de creación de la DNA-RB y, en lo concerniente a las funciones de investigación penal anticorrupción que asume la DNA-RB, de la Ley Orgánica de la Contraloría General"*. Se aclara subsistencia + transferencia de competencias específicas.
+1. **Pilar III.6 v0.5** línea 182: matizada la frase "sustituye cualquier disposición contraria de la Ley Orgánica de la Contraloría General" → ahora dice: *"sustituye cualquier disposición contraria del decreto de creación de la DNA-RB y, en lo concerniente a las funciones de investigación penal anticorrupción que asume la DNA-RB, de la Ley Orgánica de la Contraloría General"*. Se aclara subsistencia + transferencia de competencias específicas.
 
-2. **Pilar VI v0.5** línea 288: matizada la frase "La Contraloría General (DNA-RB) audita la ejecución presupuestaria" → ahora dice: *"La fiscalización presupuestaria queda atribuida a la Contraloría General (subsistente, art. 288 CRBV) en su rol de auditoría administrativa general, y a la DNA-RB (Pilar VI.3) en su rol de investigación penal de la corrupción, con publicación trimestral independiente de cada organismo"*.
+2. **Pilar III.6 v0.5** línea 288: matizada la frase "La Contraloría General (DNA-RB) audita la ejecución presupuestaria" → ahora dice: *"La fiscalización presupuestaria queda atribuida a la Contraloría General (subsistente, art. 288 CRBV) en su rol de auditoría administrativa general, y a la DNA-RB (Pilar III.6.3) en su rol de investigación penal de la corrupción, con publicación trimestral independiente de cada organismo"*.
 
-3. **Pilar VIII v0.1** §VVIII: el párrafo "Decisión pendiente (carry-over del Pilar VI)" fue **cerrado y resuelto**: la Contraloría General subsiste (no absorbida), y se añadió una nueva fila a la tabla de rattachación: "Auditoría de gestión administrativa general de la DNPEP → Contraloría General de la República (subsistente)".
+3. **Pilar III.8 v0.1** §III.8.8: el párrafo "Decisión pendiente (carry-over del Pilar III.6)" fue **cerrado y resuelto**: la Contraloría General subsiste (no absorbida), y se añadió una nueva fila a la tabla de rattachación: "Auditoría de gestión administrativa general de la DNPEP → Contraloría General de la República (subsistente)".
 
 ### Validación
 
 - 0 CJK, 0 escapes literales en ambos archivos.
 - Re-ingesta: KB 18.163 → **18.250 puntos** (+87 = upsert de los 2 archivos modificados).
 - Smoke test "Contraloría General subsistente DNPEP DNA-RB fiscalización administrativa investigación penal caso Contralor":
-  - Top-1 desde VIII §VVIII (bi=0.9026)
-  - Top-2 desde VI v0.5 (bi=0.8967)
-  - Top-3+4 desde VIII (bi=0.8949, 0.8917)
+  - Top-1 desde III.8 §III.8.8 (bi=0.9026)
+  - Top-2 desde III.6 v0.5 (bi=0.8967)
+  - Top-3+4 desde III.8 (bi=0.8949, 0.8917)
 
 ### Lo que NO se cambió (voluntariamente)
 
-- **Pilar II v0.1 (diagnóstico)**: las dos menciones de "Contralor y Ministerio Público capturados por las mismas redes" (línea 61) y "inhabilitación administrativa decidida por la Contraloría General" (línea 74, ref. López Mendoza 2011) son narrativas diagnósticas pasadas — NO propuestas de disolución. Son compatibles con que subsista.
-- **Pilar VI v0.5 §VI.8 reglas del Director de DNA-RB** (líneas 184-194): no necesitan cambio porque las causales de destitución siguen funcionando igual — sólo se aclara que el reemplazo al suspender a un Director de DNA-RB se comunica a la Contraloría General interina (subsistente).
+- **Pilar III.2 v0.1 (diagnóstico)**: las dos menciones de "Contralor y Ministerio Público capturados por las mismas redes" (línea 61) y "inhabilitación administrativa decidida por la Contraloría General" (línea 74, ref. López Mendoza 2011) son narrativas diagnósticas pasadas — NO propuestas de disolución. Son compatibles con que subsista.
+- **Pilar III.6 v0.5 §III.6.8 reglas del Director de DNA-RB** (líneas 184-194): no necesitan cambio porque las causales de destitución siguen funcionando igual — sólo se aclara que el reemplazo al suspender a un Director de DNA-RB se comunica a la Contraloría General interina (subsistente).
 - **Doc. 3 Propuesta de Reforma** y otros documentos consolidados: no se alteran porque el Contralor ya no se menciona explícitamente en esos documentos como reforma.
-- **Pilares I/III/IV/V/VII**: no mencionan al Contralor con potencial conflicto, sin cambios necesarios.
+- **Pilares III.1/III.3/III.4/III.5/III.7**: no mencionan al Contralor con potencial conflicto, sin cambios necesarios.
 
 ## Tareas técnicas pendientes
 
 - [ ] Buscar la fuente oficial primaria del Decreto 6.733 en `historico.tsj.gob.ve` para reemplazar el PDF de `virtual.urbe.edu` (Gaceta 39.196).
 - [ ] **Eliminar el set viejo** `~/Documentos/reforma_estado_ve/borrador/` (paths `03_iiiX_*.md` obsoletos) tras H8.
-- [ ] Revisar y cerrar la sección VII.5.7 (aborto espontáneo pendiente en VII.5.7).
+- [ ] Revisar y cerrar la sección III.7.5.7 (aborto espontáneo pendiente en III.7.5.7).
 
 ## Ingesta del libro Machado 1978 "El derecho a ser inteligente" (2026-07-16 15:30)
 
@@ -1534,7 +1534,7 @@ Incluye cláusula legal expresa de **no injerencia de las Fuerzas Armadas**, con
 
 **Convención reforzada**: ejecutar SIEMPRE `ingest.py --input-dir ./data` (raíz del corpus) para que `infer_metadata` capture `doc_type` y `year` correctamente del primer segmento del path. Si se ejecuta con `--input-dir` más profundo, hay que corregir el metadata manualmente con `set_payload` o re-ingestar.
 
-## H3 ✅ — Expandir Pilar V Reforma Económica y Productiva a v0.2 (ejecutado 2026-07-16 16:38)
+## H3 ✅ — Expandir Pilar III.5 Reforma Económica y Productiva a v0.2 (ejecutado 2026-07-16 16:38)
 
 **Objetivo**: ejecutar H3 del plan `2026-07-15-documento-reforma.md` (vence 2026-07-22, anticipado 6 días).
 
@@ -1542,7 +1542,7 @@ Incluye cláusula legal expresa de **no injerencia de las Fuerzas Armadas**, con
 
 ### Decisión arquitectónica adoptada
 
-La expansión consolidó todas las decisiones dispersas en el Proyecto (Doc. 3 §IV.2 + Doc. 5 Arts. 24-44 + Doc. 5 Título XIV para HIDROVEN). La estructura del Pilar V v0.2 articula el **cambio de paradigma económico**: de la enfermedad holandesa + patronazgo extractivo a la **empresa pública profesionalizada**, con listado bursátil, mercado de capitales y blindaje constitucional.
+La expansión consolidó todas las decisiones dispersas en el Proyecto (Doc. 3 §III.4.2 + Doc. 5 Arts. 24-44 + Doc. 5 Título XIV para HIDROVEN). La estructura del Pilar III.5 v0.2 articula el **cambio de paradigma económico**: de la enfermedad holandesa + patronazgo extractivo a la **empresa pública profesionalizada**, con listado bursátil, mercado de capitales y blindaje constitucional.
 
 ## H6 ✅ — Plan de Implementación v0.1 + Comisión Carmen Navas (ejecutado 2026-07-16 17:23)
 
@@ -1594,12 +1594,12 @@ La expansión consolidó todas las decisiones dispersas en el Proyecto (Doc. 3 �
 - Rango constitucional vía sentencia interpretativa del TSJ meritocrático (art. 333 CRBV)
 
 **Coordinación institucional activa**:
-- **CICPC criminalística** (Pilar II §II.7.5): Sección Forense sobre Desaparición Forzada dedicada exclusivamente a trabajo con la CEV-CN
-- **JNEM** (Pilar II): estatus migratorio + retorno seguro de víctimas exiliadas
-- **DNPEP** (Pilar VIII): indicadores CEV-CN en el Tablero Nacional como dimensión de memoria, verdad y reparación
-- **Ministerio Público unificado** (Pilar VI): cooperación en causas civiles + no invasión de jurisdicción penal
+- **CICPC criminalística** (Pilar III.2 §III.2.7.5): Sección Forense sobre Desaparición Forzada dedicada exclusivamente a trabajo con la CEV-CN
+- **JNEM** (Pilar III.2): estatus migratorio + retorno seguro de víctimas exiliadas
+- **DNPEP** (Pilar III.8): indicadores CEV-CN en el Tablero Nacional como dimensión de memoria, verdad y reparación
+- **Ministerio Público unificado** (Pilar III.6): cooperación en causas civiles + no invasión de jurisdicción penal
 - **TSJ meritocrático**: revisión de sentencias con vicios documentados por la CEV-CN
-- **DNA-RB** (Pilar VI): derivación a investigación patrimonial
+- **DNA-RB** (Pilar III.6): derivación a investigación patrimonial
 - **CPI caso Venezuela I** (ICC-02/18): entrega de información documentada + identificación de víctimas mortales para cooperación
 
 **Cronograma 0-36 meses**:
@@ -1642,19 +1642,19 @@ La expansión consolidó todas las decisiones dispersas en el Proyecto (Doc. 3 �
 
 ### Estructura del pilar (13 secciones)
 
-- **V.1** Diagnóstico: enfermedad holandesa + patronazgo + ruptura constitucional 1999
-- **V.2** Estrategia en 4 frentes simultáneos (FOSEIP + tributaria no petroleta + sectores estratégicos + reforma cambiaria 18m)
-- **V.3** PDVSA matriz 51% estatal / 49% privado con OPI NYSE/LSE/BVC
-- **V.4** Filiales mixtas + LORAFEE (régimen de adquisición forzosa pay-before-take 90d + golden share sellada anti-veto)
-- **V.5** Privatización 100% Corpoelec + CANTV (régimen 20 años exoneración → solo IVA en año 21)
-- **V.6** HIDROVEN matriz subsistente + 9 hidrológicas privatizadas + SUNAA
-- **V.7** Banca de desarrollo sectorial (FIDE + BANDAES + BANMI + SNAVALE) + mercado de capitales + Bolsa de Caracas reactivada
-- **V.8** Marco legal nuevo (LORAFEE + Ley Orgánica de Reforma del Sector Público (LORPSP) + LOBMC + reformas COT + LOM + LOPSPP + Ley Antibloqueo + Art. 303 + Art. 318)
-- **V.9** Cronograma 0-12 meses (paralelo a plan monetario 18m — hace notar íntima dependencia con Pilar IV)
-- **V.10** Indicadores de éxito al cierre año 5 (15 KPIs)
-- **V.11** Riesgos y mitigación (10 riesgos con probabilidad/impacto/mitigación)
-- **V.12** Cláusula de continuidad 3/4 + referéndum ratificatorio
-- **V.13** Nota arquitectónica de integración con otros pilares
+- **III.5.1** Diagnóstico: enfermedad holandesa + patronazgo + ruptura constitucional 1999
+- **III.5.2** Estrategia en 4 frentes simultáneos (FOSEIP + tributaria no petroleta + sectores estratégicos + reforma cambiaria 18m)
+- **III.5.3** PDVSA matriz 51% estatal / 49% privado con OPI NYSE/LSE/BVC
+- **III.5.4** Filiales mixtas + LORAFEE (régimen de adquisición forzosa pay-before-take 90d + golden share sellada anti-veto)
+- **III.5.5** Privatización 100% Corpoelec + CANTV (régimen 20 años exoneración → solo IVA en año 21)
+- **III.5.6** HIDROVEN matriz subsistente + 9 hidrológicas privatizadas + SUNAA
+- **III.5.7** Banca de desarrollo sectorial (FIDE + BANDAES + BANMI + SNAVALE) + mercado de capitales + Bolsa de Caracas reactivada
+- **III.5.8** Marco legal nuevo (LORAFEE + Ley Orgánica de Reforma del Sector Público (LORPSP) + LOBMC + reformas COT + LOM + LOPSPP + Ley Antibloqueo + Art. 303 + Art. 318)
+- **III.5.9** Cronograma 0-12 meses (paralelo a plan monetario 18m — hace notar íntima dependencia con Pilar III.4)
+- **III.5.10** Indicadores de éxito al cierre año 5 (15 KPIs)
+- **III.5.11** Riesgos y mitigación (10 riesgos con probabilidad/impacto/mitigación)
+- **III.5.12** Cláusula de continuidad 3/4 + referéndum ratificatorio
+- **III.5.13** Nota arquitectónica de integración con otros pilares
 
 ### Decisiones arquitectónicas explicitas
 
@@ -1673,7 +1673,7 @@ La expansión consolidó todas las decisiones dispersas en el Proyecto (Doc. 3 �
    - Confiscación del efecto redistributivo a través de IGTF (eliminado y sustituido por IVA a servicios financieros).
    - Privatización sin regulador independiente (mantiene OFGEM/UK model CONATEL + SUNAA + SNAVALE).
 
-3. **Lo que el diseño BLINDA con 3/4 + referéndum**: OPI PDVSA matriz, reversión de privatizaciones, eliminación de FOSEIP, eliminación de FNIP, eliminación de golden share, reversión del cronograma monetario/cambiario del Pilar IV.
+3. **Lo que el diseño BLINDA con 3/4 + referéndum**: OPI PDVSA matriz, reversión de privatizaciones, eliminación de FOSEIP, eliminación de FNIP, eliminación de golden share, reversión del cronograma monetario/cambiario del Pilar III.4.
 
 ### Nuevo artefacto legal a redactar (carry-over de Texto Articulado)
 
@@ -1691,13 +1691,13 @@ La expansión consolidó todas las decisiones dispersas en el Proyecto (Doc. 3 �
 
 ### Smoke tests (4 queries representative bi_score >0.87)
 
-- "PDVSA matriz 51% estatal 49% privado OPI NYSE LSE BVC ARAMCO bancos inversion due diligence reservas probadas" → top-1 V v0.2 (bi=0.9186)
-- "FOSEIP fondo soberano venezolano Noruega Government Pension Fund Global (GPFG) Temasek inversion estabilizacion precio referencia plurianual" → top-1+top-2 V v0.2 (bi=0.8957, 0.8818)
-- "LORAFEE adquirida 51% empresas mixtas 7 causales pay-before-take justicia sentencia constitucional" → top-1 V v0.2 (bi=0.9107), top-2+3 texto articulado
-- "FNIP Fondo Nacional Inversion Productiva FIDE BANDAES BANMI nueva banca desarrollo sectorial" → top-1+2+3 V v0.2 (bi=0.9084, 0.8875, 0.8865)
-- "Cláusula continuidad 3/4 referéndum OPI PDVSA matriz revertir privatización FOSEIP" → top-1+2+3 V v0.2 (bi=0.9048, 0.9010, 0.8999)
+- "PDVSA matriz 51% estatal 49% privado OPI NYSE LSE BVC ARAMCO bancos inversion due diligence reservas probadas" → top-1 III.5 v0.2 (bi=0.9186)
+- "FOSEIP fondo soberano venezolano Noruega Government Pension Fund Global (GPFG) Temasek inversion estabilizacion precio referencia plurianual" → top-1+top-2 III.5 v0.2 (bi=0.8957, 0.8818)
+- "LORAFEE adquirida 51% empresas mixtas 7 causales pay-before-take justicia sentencia constitucional" → top-1 III.5 v0.2 (bi=0.9107), top-2+3 texto articulado
+- "FNIP Fondo Nacional Inversion Productiva FIDE BANDAES BANMI nueva banca desarrollo sectorial" → top-1+2+3 III.5 v0.2 (bi=0.9084, 0.8875, 0.8865)
+- "Cláusula continuidad 3/4 referéndum OPI PDVSA matriz revertir privatización FOSEIP" → top-1+2+3 III.5 v0.2 (bi=0.9048, 0.9010, 0.8999)
 
-### Material consolidado ya disponible en KB para V v0.2
+### Material consolidado ya disponible en KB para III.5 v0.2
 
 | Documento | Uso |
 |---|---|
@@ -1706,14 +1706,14 @@ La expansión consolidó todas las decisiones dispersas en el Proyecto (Doc. 3 �
 | Ley Antibloqueo 2020 | Incompatibilidad con OPI, derogatoria necesaria |
 | LOPPM, LOAFSP | Marco a reformar/derogar parcialmente |
 | Texto Articulado (Doc. 5) Arts. 24-44 | Capítulo I PDVSA matriz + filiales + Directorios + Título IV LORAFEE |
-| Doc. 3 §IV.2 | Reforma tributaria no petroleta + cronograma monetario 18 meses |
-| Doc. 3 §IV.6 | Fondo de Estabilización Macroeconómica FEM |
-| Pilar I | CNSC aporta concursos para directorios |
-| Pilar VI | DNA-RB procesa LORAFEE |
-| Pilar VII | BND y VePass trazan transacciones corporativas |
-| Pilar VIII | DNPEP coordina presupuesto plurianual + Plan Quinquenal |
+| Doc. 3 §III.4.2 | Reforma tributaria no petroleta + cronograma monetario 18 meses |
+| Doc. 3 §III.4.6 | Fondo de Estabilización Macroeconómica FEM |
+| Pilar III.1 | CNSC aporta concursos para directorios |
+| Pilar III.6 | DNA-RB procesa LORAFEE |
+| Pilar III.7 | BND y VePass trazan transacciones corporativas |
+| Pilar III.8 | DNPEP coordina presupuesto plurianual + Plan Quinquenal |
 
-### Pendiente derivado del Pilar V v0.2
+### Pendiente derivado del Pilar III.5 v0.2
 
 - Anexar LORPSP y LOBMC como Títulos V y VI del Texto Articulado del Pilar V (no bloquea H3 ya cerrado, pero es el próximo artefacto a redactar).
 - Derogatoria explícita de la Ley Antibloqueo 2020 (incompatibilidad con OPI).
@@ -1752,12 +1752,12 @@ La expansión consolidó todas las decisiones dispersas en el Proyecto (Doc. 3 �
 ### Materias blindadas con 3/4 + referendum ratificatorio
 
 12 organismos blindados con el procedimiento único Art. 175:
-1. CNSC (Pilar I)
-2. MIED-LAM (Pilar III)
-3-7. CPNP / CICPC / JNEM + auditoría OACNUDH + BND-ADN + career-only (Pilar II)
-8. DNPEP + Plan Quinquenal (Pilar VIII)
-9. FOSEIP (Pilar V)
-10. LORAFEE (Pilar V)
+1. CNSC (Pilar III.1)
+2. MIED-LAM (Pilar III.3)
+3-7. CPNP / CICPC / JNEM + auditoría OACNUDH + BND-ADN + career-only (Pilar III.2)
+8. DNPEP + Plan Quinquenal (Pilar III.8)
+9. FOSEIP (Pilar III.5)
+10. LORAFEE (Pilar III.5)
 11-12. LORPSP (privatizaciones consolidadas) + LOBCV (sistema monetario dolarizado)
 
 ### LORPSP + LOBMC + LOPSEP — leyes nuevas consolidadas
@@ -1787,7 +1787,7 @@ Se consolida el organismo CEV-CN con rango orgánico en el articulado:
 
 ### Smoke tests (3 queries representative bi_score 0.88-0.92)
 
-- "cláusula continuidad transversal 3/4 referéndum mayoría AN materias blindadas" → top-2 desde VIII (bi=0.9037, 0.9037)
+- "cláusula continuidad transversal 3/4 referéndum mayoría AN materias blindadas" → top-2 desde III.8 (bi=0.9037, 0.9037)
 - "LORPSP Corpoelec CANTV HIDROVEN 20 años exoneración régimen privatización" → top-1 desde Sección V (bi=0.9227)
 - "LOBCV Ley Dolarización oficial Mes 18 prohibición financiamiento monetario déficit FEM" → top-2 desde Sección V (bi=0.8822)
 
@@ -1815,7 +1815,7 @@ Estructura del documento compilatorio final (versión publicable única):
 
 **Documentos referenciados en el compilatorio**:
 - 3 archivos de Pilar 0 (Prólogo+Diagnóstico+Principios)
-- 8 archivos Pilares I a VIII
+- 8 archivos Pilares III.1 a III.8
 - 2 archivos Plan de Implementación (Implementación + Comisión Carmen Navas)
 - 1 archivo de Clausuras (Sección V)
 - 5 documentos históricos consolidados (Doc. 1-5)
@@ -1828,7 +1828,7 @@ Estructura del documento compilatorio final (versión publicable única):
 - KB pre-ingesta: 18.590 puntos
 - KB post-ingesta: **18.693 puntos** (+103 chunks del documento final)
 - Smoke tests (3 queries representative bi_score 0.89-0.92):
-  - "documento final Reforma Integral Estado Venezolano compilación consolidada Pilar Tabla Contenido 8 pilares plan implementación CEV-CN" → top-3 desde documentos relevantes (VIII, Sec V, IV)
+  - "documento final Reforma Integral Estado Venezolano compilación consolidada Pilar Tabla Contenido 8 pilares plan implementación CEV-CN" → top-3 desde documentos relevantes (III.8, Sec V, IV)
   - "Comisión Especial Nacional Verdad Memoria Reparación Carmen Navas víctimas mortales listado Ejecutivo liberado plazo 60 días" → top-2 desde documento final, top-1 desde Carmen Navas
   - "cláusula continuidad transversal 3/4 referendum Poder constituyente derivado" → top-2 desde documento final
 - KB tiene ahora cobertura completa del proyecto desde múltiples ángulos (incluso con duplicación deliberada de las secciones-resumen del documento final que mapean a versiones detalladas)
@@ -1839,9 +1839,9 @@ Estructura del documento compilatorio final (versión publicable única):
 
 | Hito | Entregable | Vence | Cerrado | Anticipo |
 |---|---|---|---|---|
-| H1 | Renumeración + extracción IV.2 + limpieza KB | 2026-07-16 | 2026-07-15 | 1 día |
+| H1 | Renumeración + extracción III.4.2 + limpieza KB | 2026-07-16 | 2026-07-15 | 1 día |
 | H2 | `v0.1_pilar_iii2_seguridad_ciudadana.md` | 2026-07-18 | 2026-07-16 | 2 días |
-| H3 | Pilar V v0.2 (PDVSA+privatizaciones) | 2026-07-22 | 2026-07-16 | 6 días |
+| H3 | Pilar III.5 v0.2 (PDVSA+privatizaciones) | 2026-07-22 | 2026-07-16 | 6 días |
 | H4 | `v0.1_pilar_iii8_planificacion_estrategica.md` | 2026-07-24 | 2026-07-16 | 8 días |
 | H5 | Separación Prólogo+Diagnóstico+Principios | 2026-07-17 | 2026-07-16 | 1 día |
 | H6 | `v0.1_implementacion.md` (Sección IV) | 2026-07-26 | 2026-07-16 | 10 días |
@@ -1854,7 +1854,7 @@ Estructura del documento compilatorio final (versión publicable única):
 - **KB**: 18.693 puntos en `kb_gobierno`, 65+ fuentes únicas
 - **Documentos canónicos** en `data/venezuela/borrador_reforma/2026/`:
   - Sec. 0 (3): Prólogo, Diagnóstico, Principios
-  - Pilares (8): I a VIII
+  - Pilares (8): III.1 a III.8
   - Plan IV (2): Implementación, Comisión Carmen Navas
   - Cláusulas V (1): Texto Articulado + Cláusula de Continuidad
   - Documento Final (1): `documento_final_v0.1.md`
@@ -1979,6 +1979,7 @@ Estructura del documento compilatorio final (versión publicable única):
 | **BND** | Banco Nacional de Datos |
 | **CANTV** | Compañía Anónima Nacional Teléfonos de Venezuela |
 | **CDF** | Certificado de Defunción Fetal |
+| **CGR** | Contraloría General de la República |
 | **CICPC** | Cuerpo de Investigaciones Científicas, Penales y Criminalísticas |
 | **CIDH** | Comisión Interamericana de Derechos Humanos |
 | **CNE** | Consejo Nacional Electoral |
@@ -1990,6 +1991,7 @@ Estructura del documento compilatorio final (versión publicable única):
 | **CRBV** | Constitución de la República Bolivariana de Venezuela |
 | **CSC** | Civil Service College |
 | **Cédula-RUT** | Cédula con Rol Único Tributario |
+| **DDDHH** | Defensor del Pueblo |
 | **DNA-RB** | Dirección Nacional Anticorrupción y Recuperación de Bienes |
 | **DNPEP** | Dirección Nacional de Planificación Estratégica y Prospectiva |
 | **FAN** | Fuerza Armada Nacional |

@@ -1,6 +1,6 @@
 ---
-titulo: Reforma Integral del Estado Venezolano - Pilar IV Reforma Fiscal y Financiamiento Territorial
-parte: IV
+titulo: Reforma Integral del Estado Venezolano - Pilar III.4 Reforma Fiscal y Financiamiento Territorial
+parte: III.4
 version: "0.2 (cronograma cambiario 18 meses: banda mes 1, autonomía BCV mes 12, dolarización mes 18, bolívar simbólico Panamá post-mes 18)"
 fecha: 2026-07-13
 fuentes_primarias: OCDE municipal finance, SUBDERE Chile, DNP Colombia, ONAPRE Venezuela, FOSEIP Noruega/Chile/Singapur, Ecuador 2000 (Ley de Transformación Económica), Panamá 1904 (balboa simbólica), BCRA Argentina Ley 27.514 (autonomía)
@@ -9,13 +9,13 @@ referente_principal: Chile (DL 1289/1975, DFL 1-2006, Ley General Urbanismo y Co
 enfasis_usuario: eliminacion dependencia petrolera + autofinanciamiento municipal + modelo chileno (permiso circulacion, patentes, aseo, permisos construccion, licencias)
 plan_paralelo: shock 12 meses (Doc. 4 plan_implementacion.md) se mantiene; este Pilar opera en paralelo con cronograma monetario/cambiario propio de 18 meses
 decision_usuario: 2026-07-13 — Plan B (gradual) comprimido a 18 meses; shock Plan A se mantiene en paralelo
-cambio_h1_2026-07-15: La sección IV.2 "Diversificación macroeconómica" fue extraída a Pilar V (Reforma económica y productiva) según plan 2026-07-15. Las secciones siguientes se renumeraron IV.2 (era 4.3) → IV.5 (era 4.6). El cronograma monetario/cambiario de 18 meses se reproduce en V.1 como base del Pilar V.
+cambio_h1_2026-07-15: La sección III.4.2 "Diversificación macroeconómica" fue extraída a Pilar III.5 (Reforma económica y productiva) según plan 2026-07-15. Las secciones siguientes se renumeraron III.4.2 (era 4.3) → III.4.5 (era 4.6). El cronograma monetario/cambiario de 18 meses se reproduce en III.5.1 como base del Pilar III.5.
 ---
 ---
 
 # PARTE III — PILARES DE LA REFORMA
 
-# IV. Reforma fiscal y financiamiento territorial
+# III.4. Reforma fiscal y financiamiento territorial
 
 > *"La autonomía sin recursos es ficción; los recursos sin estándares son corrupción."*
 >
@@ -23,7 +23,7 @@ cambio_h1_2026-07-15: La sección IV.2 "Diversificación macroeconómica" fue ex
 
 ---
 
-## IV.1. El problema: la enfermedad holandesa y el municipio venezolano
+## III.4.1. El problema: la enfermedad holandesa y el municipio venezolano
 
 ### La trampa del petróleo
 
@@ -56,76 +56,13 @@ La reforma municipal —y por extensión la reforma fiscal— es la columna vert
 
 ---
 
-## IV.2. Modelo chileno de financiamiento municipal: la palanca que falta
+## III.4.2. Modelo chileno de financiamiento municipal: la palanca que falta
 
 ### Chile como referente, no como dogma
 
 El sistema municipal chileno, construido progresivamente desde la **reforma municipal de 1975** (DL 1.289 y siguientes) y profundizado por la Ley de Rentas Municipales II (DFL 1-2006), ofrece un repertorio concreto de instrumentos que pueden adaptarse a la realidad venezolana. **No es un dogma ni una copia textual**: se adapta, se calibra, se mejora.
 
 ### Los siete ingresos propios municipales del modelo de Chile
-
-#### 8) Impuesto Anual Municipal a 2da Vivienda en adelante (predial territorial)
-
-- Primera vivienda exenta (por VePass-Cédula).
-- 2da vivienda en adelante: alícuota municipal que no excede USD 600 anuales por propiedad.
-- Corresponde al municipio en cuyo territorio se ubica el inmueble.
-- Modelo: predial territorial alemán + adaptación canadiense de multipropiedad (resolución 2024-018).
-
-### Fondo Común Municipal (FCM) — Regla 60/40
-
-> **Decisión 25-jul-2026 (Bloque D.6.1)**: modelo chileno
-> 60% del ingreso tributario municipal queda en el municipio que recauda;
-> 40% va al FCM para redistribución territorial.
-
-| Criterio de redistribución del 40% al FCM | Peso |
-|---|---|
-| Población | 50% |
-| Pobreza (IDH municipal < 0,65) | 25% |
-| Territorial (ruralidad, dispersión) | 15% |
-| Esfuerzo recaudatorio propio | 10% |
-
-Coherente con la propuesta de Pilar IV §IV.2 (FCM detallado, ya redactado).
-
-Acción positiva: al menos **20%** del FCM se asigna específicamente a municipios con IDH < 0,65 (acción afirmativa para municipios vulnerables).
-
-### Aplicación de los impuestos municipales del Estado Aceptas (Bloque C, decisión 25-jul-2026)
-
-- **IMPV** (Permiso Circulación Vehicular): se mantiene conforme al diseño redactado (§IV.2 de este Pilar).
-- **IMAE** (Actividades Económicas): se mantiene conforme al diseño redactado (§IV.2 de este Pilar) — Bloque D.2.a confirma.
-- **SMAGIR** (Aseo Domiciliario): se mantiene conforme al diseño redactado (§IV.2 de este Pilar) — Bloque D.3.a confirma (USD 5/mes por hogar).
-- **Permisos de Construcción**: se mantienen conforme al diseño.
-- **Concesiones/Licencias**: se mantienen conforme al diseño.
-- **Contribuciones por Mejoras**: se mantienen conforme al diseño.
-- **Multas Municipales**: se mantienen conforme al diseño.
-- **Nuevo (Bloque C)**: **Impuesto Anual Municipal a 2da Vivienda en adelante** — alícuota fijada por el municipio con tope USD 600/año por propiedad. Ingresos integra el Fondo de Estabilización Macroeconómica (FEM) municipal. Estimación: USD 200-600 millones anuales. Genera cohesión fiscal territorial.
-- **Plusvalía transaccional (Bloque C)**: **100% retención municipal — NO aportes al FCM** (Bloque D.6.2.a, decisión 25-jul-2026). Las ganancias en transacciones de 2da vivienda (5% con tramos progresivos) son íntegramente para el municipio donde reside el inmueble. Aplica el mismo principio de "incentivo administrativo local".
-- **Permisos de Construcción** (Bloque D.4.a): 1,5% del presupuesto de obra, tope USD 5.000 residencial / USD 50.000 industrial. Mantener diseño actual.
-- **Ajustes automáticos D.5.c** (decisión 25-jul-2026):
-  - **Subsidio directo en municipios con IDH < 0,65**: catastralemnte los permisos de construcción pequeños (≤ USD 30K) se exoneran al 100% en estos municipios, otros alivios automáticos aplican a SMAGIR y al IMAE microempresarial.
-  - **Pago electrónico vía Clave Única de Identidad Digital (VePass) obligatorio** en todos los impuestos del Bloque D: alícuotas IMPV, IMAE, SMAGIR, Permisos, Concesiones, Contribuciones, Multas, 2da Vivienda, Plusvalía. Moderniza el flujo de caja municipal y elimina margen de discrecionalidad corrupta.
-
-### Situado Constitucional — Estructura final (Bloque G, decisión 25-jul-2026)
-
-> **Decisión 25-jul-2026**: el Situado Constitucional se estructura con base IVAN obligatoria al **25% de IVA recaudado** + **10% del Canon Petrolero** (Pilar V + Pilar IV) con distribución ponderada por IDH municipal.
-
-| Componente | Porcentaje / Fuente | Distribución |
-|---|---|---|
-| **G.1 Base del Situado Constitucional** | 25% de IVA recaudado + 10% de Canon petrolero | Mantiene 25%+10% (no aumento) |
-| **G.2 Ponderación por IDH** | Sí, distribución también por IDH municipal | Criterios: 50% población / 25% pobreza (IDH < 0,65) / 15% territorial / 10% esfuerzo recaudatorio |
-| **G.3 Pago electrónico con VePass obligatorio** | Transferencia del Estado central al municipio opera con VePass-Firma obligatoria en todos los niveles | VePass-Firma obligatoria del Director General del Tesoro Municipal + estampilla BND-IP; publicación CKAN de cada transferencia |
-| **G.4 Aportes del FEM al FCM** | **Sólo FCM** — el FEM es un estabilizador fiscal nacional; no aporta directamente al FCM ni al Situado | El FEM ring-fenced no entrega transferencias a municipios; sólo opera como estabilizador de Emergencias y reservas BCV |
-
-### Línea de tiempo y montos esperados
-
-| Año | Situado Constitucional estimado (USD/año) |
-|---|---|
-| Actual (referencia) | ~USD 1.500M (transferencias discrecionales del Estado central) |
-| Año 1 | ~USD 2.200M (SITUADO PILOTO, 25% IVA + 10% Canon + impacto inicial Impuestos Nuevos) |
-| Año 3 | ~USD 3.500M (con FEM y consolidación de nuevas tributaciones) |
-| Año 6 | ~USD 5.500M (alcanzar objetivo del Pilar IV: municipios con ingresos propios > 50%) |
-| Año 10 | ~USD 7.000M (modelo Chile: Situado + FCM + ingresos propios municipales sólido) |
-
----
 
 #### 1) Permiso de Circulación Vehicular (PCV)
 
@@ -246,7 +183,7 @@ El **Fondo Común Municipal (FCM)** chileno (DL 1.289 de 1975, art. 14) es el me
 
 ---
 
-## IV.3. Reforma del marco legal venezolano para viabilizar la propuesta
+## III.4.3. Reforma del marco legal venezolano para viabilizar la propuesta
 
 Los ingresos municipales propios y el FCM/FEM requieren reforma del marco legal vigente:
 
@@ -271,7 +208,7 @@ Esta cláusula es la que asegura que ningún ciclo político posterior pueda vol
 
 ---
 
-## IV.4. Impacto esperado y métricas de seguimiento
+## III.4.4. Impacto esperado y métricas de seguimiento
 
 | Indicador | Hoy (2024) | Meta 3 años | Meta 6 años |
 |-----------|------------|-------------|-------------|
@@ -285,7 +222,7 @@ Esta cláusula es la que asegura que ningún ciclo político posterior pueda vol
 
 ---
 
-## IV.5. Riesgos y mitigación
+## III.4.5. Riesgos y mitigación
 
 | Riesgo | Probabilidad | Impacto | Mitigación |
 |--------|--------------|---------|------------|
@@ -297,7 +234,7 @@ Esta cláusula es la que asegura que ningún ciclo político posterior pueda vol
 
 ---
 
-*Continuará: V Justicia y anticorrupción → inspirado en Corte Penal Internacional (CPI) Singapur + Ley de Extinción de Dominio.*
+*Continuará: III.5 Justicia y anticorrupción → inspirado en Corte Penal Internacional (CPI) Singapur + Ley de Extinción de Dominio.*
 
 ---
 
@@ -306,7 +243,6 @@ Esta cláusula es la que asegura que ningún ciclo político posterior pueda vol
 | Sigla | Nombre completo |
 |---|---|
 | **BCV** | Banco Central de Venezuela |
-| **BND** | Banco Nacional de Datos |
 | **CEPAL** | Comisión Económica para América Latina y el Caribe |
 | **COT** | Código Orgánico Tributario |
 | **CPI** | Corte Penal Internacional |
@@ -315,5 +251,4 @@ Esta cláusula es la que asegura que ningún ciclo político posterior pueda vol
 | **FOSEIP** | Fondo Soberano de Estabilización e Inversión Productiva |
 | **LOAFSP** | Ley Orgánica de la Administración Financiera del Sector Público |
 | **OCDE** | Organización para la Cooperación y el Desarrollo Económicos |
-| **VePass** | Clave Única de Identidad Digital |
 
