@@ -1,6 +1,6 @@
 ---
-titulo: Reforma Integral del Estado Venezolano - Pilar III.4 Reforma Fiscal y Financiamiento Territorial
-parte: III.4
+titulo: Reforma Integral del Estado Venezolano - Pilar IV Reforma Fiscal y Financiamiento Territorial
+parte: IV
 version: "0.2 (cronograma cambiario 18 meses: banda mes 1, autonomía BCV mes 12, dolarización mes 18, bolívar simbólico Panamá post-mes 18)"
 fecha: 2026-07-13
 fuentes_primarias: OCDE municipal finance, SUBDERE Chile, DNP Colombia, ONAPRE Venezuela, FOSEIP Noruega/Chile/Singapur, Ecuador 2000 (Ley de Transformación Económica), Panamá 1904 (balboa simbólica), BCRA Argentina Ley 27.514 (autonomía)
@@ -9,13 +9,13 @@ referente_principal: Chile (DL 1289/1975, DFL 1-2006, Ley General Urbanismo y Co
 enfasis_usuario: eliminacion dependencia petrolera + autofinanciamiento municipal + modelo chileno (permiso circulacion, patentes, aseo, permisos construccion, licencias)
 plan_paralelo: shock 12 meses (Doc. 4 plan_implementacion.md) se mantiene; este Pilar opera en paralelo con cronograma monetario/cambiario propio de 18 meses
 decision_usuario: 2026-07-13 — Plan B (gradual) comprimido a 18 meses; shock Plan A se mantiene en paralelo
-cambio_h1_2026-07-15: La sección III.4.2 "Diversificación macroeconómica" fue extraída a Pilar III.5 (Reforma económica y productiva) según plan 2026-07-15. Las secciones siguientes se renumeraron III.4.2 (era 4.3) → III.4.5 (era 4.6). El cronograma monetario/cambiario de 18 meses se reproduce en III.5.1 como base del Pilar III.5.
+cambio_h1_2026-07-15: La sección IV.2 "Diversificación macroeconómica" fue extraída a Pilar V (Reforma económica y productiva) según plan 2026-07-15. Las secciones siguientes se renumeraron IV.2 (era 4.3) → IV.5 (era 4.6). El cronograma monetario/cambiario de 18 meses se reproduce en V.1 como base del Pilar V.
 ---
 ---
 
 # PARTE III — PILARES DE LA REFORMA
 
-# III.4. Reforma fiscal y financiamiento territorial
+# IV. Reforma fiscal y financiamiento territorial
 
 > *"La autonomía sin recursos es ficción; los recursos sin estándares son corrupción."*
 >
@@ -23,7 +23,7 @@ cambio_h1_2026-07-15: La sección III.4.2 "Diversificación macroeconómica" fue
 
 ---
 
-## III.4.1. El problema: la enfermedad holandesa y el municipio venezolano
+## IV.1. El problema: la enfermedad holandesa y el municipio venezolano
 
 ### La trampa del petróleo
 
@@ -56,7 +56,7 @@ La reforma municipal —y por extensión la reforma fiscal— es la columna vert
 
 ---
 
-## III.4.2. Modelo chileno de financiamiento municipal: la palanca que falta
+## IV.2. Modelo chileno de financiamiento municipal: la palanca que falta
 
 ### Chile como referente, no como dogma
 
@@ -84,15 +84,15 @@ El sistema municipal chileno, construido progresivamente desde la **reforma muni
 | Territorial (ruralidad, dispersión) | 15% |
 | Esfuerzo recaudatorio propio | 10% |
 
-Coherente con la propuesta de Pilar III.4 §III.4.2 (FCM detallado, ya redactado).
+Coherente con la propuesta de Pilar IV §IV.2 (FCM detallado, ya redactado).
 
 Acción positiva: al menos **20%** del FCM se asigna específicamente a municipios con IDH < 0,65 (acción afirmativa para municipios vulnerables).
 
 ### Aplicación de los impuestos municipales del Estado Aceptas (Bloque C, decisión 25-jul-2026)
 
-- **IMPV** (Permiso Circulación Vehicular): se mantiene conforme al diseño redactado (§III.4.2 de este Pilar).
-- **IMAE** (Actividades Económicas): se mantiene conforme al diseño redactado (§III.4.2 de este Pilar) — Bloque D.2.a confirma.
-- **SMAGIR** (Aseo Domiciliario): se mantiene conforme al diseño redactado (§III.4.2 de este Pilar) — Bloque D.3.a confirma (USD 5/mes por hogar).
+- **IMPV** (Permiso Circulación Vehicular): se mantiene conforme al diseño redactado (§IV.2 de este Pilar).
+- **IMAE** (Actividades Económicas): se mantiene conforme al diseño redactado (§IV.2 de este Pilar) — Bloque D.2.a confirma.
+- **SMAGIR** (Aseo Domiciliario): se mantiene conforme al diseño redactado (§IV.2 de este Pilar) — Bloque D.3.a confirma (USD 5/mes por hogar).
 - **Permisos de Construcción**: se mantienen conforme al diseño.
 - **Concesiones/Licencias**: se mantienen conforme al diseño.
 - **Contribuciones por Mejoras**: se mantienen conforme al diseño.
@@ -106,7 +106,7 @@ Acción positiva: al menos **20%** del FCM se asigna específicamente a municipi
 
 ### Situado Constitucional — Estructura final (Bloque G, decisión 25-jul-2026)
 
-> **Decisión 25-jul-2026**: el Situado Constitucional se estructura con base IVAN obligatoria al **25% de IVA recaudado** + **10% del Canon Petrolero** (Pilar III.5 + Pilar III.4) con distribución ponderada por IDH municipal.
+> **Decisión 25-jul-2026**: el Situado Constitucional se estructura con base IVAN obligatoria al **25% de IVA recaudado** + **10% del Canon Petrolero** (Pilar V + Pilar IV) con distribución ponderada por IDH municipal.
 
 | Componente | Porcentaje / Fuente | Distribución |
 |---|---|---|
@@ -122,7 +122,7 @@ Acción positiva: al menos **20%** del FCM se asigna específicamente a municipi
 | Actual (referencia) | ~USD 1.500M (transferencias discrecionales del Estado central) |
 | Año 1 | ~USD 2.200M (SITUADO PILOTO, 25% IVA + 10% Canon + impacto inicial Impuestos Nuevos) |
 | Año 3 | ~USD 3.500M (con FEM y consolidación de nuevas tributaciones) |
-| Año 6 | ~USD 5.500M (alcanzar objetivo del Pilar III.4: municipios con ingresos propios > 50%) |
+| Año 6 | ~USD 5.500M (alcanzar objetivo del Pilar IV: municipios con ingresos propios > 50%) |
 | Año 10 | ~USD 7.000M (modelo Chile: Situado + FCM + ingresos propios municipales sólido) |
 
 ---
@@ -246,7 +246,7 @@ El **Fondo Común Municipal (FCM)** chileno (DL 1.289 de 1975, art. 14) es el me
 
 ---
 
-## III.4.3. Reforma del marco legal venezolano para viabilizar la propuesta
+## IV.3. Reforma del marco legal venezolano para viabilizar la propuesta
 
 Los ingresos municipales propios y el FCM/FEM requieren reforma del marco legal vigente:
 
@@ -271,7 +271,7 @@ Esta cláusula es la que asegura que ningún ciclo político posterior pueda vol
 
 ---
 
-## III.4.4. Impacto esperado y métricas de seguimiento
+## IV.4. Impacto esperado y métricas de seguimiento
 
 | Indicador | Hoy (2024) | Meta 3 años | Meta 6 años |
 |-----------|------------|-------------|-------------|
@@ -285,7 +285,7 @@ Esta cláusula es la que asegura que ningún ciclo político posterior pueda vol
 
 ---
 
-## III.4.5. Riesgos y mitigación
+## IV.5. Riesgos y mitigación
 
 | Riesgo | Probabilidad | Impacto | Mitigación |
 |--------|--------------|---------|------------|
@@ -297,7 +297,7 @@ Esta cláusula es la que asegura que ningún ciclo político posterior pueda vol
 
 ---
 
-*Continuará: III.5 Justicia y anticorrupción → inspirado en Corte Penal Internacional (CPI) Singapur + Ley de Extinción de Dominio.*
+*Continuará: V Justicia y anticorrupción → inspirado en Corte Penal Internacional (CPI) Singapur + Ley de Extinción de Dominio.*
 
 ---
 

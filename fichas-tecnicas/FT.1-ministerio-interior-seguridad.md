@@ -2,8 +2,8 @@
 titulo: Ficha Técnica — Ministerio del Interior y Seguridad (Estado Aceptas)
 version: "0.1"
 fecha: 2026-07-25
-estado: "Borrador H10.1 — Coordinación con Pilar III.2 v0.1 (776 líneas) ya redactado. Sin duplicar doctrinal; sólo operativiza el ministerio."
-parte: "H10 — Fichas Técnicas Ministeriales"
+estado: "Borrador FT.1 — Coordinación con Pilar II v0.1 (776 líneas) ya redactado. Sin duplicar doctrinal; sólo operativiza el ministerio."
+parte: "FT — Fichas Técnicas"
 ministerio: "Nº 1 — Interior y Seguridad"
 ministerios_agrupados_vigentes: "#27 MPPRIJP + #28 MPP Servicio Penitenciario + #24 Despacho de la Presidencia (parte) + #17 Pueblos Indígenas + #26 Nueva Frontera de Paz + Régimen Penitenciario Federal (transferido del ex-MPP Justicia)"
 entes_maximos_segun_tope: "~6-7 entes por ministerio de los 40 totales"
@@ -14,13 +14,13 @@ rter: "Régimen de Transición por Exámenes Rigurosos (Innovación #5)"
 marco_constitucional:
   - "Arts. 332-333 CRBV reformados (carácter civil de los cuerpos)"
   - "Arts. 236-238 CRBV (facultades del Presidente para regular la APN)"
-  - "Pilar III.2 v0.1 (Seguridad Ciudadana y Restauración del Orden Público)"
-  - "Pilar III.7 v0.1 (BND + VePass)"
-  - "Pilar III.6 v0.5 (DNA-RB)"
+  - "Pilar II v0.1 (Seguridad Ciudadana y Restauración del Orden Público)"
+  - "Pilar VII v0.1 (BND + VePass)"
+  - "Pilar VI v0.5 (DNA-RB)"
   - "Texto Articulado Arts. 121-140 (Cuerpos Civiles de Seguridad, Investigación y Migración)"
 ---
 
-# H10.1 — Ficha Técnica del Ministerio del Interior y Seguridad
+# FT.1 — Ficha Técnica del Ministerio del Interior y Seguridad
 
 > **Mandato constitucional del ministerio**:
 >
@@ -51,11 +51,11 @@ Cubre **~6-7 entes adscritos** de los 40 totales permitidos por el Art. 9 del Te
 
 | Ley | Estado | Función |
 |---|---|---|
-| **LOPNCA — Ley Orgánica del Cuerpo de Policía Nacional Profesional (CPNP)** | A redactar (H10.1.2) | Estatuto orgánico completo del CPNP |
-| **LOCICPC — Ley Orgánica del Cuerpo de Investigaciones Científicas, Penales y Criminalísticas** | A redactar (H10.1.3) | Estatuto orgánico completo del CICPC |
-| **LOPSFEP — Ley Orgánica del Procedimiento del Servicio Fronterizo y de Extranjería** | A redactar (H10.1.5) | Estatuto de la JNEM, DNPM y régimen fronterizo civil |
-| **LVPSPIP — Ley de Protección y Vida de los Pueblos Indígenas** | A redactar (H10.1.6) | Estatuto de la jurisdicción indígena autónoma y coordinación con Estado-Nación |
-| **LOVGRI — Ley Orgánica de Gestión de Riesgos (Protección Civil)** | A redactar (H10.1.8) | Estatuto del Viceministerio de Gestión Integral de Riesgos |
+| **LOPNCA — Ley Orgánica del Cuerpo de Policía Nacional Profesional (CPNP)** | A redactar (FT.1.2) | Estatuto orgánico completo del CPNP |
+| **LOCICPC — Ley Orgánica del Cuerpo de Investigaciones Científicas, Penales y Criminalísticas** | A redactar (FT.1.3) | Estatuto orgánico completo del CICPC |
+| **LOPSFEP — Ley Orgánica del Procedimiento del Servicio Fronterizo y de Extranjería** | A redactar (FT.1.5) | Estatuto de la JNEM, DNPM y régimen fronterizo civil |
+| **LVPSPIP — Ley de Protección y Vida de los Pueblos Indígenas** | A redactar (FT.1.6) | Estatuto de la jurisdicción indígena autónoma y coordinación con Estado-Nación |
+| **LOVGRI — Ley Orgánica de Gestión de Riesgos (Protección Civil)** | A redactar (FT.1.8) | Estatuto del Viceministerio de Gestión Integral de Riesgos |
 | **Reforma LOPPM 2009** | Adaptación sustitutiva | Reordenar municipios y régimen policial municipal; sólo subsistirá el cuerpo policial municipal coordinado con CPNP, no policía propia |
 
 ### 1.3 Conexión con el marco articulado vigente
@@ -108,7 +108,7 @@ Ministerio del Interior y Seguridad
 - **Adscribe**: CPNP, CICPC, Dirección General de Armas y Explosivos (matriz origen civil, no militar — escindida completamente del Ministerio de la Defensa).
 - **Coordina con**: Viceministerio de Inteligencia Criminal Estratégica (fusión CNAC para análisis conjunto); Viceministerio de Régimen Penitenciario Federal (cuando los detenidos requieran ingreso a centros federales).
 - **Línea de reporte formal**: Ministro del Interior y Seguridad.
-- **Línea de fiscalización externa**: Defensor del Pueblo (Art. 280 Constitución de la República Bolivariana de Venezuela (CRBV)), DNA-RB (Pilar III.6.3), Veeduría Internacional Permanente 8 años.
+- **Línea de fiscalización externa**: Defensor del Pueblo (Art. 280 Constitución de la República Bolivariana de Venezuela (CRBV)), DNA-RB (Pilar VI.3), Veeduría Internacional Permanente 8 años.
 
 #### 2.2.2 Viceministerio de Migración, Extranjería y Zonas Fronterizas
 
@@ -139,8 +139,8 @@ Ministerio del Interior y Seguridad
 #### 2.2.6 Viceministerio de Inteligencia Criminal Estratégica
 
 - **Función**: integración de inteligencia operativa en apoyo del CPNP, CICPC y DNA-RB mediante análisis de patrones delictivos, redes y flujos financieros y humanos.
-- **Adscribe**: CNAC (Centro Nacional de Análisis Criminal) que opera como **brazo analítico** del Banco Nacional de Datos (BND) (Pilar III.7); CTIP (Centro de Trata y Tráfico de Personas).
-- **Coordinación operativa** (NO subordinación orgánica): DNA-RB (Pilar III.6.3), Organización Internacional de Policía Criminal (INTERPOL) BND-DNIE, OACNUDH.
+- **Adscribe**: CNAC (Centro Nacional de Análisis Criminal) que opera como **brazo analítico** del Banco Nacional de Datos (BND) (Pilar VII); CTIP (Centro de Trata y Tráfico de Personas).
+- **Coordinación operativa** (NO subordinación orgánica): DNA-RB (Pilar VI.3), Organización Internacional de Policía Criminal (INTERPOL) BND-DNIE, OACNUDH.
 
 ### 2.3 Unidades técnicas transversales
 
@@ -174,19 +174,19 @@ Ministerio del Interior y Seguridad
 
 | Criterio | Detalle |
 |---|---|
-| Procedimiento | Concurso público organizado por la Comisión Nacional del Servicio Civil (Pilar III.1) con jurado mixto (5 miembros técnicos nacionales + 3 juristas internacionales invitados por OACNUDH) |
+| Procedimiento | Concurso público organizado por la Comisión Nacional del Servicio Civil (Pilar I) con jurado mixto (5 miembros técnicos nacionales + 3 juristas internacionales invitados por OACNUDH) |
 | Ratificación | Asamblea Nacional con mayoría de tres quintos (3/5). La AN no nombra; ratifica o rechaza — el rechazo obliga a nuevo proceso concursal. |
 | Requisitos | (a) venezolano por nacimiento y sin otra nacionalidad; (b) mayor de 30 años; (c) experiencia profesional mínima de 10 años en seguridad pública o derechos humanos; (d) **no militar retirado** (trampa institucional pre-reforma); (e) no tener parentesco hasta 4° grado con el Presidente, Vicepresidente, miembros del gabinete o titulares del Poder Ciudadano. |
-| Período | 6 años, no prorrogable ni reelegible (analogía al Fiscal General — Pilar III.6 v0.5) |
+| Período | 6 años, no prorrogable ni reelegible (analogía al Fiscal General — Pilar VI v0.5) |
 | Destitución | 3/4 AN con 7 causales taxativas (análogas a las del CPNP/CICPC) incluyendo investigación internacional, obstrucción a la Veeduría Internacional, y comisión de violaciones graves a DDHH |
 
 ### 4.2 Designación del Director General del CPNP, del CICPC y del Subdirector Nacional de Migración (JNEM)
 
-Cubierto en el Texto Articulado Arts. 131-132 (Pilar III.2.8) — todos por concurso público + ratificación Asamblea Nacional (AN) 3/5, principio *career-only* con mínimos 20 años servicio en el cuerpo respectivo.
+Cubierto en el Texto Articulado Arts. 131-132 (Pilar II.8) — todos por concurso público + ratificación Asamblea Nacional (AN) 3/5, principio *career-only* con mínimos 20 años servicio en el cuerpo respectivo.
 
 ### 4.3 Incompatibilidades generales para cargos directivos
 
-(Articulado Pilar III.6 cláusula 4 y Texto Articulado Art. 132):
+(Articulado Pilar VI cláusula 4 y Texto Articulado Art. 132):
 
 - No miembros de partidos políticos durante el ejercicio ni en los 8 años previos
 - No haber sido militante de organizaciones políticas que apoyaron golpes de Estado, represión documentada por Corte IDH, o violación de DDHH
@@ -216,7 +216,7 @@ Cobertura del RTER (Innovación #5) para PNB, policías estadales/policiales mun
 | Dirección Nacional (Director CPNP/CICPC/JNEM) | 4.500 | 7.000 | Singapore SPF, UK NCA |
 | Ministro | 5.500 | 8.000 | Singapore Home Secretary, UK Home Secretary |
 
-Salarios indexados al USD (currency-board post-mes 18 Pilar III.4). Tope 14:1 entre el máximo y el mínimo (ratio vigente en sector público Organización para la Cooperación y el Desarrollo Económicos (OCDE)).
+Salarios indexados al USD (currency-board post-mes 18 Pilar IV). Tope 14:1 entre el máximo y el mínimo (ratio vigente en sector público Organización para la Cooperación y el Desarrollo Económicos (OCDE)).
 
 ### 5.3 VePass-Firma obligatoria
 
@@ -315,7 +315,7 @@ El panel internacional OACNUDH + CIDH + ACNUR + FRONTEX recibe **0,05% del PIB**
 | Mes | Acción |
 |---|---|
 | 0 | Instalación de la Junta Transitiva del Ministerio. Inventario físico del personal activo (estimado: 14.000 cargos civiles + 5.000 cargos técnicos del ex-MPPRIJP). Inventario de las estaciones y centros logísticos. Inventario de armamento, vehículos, equipos de comunicaciones. |
-| 1-3 | Programa de retiro voluntario incentivado (vinculado a Pilar III.1 FunINGRESO). Convocatoria de concursos meritocráticos para Directores CPNP/CICPC/JNEM (jurado mixto CNSC nacional + veeduría OACNUDH). Identificación nominal de cargos directivos a sustituirse por concursos públicos. |
+| 1-3 | Programa de retiro voluntario incentivado (vinculado a Pilar I FunINGRESO). Convocatoria de concursos meritocráticos para Directores CPNP/CICPC/JNEM (jurado mixto CNSC nacional + veeduría OACNUDH). Identificación nominal de cargos directivos a sustituirse por concursos públicos. |
 | 4-6 | Fusión física del ex-MPRIJP+MPP-PIJ+Despacho (parte) en un solo edificio sede del Ministerio. Puesta en marcha del nuevo **RTER** para todo el personal vigente (con tres exámenes rigurosos consecutivos). Inicio de la migración a VePass-Firma obligatoria. |
 | 7-9 | Lanzamiento del nuevo Ministerio formalmente como entidad constitucional con reglamento orgánico. Inicio del ciclo de concursos meritocráticos del personal auxiliar. |
 | 10-12 | Cierre oficial del proceso RTER (los no aprobados se separan sin derecho a reincorporación). Primer informe público anual de KPIs. Lanzamiento de la Veeduría Internacional Permanente 8 años (panel mixto OACNUDH+CIDH+ACNUR+FRONTEX). |
@@ -345,16 +345,16 @@ El panel internacional OACNUDH + CIDH + ACNUR + FRONTEX recibe **0,05% del PIB**
 |---|---|---|---|
 | Captura partidista del Ministerio por el próximo ciclo político | Alta | Crítico | Cláusula de continuidad 3/4 + referendum popular, art. 332 CRBV reformado, Veeduría Internacional Permanente 8 años, concursos meritocráticos con veeduría externa OACNUDH+CIDH |
 | RTER insuficiente para limpiar cuerpos infiltrados | Media | Alto | Procedimiento RTER con 3 exámenes rigurosos consecutivos + BND-verificación patrimonial + cooperación INTERPOL |
-| Fuga de cerebros de CPNP/CICPC hacia aparatos del crimen o migración | Media | Alto | Escala salarial competitiva indexada USD (Pilar III.4), VePass-Reinserción de egresados, becas educativas para hijos |
+| Fuga de cerebros de CPNP/CICPC hacia aparatos del crimen o migración | Media | Alto | Escala salarial competitiva indexada USD (Pilar IV), VePass-Reinserción de egresados, becas educativas para hijos |
 | Reacción adversa del crimen organizado durante transición | Alta | Alto | Coordinación Veeduría Internacional + DNA-RB + INTERPOL; uso temporal permitido de GNB (carácter militar bajo ente Defensa presidencial) en casos excepcionales |
 | Captura del Viceministerio de Pueblos Indígenas por facciones particularistas | Media | Medio | Subsistencia de la jurisdicción indígena originaria + coordinación con Defensor del Pueblo + veeduría específica OACNUDH |
 | Infiltración de JNEM por redes de trata o tráfico ilícito de personas | Media | Alto | VePass-Firma individual en cada operación, BND-Registro de funcionarios de JNEM, Veeduría INTERPOL GLOBALia |
-| Sobrecostes en régimen penitenciario federal durante los 18 meses de transición | Alta | Medio | Programa de retiro voluntario (Pilar III.1) + privatización selectiva de servicios no sensibles + cooperación técnica con BID |
+| Sobrecostes en régimen penitenciario federal durante los 18 meses de transición | Alta | Medio | Programa de retiro voluntario (Pilar I) + privatización selectiva de servicios no sensibles + cooperación técnica con BID |
 | Constitucionalidad del carácter civil de los cuerpos cuestionada en primera acción | Alta | Crítico | Reforma constitucional 3/5 + referendum ya cursado; art. 332 reformado como cláusula de blindaje explícita |
 
 ## 12. Cláusula de continuidad específica
 
-Reforma constitucional con texto blindado en art. 332 del Texto Articulado (ya redactada en Pilar III.2):
+Reforma constitucional con texto blindado en art. 332 del Texto Articulado (ya redactada en Pilar II):
 
 > *"Los cuerpos civiles de seguridad pública —CPNP, CICPC, JNEM— mantienen su carácter civil, orgánico y operacional en el seno del Ministerio del Interior y Seguridad. Toda fusión, militarización, transformación parcial o total de su carácter civil, o cualquier intento de subrogación en cuerpos armados de naturaleza paramilitar o militar, requiere mayoría calificada de tres cuartos (3/4) de los integrantes de la Asamblea Nacional + referéndum popular ratificatorio, conforme al procedimiento de continuidad descrito en el Título XVI."*
 
@@ -376,17 +376,17 @@ Adicionalmente:
 
 ## 14. Documentos conexos
 
-- **Pilar III.2** (`v0.1_pilar_iii2_seguridad_ciudadana.md`) — Marco doctrinal y constitucional completo
+- **Pilar II** (`v0.1_pilar_iii2_seguridad_ciudadana.md`) — Marco doctrinal y constitucional completo
 - **Texto Articulado Arts. 121-140** — Régimen de los Cuerpos Civiles de Seguridad, Investigación y Migración
 - **Anexo A.3** (`borrador_reforma/2026/anexos/inventario_ministerios_2009.md`) — Catálogo vigente 2009 de entes adscritos al MPPRIJP (referencia de rattachation)
 - **Anexo A.5** (`borrador_reforma/2026/anexos/inventario_ministerios_actuales.md`) — Tabla de rattachation vigente
-- **Pilar III.7** (`v0.1_pilar_iii7_gobierno_digital.md`) — BND + VePass
-- **Pilar III.6** (`v0.5_pilar_iii6_justicia_anticorrupcion.md`) — DNA-RB
-- **Pilar III.1** (`v0.2_pilar_iii1_servicio_civil_meritocracia.md`) — CNSC + régimen meritocrático
+- **Pilar VII** (`v0.1_pilar_iii7_gobierno_digital.md`) — BND + VePass
+- **Pilar VI** (`v0.5_pilar_iii6_justicia_anticorrupcion.md`) — DNA-RB
+- **Pilar I** (`v0.2_pilar_iii1_servicio_civil_meritocracia.md`) — CNSC + régimen meritocrático
 
 ---
 
-*Esta ficha operativa se complementa con el Pilar III.2 doctrinal. Sin duplicar: el Pilar III.2 trata el "qué" institucional con profundidad jurídica; esta Ficha Técnica trata el "cómo" operativo del ministerio en el Estado Aceptas.*
+*Esta ficha operativa se complementa con el Pilar II doctrinal. Sin duplicar: el Pilar II trata el "qué" institucional con profundidad jurídica; esta Ficha Técnica trata el "cómo" operativo del ministerio en el Estado Aceptas.*
 
 *Versión 0.1 — 25-jul-2026. Pendiente: completar KPIs y cronograma por Viceministerio en versiones siguientes.*
 

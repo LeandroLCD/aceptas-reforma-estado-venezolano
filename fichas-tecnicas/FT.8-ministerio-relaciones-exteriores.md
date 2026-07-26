@@ -1,8 +1,8 @@
 ---
 titulo: "Ficha Técnica — Ministerio de Relaciones Exteriores"
-version: "0.1 (H10.8 — versión ficha técnica, 25-jul-2026)"
+version: "0.1 (FT.8 — versión ficha técnica, 25-jul-2026)"
 estado: "Borrador operativo. Operacionaliza la diplomacia activa del Estado Aceptas + el Viceministerio de Cooperación Jurídica Internacional (transferido del ex-MPP Justicia extinto) + la Veeduría Internacional Permanente de 8 años (Innovación #2)."
-parte: "H10 — Fichas Técnicas Ministeriales"
+parte: "FT — Fichas Técnicas"
 ministerio: "Nº 8 — Relaciones Exteriores"
 ministerios_agrupados_vigentes: "#25 MPPP Relaciones Exteriores + Viceministerio de Cooperación Jurídica Internacional (transferido del ex-MPP Justicia extinto, Bloque A.10 §8.2.3.4)"
 entes_maximos_segun_tope: "~2-3 entes de los 40 totales"
@@ -13,7 +13,7 @@ extradiciones_atribucion_presidencial: "Atribución intacta (Art. 236.20 CRBV)"
 ente_capacitacion_diplomatica: "IAN (Instituto de Altos Estudios Diplomáticos Pedro Gual)"
 ---
 
-# H10.8 — Ficha Técnica del Ministerio de Relaciones Exteriores
+# FT.8 — Ficha Técnica del Ministerio de Relaciones Exteriores
 
 > **Mandato constitucional**:
 >
@@ -56,7 +56,7 @@ Adscribe las funciones del MPPP Relaciones Exteriores #25 + el Viceministerio de
 | **Reforma LOEX 2001** (Ley Orgánica del Servicio Exterior) | Reforma parcial | Rediseño de la carrera diplomática: criterios meritocráticos (CNSC), períodos con concurso público, transparencia |
 | **Nueva LIDDHH** (Ley Internacional de Derechos Humanos) | A redactar | Estatuto del Viceministerio de DDHH y Veeduría Internacional Permanente 8 años |
 | **Nueva Ley Orgánica de Cooperación Internacional** | A redactar | Estatuto del Viceministerio de Cooperación Internacional |
-| **Reforma Ley de Extradición 1929** | Reforma | Adaptación al Pilares III.6 (DNA-RB) y a los principios procesales modernos; integración VePass-Firma obligatoria |
+| **Reforma Ley de Extradición 1929** | Reforma | Adaptación al Pilares VI (DNA-RB) y a los principios procesales modernos; integración VePass-Firma obligatoria |
 | **LOPEINST** (Ley Orgánica de la Política Exterior Internacional de Inversión Extranjera) | A redactar | Atrae inversiones multilaterales sin perder defensa soberana |
 | **Reforma Ley de Tratados** | Reforma | Procedimientos para firma de nuevos tratados de integración |
 
@@ -126,14 +126,14 @@ Ministerio de Relaciones Exteriores
 
 - **Veeduría Internacional Permanente de 8 años** (Innovación #2): ejecución operativa con OACNUDH + CIDH + ACNUR + FRONTEX + INTERPOL.
 - **DDHH**: vela por la aplicación efectiva de los compromisos internacionales en DDHH — piso mínimo vinculante para todos los ministerios.
-- **Gestión de extradiciones**: cumplimiento del Art. 236.20 CRBV con apoyo del PGN (Pilar III.6 Poder Ciudadano).
+- **Gestión de extradiciones**: cumplimiento del Art. 236.20 CRBV con apoyo del PGN (Pilar VI Poder Ciudadano).
 - **Demandas ante CIJ**: defensa internacional de los intereses permanentes (Esequibo con jurisdicción voluntaria parcial).
 - **Comité Internacional contra la Desaparición Forzada**: coordinación con DIN del Ministerio #1 Interior.
 
 #### 2.2.3 Cooperación Internacional para el Desarrollo
 
 - **Cooperación bilateral** activa: UE (Cooperación UE-VENUE), China (fideicomiso I+D), Brasil (transfronteriza), México.
-- **Cooperación multilateral**: Banco Mundial, BID, CAF, PNUD, UNICEF — fondos internacionales de asistencia técnica adaptados al Pilar III.6 y Pilar III.4.
+- **Cooperación multilateral**: Banco Mundial, BID, CAF, PNUD, UNICEF — fondos internacionales de asistencia técnica adaptados al Pilar VI y Pilar IV.
 - **Cooperación Sur-Sur**: pilar docente — Venezuela exporta su propia experiencia de reforma a países vecinos.
 - **Cooperación Triangular** (SSJET): programas con terceros (BIRF + UE + China) para armar paquetes técnicos.
 
@@ -163,7 +163,7 @@ Ministerio de Relaciones Exteriores
 - **Ratificación por la AN con mayoría de 3/5.**
 - Requisitos: venezolano por nacimiento; mayor de 40 años; postgrado en derecho internacional, relaciones internacionales, cooperación internacional; **experiencia diplomática profesional ≥ 15 años** (carrera diplomática concursada o equivalente internacional); **no militar retirado**.
 - Período: **6 años no prorrogable ni reelegible** (analogía DNPEP, MIED-LAM, DNA-RB).
-- Destitución: 3/4 AN con 7 causales taxativas (análogas a Pilar III.6); causal #6 = **interrupción de la Veeduría Internacional Permanente antes del cumplimiento del plazo de 8 años** o uso político de las extradiciones.
+- Destitución: 3/4 AN con 7 causales taxativas (análogas a Pilar VI); causal #6 = **interrupción de la Veeduría Internacional Permanente antes del cumplimiento del plazo de 8 años** o uso político de las extradiciones.
 
 ### 4.2 Viceministros
 
@@ -282,7 +282,7 @@ Tope 14:1 + asignación exterior por destino (capital vs. capital estratégica +
 | **Sobrecostos de cooperación internacional** sin control | Media | Medio | Auditoría externa anual con publicación obligatoria en CKAN + rating A-D de cada programa |
 | **Riesgo de exposición diplomática** por temas internos sensibles | Alta | Alto | Oficina de comunicación estratégica diplomática sincronizada con ACNUR + CIDH |
 | **Corrupción en gestión de embajadas** | Media | Alto | DNA-RB con jurisdicción extraterritorial sobre embajadas; intervención + auditoría + VePass-Firma obligatoria |
-| **Reducción de soberanía en cooperación con multilaterales** | Media | Alto | Coordinación con Pilar III.4 + Pilar III.5 (FOSEIP, FOPEP, FNIP, BCV) y con DNA-RB (independencia operacional) |
+| **Reducción de soberanía en cooperación con multilaterales** | Media | Alto | Coordinación con Pilar IV + Pilar V (FOSEIP, FOPEP, FNIP, BCV) y con DNA-RB (independencia operacional) |
 | **Influencia indebida del Ejecutivo en paneles de la Veeduría** | Media | Crítico | Garantizar la cláusula de continuidad 3/4 + referendum; el panel opera sobre el Ministerio #1 (Interior), no sobre MRE |
 
 ## 11. Cláusula de continuidad específica
@@ -311,10 +311,10 @@ Tope 14:1 + asignación exterior por destino (capital vs. capital estratégica +
 
 - **Texto Articulado Arts. 245-250** (Veeduría Internacional Permanente).
 - **Texto Articulado Arts. 251-260** (Cooperación Internacional y Extradiciones).
-- **Pilar III.6 DNA-RB + CGR** — coordinación con fiscalización.
-- **Pilar III.2 CPNP + CICPC + JNEM** — cobertura de la Veeduría.
-- **Pilar III.4 LOBCV** — fondo no reprogramable del BCV.
-- **Pilar III.5 FOSEIP** — cooperación multilateral.
+- **Pilar VI DNA-RB + CGR** — coordinación con fiscalización.
+- **Pilar II CPNP + CICPC + JNEM** — cobertura de la Veeduría.
+- **Pilar IV LOBCV** — fondo no reprogramable del BCV.
+- **Pilar V FOSEIP** — cooperación multilateral.
 - **Anexo A.5** — rattachation vigente.
 - **Anexo A.10** — Distribución ex-Justicia.
 
@@ -324,7 +324,7 @@ Tope 14:1 + asignación exterior por destino (capital vs. capital estratégica +
 
 *Versión 0.1 — 25-jul-2026. Pendiente: descripción detallada por Viceministerio + KPIs mensuales.*
 
-**Próximas fichas técnicas (H10.9 → H10.11)**:
-- H10.9 Ministerio del Ambiente
-- H10.10 Consejo Nacional de Defensa (ente presidencial)
-- H10.11 Cinco instituciones del Poder Ciudadano ampliado
+**Próximas fichas técnicas (FT.9 → FT.11)**:
+- FT.9 Ministerio del Ambiente
+- FT.10 Consejo Nacional de Defensa (ente presidencial)
+- FT.11 Cinco instituciones del Poder Ciudadano ampliado

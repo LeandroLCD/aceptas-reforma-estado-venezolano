@@ -297,10 +297,10 @@ Construir un Poder Judicial meritocrático, autónomo y financieramente digno, c
 ## 5. Dimensión digital
 
 ### 5.1. Objetivo de reforma
-Cerrar la brecha digital, modernizar el Estado y sentar las bases para una economía digital; el detalle técnico está en el **Pilar III.7 (Borrador de reforma)** ya redactado.
+Cerrar la brecha digital, modernizar el Estado y sentar las bases para una economía digital; el detalle técnico está en el **Pilar VII (Borrador de reforma)** ya redactado.
 
 ### 5.2. Acciones concretas (shock)
-1. **Ejecución del cronograma 7 años del Pilar III.7**, acelerado a **4 años** mediante shock:
+1. **Ejecución del cronograma 7 años del Pilar VII**, acelerado a **4 años** mediante shock:
    - **Fase 1 (mes 0-12)**: licitación del data center Guri-1, sanción de la LOPD, creación de la Superintendencia de Protección de Datos Personales (SPDP), lanzamiento del VePass Lite (identidad digital temporal).
    - **Fase 2 (mes 12-24)**: BND operativo con 4 bases federadas iniciales (Saime, Seniat, CNE, IVSS), Cédula-RUT emitida para 10 millones de venezolanos.
    - **Fase 3 (mes 24-36)**: BND con 11 bases federadas, Cédula-RUT para 25 millones.

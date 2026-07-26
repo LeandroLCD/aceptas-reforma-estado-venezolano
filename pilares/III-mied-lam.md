@@ -1,6 +1,6 @@
 ---
-titulo: Reforma Integral del Estado Venezolano - Pilar III.3 MIED-LAM Constitucional
-parte: III.3
+titulo: Reforma Integral del Estado Venezolano - Pilar III MIED-LAM Constitucional
+parte: III
 version: 0.2
 fecha: 2026-07-12
 cambios_v0.2: MDI-LAM expandido a MIED-LAM (Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado)
@@ -12,7 +12,7 @@ programas: 8 (4 cognitivos + 1 educación general + 2 cívica/digital + 1 deport
 
 # PARTE III — PILARES DE LA REFORMA
 
-# III.3. Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (MIED-LAM) — rango constitucional
+# III. Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (MIED-LAM) — rango constitucional
 
 > *"Por primera vez en la historia se le ha otorgado al desarrollo de la inteligencia de los humanos el carácter de un asunto de Estado, de un problema de gobierno, de una decisión política con una clara y precisa orientación democrática, porque se trata de desarrollar al pueblo, y, en especial, a los pobres."*
 >
@@ -38,7 +38,7 @@ Pero la lección no termina en el plano cognitivo. La causa-raíz diagnosticada 
 
 ---
 
-## III.3.1. Justificación: la causa-raíz confirmada por la evidencia comparada
+## III.1. Justificación: la causa-raíz confirmada por la evidencia comparada
 
 La Parte I de este documento identificó la **descontinuidad de políticas meritocráticas** como causa-raíz de la crisis institucional venezolana. Los síntomas (corrupción sistémica, cuerpos de seguridad convertidos en mafias, captura del Estado por élites políticas, ausencia de capital humano formado) son efectos. La causa es más profunda: **Venezuela dejó de formar a sus ciudadanos para pensar críticamente, decidir informadamente y actuar con responsabilidad, y cuando dejó de hacerlo, perdió la capacidad societal de controlar a sus élites políticas**.
 
@@ -52,7 +52,7 @@ La reforma constitucional del MIED-LAM se inspira directamente en la fórmula qu
 
 ---
 
-## III.3.2. Diseño constitucional del MIED-LAM
+## III.2. Diseño constitucional del MIED-LAM
 
 ### Nombre oficial y alcance
 
@@ -126,7 +126,7 @@ inspirado en el modelo del *Government Pension Fund Global* de Noruega y de la a
 
 ---
 
-## III.3.3. Arquitectura interna: ocho programas nacionales
+## III.3. Arquitectura interna: ocho programas nacionales
 
 El MIED-LAM coordina ocho programas nacionales organizados en tres grandes áreas: desarrollo cognitivo (programas 1-4), educación general (programa 5), formación ética y pensamiento crítico (programos 6-7), y deporte (programa 8).
 
@@ -178,7 +178,7 @@ Réplica del programa basado en Reuven Feuerstein (teoría de la modificabilidad
 El MIED-LAM asume integralmente la rectoría del sistema educativo nacional, hoy fragmentada entre el Ministerio del Poder Popular para la Educación y diversos entes adscritos. La unificación permite:
 
 - **Diseñar un currículo nacional único** con estándares de calidad por nivel, evaluado con criterios comunes (PISA local, pruebas estandarizadas nacionales cada 3 años).
-- **Gestionar la carrera docente** con criterios meritocráticos (articulación con la Comisión Nacional del Servicio Civil (CNSC) del Pilar III.1): ingreso por concurso, evaluación anual de desempeño, capacitación permanente obligatoria (40 horas/año), escala salarial competitiva, estabilidad en el cargo.
+- **Gestionar la carrera docente** con criterios meritocráticos (articulación con la Comisión Nacional del Servicio Civil (CNSC) del Pilar I): ingreso por concurso, evaluación anual de desempeño, capacitación permanente obligatoria (40 horas/año), escala salarial competitiva, estabilidad en el cargo.
 - **Administrar la infraestructura educativa nacional** con estándares mínimos verificables: agua potable, electricidad, conectividad, bibliotecas, áreas deportivas, laboratorios.
 - **Regular la educación privada** con estándares mínimos de calidad, transparencia en matrícula y resultados, prohibición de cobros discriminatorios.
 - **Garantizar la educación universitaria** mediante un sistema nacional de acreditación inspirado en el modelo chileno (CNA) y al español (ANECA), con financiamiento basal por mérito académico demostrado.
@@ -192,7 +192,7 @@ La unificación resuelve una disfunción histórica: la dispersión entre minist
 
 Programa transversal nuevo, ausente en el PDI original, diseñado para llenar el vacío de formación ciudadana identificado como causa-raíz del deterioro institucional. Incluye:
 
-- Currículo de ética aplicada a la función pública (transversal al servicio civil meritocrático del Pilar III.1).
+- Currículo de ética aplicada a la función pública (transversal al servicio civil meritocrático del Pilar I).
 - Currículo de ética cívica para la convivencia (transversal al currículo de educación básica).
 - Programa de mediación comunitaria inspirada en el modelo singapurense de Community Mediation.
 - Programa de formación a padres en parentalidad positiva inspirada en el modelo vasco de "Escuela de Madres y Padres".
@@ -215,7 +215,7 @@ inspirado en los programas "Media Literacy" implementados en Finlandia (2014), E
 El MIED-LAM asume la rectoría del deporte nacional, organizando el sistema en cuatro niveles:
 
 - **Deporte escolar**: actividad física diaria obligatoria en todas las escuelas (mínimo 3 horas semanales), educación física como materia evaluada, detección temprana de talentos.
-- **Deporte comunitario**: infraestructura accesible en cada municipio (canchas, pistas, parques biosaludables), ligas locales financiadas por el Fondo de Estabilización Macroeconómica (FEM) (Pilar III.5), programas para adultos mayores.
+- **Deporte comunitario**: infraestructura accesible en cada municipio (canchas, pistas, parques biosaludables), ligas locales financiadas por el Fondo de Estabilización Macroeconómica (FEM) (Pilar V), programas para adultos mayores.
 - **Deporte universitario**: becas-deportivas, articulación con la educación superior, formación dual.
 - **Deporte de alta competencia**: Centro Nacional de Alto Rendimiento (CNAR) con infraestructura de clase mundial, becas para atletas de élite, preparación Olímpica y Panamericana, repatriación de talento deportivo emigrado mediante incentivos fiscales y contractuales.
 
@@ -230,7 +230,7 @@ La unificación deporte-educación tiene sinergias específicas:
 
 ---
 
-## III.3.4. Articulación interinstitucional
+## IV. Articulación interinstitucional
 
 El MIED-LAM no compite con otros ministerios sino que coordina con ellos mediante convenios marco con fuerza obligatoria:
 
@@ -241,14 +241,14 @@ El MIED-LAM no compite con otros ministerios sino que coordina con ellos mediant
 | Ministerio del Poder Popular para la Cultura | Patrimonio cultural, artes en currículo escolar, formación artística |
 | Ministerio del Poder Popular para la Defensa | Civismo, defensa civil, servicio comunitario, deporte militar |
 | Ministerio del Poder Popular para las Relaciones Exteriores | Becas internacionales, intercambios deportivos |
-| Comisión Nacional del Servicio Civil (Pilar III.1) | Diseño conjunto de concursos para docentes y funcionarios del MIED-LAM |
-| Alcaldías (Pilar III.5) | Mantenimiento de infraestructura educativa y deportiva, transporte escolar, deporte comunitario |
+| Comisión Nacional del Servicio Civil (Pilar I) | Diseño conjunto de concursos para docentes y funcionarios del MIED-LAM |
+| Alcaldías (Pilar V) | Mantenimiento de infraestructura educativa y deportiva, transporte escolar, deporte comunitario |
 
 Los convenios marco se publican en Gaceta Oficial y son públicos. Su modificación requiere mayoría simple del Directorio del MIED-LAM y de la contraparte, con notificación obligatoria a la Asamblea Nacional.
 
 ---
 
-## III.3.5. Evaluación, transparencia y rendición de cuentas
+## V. Evaluación, transparencia y rendición de cuentas
 
 El MIED-LAM publica cada año:
 
@@ -259,7 +259,7 @@ El MIED-LAM publica cada año:
 
 Toda la información se publica en formato de datos abiertos en el portal del MIED-LAM, accesible sin restricciones, siguiendo estándares internacionales (CKAN, Open Data Charter).
 
-## III.3.6. Cronograma de implementación
+## VI. Cronograma de implementación
 
 | Fase | Período | Hitos principales |
 |------|---------|-------------------|
@@ -269,7 +269,7 @@ Toda la información se publica en formato de datos abiertos en el portal del MI
 | **3. Consolidación** | Años 5-7 | Cobertura plena + segunda evaluación externa con comparación internacional + ajustes |
 | **4. Sostenibilidad** | Años 8-12 | Evaluación quinquenal de impacto + reformas curriculares derivadas de la evidencia + repatriación de talento deportivo y docente |
 
-## III.3.7. Indicadores de éxito
+## VII. Indicadores de éxito
 
 | Indicador | Línea base (202X) | Meta año 3 | Meta año 6 | Meta año 10 |
 |-----------|-------------------|------------|------------|-------------|
@@ -286,7 +286,7 @@ Toda la información se publica en formato de datos abiertos en el portal del MI
 | Posición Venezuela en medallero Olímpico Panamericano | Descendente | Top 15 | Top 10 | Top 8 |
 | Deserción escolar (% cohorte) | ~40% | 25% | 12% | <5% |
 
-## III.3.8. Riesgos y mitigación
+## VIII. Riesgos y mitigación
 
 | Riesgo | Prob. | Impacto | Mitigación |
 |--------|------|---------|------------|
@@ -298,7 +298,7 @@ Toda la información se publica en formato de datos abiertos en el portal del MI
 | Fuga de cuadros técnicos formados | Alta | Alto | Escala salarial competitiva + becas de retorno + régimen de compatibilidad con investigación académica |
 | Captura del deporte de alta competencia por patrocinadores privados con interés político | Media | Alto | Sistema de becas meritocráticas con veeduría internacional + códigos de ética deportiva + auditoría anual de la Contraloría |
 
-## III.3.9. Nota biográfica: Luis Alberto Machado (1927-2019)
+## III.9. Nota biográfica: Luis Alberto Machado (1927-2019)
 
 Luis Alberto Machado nació en Maracaibo en 1927. Abogado (Universidad Central de Venezuela, 1951), filósofo, escritor y político. Autor de las obras fundacionales:
 
@@ -316,7 +316,7 @@ Su advertencia en la inauguración del MEDI fue premonitoria: *"Por primera vez 
 
 ---
 
-*Continuará: III.4 Reforma fiscal + financiamiento territorial → III.5 Reforma económica y productiva (nuevo).*
+*Continuará: IV Reforma fiscal + financiamiento territorial → V Reforma económica y productiva (nuevo).*
 
 ---
 

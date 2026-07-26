@@ -1,8 +1,8 @@
 ---
 titulo: "Ficha Técnica — Consejo Nacional de Defensa (ente presidencial)"
-version: "0.1 (H10.10 — versión ficha técnica, 25-jul-2026)"
+version: "0.1 (FT.10 — versión ficha técnica, 25-jul-2026)"
 estado: "Borrador operativo. Ficha técnica del ente presidencial dependiente directo del Presidente de la República; sucesor del MPP Defensa #23 vigente. Articulación con reforma Arts. 332-333 CRBV y carácter civil de los cuerpos."
-parte: "H10 — Fichas Técnicas Ministeriales"
+parte: "FT — Fichas Técnicas"
 ministerio: "NO es un ministerio — dependiente directo del Presidente de la República"
 ministerios_agrupados_vigentes: "#23 MPP Defensa (suprimido) — se adscribe al ente presidencial"
 entes_maximos_segun_tope: "~3-4 entes de los 40 totales"
@@ -13,23 +13,23 @@ reforma_crbv: "Arts. 332-333 reformados (carácter civil de los cuerpos)"
 relaciones_con_otros_organos:
   - "CPNP + CICPC + JNEM del Ministerio del Interior #1 (civil, fuera de Fuerza Armada)"
   - "Ministerio de Gobierno Digital #7 para BND + VePass-Firma obligatoria"
-  - "Poder Ciudadano (Pilar III.6) para interfaz con Ministerio Público (extradiciones)"
+  - "Poder Ciudadano (Pilar VI) para interfaz con Ministerio Público (extradiciones)"
   - "Ministerio de Relaciones Exteriores #8 para demandas internacionales"
 ---
 
-# H10.10 — Ficha Técnica del Consejo Nacional de Defensa (ente presidencial)
+# FT.10 — Ficha Técnica del Consejo Nacional de Defensa (ente presidencial)
 
 > **Mandato presidencial**:
 >
 > *"El Consejo Nacional de Defensa se constituye como ente dependiente directo del Presidente de la República, Comandante en Jefe de las Fuerzas Armadas; comprenderá la Fuerza Armada Nacional Bolivariana en su carácter militar estricto (Ejército, Armada, Aviación, Guardia Nacional Bolivariana); la reforma de los Arts. 332-333 CRBV consagra el carácter civil de los cuerpos de seguridad pública (CPNP+CICPC+JNEM) que pasan al Ministerio del Interior y Seguridad; la inteligencia militar bajo supervision civil estricta; cualquier participación de fuerzas militares en funciones civiles de orden público constituye inconstitucionalidad; las Fuerzas Armadas se profesionalizan, se especializan y se blindan contra uso político partidista."*
 
-El **Consejo Nacional de Defensa** es el **ente presidencial** dependiente directamente del Comandante en Jefe de la Fuerza Armada Nacional (el Presidente de la República conforme al Art. 236.6 CRBV). No es un ministerio del Ejecutivo. Es el sucesor institucional del MPP Defensa #23 vigente, pero suprimido como ministerio. Cubre la **vertiente militar del Estado** con separación clara de las funciones civiles de seguridad (Pilar III.2).
+El **Consejo Nacional de Defensa** es el **ente presidencial** dependiente directamente del Comandante en Jefe de la Fuerza Armada Nacional (el Presidente de la República conforme al Art. 236.6 CRBV). No es un ministerio del Ejecutivo. Es el sucesor institucional del MPP Defensa #23 vigente, pero suprimido como ministerio. Cubre la **vertiente militar del Estado** con separación clara de las funciones civiles de seguridad (Pilar II).
 
 Adscribe las funciones del MPP Defensa #23 + GNB (carácter militar tras reforma Art. 332-333) + DGCIM (a suprimir reformada) + IAN (cuadros específicos) + entes adscritos.
 
 ## 0. Resumen ejecutivo
 
-**Adscripción**: 1 ministerio vigente suprimido + transferencia civil de CPNP+CICPC+JNEM al Ministerio del Interior (Pilar III.2).
+**Adscripción**: 1 ministerio vigente suprimido + transferencia civil de CPNP+CICPC+JNEM al Ministerio del Interior (Pilar II).
 
 **Objetivo central**: profesionalización militar al estándar OTAN, democrática y sujeto a control civil eficaz. Las FAN se especializan en:
 
@@ -106,7 +106,7 @@ Consejo Nacional de Defensa (ente presidencial)
 │   │   ├── Escuela Conjunta de Operaciones Militares
 │   │   └── Oficina de Cooperación Bilateral Militar
 │   │
-│   ├── DNPEP-Militar — Coordinación con DNPEP (Pilar III.8)
+│   ├── DNPEP-Militar — Coordinación con DNPEP (Pilar VIII)
 │   ├── Dirección General de Defensa Civil (coordinación con Gestión de Riesgos del MIS)
 │   └── Secretaría General del Consejo Nacional de Defensa
 │       ├── Oficina Nacional de Prestaciones Sociales del Militar (IPSFA reformada)
@@ -150,8 +150,8 @@ Consejo Nacional de Defensa (ente presidencial)
 **Total entes**: 3 dentro del tope de 40 (Art. 9 Texto Articulado).
 
 > **Entes suprimidos o transferidos**:
-> - SEBIN: suprimido (Pilar III.2 — funciones civiles transferidas al CPNP).
-> - PNB (Policía Nacional Bolivariana): funciones civiles transferidas al CPNP (Pilar III.2 del MIS).
+> - SEBIN: suprimido (Pilar II — funciones civiles transferidas al CPNP).
+> - PNB (Policía Nacional Bolivariana): funciones civiles transferidas al CPNP (Pilar II del MIS).
 > - DGCIM como entidad paramilitar: suprimida; dirección reformada (sólo inteligencia militar técnica).
 
 ## 4. Designaciones políticas del ente
@@ -206,8 +206,8 @@ Reseña: **ningún militar profesional cobra prima política ni gastos reservado
 |---|---|---|---|
 | Masa salarial militar profesional (tropa + oficiales + sub-oficiales, ~80K efectivos) | 1.200M | 0,55% | Escala USD 1.800-15K/mes (Art. 5); tope 14:1; VePass-Firma obligatoria |
 | Operación y mantenimiento de equipos (Ejército + Armada + Aviación + GNB) | 900M | 0,41% | Incluye mantenimiento corriente; reposición equipos + munición |
-| Inversiones plurianuales (modernización + readecuación + doctrina militar nueva) | 700M | 0,32% | Ring-fenced vía Presupuesto Plurianual Vinculante del Pilar III.8; no reprogramable |
-| Inteligencia militar técnica (sucesión DGCIM reformada) | 280M | 0,13% | VePass-Firma obligatoria + supervisión DNA-RB (Pilar III.6) |
+| Inversiones plurianuales (modernización + readecuación + doctrina militar nueva) | 700M | 0,32% | Ring-fenced vía Presupuesto Plurianual Vinculante del Pilar VIII; no reprogramable |
+| Inteligencia militar técnica (sucesión DGCIM reformada) | 280M | 0,13% | VePass-Firma obligatoria + supervisión DNA-RB (Pilar VI) |
 | UNEFM (academia militar) + IAN (cuadros específicos) | 180M | 0,08% | Becas mérito; coordinación MIED-LAM para carreras cognitivas |
 | IPSFA (previsión social militar) | 350M | 0,16% | Régimen especial cerrado, sin nuevas admisiones; pasivo controlado |
 | COPREFA (coordinación civil-militar emergencias) | 50M | 0,02% | Servicio desconcentrado civil-militar; coordina con MIS + MED + MA |
@@ -236,10 +236,10 @@ Reseña: **ningún militar profesional cobra prima política ni gastos reservado
 |---|---|---|---|
 | **Captura partidista de la FAN** pese a la reforma | Alta | Crítico | Cláusula 3/4 + referendum + veeduría internacional 8 años + CNSC concurso + COPREFA civil |
 | **Uso político de FAN durante elecciones** (ciclo electoral crítico) | Alta | Crítico | Códigos DDHH militar impuestos con VePass-Firma; Tribunal Disciplinario Independiente; veeduría anual OACNUDH+CIDH |
-| **Perpetuación militar de cuerpos paramilitares disfrazados** | Alta | Crítico | Supresión efectiva DGCIM como paramilitar; reforma al carácter técnico; veeduría de 5 entidades internacionales (descritas en H10.8 — Relaciones Exteriores) |
+| **Perpetuación militar de cuerpos paramilitares disfrazados** | Alta | Crítico | Supresión efectiva DGCIM como paramilitar; reforma al carácter técnico; veeduría de 5 entidades internacionales (descritas en FT.8 — Relaciones Exteriores) |
 | **Represión a través de operaciones de inteligencia militar** | Alta | Crítico | Límites claridad funcional entre inteligencia militar (técnica de defensa) e inteligencia civil (Poder Ciudadano + MIS); prohíbe explícitamente |
 | **Fuga de cuadros técnicos** a actividades paramilitares privadas | Media | Alto | Escala salarial competitiva + VePass-Reincorporación + régimen disciplinario VePass-Firma |
-| **Caída del mantenimiento técnico** por mala gestión presupuestaria | Media | Alto | ENPP del Pilar III.4 + auditoria DNPEP-DNA-RB + Veeduría Internacional Permanente |
+| **Caída del mantenimiento técnico** por mala gestión presupuestaria | Media | Alto | ENPP del Pilar IV + auditoria DNPEP-DNA-RB + Veeduría Internacional Permanente |
 
 ## 10. Cláusula de continuidad específica
 
@@ -265,10 +265,10 @@ Reseña: **ningún militar profesional cobra prima política ni gastos reservado
 
 ## 12. Documentos conexos
 
-- **Pilar III.2** — Fuente doctrinal completa del nuevo carácter civil del CPNP+CICPC+JNEM.
-- **Pilar III.6** — DNA-RB coordina con Consejo Nacional de Defensa para violaciones graves a DDHH cometidas por personal militar.
-- **Pilar III.7** — BND para VePass-Firma obligatoria + trazabilidad de actos militares.
-- **Pilar III.8** — DNPEP coordinaría auditoría militar con estadísticas presupuestarias.
+- **Pilar II** — Fuente doctrinal completa del nuevo carácter civil del CPNP+CICPC+JNEM.
+- **Pilar VI** — DNA-RB coordina con Consejo Nacional de Defensa para violaciones graves a DDHH cometidas por personal militar.
+- **Pilar VII** — BND para VePass-Firma obligatoria + trazabilidad de actos militares.
+- **Pilar VIII** — DNPEP coordinaría auditoría militar con estadísticas presupuestarias.
 - **Texto Articulado Arts. 261-280** — Reforma del régimen militar venezolano.
 - **Anexo A.5** — rattachation vigente.
 - **Anexo A.10** — distribución de funciones del ex-MPP Defensa.
@@ -279,4 +279,4 @@ Reseña: **ningún militar profesional cobra prima política ni gastos reservado
 
 *Versión 0.1 — 25-jul-2026. Pendiente: descripción detallada por Componente de la FAN + KPIs mensuales.*
 
-**Próxima ficha técnica: H10.11 — Cinco instituciones del Poder Ciudadano ampliado**.
+**Próxima ficha técnica: FT.11 — Cinco instituciones del Poder Ciudadano ampliado**.

@@ -1,8 +1,8 @@
 ---
 titulo: "Ficha Técnica — Cinco instituciones del Poder Ciudadano ampliado (Poder Ciudadano)"
-version: "0.1 (H10.11 — versión ficha técnica, 25-jul-2026)"
-estado: "Borrador operativo. Consolida el Poder Ciudadano ampliado del Estado Aceptas con la incorporación de CNSC (Servicio Civil y Función Pública — Pilares III.1) y DNA-RB (Anticorrupción — Pilar III.6 v0.5). Las 5 instituciones son independientes del Ejecutivo, Blindadas por reforma constitucional."
-parte: "H10 — Fichas Técnicas Ministeriales"
+version: "0.1 (FT.11 — versión ficha técnica, 25-jul-2026)"
+estado: "Borrador operativo. Consolida el Poder Ciudadano ampliado del Estado Aceptas con la incorporación de CNSC (Servicio Civil y Función Pública — Pilares I) y DNA-RB (Anticorrupción — Pilar VI v0.5). Las 5 instituciones son independientes del Ejecutivo, Blindadas por reforma constitucional."
+parte: "FT — Fichas Técnicas"
 ente: "PODER CIUDADANO (Art. 273 CRBV reformado) — NO adscrito al Poder Ejecutivo"
 entes: 5
 clausula_continuidad: "3/4 + referéndum popular ratificatorio (Innovación #1)"
@@ -11,7 +11,7 @@ presidente_o_consejo: "Cada una de las 5 instituciones con director independient
 veeduria_objetivo: "Velar por la integridad del régimen del Poder Ciudadano frente a cualquier Ejecutivo (blindaje contra captura partidista)"
 ---
 
-# H10.11 — Ficha Técnica: Las Cinco Instituciones del Poder Ciudadano Ampliado
+# FT.11 — Ficha Técnica: Las Cinco Instituciones del Poder Ciudadano Ampliado
 
 > **Mandato constitucional del Poder Ciudadano ampliado** (Art. 273 reformado):
 >
@@ -32,8 +32,8 @@ Esta arquitectura materializa la **Innovación Arquitectónica #9** del proyecto
 | # | Institución | Función principal | Pilar de origen | Reforma arquitectónica |
 |---|---|---|---|---|
 | 1 | **CGR** (Contraloría General de la República) | Fiscalización administrativa general + auditoría de fondos públicos | Art. 288 CRBV vigente | Se mantiene como **órgano del Poder Ciudadano**. **NO es absorbida por DNA-RB**. DNA-RB enfoca penalmente; CGR enfoca administrativamente |
-| 2 | **Defensor del Pueblo** | Promoción y protección de derechos humanos | Art. 280-281 CRBV vigente | Concurso público + AN 3/5 + período único de 6 años no reelegible (Pilar III.6 v0.5 §III.6.7-A reforma) |
-| 3 | **Ministerio Público / Fiscalía General** | Persecución penal general | Art. 273 CRBV vigente | Concurso público + AN 3/5 + período único de 6 años no reelegible (Pilar III.6 v0.5 §III.6.7) |
+| 2 | **Defensor del Pueblo** | Promoción y protección de derechos humanos | Art. 280-281 CRBV vigente | Concurso público + AN 3/5 + período único de 6 años no reelegible (Pilar VI v0.5 §VI.7-A reforma) |
+| 3 | **Ministerio Público / Fiscalía General** | Persecución penal general | Art. 273 CRBV vigente | Concurso público + AN 3/5 + período único de 6 años no reelegible (Pilar VI v0.5 §VI.7) |
 | 4 | **CNSC** (Comisión Nacional del Servicio Civil y Función Pública) | Servicio Civil meritocrático — concursos + RTER + RRET + RTR + régimen disciplinario | Reforma A.273/Nuevo desde Poder Ejecutivo al Poder Ciudadano | **Servicio Civil y Función Pública se adscriben al Poder Ciudadano (no al Ejecutivo)** — decisión 25-jul-2026. Innovador contra la motosierra sucesoria |
 | 5 | **DNA-RB** (Dirección Nacional Anticorrupción "Rómulo Betancourt") | Investigación penal anticorrupción especializada — modelo Singapur CPIB | Nuevo desde Poder Ejecutivo al Poder Ciudadano | **DNA-RB pasa del catálogo ministerial al Poder Ciudadano** — decisión 25-jul-2026. Rinde cuentas directa a la AN 3/5 (no al Ejecutivo) |
 
@@ -60,7 +60,7 @@ Esta arquitectura materializa la **Innovación Arquitectónica #9** del proyecto
 | **Reforma LOCGR** (Ley Orgánica de la Contraloría General 2010) | Reforma | Mantener subsistencia; reforzar autonomía funcional; integrar VePass-Firma + BND-IP |
 | **Reforma Ley Orgánica de la Defensoría del Pueblo (2006)** | Reforma | Régimen concursado + 6 años único; veeduría OACNUDH-CIDH-PNUD 8 años |
 | **Reforma Ley Orgánica del Ministerio Público (2006, modificaciones 2015)** | Reforma | Concurso + 6 años único + terrorismo de Estado + régimen VePass |
-| **Reforma LOCD-DNARBs** (Ley Orgánica DNA-RB - sección Pilares III.6) | Reforma | Mantenimiento como Pilar III.6 v0.5 + adscipción al Poder Ciudadano |
+| **Reforma LOCD-DNARBs** (Ley Orgánica DNA-RB - sección Pilares VI) | Reforma | Mantenimiento como Pilar VI v0.5 + adscipción al Poder Ciudadano |
 | **Reforma LOCE** (Ley Orgánica de la Ciudadanía de la Información y el Ejecutivo) | Reforma | Coordinación de VePass-Firma entre TODAS las instituciones del Poder Ciudadano y Poder Ejecutivo |
 
 ## 2. Estructura orgánica
@@ -95,7 +95,7 @@ Poder Ciudadano Ampliado (4° Poder del Estado Aceptas)
 │   │   ├── Fiscalía Penal General
 │   │   ├── Fiscalía Anticorrupción Especializada (vinculada con DNA-RB)
 │   │   ├── Fiscalía de DDHH
-│   │   ├── Fiscalía Penal Militar (en coordinación con Tribunales Disciplinarios del H10.10)
+│   │   ├── Fiscalía Penal Militar (en coordinación con Tribunales Disciplinarios del FT.10)
 │   │   ├── Fiscalía Contra Delitos Informáticos (en coordinación con MIS/Gobierno Digital)
 │   │   ├── Fiscalía Contra la Trata y Tráfico de Personas (en coordinación con MRE #8)
 │   │   └── Fiscalía Ambiental (en coordinación con Ministerio del Ambiente #9)
@@ -164,7 +164,7 @@ Tope 14:1 (salvo que requieran sobresueldo fijo por transporte o representación
 
 ## 5. Procedimientos estatutarios de los titulares
 
-(Replica Pilar III.6 v0.5 §III.6.7 cláusulas para Defensor + Fiscal + DNA-RB)
+(Replica Pilar VI v0.5 §VI.7 cláusulas para Defensor + Fiscal + DNA-RB)
 
 ### 5.1 Cláusula común para todos los titulares del Poder Ciudadano
 
@@ -173,9 +173,9 @@ Tope 14:1 (salvo que requieran sobresueldo fijo por transporte o representación
 3. **Período único de seis (6) años, no reelegible** (con excepción del Directorio CNSC, que es 9 años).
 4. **Incompatibilidad absoluta** con actividades políticas o comerciales con el Estado.
 5. **Incompatibilidad post-mandato de 5 años**.
-6. **Cláusula de destitución por la AN con 3/4** con 7 causales taxativas (análogas a Pilar III.6 v0.5).
+6. **Cláusula de destitución por la AN con 3/4** con 7 causales taxativas (análogas a Pilar VI v0.5).
 7. **Causal #6 común a todo el Poder Ciudadano**: obstrucción deliberada a la Veeduría Internacional Permanente OACNUDH+CIDH.
-8. **Inmunidad funcional**: cualquier investigación o procesamiento penal requiere jurisdicción directamente ante las Sala Penal + Sala Plena del TSJ meritocrático (Pilar III.5 §III.5.5).
+8. **Inmunidad funcional**: cualquier investigación o procesamiento penal requiere jurisdicción directamente ante las Sala Penal + Sala Plena del TSJ meritocrático (Pilar V §V.5).
 
 ## 6. Innovaciones arquitectónicas materializadas
 
@@ -241,7 +241,7 @@ Tope 14:1 (salvo que requieran sobresueldo fijo por transporte o representación
   - Recuperación de activos (para agencias nacionales e internacionales).
   - Coordinación con INTERPOL + OACNUDH + CPI + CIJ.
   - Auditoría integrada al DNPEP-DNA-RB para inversiones públicas.
-- **Recursos**: ~USD 150M/año (presupuesto transferido mensualmente del BCV; 0,5% PIB conforme Pilar III.6).
+- **Recursos**: ~USD 150M/año (presupuesto transferido mensualmente del BCV; 0,5% PIB conforme Pilar VI).
 - **Modelo**: Singapur CPIB (Corrupt Practices Investigation Bureau).
 - **Reseña fundamental**: la DNA-RB no está bajo el Ejecutivo. **Investigación anticorrupción NO depende del partido de turno**. Esta es la única manera de evitar la captura del organismo anticorrupción.
 
@@ -323,17 +323,17 @@ Tope 14:1 (salvo que requieran sobresueldo fijo por transporte o representación
 
 ## 14. Documentos conexos
 
-- **Pilar III.1** — Servicio Civil Meritocrático (Pilares I.3+y II; 12 reformas apuntadas).
-- **Pilar III.6 v0.5** — DNA-RB + CGR + Defensor + Fiscalía (completo).
-- **Pilar III.7** — BND + VePass-Firma obligatoria + datos abiertos.
-- **Pilar III.5** — Coordinación Ministerial de Anticorrupción especializada (privatización PDVSA matriz).
+- **Pilar I** — Servicio Civil Meritocrático (Pilares I.3+y II; 12 reformas apuntadas).
+- **Pilar VI v0.5** — DNA-RB + CGR + Defensor + Fiscalía (completo).
+- **Pilar VII** — BND + VePass-Firma obligatoria + datos abiertos.
+- **Pilar V** — Coordinación Ministerial de Anticorrupción especializada (privatización PDVSA matriz).
 - **Texto Articulado Arts. 281-310** — Reforma del Poder Ciudadano.
 - **Anexo A.5** — rattachation del Servicio Civil y de la Anticorrupción al Poder Ciudadano.
 
 ---
 
-*Esta ficha operativa consolida el Poder Ciudadano ampliado del Estado Aceptas sin duplicar la doctrina del Pilar III.6 v0.5 ni los referenciados.*
+*Esta ficha operativa consolida el Poder Ciudadano ampliado del Estado Aceptas sin duplicar la doctrina del Pilar VI v0.5 ni los referenciados.*
 
 *Versión 0.1 — 25-jul-2026. Pendiente: descripción detallada por institución + KPIs mensuales.*
 
-**Próximo paso en H10**: tras esta ficha, todas las fichas H10 principales (1-9 + 10 + 11) están cerradas. Pendiente la apertura del PR final develop → main al cierre del H10.
+**Próximo paso**: tras esta ficha, todas las fichas FT principales (1-9 + 10 + 11) están cerradas. Pendiente la apertura del PR final develop → main al cierre de las FT.

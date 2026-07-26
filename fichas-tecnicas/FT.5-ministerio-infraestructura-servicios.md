@@ -1,12 +1,12 @@
 ---
 titulo: "Ficha Técnica — Ministerio de Infraestructura y Servicios"
-version: "0.1 (H10.5 — versión ficha técnica, 25-jul-2026)"
-estado: "Borrador operativo. Operacionaliza los regímenes de privatización del Pilar III.5 v0.2 (Corpoelec, CANTV, HIDROVEN 9 hidrológicas, transporte, vivienda) y la creación de reguladores independientes CONAELEC + SUNAA."
-parte: "H10 — Fichas Técnicas Ministeriales"
+version: "0.1 (FT.5 — versión ficha técnica, 25-jul-2026)"
+estado: "Borrador operativo. Operacionaliza los regímenes de privatización del Pilar V v0.2 (Corpoelec, CANTV, HIDROVEN 9 hidrológicas, transporte, vivienda) y la creación de reguladores independientes CONAELEC + SUNAA."
+parte: "FT — Fichas Técnicas"
 ministerio: "Nº 5 — Infraestructura y Servicios"
 ministerios_agrupados_vigentes: "#32 MPP Energía Eléctrica + #33 MPP Atención de las Aguas + #34 MPP Obras Públicas + #35 MPP Transporte + #12 MPP Hábitat y Vivienda"
 entes_maximos_segun_tope: "~6-8 entes de los 40 totales"
-clausula_continuidad: "3/4 + referéndum popular ratificatorio (Innovación #1) — vinculada a privatizaciones + Pilar III.5"
+clausula_continuidad: "3/4 + referéndum popular ratificatorio (Innovación #1) — vinculada a privatizaciones + Pilar V"
 corpoelec_privatizacion: "100% privatizada en 5-7 lotes regionales con régimen 20 años exoneración + sólo IVA año 21"
 hidroven_privatizacion: "100% privatizada en 9 lotes regionales independientes (Hidrocapital, Hidrocentro, Hidrolago, Hidroandes, Hidrolara, Hidrocaribe, Hidropaez, Hidrosuroeste, Hidrollanos)"
 cantv_privatizacion: "100% privatizada + Movilnet + CONATEL como regulador independiente"
@@ -14,13 +14,13 @@ reguladores_independientes: "CONAELEC (eléctrico) + SUNAA (hídrico) + CONATEL 
 veeduria_internacional: "Veeduría Internacional Permanente 8 años (Innovación #2) coordina con PPP-DNP en infracstructura crítica"
 ---
 
-# H10.5 — Ficha Técnica del Ministerio de Infraestructura y Servicios
+# FT.5 — Ficha Técnica del Ministerio de Infraestructura y Servicios
 
 > **Mandato constitucional**:
 >
-> *"Le corresponde al Ministerio de Infraestructura y Servicios diseñar, ejecutar y evaluar las políticas nacionales en materia de energía eléctrica privatizada por regionales + agua potable y saneamiento privatizada por 9 hidrológicas + obras públicas nacionales + transporte multimodal + hábitat y vivienda; coordinar con los reguladores independientes CONAELEC (energía), SUNAA (aguas) y CONATEL (telecomunicaciones); ejecutar el cronograma de privatización 100% de Corpoelec, HIDROVEN-9-regionales, CANTV y Movilnet con régimen 20 años exoneración + sólo IVA en año 21; mantener el régimen de Infraestructura Nacional con cláusulas de continuidad anti-cambio político; facilitar la regeneración del transporte urbano con VePass-Firma individual en cada modo; coordinar con la DNPEP del Pilar III.8 el Presupuesto Plurianual."*
+> *"Le corresponde al Ministerio de Infraestructura y Servicios diseñar, ejecutar y evaluar las políticas nacionales en materia de energía eléctrica privatizada por regionales + agua potable y saneamiento privatizada por 9 hidrológicas + obras públicas nacionales + transporte multimodal + hábitat y vivienda; coordinar con los reguladores independientes CONAELEC (energía), SUNAA (aguas) y CONATEL (telecomunicaciones); ejecutar el cronograma de privatización 100% de Corpoelec, HIDROVEN-9-regionales, CANTV y Movilnet con régimen 20 años exoneración + sólo IVA en año 21; mantener el régimen de Infraestructura Nacional con cláusulas de continuidad anti-cambio político; facilitar la regeneración del transporte urbano con VePass-Firma individual en cada modo; coordinar con la DNPEP del Pilar VIII el Presupuesto Plurianual."*
 
-El Ministerio de Infraestructura y Servicios es **el ministerio del Estado reformado con mayor volumen operativo privatizador**: ejecuta la **privatización 100% de tres sectores críticos** (electricidad, agua, telecomunicaciones) bajo un cronograma de 12 meses, mientras mantiene la rectoría de obras públicas, transporte multimodal y vivienda social. Está condicionado por dos regímenes de cláusulas de continuidad (Pilar III.5 para privadas + Pilar III.4 FEM para inversiones) y por dos organismos de veeduría internacional (OACNUDH CIDH para Bodyelec SUNAA CONATEL).
+El Ministerio de Infraestructura y Servicios es **el ministerio del Estado reformado con mayor volumen operativo privatizador**: ejecuta la **privatización 100% de tres sectores críticos** (electricidad, agua, telecomunicaciones) bajo un cronograma de 12 meses, mientras mantiene la rectoría de obras públicas, transporte multimodal y vivienda social. Está condicionado por dos regímenes de cláusulas de continuidad (Pilar V para privadas + Pilar IV FEM para inversiones) y por dos organismos de veeduría internacional (OACNUDH CIDH para Bodyelec SUNAA CONATEL).
 
 La paradoja constitucional que resuelve: el Estado **deja de operar** energía, agua y telecomunicaciones (transferidos a operadores privados regulados) **PERO** mantiene el control público indirecto del BLOQUE de cláusulas de continuidad + la potestad regulatoria de los entes independientes (CONAELEC SUNAA CONATEL) + el establecimiento de la politica habitacional y obras públicas. Es decir, el ministerio pasa de "operador" a "coordinador-regulador".
 
@@ -28,7 +28,7 @@ La paradoja constitucional que resuelve: el Estado **deja de operar** energía, 
 
 **Adscripción**: 5 ministerios vigentes concentrados.
 
-**Privatización 100% cronograma 12 meses** (Pilar III.5 cronograma):
+**Privatización 100% cronograma 12 meses** (Pilar V cronograma):
 
 | Sector | Cronograma | Modelo | Ingresos esperados |
 |---|---|---|---|
@@ -43,7 +43,7 @@ La paradoja constitucional que resuelve: el Estado **deja de operar** energía, 
 - **SUNAA** — agua potable y saneamiento, modelo OFGEM/UK análogo + 9 agencias regionales equivalentes
 - **CONATEL** — telecomunicaciones, ya existente (LOTEL 2011) reformada para mayor independencia técnica
 
-**Vinculación con el MIED-LAM**: los nuevos operadores privados deben comprometerse a implementar programas de capacitación en administración de empresas con VePass-Firma obligatoria, conforme al Pilar III.3.
+**Vinculación con el MIED-LAM**: los nuevos operadores privados deben comprometerse a implementar programas de capacitación en administración de empresas con VePass-Firma obligatoria, conforme al Pilar III.
 
 ## 1. Marco constitucional y legal
 
@@ -52,7 +52,7 @@ La paradoja constitucional que resuelve: el Estado **deja de operar** energía, 
 | Reforma CRBV | Justificación |
 |---|---|
 | **Art. 302 reformado (inciso final)** | Sector eléctrico, telecomunicaciones y agua salen de la reserva estatal (privatizables al 100%); refinación y petroquímica básica mantienen reserva |
-| **Art. 178 reformado** | Catálogo taxativo de ingresos propios municipales + FCM/FEM con rango constitucional — refuerza la autonomía territorial para obras públicas municipales (Pilar III.4) |
+| **Art. 178 reformado** | Catálogo taxativo de ingresos propios municipales + FCM/FEM con rango constitucional — refuerza la autonomía territorial para obras públicas municipales (Pilar IV) |
 | **Art. 184 reformado (competencia nacional)** | Definición explícita de "obras públicas nacionales" vs "obras públicas municipales" + coordinación con alcaldías |
 
 ### 1.2 Leyes orgánicas nuevas y reformas necesarias
@@ -60,7 +60,7 @@ La paradoja constitucional que resuelve: el Estado **deja de operar** energía, 
 | Ley | Estado | Función |
 |---|---|---|
 | **LORPSP** (Ley Orgánica de Régimen de Privatización de Servicios Públicos) | A redactar Título V Texto Articulado | Régimen uniforme de privatización con cláusulas de continuidad anti-discontinuidad |
-| **Reforma Ley Orgánica del Servicio Eléctrico (1999)** | A redactar conforme Pilar III.5 | Eliminar monopolio estatal + privatización + régimen 20 años exoneración |
+| **Reforma Ley Orgánica del Servicio Eléctrico (1999)** | A redactar conforme Pilar V | Eliminar monopolio estatal + privatización + régimen 20 años exoneración |
 | **Nueva LOEA** (Ley Orgánica de Energía Eléctrica y Telecomunicaciones) | A redactar | Régimen institucional común a energía eléctrica + telecomunicaciones, con servicio universal garantizado |
 | **Nueva LOAPSA** (Ley Orgánica del Agua Potable y Saneamiento) | A redactar Título XIV Texto Articulado | Reforma integral del sector hídrico + 9 hidrológicas + SUNAA independiente |
 | **Reforma Ley Orgánica de Transporte y Tránsito Terrestre (2009)** | A redactar | Sistema nacional de transporte multimodal + régimen de operación privada supervisada |
@@ -71,7 +71,7 @@ La paradoja constitucional que resuelve: el Estado **deja de operar** energía, 
 
 - **Texto Articulado Arts. 41-44** — Telecomunicaciones (CANTV/Movilnet, ya redactado).
 - **Texto Articulado Arts. 31-34** — Electricidad (privatización Corpoelec, ya redactado).
-- **Texto Articulado Título XIV** — Agua Potable y Saneamiento (9 hidrológicas + SUNAA, Pilar III.4 §A.5 ya redactado).
+- **Texto Articulado Título XIV** — Agua Potable y Saneamiento (9 hidrológicas + SUNAA, Pilar IV §A.5 ya redactado).
 
 ## 2. Estructura orgánica
 
@@ -160,7 +160,7 @@ Régimen idéntico al eléctrico (20 años exoneración + IVA, ISLR año 21) + c
 - **CANTV** privatización 100%: enajenación accionaria mes 0-6. Marco regulatorio CONATEL independiente.
 - **Movilnet** privatización 100%: enajenación mes 6-12.
 - CONATEL se mantiene como regulador técnico con LOTEL 2011 reformada.
-- BOLIPUERTOS + BAERONAVES privatizables (Pilar III.5).
+- BOLIPUERTOS + BAERONAVES privatizables (Pilar V).
 - Servicio Universal garantizado por pliego + tarifa social focalizada.
 
 #### 2.2.4 Transporte Multimodal
@@ -181,7 +181,7 @@ Tierra + aire + agua + ferroviario:
 #### 2.2.6 Hábitat y Vivienda
 
 - Programas habitacionales
-- Regularización de tierras urbanas + catastro digital (Pilar III.7)
+- Regularización de tierras urbanas + catastro digital (Pilar VII)
 - BANAVIH transformado en banca de vivienda
 - Vivienda rural y comunitaria en coordinación con pueblos indígenas (Viceministerio de Interior)
 
@@ -207,7 +207,7 @@ Tierra + aire + agua + ferroviario:
 > - 9 hidroregionales: privatizadas mes 0-12
 > - MERCAL: transferida al Ministerio de Economía y Finanzas §Alimentación
 > - PLC: privatizada en el lote correspondiente
-> - FONTUR + INAVI + BANAVIH + BOLIPUERTOS + BAERONAVES + CONVIASA: privatizables (Pilar III.5)
+> - FONTUR + INAVI + BANAVIH + BOLIPUERTOS + BAERONAVES + CONVIASA: privatizables (Pilar V)
 > - IAFE: integrado en INAFAE
 > - CANTV + MOVILNET: privatizadas mes 0-12
 > - CONSTRUMETRO: privatizada o disuelta con sus activos transferidos a filiales
@@ -281,7 +281,7 @@ Todos los cargos directivos son concursados CNSC. Cada decisión del ministerio 
 
 - Reforma LOTEL 2011 para mayor independencia técnica.
 - Privatización 100% de CANTV + Movilnet + sus lotes.
-- BOLIPUERTOS privatizable y BAERONAVES privatizable (Pilar III.5).
+- BOLIPUERTOS privatizable y BAERONAVES privatizable (Pilar V).
 - Servicio universal por pliego.
 
 ## 7. Cronograma 12 meses (privatización + obra pública)
@@ -293,8 +293,8 @@ Todos los cargos directivos son concursados CNSC. Cada decisión del ministerio 
 | 3-6 | **CANTV privatizada** (adjudicación + transferencia de 100%). **Hidrocapital e Hidrocentro** y **2da fila de hidrológicas** (Hidrolago, Hidroandes) licitadas. 2 lotes regionales Corpoelec licitados. |
 | 4-6 | **Transición operativa**: marcado de la nueva matriz HIDROVEN estatal + directorio meritocrático de SUNAA. |
 | 6-9 | **Movilnet privatizada**. 3ra fila de hidrológicas (Hidrolara, Hidrocaribe). 2 lotes Corpoelec adicionales licitados. |
-| 9-12 | **4ta fila de hidrológicas** (Hidropáez, Hidrosuroeste, Hidrollanos). Último lote Corpoelec. Estabilización tarifaria con tarifa social focalizada para hogares vulnerables (Pilar III.4 IV-I). |
-| 12 | Directorio PDVSA meritocrático instalado en paralelo (Pilar III.5). Veeduría Internacional Permanente 8 años activa en CONAELEC + SUNAA + CONATEL. |
+| 9-12 | **4ta fila de hidrológicas** (Hidropáez, Hidrosuroeste, Hidrollanos). Último lote Corpoelec. Estabilización tarifaria con tarifa social focalizada para hogares vulnerables (Pilar IV IV-I). |
+| 12 | Directorio PDVSA meritocrático instalado en paralelo (Pilar V). Veeduría Internacional Permanente 8 años activa en CONAELEC + SUNAA + CONATEL. |
 
 ## 8. Presupuesto del Ministerio de Infraestructura y Servicios
 
@@ -304,8 +304,8 @@ Todos los cargos directivos son concursados CNSC. Cada decisión del ministerio 
 | Regulación independiente: CONAELEC + SUNAA + CONATEL | 90M (presupuestos no reprogramables transferidos mensualmente del BCV) | Incluidos aquí como agregado; en realidad se transfieren directamente sin control ministerial |
 | Mantenimiento y operación de infraestructura nacional (obras públicas) | 350M | Carreteras troncales, puentes, aeropuertos, puertos, edificios públicos |
 | Concesión de obras nuevas (licitadas) | 300M | Mixto público-privado, con VePass-Firma individual de los responsables de cada obra |
-| Subsidios cruzados agua + electricidad | 250M | Para hogares vulnerables (Pilar III.4 IV-I, FCM/FEM) |
-| Estudios + catastro digital + vivienda rural + hábitat | 80M | Coordinación con MIED-LAM + BND/Cédula-RUT (Pilar III.7) |
+| Subsidios cruzados agua + electricidad | 250M | Para hogares vulnerables (Pilar IV IV-I, FCM/FEM) |
+| Estudios + catastro digital + vivienda rural + hábitat | 80M | Coordinación con MIED-LAM + BND/Cédula-RUT (Pilar VII) |
 | Reserva emergencia + cooperación internacional con OACNUDH CIDH | 50M | Para veeduría Internacional Permanente 8 años |
 | **Total Ministerio de Infraestructura y Servicios** | **~1.170M USD/año** | ~0,53% PIB |
 
@@ -333,16 +333,16 @@ Todos los cargos directivos son concursados CNSC. Cada decisión del ministerio 
 
 | Riesgo | Prob. | Impacto | Mitigación |
 |---|---|---|---|
-| Fracaso licitaciones Corpoelec por desconfianza inversionista | Alta | Crítico | Enmienda de pliego + prolongación de cronograma + información al BCV para aclarar marco cambiario (Pilar III.4) |
+| Fracaso licitaciones Corpoelec por desconfianza inversionista | Alta | Crítico | Enmienda de pliego + prolongación de cronograma + información al BCV para aclarar marco cambiario (Pilar IV) |
 | Shocks tarifarios post-privatización (riesgo Milei) | Alta | Crítico | Tarifa social focalizada (subsidios cruzados entre sectores) + Fondo de Sostenimiento del Sistema Eléctrico Nacional (FOSEN) y Fondo SUNAA ambiental |
 | Captura regulatoria (reguladores CONAELEC SUNAA CONATEL) | Media | Alto | Directorio 5 miembros por concurso + AN 3/5 + independencia presupuestaria + veeduría OACNUDH CIDH |
 | Resistencia del MIIEE a la fusión conSector Agua privatizado | Media | Medio | Cronograma gradual + compensación al personal transferido |
 | Captura del FOSEN o del Fondo SUNAA | Media | Alto | Auditoría trimestral CGR + reglas automáticas técnicas de movilización de fondos (NO discrecionales) |
-| Caída de la inversión por inconsistencia del cronograma 18m Pilar III.4 | Alta | Alto | Continuidad paralela + inyección FEM + roteiro publicitado internacional |
+| Caída de la inversión por inconsistencia del cronograma 18m Pilar IV | Alta | Alto | Continuidad paralela + inyección FEM + roteiro publicitado internacional |
 | Evasión proporcional en cobranza de servicios | Alta | Medio | Tarifa social con centros de autoliquidación automática (BND-RUI + VePass) |
 | Privatización hidroeléctrica + mineras (aguas arriba) tiene impacto ambiental | Alta | Medio | Consulta con Ministerio del Ambiente + aplicación de directrices ambientales Pilar III.9 (Ambiente) + veeduría LIDHAA |
 | Privatización del transporte aéreo y puertos causa reducción de rutas aisladas | Media | Alto | Servicio universal obligatorio + oscuridad necesaria: rutas pequeñas aislados con subsidación cruzada para las rutas principales |
-| Riesgo tarifa cero-país (no pago de servicios) | Alta | Medio | Mora controlada con indemnización efectiva desde Pov Régeln Local (Pilar III.4) + alimentación inteligente |
+| Riesgo tarifa cero-país (no pago de servicios) | Alta | Medio | Mora controlada con indemnización efectiva desde Pov Régeln Local (Pilar IV) + alimentación inteligente |
 
 ## 11. Cláusula de continuidad específica
 
@@ -358,14 +358,14 @@ Reforma constitucional Art. 343 con blindaje reforzado (analogía MIED-LAM y DNA
 | #2 Veeduría Internacional Permanente | CONAELEC + SUNAA + CONATEL bajo veeduría anual 8 años |
 | #3 VePass-Firma obligatoria | Todas las licitaciones y decisiones + BND-IP estampadas |
 | #6 CEV-CN Carmen Navas | Comité independiente puede investigar decisiones de privatización + recomendar revocación en 60 días |
-| #7 Plan Quinquenal vinculante (Pilar III.8) | Vinculación del Plan Quinquenal Nacional con el cronograma de privatizaciones |
+| #7 Plan Quinquenal vinculante (Pilar VIII) | Vinculación del Plan Quinquenal Nacional con el cronograma de privatizaciones |
 
 ## 13. Documentos conexos
 
-- **Pilar III.5 v0.2** (§III.5.5 Corpoelec + §III.5.6 HIDROVEN — fuente doctrinal completa)
-- **Pilar III.4 v0.1** — FCM / FEM / transferencias a municipios
-- **Pilar III.2 v0.1** — Coordinación con CPNP en infraestructura crítica
-- **Pilar III.7** — BND + VePass-Firma
+- **Pilar V v0.2** (§V.5 Corpoelec + §V.6 HIDROVEN — fuente doctrinal completa)
+- **Pilar IV v0.1** — FCM / FEM / transferencias a municipios
+- **Pilar II v0.1** — Coordinación con CPNP en infraestructura crítica
+- **Pilar VII** — BND + VePass-Firma
 - **Pilar III.9 Ambiente** — Política ambiental de agua y residuos
 - **Texto Articulado Arts. 41-44** — Telecom (CANTV/Movilnet)
 - **Texto Articulado Arts. 31-34** — Electricidad (privatización Corpoelec)
@@ -375,6 +375,6 @@ Reforma constitucional Art. 343 con blindaje reforzado (analogía MIED-LAM y DNA
 
 ---
 
-*Esta ficha operativa consolida y operacionaliza la doctrina del Pilar III.5 sin duplicarla. El cronograma 12m de privatización completa + 3 reguladores independentes + régimen 20 años exoneración son los elementos centralmente operativos del ministerio.*
+*Esta ficha operativa consolida y operacionaliza la doctrina del Pilar V sin duplicarla. El cronograma 12m de privatización completa + 3 reguladores independentes + régimen 20 años exoneración son los elementos centralmente operativos del ministerio.*
 
 *Versión 0.1 — 25-jul-2026. Pendiente: descripción detallada por Viceministerio + KPIs mensuales.*

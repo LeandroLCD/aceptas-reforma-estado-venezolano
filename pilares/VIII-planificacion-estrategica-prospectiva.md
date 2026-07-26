@@ -1,6 +1,6 @@
 ---
-titulo: Reforma Integral del Estado Venezolano - Pilar III.8 Planificación Estratégica y Prospectiva
-parte: Parte III — Pilares de la Reforma · Pilar III.8
+titulo: Reforma Integral del Estado Venezolano - Pilar VIII Planificación Estratégica y Prospectiva
+parte: Parte III — Pilares de la Reforma · Pilar VIII
 version: 0.1
 fecha: 2026-07-16
 marco_legal: CRBV arts. 299, 313, 314; LOPP 2014 (LOPSPP — Sistema Nacional de Planificación); LOAFSP 2000 (administración financiera); legislación complementaria
@@ -10,22 +10,22 @@ referentes_principales:
   - Chile Sistema Nacional de Inversiones (SNI) — presupuesto plurianual con evaluación ex ante
   - UK HM Treasury Green Book + National Audit Office (NAO) — evaluación ex post independiente
 relaciones_con_otros_pilares:
-  - III.1 Servicio civil meritocrático (PSC replica en DNPEP)
-  - III.3 MIED-LAM (formación estratégica)
-  - III.6 DNA-RB (evaluación independiente del gasto)
-  - III.7 BND + RUP (catastro y banco de datos para inversión)
-  - III.4 presupuesto plurianual (anclaje CRBV art. 314)
+  - I Servicio civil meritocrático (PSC replica en DNPEP)
+  - III MIED-LAM (formación estratégica)
+  - VI DNA-RB (evaluación independiente del gasto)
+  - VII BND + RUP (catastro y banco de datos para inversión)
+  - IV presupuesto plurianual (anclaje CRBV art. 314)
 ---
 
 # PARTE III — PILARES DE LA REFORMA
 
-# III.8. Planificación estratégica y prospectiva nacional
+# VIII. Planificación estratégica y prospectiva nacional
 
 > *"La falla más grave de la planificación venezolana no es su ausencia formal sino su captura política: los planes se redactan para cumplir un ciclo electoral y se abandonan al siguiente, las inversiones se aprueban sin evaluación y los presupuestos plurianuales existen en el papel pero no se ejecutan."*
 >
 > — Síntesis diagnóstica del proyecto, julio 2026.
 
-## III.8.1. Diagnóstico: la planificación nominal venezolana
+## VIII.1. Diagnóstico: la planificación nominal venezolana
 
 Venezuela tiene, desde 1999, el mandato constitucional de planificar el desarrollo económico y social (art. 299 Constitución de la República Bolivariana de Venezuela (CRBV)) y desde 2014 una ley orgánica que crea el Sistema Nacional de Planificación Pública (LOPSPP — LOPP 2014, arts. 9-17). Sobre el papel, el andamiaje es completo: Plan de Desarrollo Económico y Social de la Nación, planes estadales, municipales, sectoriales, institucionales y operativos, todos conectados a una Comisión Central de Planificación dependiente del Ejecutivo Nacional.
 
@@ -41,7 +41,7 @@ Venezuela tiene, desde 1999, el mandato constitucional de planificar el desarrol
 
 Las consecuencias son visibles y cuantificables: obras públicas inconclusas (ciclos electorales de inauguración), elefantes blancos, sobreprecios sistemáticos no detectados, derrumbe del PIB per cápita a una fracción del nivel de 1970, fracaso del proyecto petrolero como motor de desarrollo.
 
-## III.8.2. Marco constitucional y legal vigente
+## VIII.2. Marco constitucional y legal vigente
 
 ### CRBV 1999
 
@@ -59,7 +59,7 @@ Crea el **Sistema Nacional de Planificación Pública y Popular** (arts. 9-17), 
 
 Sistema de administración financiera del Estado. Su título sobre el presupuesto anual debe coordinarse con el nuevo régimen de presupuesto plurianual vinculante.
 
-## III.8.3. Referente Singapur — modelo aspiracional
+## VIII.3. Referente Singapur — modelo aspiracional
 
 El modelo Singapur es el referente primario por tres razones encadenadas: combina prospectiva de largo plazo con institucionalidad técnica duradera, integra la formación de cuadros con la planificación estratégica, y opera bajo cláusulas de continuidad que resisten la alternancia política.
 
@@ -73,7 +73,7 @@ Think-tank interno del gobierno singapurense, dedicado a foresight y escenarios 
 
 ### Civil Service College (CSC, 1959)
 
-La universidad interna del gobierno singapurense. Forma en políticas públicas, liderazgo y estrategia. **Conexión directa con el Pilar III.3 Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (MIED-LAM)**: la Civil Service College (CSC) es el modelo operacional del MIED-LAM en lo que respecta a formación de cuadros del Estado. Para el Pilar III.8, la CSC es el proveedor natural del personal técnico de la DNPEP.
+La universidad interna del gobierno singapurense. Forma en políticas públicas, liderazgo y estrategia. **Conexión directa con el Pilar III Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (MIED-LAM)**: la Civil Service College (CSC) es el modelo operacional del MIED-LAM en lo que respecta a formación de cuadros del Estado. Para el Pilar VIII, la CSC es el proveedor natural del personal técnico de la DNPEP.
 
 ### Lecciones extraíbles
 
@@ -81,7 +81,7 @@ La universidad interna del gobierno singapurense. Forma en políticas públicas,
 2. **La prospectiva es una profesión técnica**, no una consultoría esporádica. Requiere equipo permanente.
 3. **La formación y la planificación se alimentan mutuamente**: los planificadores se forman en la CSC, vuelven a sus ministerios y rotan después de 3-5 años.
 
-## III.8.4. Referente Israel — modelo de prospectiva civil-militar
+## VIII.4. Referente Israel — modelo de prospectiva civil-militar
 
 Israel es un referente secundario pero crítico para una dimensión específica: la integración de inteligencia prospectiva civil-militar en la planificación nacional de un Estado pequeño y rodeado de amenazas.
 
@@ -95,24 +95,24 @@ Inspirada parcialmente en Unit 8200 (inteligencia de señales) y Unit 81 (inteli
 
 ### Israel Innovation Authority (IIA)
 
-Modelo de financiamiento público-privado para I+D+i con retorno comercial. Inspirado en él, se crea el **Fondo Nacional de Innovación y Productividad (FNIP)** dentro del Pilar III.5; la DNPEP coordina la asignación territorial del FNIP según prioridades del Plan Quinquenal.
+Modelo de financiamiento público-privado para I+D+i con retorno comercial. Inspirado en él, se crea el **Fondo Nacional de Innovación y Productividad (FNIP)** dentro del Pilar V; la DNPEP coordina la asignación territorial del FNIP según prioridades del Plan Quinquenal.
 
 ### Riesgos del referente
 
 - **Militarización del conocimiento**: Israel exporta capacidades militares bajo el manto de "innovación civil". Venezuela debe resistir esta tentación, especialmente en un contexto de Fuerzas Armadas que han capturado funciones civiles durante la última década.
 - **Secretismo excesivo**: la planificación prospectiva es valiosa solo si sus conclusiones alimentan la toma de decisiones públicas. Todo ejercicio prospectivo con clasificación de seguridad debe tener una versión pública simultánea.
 
-## III.8.5. Propuesta central: Dirección Nacional de Planificación Estratégica y Prospectiva (DNPEP)
+## VIII.5. Propuesta central: Dirección Nacional de Planificación Estratégica y Prospectiva (DNPEP)
 
 ### Naturaleza jurídica
 
-La **DNPEP** es un **servicio desconcentrado dependiente del Presidente de la República**, con **rango constitucional mediante reforma del art. 237 CRBV** (atribuciones del Presidente), siguiendo el patrón del **MIED-LAM (Pilar III.3)**. No es un ministerio: no tiene despacho ministerial, no preside consejo de ministros, no maneja gasto corriente fuera del propio presupuesto.
+La **DNPEP** es un **servicio desconcentrado dependiente del Presidente de la República**, con **rango constitucional mediante reforma del art. 237 CRBV** (atribuciones del Presidente), siguiendo el patrón del **MIED-LAM (Pilar III)**. No es un ministerio: no tiene despacho ministerial, no preside consejo de ministros, no maneja gasto corriente fuera del propio presupuesto.
 
 ### Designación del Director General
 
-Siguiendo el patrón unificado de los titulares del Poder Ciudadano y de la Dirección Nacional Anticorrupción y Recuperación de Bienes (DNA-RB) (Pilar III.6 v0.5, sección III.6.7):
+Siguiendo el patrón unificado de los titulares del Poder Ciudadano y de la Dirección Nacional Anticorrupción y Recuperación de Bienes (DNA-RB) (Pilar VI v0.5, sección VI.7):
 
-1. **Concurso público de méritos y antecedentes** con jurado mixto: (a) 5 juristas/expertos en planificación estratégica nacionales designados por la Comisión Nacional del Servicio Civil (Pilar III.1), (b) 2 veedores internacionales designados por el PNUD y por el Banco Interamericano de Desarrollo.
+1. **Concurso público de méritos y antecedentes** con jurado mixto: (a) 5 juristas/expertos en planificación estratégica nacionales designados por la Comisión Nacional del Servicio Civil (Pilar I), (b) 2 veedores internacionales designados por el PNUD y por el Banco Interamericano de Desarrollo.
 2. **Ratificación por la Asamblea Nacional con mayoría de tres quintos (3/5)** del quorum reglamentario.
 3. **Período único de seis (6) años, no reelegible**, sin posibilidad de ocupar nuevamente el cargo ni cualquier otro de elección popular o Poder Ciudadano.
 4. **Incompatibilidad post-mandato de 5 años** para cualquier cargo en entidades que hubieren sido objeto de evaluación negativa durante su gestión.
@@ -146,7 +146,7 @@ Dirección Nacional de Planificación Estratégica y Prospectiva (DNPEP)
 │
 ├── Unidad de Prospectiva Estratégica (UPE) — modelo Singapur CSF
 │   ├── Célula Geopolítica y Riesgos Estratégicos
-│   ├── Célula Tecnológica e Innovación (coordinada con FNIP del Pilar III.5)
+│   ├── Célula Tecnológica e Innovación (coordinada con FNIP del Pilar V)
 │   ├── Célula Económica y Demográfica
 │   └── Célula Social y Ambiental
 │
@@ -161,10 +161,10 @@ Dirección Nacional de Planificación Estratégica y Prospectiva (DNPEP)
 │
 └── Dirección de Transparencia y Participación
     ├── Oficina de Consulta Pública del Plan Quinquenal
-    └── Oficina de Datos Abiertos (coordinada con BND del Pilar III.7)
+    └── Oficina de Datos Abiertos (coordinada con BND del Pilar VII)
 ```
 
-## III.8.6. Plan Quinquenal — carácter vinculante
+## VIII.6. Plan Quinquenal — carácter vinculante
 
 ### Elaboración
 
@@ -204,7 +204,7 @@ Tres meses antes del cierre del quinquenio, la DNPEP publica el **Informe de Cie
 - Identificación de proyectos fallidos con causalidad documentada.
 - Recomendaciones para el siguiente Plan Quinquenal.
 
-## III.8.7. Presupuesto plurianual vinculante (modelo Chile SNI + UK HM Treasury)
+## VIII.7. Presupuesto plurianual vinculante (modelo Chile SNI + UK HM Treasury)
 
 ### Base constitucional existente
 
@@ -220,7 +220,7 @@ Se dicta una **Ley Orgánica de Presupuesto Plurianual y Programas de Inversión
 4. **Cláusula de salvaguarda fiscal**: si la economía entra en contracción (>5% PIB caída anual), la DNPEP puede proponer recortes automáticos con mayoría simple de la AN.
 5. **Cláusula de salvaguarda social**: ningún recorte plurianual puede afectar los sectores protegidos (salud, educación, pensiones no contributivas) por encima del 5% del gasto sectorial.
 
-### Vinculación con BND (Pilar III.7)
+### Vinculación con BND (Pilar VII)
 
 Cada proyecto de inversión plurianual se registra en el Banco Nacional de Datos (BND) con:
 
@@ -232,22 +232,22 @@ Cada proyecto de inversión plurianual se registra en el Banco Nacional de Datos
 
 Esto permite trazabilidad total inversión-meta-resultado.
 
-## III.8.8. Evaluación independiente — rattachada a la DNA-RB
+## VIII.8. Evaluación independiente — rattachada a la DNA-RB
 
 Para evitar duplicación con el Contralor General y la DNA-RB, la DNPEP se coordina operativamente con la DNA-RB conforme al siguiente esquema:
 
 | Función | Responsable | Pilar |
 |---------|-------------|-------|
-| Auditoría de cumplimiento legal de inversiones | DNA-RB (Pilar III.6) | III.6 |
-| Investigación de corrupción en obras públicas | DNA-RB + Ministerio Público | III.6 |
-| **Evaluación ex post de impacto social/económico** | **DNPEP (Dirección de Evaluación Independiente)** | **III.8** |
-| Rating anual de programas emblemáticos | DNPEP | III.8 |
-| Informes públicos trimestrales de cumplimiento del Plan Quinquenal | DNPEP | III.8 |
-| **Auditoría de gestión administrativa general de la DNPEP** | **Contraloría General de la República (subsistente)** | **III.6** |
+| Auditoría de cumplimiento legal de inversiones | DNA-RB (Pilar VI) | VI |
+| Investigación de corrupción en obras públicas | DNA-RB + Ministerio Público | VI |
+| **Evaluación ex post de impacto social/económico** | **DNPEP (Dirección de Evaluación Independiente)** | **VIII** |
+| Rating anual de programas emblemáticos | DNPEP | VIII |
+| Informes públicos trimestrales de cumplimiento del Plan Quinquenal | DNPEP | VIII |
+| **Auditoría de gestión administrativa general de la DNPEP** | **Contraloría General de la República (subsistente)** | **VI** |
 
-**Decisión arquitectónica — Cerrada por el usuario el 2026-07-16**: la **Contraloría General de la República subsiste** como organismo del Poder Ciudadano (art. 288 CRBV), con sus competencias constitucionales de fiscalización, control y vigilancia de la gestión pública general. No es absorbida por la DNA-RB ni viceversa. La DNA-RB (Pilar III.6) asume funciones especializadas de **investigación penal de casos graves de corrupción** (siguiendo el modelo Singapur Corrupt Practices Investigation Bureau (CPIB)), preservando la CGR la **fiscalización administrativa ordinaria** (modelo Contraloría General clásica). El DNPEP coordina con ambas sin duplicar funciones: auditoría especializada de inversiones y planes quinquenales se rattachan a la DNA-RB; auditoría de gestión administrativa general de la propia DNPEP permanece en la CGR (subsistente).
+**Decisión arquitectónica — Cerrada por el usuario el 2026-07-16**: la **Contraloría General de la República subsiste** como organismo del Poder Ciudadano (art. 288 CRBV), con sus competencias constitucionales de fiscalización, control y vigilancia de la gestión pública general. No es absorbida por la DNA-RB ni viceversa. La DNA-RB (Pilar VI) asume funciones especializadas de **investigación penal de casos graves de corrupción** (siguiendo el modelo Singapur Corrupt Practices Investigation Bureau (CPIB)), preservando la CGR la **fiscalización administrativa ordinaria** (modelo Contraloría General clásica). El DNPEP coordina con ambas sin duplicar funciones: auditoría especializada de inversiones y planes quinquenales se rattachan a la DNA-RB; auditoría de gestión administrativa general de la propia DNPEP permanece en la CGR (subsistente).
 
-## III.8.9. Unidad de Prospectiva Estratégica (UPE)
+## VIII.9. Unidad de Prospectiva Estratégica (UPE)
 
 Inspirada en el Centre for Strategic Futures de Singapur y modelada según los siguientes parámetros:
 
@@ -267,11 +267,11 @@ Inspirada en el Centre for Strategic Futures de Singapur y modelada según los s
 | **Análisis reservados para el Presidente y el Consejo de Ministros** | Clasificado | A demanda |
 | **Foresight bulletins** (alertas tempranas) | Público | Mensual |
 
-### Coordinación con MIED-LAM (Pilar III.3)
+### Coordinación con MIED-LAM (Pilar III)
 
 La UPE es cliente preferente de los programas de formación del MIED-LAM en foresight y análisis prospectivo. Se establece un convenio de cooperación para pasantías de hasta 2 años del personal del MIED-LAM en la UPE.
 
-## III.8.10. Cronograma de implementación
+## VIII.10. Cronograma de implementación
 
 | Mes | Hito |
 |-----|------|
@@ -286,7 +286,7 @@ La UPE es cliente preferente de los programas de formación del MIED-LAM en fore
 | Mes 24-36 | Primer ciclo completo de ejecución |
 | Mes 36 | Primera revisión a mitad de período |
 
-## III.8.11. Indicadores de éxito (al cierre del año 6)
+## VIII.11. Indicadores de éxito (al cierre del año 6)
 
 | # | Indicador | Meta |
 |---|-----------|------|
@@ -301,20 +301,20 @@ La UPE es cliente preferente de los programas de formación del MIED-LAM en fore
 | 9 | Coordinación efectiva DNPEP-DNA-RB (auditorías conjuntas) | ≥ 2/año |
 | 10 | Participación ciudadana en consulta pública del Plan Quinquenal | ≥ 1% del padrón VePass |
 
-## III.8.12. Riesgos y mitigación
+## VIII.12. Riesgos y mitigación
 
 | # | Riesgo | Probabilidad | Impacto | Mitigación |
 |---|--------|--------------|---------|------------|
-| 1 | **Captura política del Director General** pese al concurso público y la ratificación AN 3/5 | Media | Alto | Cláusula de destitución AN 3/4 con 7 causales taxativas análogas al Defensor del Pueblo (Pilar III.6 v0.5 III.6.7-A) + investigación internacional/sanción extranjera como causal #6 |
+| 1 | **Captura política del Director General** pese al concurso público y la ratificación AN 3/5 | Media | Alto | Cláusula de destitución AN 3/4 con 7 causales taxativas análogas al Defensor del Pueblo (Pilar VI v0.5 VI.7-A) + investigación internacional/sanción extranjera como causal #6 |
 | 2 | **Captura de la UPE por inteligencia militar** (riesgo del referente Israel) | Media | Alto | Composición civil garantizada por ley + cláusula expresa de no injerencia de las FAN + veeduría de la CIDH |
 | 3 | **Planes quinquenales de papel** (riesgo histórico) | Media | Alto | Vinculatoriedad automática para inversiones ≥ USD 50M + presupuesto plurianual 3 años + tablero trimestral público + rating al cierre |
 | 4 | **Captura del INE** | Alta | Alto | Reforma del INE como servicio desconcentrado dependiente de la DNPEP (no del Ejecutivo), con concurso público para su Director General y período 6 años |
-| 5 | **Insuficiencia de datos** para evaluaciones ex ante y ex post | Alta | Medio | Inversión obligatoria del BND (Pilar III.7) en producir datos administrativos de calidad + Coordinación DNEP-INE obligatoria |
+| 5 | **Insuficiencia de datos** para evaluaciones ex ante y ex post | Alta | Medio | Inversión obligatoria del BND (Pilar VII) en producir datos administrativos de calidad + Coordinación DNEP-INE obligatoria |
 | 6 | **Oposición de gobernadores/alcaldes** a la planificación vinculante | Media | Medio | Negociación previa a la sanción con AN pluricultural + cláusula de respeto a la autonomía (Art. 168 CRBV) dentro del Plan |
 | 7 | **Resistencia burocrática al presupuesto plurianual** | Alta | Medio | Transición gradual: año 1 informativo, año 2 vinculante para nuevas inversiones, año 3 vinculante universal |
 | 8 | **Subordinación real del Director a la Vicepresidencia o al Jefe de Gabinete** | Media | Alto | Conducción jerárquica solo del Presidente; ningún otro funcionario puede impartirle instrucciones |
 
-## III.8.13. Cláusula de continuidad 3/4 + referéndum
+## VIII.13. Cláusula de continuidad 3/4 + referéndum
 
 La DNPEP, el Plan Quinquenal, el Presupuesto Plurianual vinculante y la UPE se declaran **bienes constitucionales protegidos**, conforme al siguiente régimen:
 
@@ -324,11 +324,11 @@ La DNPEP, el Plan Quinquenal, el Presupuesto Plurianual vinculante y la UPE se d
 4. **Traslado de la UPE fuera del ámbito civil**: requiere mayoría de **tres cuartos (3/4)** y referéndum popular ratificatorio.
 5. Cualquier intento de reforma por decreto presidencial, ley habilitante o asamblea constituyente que afecte estas garantías debe igualmente observar la cláusula 3/4 + referéndum.
 
-**Fundamento**: análoga a la cláusula de blindaje del MIED-LAM (Pilar III.3), se justifica por la confirmación histórica de que Venezuela destruye sistemáticamente sus capacidades de planificación estratégica en cada ciclo político. La planificación estratégica es infraestructura de Estado al mismo título que la meritocracia (Pilar III.1) y la formación del capital humano (Pilar III.3); sin blindaje, será desmontada por el próximo ciclo.
+**Fundamento**: análoga a la cláusula de blindaje del MIED-LAM (Pilar III), se justifica por la confirmación histórica de que Venezuela destruye sistemáticamente sus capacidades de planificación estratégica en cada ciclo político. La planificación estratégica es infraestructura de Estado al mismo título que la meritocracia (Pilar I) y la formación del capital humano (Pilar III); sin blindaje, será desmontada por el próximo ciclo.
 
 ---
 
-*Próximo paso: la integración con el Pilar III.5 (económico-productivo) mediante el FNIP y el Pilar III.7 mediante el BND se documentará en el Plan de Implementación (Pilar IV) y en el Texto Articulado (Pilar V).*
+*Próximo paso: la integración con el Pilar V (económico-productivo) mediante el FNIP y el Pilar VII mediante el BND se documentará en el Plan de Implementación (Pilar IV) y en el Texto Articulado (Pilar V).*
 
 ---
 

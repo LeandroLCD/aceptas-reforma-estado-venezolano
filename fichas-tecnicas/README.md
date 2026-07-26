@@ -1,6 +1,6 @@
 # Fichas Técnicas Ministeriales — Aceptas
 
-**Parte H10** del proyecto: doce fichas técnicas que operacionalizan la doctrina de los ocho pilares en ministerios, entes e instituciones concretos del Estado reformado. Cada ficha traduce un pilar (o parte de él) en estructura orgánica, marco constitucional/legal, régimen de personal, presupuesto, cronograma, indicadores, riesgos y cláusula de continuidad reforzada.
+Doce fichas técnicas que operacionalizan la doctrina de los ocho pilares en ministerios, entes e instituciones concretos del Estado reformado. Cada ficha traduce un pilar (o parte de él) en estructura orgánica, marco constitucional/legal, régimen de personal, presupuesto, cronograma, indicadores, riesgos y cláusula de continuidad reforzada.
 
 Las doce fichas se corresponden con el **Estado central ejecutivo + Poder Ciudadano ampliado**, conforme al catálogo definitivo consolidado el 25 de julio de 2026: **9 ministerios + 1 ente presidencial de Defensa + 5 instituciones del Poder Ciudadano ampliado + Poder Electoral separado**.
 
@@ -8,17 +8,17 @@ Las doce fichas se corresponden con el **Estado central ejecutivo + Poder Ciudad
 
 | # | Ministerio / Ente | Naturaleza | Archivo |
 |---|---|---|---|
-| **10.1** | Interior y Seguridad — CPNP + CICPC + JNEM + régimen penitenciario | Ministerio | [10.1-ministerio-interior-seguridad.md](10.1-ministerio-interior-seguridad.md) |
-| **10.2** | MIED-LAM — Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (Educación cognitiva + deportiva + cultural, 6 % PIB ring-fenced) | Ministerio | [10.2-ministerio-mied-lam.md](10.2-ministerio-mied-lam.md) |
-| **10.3** | Economía y Finanzas — Tributación, presupuesto, deuda pública, estabilizadores FEM/FOSEIP/FNIP | Ministerio | [10.3-ministerio-economia-finanzas.md](10.3-ministerio-economia-finanzas.md) |
-| **10.4** | Energía y Minas — PDVSA matriz (Oferta Pública Inicial mes 9) + LOH/LOM + LORAFEE pay-before-take constitucionalizada | Ministerio | [10.4-ministerio-energia-minas.md](10.4-ministerio-energia-minas.md) |
-| **10.5** | Infraestructura y Servicios — Privatización Corpoelec + CANTV + 9 hidrológicas + transporte + obras | Ministerio | [10.5-ministerio-infraestructura-servicios.md](10.5-ministerio-infraestructura-servicios.md) |
-| **10.6** | Planificación Estratégica y Prospectiva — DNPEP + Plan Quinquenal vinculante + Presupuesto Plurianual | Ministerio | [10.6-ministerio-planificacion-prospectiva.md](10.6-ministerio-planificacion-prospectiva.md) |
-| **10.7** | Gobierno Digital — BND + VePass + Cédula-RUT + Registros (Inmuebles, Vehicular, Civil, Notarial) | Ministerio | [10.7-ministerio-gobierno-digital.md](10.7-ministerio-gobierno-digital.md) |
-| **10.8** | Relaciones Exteriores — Veeduría Internacional Permanente 8 años + cooperación vecindario | Ministerio | [10.8-ministerio-relaciones-exteriores.md](10.8-ministerio-relaciones-exteriores.md) |
-| **10.9** | Ambiente — Áreas protegidas + patrimonio cultural transferido del MPPP Cultura vigente + transición climática | Ministerio | [10.9-ministerio-ambiente.md](10.9-ministerio-ambiente.md) |
-| **10.10** | Consejo Nacional de Defensa — Ente presidencial, FAN profesional, 1,9 % PIB no reprogramable (Ley 13.196 análoga) | Ente presidencial | [10.10-consejo-nacional-defensa.md](10.10-consejo-nacional-defensa.md) |
-| **10.11** | Poder Ciudadano ampliado — CGR + Defensor del Pueblo + Ministerio PúblicoFiscalía + CNSC + DNA-RB | 5 instituciones | [10.11-poder-ciudadano-ampliado.md](10.11-poder-ciudadano-ampliado.md) |
+| **FT.1** | Interior y Seguridad — CPNP + CICPC + JNEM + régimen penitenciario | Ministerio | [FT.1-ministerio-interior-seguridad.md](FT.1-ministerio-interior-seguridad.md) |
+| **FT.2** | MIED-LAM — Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (Educación cognitiva + deportiva + cultural, 6 % PIB ring-fenced) | Ministerio | [FT.2-ministerio-mied-lam.md](FT.2-ministerio-mied-lam.md) |
+| **FT.3** | Economía y Finanzas — Tributación, presupuesto, deuda pública, estabilizadores FEM/FOSEIP/FNIP | Ministerio | [FT.3-ministerio-economia-finanzas.md](FT.3-ministerio-economia-finanzas.md) |
+| **FT.4** | Energía y Minas — PDVSA matriz (Oferta Pública Inicial mes 9) + LOH/LOM + LORAFEE pay-before-take constitucionalizada | Ministerio | [FT.4-ministerio-energia-minas.md](FT.4-ministerio-energia-minas.md) |
+| **FT.5** | Infraestructura y Servicios — Privatización Corpoelec + CANTV + 9 hidrológicas + transporte + obras | Ministerio | [FT.5-ministerio-infraestructura-servicios.md](FT.5-ministerio-infraestructura-servicios.md) |
+| **FT.6** | Planificación Estratégica y Prospectiva — DNPEP + Plan Quinquenal vinculante + Presupuesto Plurianual | Ministerio | [FT.6-ministerio-planificacion-prospectiva.md](FT.6-ministerio-planificacion-prospectiva.md) |
+| **FT.7** | Gobierno Digital — BND + VePass + Cédula-RUT + Registros (Inmuebles, Vehicular, Civil, Notarial) | Ministerio | [FT.7-ministerio-gobierno-digital.md](FT.7-ministerio-gobierno-digital.md) |
+| **FT.8** | Relaciones Exteriores — Veeduría Internacional Permanente 8 años + cooperación vecindario | Ministerio | [FT.8-ministerio-relaciones-exteriores.md](FT.8-ministerio-relaciones-exteriores.md) |
+| **FT.9** | Ambiente — Áreas protegidas + patrimonio cultural transferido del MPPP Cultura vigente + transición climática | Ministerio | [FT.9-ministerio-ambiente.md](FT.9-ministerio-ambiente.md) |
+| **FT.10** | Consejo Nacional de Defensa — Ente presidencial, FAN profesional, 1,9 % PIB no reprogramable (Ley 13.196 análoga) | Ente presidencial | [FT.10-consejo-nacional-defensa.md](FT.10-consejo-nacional-defensa.md) |
+| **FT.11** | Poder Ciudadano ampliado — CGR + Defensor del Pueblo + Ministerio PúblicoFiscalía + CNSC + DNA-RB | 5 instituciones | [FT.11-poder-ciudadano-ampliado.md](FT.11-poder-ciudadano-ampliado.md) |
 
 ## Cómo leer las fichas técnicas
 
@@ -31,7 +31,7 @@ Cada ficha sigue una estructura operativa canónica:
 5. **Designaciones políticas**: ministro/consejo/directorio, requisitos, procedimiento de designación y remoción.
 6. **Régimen de personal meritocrático**: escala salarial indexada USD, concursos CNSC, VePass-Firma obligatoria, incompatibilidades.
 7. **Régimen específico del sector** (LORAFEE, tributario, hídrico, etc.): detalle operativo del régimen técnico que aplica al ministerio.
-8. **Cronograma 0–12 meses** (paralelo al cronograma monetario Pilar III.4): hitos con dependencias.
+8. **Cronograma 0–12 meses** (paralelo al cronograma monetario Pilar IV): hitos con dependencias.
 9. **Presupuesto del ministerio**: USD/año y % PIB; one-shots si los hay; régimen presupuestario (anillo, no reprogramable, etc.).
 10. **Indicadores de éxito**: 10-15 KPIs cuantificables al cierre del año 1, 3 y 6.
 11. **Riesgos y mitigación**: 8-15 riesgos con probabilidad, impacto y mitigación específica.

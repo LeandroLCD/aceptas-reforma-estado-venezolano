@@ -1,7 +1,7 @@
 ---
-titulo: Reforma Integral del Estado Venezolano - Pilar III.7
-parte: III.7
-version: 0.1.2 (limpieza final: 0 caracteres no-Latinos; regla RUN-ADN, hospital local, captura obligatoria adultos; RUI en III.7.3.2; algoritmo DV en III.7.5.6)
+titulo: Reforma Integral del Estado Venezolano - Pilar VII
+parte: VII
+version: 0.1.2 (limpieza final: 0 caracteres no-Latinos; regla RUN-ADN, hospital local, captura obligatoria adultos; RUI en VII.3.2; algoritmo DV en VII.5.6)
 fecha: 2026-07-15
 instituciones_nuevas: Servicio Nacional de Identificación, Superintendencia de Protección de Datos Personales (SPDP), Centro de Datos Guri-1/2/3, Servicio Nacional del Registro Inmobiliario (SNRI), Superintendencia Nacional de Catastro (SUNAC)
 infraestructura_critica: 3 sitios redundantes cerca del Guri (100 ha + 40 MW pico)
@@ -12,13 +12,13 @@ clausula_continuidad: 3/4 Asamblea + referendum popular
 
 # PARTE III — PILARES DE LA REFORMA
 
-# III.7. Gobierno digital, identidad nacional y soberanía de datos
+# VII. Gobierno digital, identidad nacional y soberanía de datos
 
 > *"La tecnología no es un adorno de la administración pública: es la infraestructura básica sobre la cual se sostiene la posibilidad de un Estado de derecho en el siglo XXI."*
 
 ---
 
-## III.7.1. El problema: fragmentación de identidad y opacidad de datos
+## VII.1. El problema: fragmentación de identidad y opacidad de datos
 
 Venezuela tiene hoy, como casi todos los países latinoamericanos, **múltiples sistemas de identificación que no se hablan entre sí**:
 
@@ -53,7 +53,7 @@ El modelo que esta reforma adopta es **el chileno** (RUN = RUT, ClaveÚnica, Cé
 
 ---
 
-## III.7.2. Data center soberano cerca del Guri
+## VII.2. Data center soberano cerca del Guri
 
 ### Justificación de la ubicación
 
@@ -115,7 +115,7 @@ La INIA opera bajo principios de transparencia algorítmica (auditoría externa 
 
 ---
 
-## III.7.3. Banco Nacional de Datos (BND)
+## VII.3. Banco Nacional de Datos (BND)
 
 El Banco Nacional de Datos (BND) integra, en una arquitectura federada inspirado en el modelo X-Road de Estonia, las siguientes bases de datos sectoriales:
 
@@ -143,7 +143,7 @@ Cada institución dueña de su base de datos, pero todas interoperan mediante el
 
 
 
-### III.7.3.1. Registro Único de Profesionales (RUP)
+### VII.3.1. Registro Único de Profesionales (RUP)
 
 El Registro Único de Profesionales (RUP) es la base de datos oficial de **todos los títulos académicos universitarios y de educación técnica superior** otorgados por instituciones reconocidas por el Estado venezolano. Inspirado en el modelo italiano de la banca dati del MIUR (Ministero dell'Istruzione, dell'Università e della Ricerca) y en el español del Registro Nacional de Títulos Universitarios (RNTU), pero con una arquitectura digital interoperable con el VePass.
 
@@ -220,11 +220,11 @@ El RUP es la **columna vertebral** de la meritocracia en el servicio civil:
 
 | Pilar | Uso del RUP |
 |-------|-------------|
-| **III.1 Servicio Civil** | Verificación de requisitos académicos para concursos públicos |
-| **III.3 MIED-LAM** | Verificación de credenciales docentes para ingreso y ascenso |
-| **III.6 Justicia y DNA-RB** | Verificación de títulos de jueces, fiscales y funcionarios del Poder Judicial |
-| **III.2 Seguridad** | Verificación de credenciales del personal policial y militar |
-| **III.7 Salud** | Verificación de matrículas profesionales del personal de salud |
+| **I Servicio Civil** | Verificación de requisitos académicos para concursos públicos |
+| **III MIED-LAM** | Verificación de credenciales docentes para ingreso y ascenso |
+| **VI Justicia y DNA-RB** | Verificación de títulos de jueces, fiscales y funcionarios del Poder Judicial |
+| **II Seguridad** | Verificación de credenciales del personal policial y militar |
+| **VII Salud** | Verificación de matrículas profesionales del personal de salud |
 
 Sin un RUP confiable, la meritocracia es invocable pero no verificable. Con el RUP, cualquier empleador público o privado puede confirmar las credenciales académicas en segundos.
 
@@ -236,7 +236,7 @@ La reforma incluye una cláusula específica:
 
 La protección es equivalente a la del VePass, MIED-LAM y DNA-RB.
 
-### III.7.3.2. Registro Único de Inmuebles (RUI)
+### VII.3.2. Registro Único de Inmuebles (RUI)
 
 El Registro Único de Inmuebles (RUI) es la base de datos oficial de **todos los bienes inmuebles** del territorio venezolano —viviendas, apartamentos, edificios, locales comerciales, oficinas, naves industriales, terrenos rústicos y urbanos, fincas agropecuarias, fundos, lotes, parcelas, inmuebles del Estado y concesiones— con valor probatorio universal, trazabilidad histórica completa y protección anti-fraude. Inspirado en el **Conservador de Bienes Raíces chileno** (DFL 1.224 de 1939, con sus reformas), el **e-Land Register estonio** (en operación digital desde 1994, con blockchain KSI desde 2008, primer registro de propiedad del mundo con firma criptográfica verificable), el **Lantmäteriet sueco** y el **sistema Torrens** australiano. La arquitectura propuesta supera los modelos fragmentados latinoamericanos (registros y catastros separados por municipio o estado) con un sistema único, federado, digital y verificable criptográficamente.
 
@@ -324,7 +324,7 @@ Toda mutación de propiedad, gravamen, afectación o acto relevante se inscribe 
 1. **Anti-doble venta**: cuando un vendedor firma la transferencia, el sistema marca el inmueble como **"en proceso de transferencia"** y bloquea cualquier nueva operación sobre el mismo. La marca se levanta con la inscripción efectiva o caduca a los 30 días si no se completa.
 2. **Anti-falsificación de títulos**: cualquier modificación de la ficha registral requiere VePass-Firma del titular registral vigente + del notario actuante. La dirección IP, la geolocalización del dispositivo y el timestamp quedan registrados. La firma digital sin el código OTP es inválida por construcción.
 3. **Anti-prescripción fraudulenta**: las demandas de prescripción adquisitiva (usucapión) deben publicarse en el RUI en un plazo máximo de 30 días desde su interposición. Cualquier transferencia del inmueble mientras la prescripción está en curso requiere resolución judicial previa.
-4. **Anclaje blockchain al Guri-3**: cada inscripción genera un hash criptográfico anclado a la cadena inalterable del BND (blockchain con anclaje al Guri-3, sección III.7.3). Esto hace materialmente imposible alterar una inscripción sin invalidar toda la cadena posterior.
+4. **Anclaje blockchain al Guri-3**: cada inscripción genera un hash criptográfico anclado a la cadena inalterable del BND (blockchain con anclaje al Guri-3, sección VII.3). Esto hace materialmente imposible alterar una inscripción sin invalidar toda la cadena posterior.
 
 #### Procedimiento de regularización de inmuebles informales
 
@@ -369,13 +369,13 @@ El RUI es transversal a toda la reforma:
 
 | Pilar | Uso del RUI |
 |-------|-------------|
-| **III.1 Servicio Civil** | Verificación de domicilio declarado por funcionarios públicos |
-| **III.4 Fiscal** | Base del Impuesto sobre Bienes Inmuebles (IBI) — la SUNAC provee valoración catastral al SENIAT |
-| **III.5 Empresas del Estado** | Inventario y privatización de activos inmobiliarios del Estado (PDVSA, Corpoelec, CANTV, etc.) |
-| **III.6 Justicia y DNA-RB** | Identificación de bienes vinculados a lavado de activos; extinción de dominio |
-| **III.7 Salud** | Dirección registrada del paciente para asignación de centro de atención primaria |
-| **III.7 Educación** | Dirección registrada del estudiante para asignación de escuela por zona |
-| **III.7 Padrón electoral** | Georreferenciación del votante para asignación de centro y mesa |
+| **I Servicio Civil** | Verificación de domicilio declarado por funcionarios públicos |
+| **IV Fiscal** | Base del Impuesto sobre Bienes Inmuebles (IBI) — la SUNAC provee valoración catastral al SENIAT |
+| **V Empresas del Estado** | Inventario y privatización de activos inmobiliarios del Estado (PDVSA, Corpoelec, CANTV, etc.) |
+| **VI Justicia y DNA-RB** | Identificación de bienes vinculados a lavado de activos; extinción de dominio |
+| **VII Salud** | Dirección registrada del paciente para asignación de centro de atención primaria |
+| **VII Educación** | Dirección registrada del estudiante para asignación de escuela por zona |
+| **VII Padrón electoral** | Georreferenciación del votante para asignación de centro y mesa |
 
 #### Marco constitucional
 
@@ -411,7 +411,7 @@ La protección se alinea con la del BND, VePass, MIED-LAM, DNA-RB, RUP y CDF. **
 
 ---
 
-## III.7.4. VePass — Clave Única inspirado en modelo chileno y en el SingPass singapurense
+## VII.4. VePass — Clave Única inspirado en modelo chileno y en el SingPass singapurense
 
 ### Concepto
 
@@ -430,7 +430,7 @@ inspirado en a ClaveÚnica chilena (operada por la División de Gobierno Digital
 
 ### Centro de ayuda y recuperación
 
-La emisión de VePass ocurre **en el mismo trámite y la misma ventanilla** que la Cédula-RUT (proceso detallado en III.7.5). Esto evita crear una institución paralela al Registro Civil. Para los casos posteriores a la emisión inicial, el ciudadano dispone de cuatro canales de autogestión:
+La emisión de VePass ocurre **en el mismo trámite y la misma ventanilla** que la Cédula-RUT (proceso detallado en VII.5). Esto evita crear una institución paralela al Registro Civil. Para los casos posteriores a la emisión inicial, el ciudadano dispone de cuatro canales de autogestión:
 
 1. **Kioskos autoservicio VePass** instalados en las propias oficinas del Registro Civil, en alcaldías, en centros comerciales de alto tráfico, en universidades y en terminales de transporte. Cada kiosco cuenta con:
  - Lector NFC para Cédula-RUT.
@@ -484,7 +484,7 @@ Para **casos complejos** que requieren presencia (fallecimiento del titular, pé
 
 ---
 
-## III.7.5. Sistema Nacional de Identidad (SNI)inspirado en modelo RUN/RUT chileno
+## VII.5. Sistema Nacional de Identidad (SNI)inspirado en modelo RUN/RUT chileno
 
 El Sistema Nacional de Identidad (SNI) unifica en un solo proceso **identidad civil, tributaria, electoral, sanitaria, educativa y biométrica**, tomando como modelo el RUN/RUT chileno y los siguientes principios:
 
@@ -551,7 +551,7 @@ Para que el protocolo anterior funcione, el BND distribuye a cada hospital, clí
 
 El reemplazo de consumibles (hisopos, reactivos, papel térmico) es responsabilidad del BND mediante contrato con proveedor logístico nacional. La capacitación del personal médico y de enfermería se realiza en pregrado y se renueva anualmente. La auditoría técnica del equipamiento se efectúa cada 6 meses.
 
-### III.7.5.3. Capacidad de procesamiento de ADN en cada hospital
+### VII.5.3. Capacidad de procesamiento de ADN en cada hospital
 
 La captura de la muestra de ADN del recién nacido (Paso 1 del procedimiento hospitalario) es apenas la primera mitad del proceso. **La segunda mitad —el procesamiento de la muestra para generar el perfil numérico STR que se almacena en el Banco Nacional de ADN— debe ocurrir en el mismo hospital**, no en un laboratorio central distante. Esto garantiza que:
 
@@ -587,11 +587,11 @@ inspirado en al modelo de Estonia (que equipó todos sus hospitales con capacida
 - **Nivel B — Hospitales tipo II** (~250 establecimientos): equipo ANDE estándar + personal capacitado.
 - **Nivel C — Centros de salud tipo I y ambulatorios** (~1.000 establecimientos): kits detoma + envío a hospital cercano para procesamiento (hub-and-spoke), con resultado en <24 horas vía app.
 
-### III.7.5.4. Captura obligatoria de ADN al ingreso hospitalario para adultos sin perfil
+### VII.5.4. Captura obligatoria de ADN al ingreso hospitalario para adultos sin perfil
 
 Toda persona que ingresa a un hospital, clínica o centro de salud público o privado —por emergencia, consulta, cirugía, hospitalización, o cualquier otro motivo— y que **no tiene perfil de ADN registrado en el Banco Nacional de ADN**, debe completar el proceso detoma y procesamiento de muestra de ADN durante su permanencia en el establecimiento.
 
-**Base legal**: esta obligación se fundamenta en el principio de interés público nacional del Banco Nacional de ADN (art. 56 CRBV reformado, parágrafo tercero del Pilar III.7) y en la necesidad de garantizar cobertura universal del registro.
+**Base legal**: esta obligación se fundamenta en el principio de interés público nacional del Banco Nacional de ADN (art. 56 CRBV reformado, parágrafo tercero del Pilar VII) y en la necesidad de garantizar cobertura universal del registro.
 
 #### Procedimiento
 
@@ -623,12 +623,12 @@ Las finalidades legítimas del BND son:
 
 #### Usos terminantemente prohibidos del BND
 
-Sin perjuicio de lo ya dispuesto en el artículo 56 CRBV (parágrafo primero reformado, Pilar III.7):
+Sin perjuicio de lo ya dispuesto en el artículo 56 CRBV (parágrafo primero reformado, Pilar VII):
 
 - **No se usará** para discriminación por etnia, raza, sexo, orientación sexual, religión u opinión política.
 - **No se usará** para construir perfiles genéticos poblacionales con fines de control social.
 - **No se compartirá** con aseguradoras privadas, empleadores, gobiernos extranjeros sin autorización 3/4 de la Asamblea, ni con terceros comerciales.
-- **No se comercializará**: el BND es un bien público, no un activo comercial. La venta o comercialización de datos genéticos es delito penal (incorporado en el Código Penal en la reforma del Pilar III.6).
+- **No se comercializará**: el BND es un bien público, no un activo comercial. La venta o comercialización de datos genéticos es delito penal (incorporado en el Código Penal en la reforma del Pilar VI).
 
 La violación de estas prohibiciones se sanciona con destitución inmediata + inhabilidad 15 años + pena de prisión 8-15 años, conforme al mismo régimen del artículo 56.
 
@@ -643,18 +643,18 @@ La protección es equivalente a la del VePass, MIED-LAM, DNA-RB y RUP. **Quinto 
 La asignación del **RUN (Registro Único Nacional)** —y por extensión del RUT y de la Cédula-RUT— está **condicionada técnicamente** a la existencia del perfil de ADN del titular en el Banco Nacional de Datos. Esta regla aplica a:
 
 - **Recién nacidos**: el sistema BND no permite asignar RUN al recién nacido si no se ha capturado y procesado previamente su muestra de ADN con resultado de perfil STR cargado.
-- **Adultos sin perfil**: en el marco de la captura obligatoria al ingreso hospitalario (sección III.7.5.4), si un adulto no tiene perfil de ADN registrado y necesita asignación de RUN/RUT (caso raro de ciudadanos no inscritos en el Registro Civil), el BND captura la muestra, procesa el perfil y luego asigna el RUN.
-- **Migración de adultos**: durante el proceso de migración a Cédula-RUT (sección III.7.5 sobre migración), si el adulto no tiene perfil de ADN, se le ofrece eltoma en la misma visita al Registro Civil como parte integral del proceso. La asignación del nuevo RUN/RUT y la emisión de la Cédula-RUT se completan en la misma visita.
+- **Adultos sin perfil**: en el marco de la captura obligatoria al ingreso hospitalario (sección VII.5.4), si un adulto no tiene perfil de ADN registrado y necesita asignación de RUN/RUT (caso raro de ciudadanos no inscritos en el Registro Civil), el BND captura la muestra, procesa el perfil y luego asigna el RUN.
+- **Migración de adultos**: durante el proceso de migración a Cédula-RUT (sección VII.5 sobre migración), si el adulto no tiene perfil de ADN, se le ofrece eltoma en la misma visita al Registro Civil como parte integral del proceso. La asignación del nuevo RUN/RUT y la emisión de la Cédula-RUT se completan en la misma visita.
 
 Esta regla convierte al BND en un **sistema universal de identidad biológica** desde el primer instante de vida del venezolano. A diferencia de sistemas que sólo registran identidad administrativa, Venezuela registra identidad administrativa + biológica de manera inseparable.
 
 Una vez completados los tres pasos, la inscripción en el Registro Civil sigue el **plazo de 5 días hábiles** descrito en el apartado siguiente, dado que estos nacimientos ocurren típicamente en zonas donde el hospital no tiene oficina de registro integrada.
 
-### III.7.5.5. Nacidos sin vida (óbito fetal): protocolo anti-robo y trazabilidad genética
+### VII.5.5. Nacidos sin vida (óbito fetal): protocolo anti-robo y trazabilidad genética
 
 #### Definición clínica y legal
 
-Se considera **nacido sin vida** u **óbito fetal** al producto de la concepción que, después de la expulsión o extracción completa del cuerpo de la madre, no presenta signos vitales (latido cardíaco, respiración, movimientos voluntarios), conforme a los criterios de la OMS (≥22 semanas de gestación o ≥500 gramos de peso, según CIE-10/11). Por debajo de ese umbral, la interrupción espontánea del embarazo se clasifica como **aborto espontáneo** (ver sección III.7.5.7, pendiente de redacción).
+Se considera **nacido sin vida** u **óbito fetal** al producto de la concepción que, después de la expulsión o extracción completa del cuerpo de la madre, no presenta signos vitales (latido cardíaco, respiración, movimientos voluntarios), conforme a los criterios de la OMS (≥22 semanas de gestación o ≥500 gramos de peso, según CIE-10/11). Por debajo de ese umbral, la interrupción espontánea del embarazo se clasifica como **aborto espontáneo** (ver sección VII.5.7, pendiente de redacción).
 
 El nacido sin vida **no es persona natural** (no aplica el Art. 22 CRBV), pero el evento tiene efectos jurídicos, registrales, estadísticos y forenses que la reforma regula expresamente para cerrar una laguna histórica aprovechada por redes de robo de niños, trata y fraude.
 
@@ -737,7 +737,7 @@ El BND retiene el perfil de ADN del producto y de la madre **por 75 años despu�
 
 #### Excepciones y casos especiales
 
-- **Parto múltiple donde algunos bebés sobreviven y otros nacen sin vida**: se aplica el protocolo de óbito fetal **solo a los productos sin vida**, mientras que los nacidos vivos siguen el protocolo estándar de la sección III.7.5. El evento se documenta como un parto múltiple con un identificador único en el BND que vincula a todos los productos.
+- **Parto múltiple donde algunos bebés sobreviven y otros nacen sin vida**: se aplica el protocolo de óbito fetal **solo a los productos sin vida**, mientras que los nacidos vivos siguen el protocolo estándar de la sección VII.5. El evento se documenta como un parto múltiple con un identificador único en el BND que vincula a todos los productos.
 - **Óbito fetal en domicilio o vía pública**: la madre debe acudir al centro de salud más cercano dentro de las **6 horas** con el producto, para completar el protocolo. El centro de salud certifica el óbito fetal y emite el CDF. Si el estado del producto impide la captura de ADN, se documenta y se cruza con la base de desaparecidos para descartar sustracción previa.
 - **Objeción de conciencia del médico**: la certificación del óbito fetal es un acto administrativo de salud pública que **no admite objeción de conciencia** (la objeción aplica al procedimiento que causa el óbito, no a la certificación del hecho consumado). El médico que se niegue comete falta administrativa sancionable con suspensión de 30 a 90 días e inhabilitación.
 - **Negativa de la madre a la captura de ADN**: se documenta la negativa y se emite el CDF sin perfil genético del producto. Esta circunstancia queda registrada en el BND como **"registro sin perfil de ADN por negativa del titular"** y se reporta en el informe trimestral anonimizado de la Superintendencia de Protección de Datos Personales (SPDP) sobre integridad del sistema. **Excepción**: si existen indicios racionales de comisión de delito (sustracción de menores, trata, fraude), la negativa activa procedimiento judicial de captación forzada conforme a orden del TSJ.
@@ -785,7 +785,7 @@ En estos casos, los padres deben acudir a la oficina del Registro Civil más cer
 La inscripción:
 
 1. **Asigna el RUN (Registro Único Nacional)** al recién nacido, número que será también su **RUT (Registro Único Tributario)** desde el nacimiento.
-2. **Genera la Cédula-RUT electrónica** (ver III.7.6), emitida físicamente al cumplir los 5 años (modelo inspirado en Chile) o antes si los padres lo requieren.
+2. **Genera la Cédula-RUT electrónica** (ver VII.6), emitida físicamente al cumplir los 5 años (modelo inspirado en Chile) o antes si los padres lo requieren.
 3. **Crea automáticamente** las afiliaciones iniciales:
  - Sistema Único de Salud (afiliación como beneficiario de los padres hasta mayoría de edad)
  - Ministerio de Educación (preinscripción en el sistema educativo)
@@ -810,7 +810,7 @@ Una vez inscrito, el recién nacido tiene:
 - **Pre-Cédula-RUT** digital (asociada al VePass de los padres)
 - **Cédula-RUT física** emitida al cumplir 5 años (modelo inspirado en Chile)
 
-### III.7.5.6. Algoritmo de cálculo del dígito verificador (DV) del RUN/RUT
+### VII.5.6. Algoritmo de cálculo del dígito verificador (DV) del RUN/RUT
 
 El dígito verificador (DV) es un dígito adicional calculado mediante el algoritmo **Módulo 11** que se agrega al número de cédula existente para formar el RUN/RUT completo. Este DV permite:
 
@@ -818,7 +818,7 @@ El dígito verificador (DV) es un dígito adicional calculado mediante el algori
 - Validar la integridad del número sin necesidad de consultar la base de datos.
 - Mantener la continuidad del número de cédula que los ciudadanos ya conocen y usan (V-NNNNNNNN → NNNNNNNN-DV).
 
-El algoritmo se aplica de manera uniforme a todos los números de cédula venezolana y es el **único método válido** para calcular el DV. Cualquier sistema público o privado que manipule RUN/RUT debe utilizar exactamente esta especificación; las variantes están prohibidas por la ley penal (ver III.7.13 riesgos asociados a errores de validación).
+El algoritmo se aplica de manera uniforme a todos los números de cédula venezolana y es el **único método válido** para calcular el DV. Cualquier sistema público o privado que manipule RUN/RUT debe utilizar exactamente esta especificación; las variantes están prohibidas por la ley penal (ver VII.13 riesgos asociados a errores de validación).
 
 #### Algoritmo Módulo 11 (especificación vinculante)
 
@@ -840,7 +840,7 @@ Para calcular el DV de un número `N` (sin prefijo `V`/`E`/`J` ni separadores):
 def calcular_dv(numero):
     """
     Calcula el dígito verificador (DV) del RUN/RUT venezolano
-    mediante el algoritmo Módulo 11 (Pilar III.7.5.6 de la Reforma).
+    mediante el algoritmo Módulo 11 (Pilar VII.5.6 de la Reforma).
 
     Args:
         numero: str o int con el número base (sin prefijo V/E/J
@@ -1003,7 +1003,7 @@ La Superintendencia de Protección de Datos Personales (SPDP) publica la **imple
 - Incluye **pruebas unitarias exhaustivas** con casos de borde documentados.
 - Es auditada anualmente por la SPDP y por veeduría internacional independiente.
 
-Cualquier desviación de la implementación de referencia (algoritmo paralelo, orden de multiplicadores alterado, tratamiento distinto de DV=10 o DV=11) constituye **incumplimiento técnico sancionable** conforme al régimen de protección de datos y, si produce daño a tercero, delito de fraude informático conforme al Código Penal reformado por el Pilar III.6.
+Cualquier desviación de la implementación de referencia (algoritmo paralelo, orden de multiplicadores alterado, tratamiento distinto de DV=10 o DV=11) constituye **incumplimiento técnico sancionable** conforme al régimen de protección de datos y, si produce daño a tercero, delito de fraude informático conforme al Código Penal reformado por el Pilar VI.
 
 #### Tabla de búsqueda rápida (respaldo analógico)
 
@@ -1022,9 +1022,9 @@ Para facilitar la verificación por terceros sin acceso a dispositivo digital, l
 | **RUP** | Cada título profesional se vincula al RUN+DV del titular |
 | **RUI** | Cada operación registral cita el RUN+DV de compradores, vendedores y titulares |
 | **Banco Nacional de ADN** | Muestras y perfiles vinculados al RUN+DV |
-| **CDF (III.7.5.5)** | El CDF cita el RUN+DV de la madre; el CIF del producto se vincula al RUN+DV materno |
+| **CDF (VII.5.5)** | El CDF cita el RUN+DV de la madre; el CIF del producto se vincula al RUN+DV materno |
 | **Cédula-RUT** | Lleva impreso el RUN+DV en la tarjeta |
-| **LOPD (III.7.8)** | El DV es dato no sensible y puede circular libremente para validación |
+| **LOPD (VII.8)** | El DV es dato no sensible y puede circular libremente para validación |
 
 #### Cláusula de continuidad
 
@@ -1038,7 +1038,7 @@ La protección se alinea con la del BND, VePass, MIED-LAM, DNA-RB, RUP, CDF y RU
 
 Los venezolanos adultos ya inscritos en el viejo sistema (cédula Servicio Administrativo de Identificación, Migración y Extranjería (SAIME) + RIF SENIAT) son **migrados automáticamente al SNI** mediante un proceso gradual:
 
-1. **Conciliación de bases**: SENIAT y SAIME cruzan información para asignar a cada ciudadano un RUN/RUT único, preservando el número de cédula existente y calculando el dígito verificador (DV) mediante el algoritmo de la sección III.7.5.6. Los casos de duplicidad se resuelven con auditoría de la DNA-RB.
+1. **Conciliación de bases**: SENIAT y SAIME cruzan información para asignar a cada ciudadano un RUN/RUT único, preservando el número de cédula existente y calculando el dígito verificador (DV) mediante el algoritmo de la sección VII.5.6. Los casos de duplicidad se resuelven con auditoría de la DNA-RB.
 2. **Emisión progresiva de Cédula-RUT**: durante los primeros 18 meses de la reforma, todos los venezolanos deben obtener su nueva Cédula-RUT con QR + NFC + chip biométrico. El costo es asumido por el Estado.
 3. **Activación biométrica obligatoria**: la nueva Cédula-RUT requiere registro presencial de las 10 huellas dactilares, foto y firma electrónica en cualquier oficina del Registro Civil.
 4. **Caducidad de documentos anteriores**: 36 meses después del inicio del proceso, la antigua cédula SAIME deja de ser válida para todos los efectos.
@@ -1069,7 +1069,7 @@ Reforma al artículo 56 CRBV (identidad), que incorpora un nuevo parágrafo úni
 >
 > *Parágrafo tercero. Corresponde a la Dirección Nacional Anticorrupción "Rómulo Betancourt" (DNA-RB), en coordinación con la Superintendencia de Protección de Datos Personales (SPDP) y el Ministerio Público, la investigación y persecución de los hechos previstos en este artículo. Las denuncias podrán ser presentadas por cualquier persona mediante el VePass, sin necesidad de asistencia letrada. La identidad del denunciante será protegida mediante protocolo especial de la SPDP."*
 
-### III.7.5.7. Marco institucional del Servicio Nacional de Identificación: transformación del SAIME e integración del Registro Civil
+### VII.5.7. Marco institucional del Servicio Nacional de Identificación: transformación del SAIME e integración del Registro Civil
 
 El Servicio Nacional de Identificación (SNI) que opera el BND y emite la Cédula-RUT no surge de la nada: se construye sobre el andamiaje institucional del **Servicio Administrativo de Identificación, Migración y Extranjería (SAIME)** y sobre las funciones registrales hoy dispersas entre el Registro Civil dependiente del Ministerio del Poder Popular para Relaciones Interiores, Justicia y Paz, los Tribunales de Municipio y el Consejo Nacional Electoral. Esta subsección documenta el origen histórico, las críticas documentadas, la decisión de reforma y el cronograma de transición.
 
@@ -1121,7 +1121,7 @@ La reforma **transforma** el SAIME en lugar de abolirlo, para preservar el capit
 
 #### Estructura orgánica del Servicio Nacional de Identificación (SNI)
 
-El SNI es una **persona jurídica pública autónoma**, adscrita al Ministerio del Poder Popular para Relaciones Interiores, Justicia y Paz (denominación sujeta a la reforma ministerial del Pilar III.2), con patrimonio propio y autonomía funcional, presupuestaria, administrativa, técnica y de gestión. Su estructura:
+El SNI es una **persona jurídica pública autónoma**, adscrita al Ministerio del Poder Popular para Relaciones Interiores, Justicia y Paz (denominación sujeta a la reforma ministerial del Pilar II), con patrimonio propio y autonomía funcional, presupuestaria, administrativa, técnica y de gestión. Su estructura:
 
 - **Director General**:
   - Designado por **concurso público de antecedentes y oposición** ante un jurado mixto (5 miembros: 2 del Ministerio del Interior, 2 del Poder Judicial, 1 de la Academia de Ciencias), con ratificación de la Asamblea Nacional por **3/5**.
@@ -1135,7 +1135,7 @@ El SNI es una **persona jurídica pública autónoma**, adscrita al Ministerio d
   3. **Subdirección de Tecnología y BND**: operación técnica del BND, VePass, INIA y plataformas conexas; ciberseguridad; cumplimiento LOPD.
   4. **Subdirección de Atención al Ciudadano**: red de oficinas territoriales,call center 1-800-VEPASS, gestión de quejas y denuncias.
 - **Red territorial**: las 83 oficinas SAIME se transforman en oficinas del SNI, sumadas a las 335 oficinas del Registro Civil existentes y a una red de 500 kioskos autoservicio VePass en alcaldías, centros comerciales, universidades y terminales.
-- **Régimen de personal**: idéntico al Pilar III.1 Comisión Nacional del Servicio Civil (CNSC) — concursos públicos, carrera meritocrática, evaluación anual, capacitación obligatoria, VePass como credencial.
+- **Régimen de personal**: idéntico al Pilar I Comisión Nacional del Servicio Civil (CNSC) — concursos públicos, carrera meritocrática, evaluación anual, capacitación obligatoria, VePass como credencial.
 
 #### Separación funcional: Servicio Nacional de Migración y Extranjería (SNMEx)
 
@@ -1163,7 +1163,7 @@ El Registro Civil venezolano es hoy una **institución fragmentada**:
 La reforma **no invierte** esta atribución jurisdiccional (que permanece en el Poder Judicial), pero **centraliza técnicamente** las funciones registrales en el SNI bajo el BND. La consecuencia operativa:
 
 - Toda oficina del Registro Civil existente se integra a la red del SNI.
-- El personal del Registro Civil pasa a ser funcionario del SNI (con concursos de transición conforme al régimen del Pilar III.1).
+- El personal del Registro Civil pasa a ser funcionario del SNI (con concursos de transición conforme al régimen del Pilar I).
 - La plataforma del BND reemplaza los libros en papel y los sistemas heterogéneos actuales.
 - Los Tribunales de Municipio acceden al BND con VePass-Fuerte para sus funciones jurisdiccionales, pero no tienen acceso a la operación técnica del registro.
 - El Consejo Nacional Electoral consulta el Registro Civil en tiempo real vía BND (en lugar de las conciliaciones periódicas actuales).
@@ -1178,7 +1178,7 @@ La transformación se ejecuta en cuatro fases:
 - Concurso público para el primer Director General del SNI.
 - Auditoría integral del SAIME actual: personal, infraestructura, expedientes, pasivos.
 - Diseño técnico de la migración de la plataforma SAIME al BND.
-- Inicio de los concursos de transición para personal del SNI (modelo Pilar III.1).
+- Inicio de los concursos de transición para personal del SNI (modelo Pilar I).
 
 **Fase 1 — Coexistencia operativa (meses 12-24)**
 - Las 83 oficinas SAIME operan como "oficinas SNI en transición", con doble etiquetado.
@@ -1192,22 +1192,22 @@ La transformación se ejecuta en cuatro fases:
 - El SNI opera plenamente con Cédula-RUT, BND, VePass.
 - El SNMEx opera plenamente con sus atribuciones propias.
 - El Registro Civil queda integrado al SNI en todo el territorio.
-- Caducidad oficial de la cédula SAIME para todos los efectos administrativos (36 meses desde el inicio del proceso; ventana ya contemplada en III.7.5 "Migración de adultos").
+- Caducidad oficial de la cédula SAIME para todos los efectos administrativos (36 meses desde el inicio del proceso; ventana ya contemplada en VII.5 "Migración de adultos").
 
 **Fase 3 — Liquidación y consolidación (meses 36-60)**
-- Liquidación de pasivos laborales del antiguo SAIME (indemnizaciones conforme a la LOTTT reformada y a los retiros voluntarios incentivados del Pilar III.1).
+- Liquidación de pasivos laborales del antiguo SAIME (indemnizaciones conforme a la LOTTT reformada y a los retiros voluntarios incentivados del Pilar I).
 - Reubicación del personal no incorporado al SNI/SNMEx.
 - Cierre del archivo físico histórico del SAIME (transferido al Archivo General de la Nación, con acceso vía BND para verificación).
 - Auditoría externa internacional del proceso de transición.
 
 #### Régimen de personal de transición
 
-La reforma protege los derechos del personal del SAIME conforme a la LOTTT reformada (principio 9: mochila austríaca 8,33% + seguro de cesantía 1,2%) y al Pilar III.1 (motoresierra con retiros voluntarios incentivados):
+La reforma protege los derechos del personal del SAIME conforme a la LOTTT reformada (principio 9: mochila austríaca 8,33% + seguro de cesantía 1,2%) y al Pilar I (motoresierra con retiros voluntarios incentivados):
 
-- **Personal que aprueba el concurso de transición**: se incorpora al SNI o al SNMEx con la nueva escala salarial del Pilar III.4 (mínimo USD 500/mes + primas técnicas).
+- **Personal que aprueba el concurso de transición**: se incorpora al SNI o al SNMEx con la nueva escala salarial del Pilar IV (mínimo USD 500/mes + primas técnicas).
 - **Personal que opta por retiro voluntario**: indemnización conforme a la mochila austríaca acumulada + bono adicional equivalente a 6 meses de salario por antigüedad mayor a 5 años en el SAIME.
 - **Personal en período de prueba o con menos de 1 año**: baja conforme al procedimiento ordinario de la administración pública.
-- **Sindicalización**: el nuevo personal del SNI puede organizarse en sindicatos conforme al Pilar III.6 (libertad sindical plena), pero la dirección es meritocrática y no electoral.
+- **Sindicalización**: el nuevo personal del SNI puede organizarse en sindicatos conforme al Pilar VI (libertad sindical plena), pero la dirección es meritocrática y no electoral.
 - **Prohibición de reincorporación de personal despedido por corrupción**: la DNA-RB mantiene el registro de personal separado del SAIME por causas disciplinarias o penales; su reingreso al SNI/SNMEx está prohibido por 15 años.
 
 #### Cronograma detallado de transición
@@ -1248,7 +1248,7 @@ Reforma al artículo 332 CRBV adicionando:
 
 La protección se alinea con la del BND, VePass, MIED-LAM, DNA-RB, RUP, CDF, RUI y el algoritmo DV. **Noveno componente** del documento con esta jerarquía constitucional máxima.
 
-#### III.7.5.7.1. Marco legal primario: artículos 68-74 del Decreto N° 6.733 (Gaceta Oficial 39.196, 9 de junio de 2009)
+#### VII.5.7.1. Marco legal primario: artículos 68-74 del Decreto N° 6.733 (Gaceta Oficial 39.196, 9 de junio de 2009)
 
 A continuación se transcriben los artículos específicos del Decreto N° 6.733 que crean y regulan el SAIME como servicio desconcentrado del Ministerio del Poder Popular para Relaciones Interiores y Justicia. Esta transcripción se incluye como **fuente primaria** del diagnóstico institucional y como **objeto expreso de la derogatoria** que ejecuta la reforma.
 
@@ -1296,23 +1296,23 @@ A continuación se transcriben los artículos específicos del Decreto N° 6.733
 
 > *"El funcionamiento y desarrollo de los procesos del Servicio Administrativo de Identificación, Migración y Extranjería, se regirá conforme a lo señalado en las leyes que lo regulan, en su Reglamento Orgánico y demás normas de funcionamiento que se dicten al efecto."*
 
-**Patrón análogo: Servicio Autónomo de Registros y Notarías (SAREN)** — artículos 75-79 de la Sección X del mismo Decreto 6.733, con naturaleza jurídica idéntica. El SAREN está adscrito al mismo Ministerio y coordina con el Viceministro de Política Interior y Seguridad Jurídica. La reforma del Pilar III.7 (RUI) aprovecha esta arquitectura institucional para reubicar las funciones de registros públicos en el Servicio Nacional del Registro Inmobiliario (SNRI), separándolas del Registro Civil propiamente dicho.
+**Patrón análogo: Servicio Autónomo de Registros y Notarías (SAREN)** — artículos 75-79 de la Sección X del mismo Decreto 6.733, con naturaleza jurídica idéntica. El SAREN está adscrito al mismo Ministerio y coordina con el Viceministro de Política Interior y Seguridad Jurídica. La reforma del Pilar VII (RUI) aprovecha esta arquitectura institucional para reubicar las funciones de registros públicos en el Servicio Nacional del Registro Inmobiliario (SNRI), separándolas del Registro Civil propiamente dicho.
 
-#### III.7.5.7.2. Diagnóstico jurídico comparado entre el Decreto 6.733 y la reforma propuesta
+#### VII.5.7.2. Diagnóstico jurídico comparado entre el Decreto 6.733 y la reforma propuesta
 
-| Aspecto | Decreto 6.733 (2009) | Reforma propuesta (Pilar III.7) |
+| Aspecto | Decreto 6.733 (2009) | Reforma propuesta (Pilar VII) |
 |---|---|---|
 | **Naturaleza jurídica del SAIME** | Servicio desconcentrado sin personalidad jurídica (art. 68) | Persona jurídica pública autónoma (SNI) con patrimonio propio |
 | **Designación del titular** | Designado por el Ministro (art. 73); libre nombramiento conforme al art. 4 del propio Decreto | Concurso público + ratificación 3/5 AN + período fijo 7 años no reelegible |
 | **Adscripción política** | Dependiente jerárquicamente del Ministro del Interior + coordinado por el Viceministro de Política Interior y Seguridad Jurídica (art. 68) | Adscrito al Ministerio del Interior pero sin dependencia jerárquica directa; coordinación con el Viceministro sustituida por autonomía funcional |
-| **Régimen de personal** | Cargos directivos de "libre nombramiento y remoción" (art. 4 del Decreto); personal sin concurso meritocrático obligatorio | Concurso meritocrático vía CNSC (Pilar III.1); mochila austríaca; VePass como credencial |
+| **Régimen de personal** | Cargos directivos de "libre nombramiento y remoción" (art. 4 del Decreto); personal sin concurso meritocrático obligatorio | Concurso meritocrático vía CNSC (Pilar I); mochila austríaca; VePass como credencial |
 | **Coordinación con migración** | Integrada en el mismo servicio (art. 68; 69) | **Separada**: SNMEx como servicio hermano con directorio propio |
 | **Plataforma tecnológica** | Subcontratada a vendors extranjeros (Albet Cuba 2011-2022, Exclé Argentina 2022+) | BND propio en Guri-1/2/3 con código abierto auditado por SPDP |
 | **Control de captura política** | Ninguno explícito | Cláusula 3/4 + referéndum; veeduría internacional; incompatibilidades |
 | **Ingresos** | Hasta 75% tasas de timbre fiscal + autogestión (art. 71) | Asignación presupuestaria del Presupuesto Nacional + tasas reducidas (Cédula-RUT gratuita para el ciudadano); ingresos por VePass-Firma, RUI, RUP, certificados digitales |
 | **Modificación del marco normativo** | Por Decreto presidencial del MPPREIJ (sin Asamblea Nacional) | Por ley orgánica con 3/5 AN; estructura blindada contra reorganización discrecional |
 
-Esta tabla demuestra que la reforma del Pilar III.7 **invierte cada uno de los rasgos del SAIME actual** que producen la crisis institucional documentada: convierte el servicio desconcentrado en persona jurídica autónoma, el libre nombramiento en concurso meritocrático, la dependencia política en autonomía funcional, la plataforma subcontratada en infraestructura soberana, y la modificación discrecional en reforma constitucional agravada.
+Esta tabla demuestra que la reforma del Pilar VII **invierte cada uno de los rasgos del SAIME actual** que producen la crisis institucional documentada: convierte el servicio desconcentrado en persona jurídica autónoma, el libre nombramiento en concurso meritocrático, la dependencia política en autonomía funcional, la plataforma subcontratada en infraestructura soberana, y la modificación discrecional en reforma constitucional agravada.
 
 #### Métricas de éxito de la transición
 
@@ -1331,7 +1331,7 @@ Esta tabla demuestra que la reforma del Pilar III.7 **invierte cada uno de los r
 
 ---
 
-## III.7.6. Cédula-RUT: documento físico con QR + NFC + chip biométrico
+## VII.6. Cédula-RUT: documento físico con QR + NFC + chip biométrico
 
 ### Especificaciones técnicas inspirado en el modelo chileno (Cédula de Identidad 2019-)
 
@@ -1375,7 +1375,7 @@ inspirado en el bloqueo de tarjeta bancaria: el bloqueo es la regla, no la excep
 
 ---
 
-## III.7.7. Registro de huellas dactilares: casos especiales
+## VII.7. Registro de huellas dactilares: casos especiales
 
 El estándar es el registro de **las 10 huellas dactilares** (todos los dedos de ambas manos) conforme a las normas ICAO 9303 y NIST. Sin embargo, se contemplan los siguientes casos especiales:
 
@@ -1438,7 +1438,7 @@ La norma de implementación se detalla en el **Reglamento General del SNI**, que
 
 ---
 
-## III.7.8. Ley Orgánica de Protección de Datos Personales
+## VII.8. Ley Orgánica de Protección de Datos Personales
 
 La reforma sanciona una **Ley Orgánica de Protección de Datos Personales (LOPD)** inspirada en el RGPD europeo (Reglamento 2016/679), la LGPD brasileña (Lei 13.709/2018) y la Ley 19.628 chilena, con los siguientes principios:
 
@@ -1481,7 +1481,7 @@ Su tratamiento requiere:
 
 ---
 
-## III.7.9. VePass en defensa y seguridad nacional
+## VII.9. VePass en defensa y seguridad nacional
 
 El usuario que origina este documento planteó la necesidad de uso de los datos también por las instituciones de defensa. La propuesta incorpora:
 
@@ -1501,7 +1501,7 @@ El usuario que origina este documento planteó la necesidad de uso de los datos 
 
 ---
 
-## III.7.10. Cláusula de continuidad
+## VII.10. Cláusula de continuidad
 
 Reforma al artículo 56 CRBV adicionando:
 
@@ -1511,7 +1511,7 @@ La identidad de los venezolanos es la infraestructura más crítica del Estado. 
 
 ---
 
-## III.7.11. Cronograma de implementación
+## VII.11. Cronograma de implementación
 
 | Fase | Período | Hitos principales |
 |------|---------|-------------------|
@@ -1522,7 +1522,7 @@ La identidad de los venezolanos es la infraestructura más crítica del Estado. 
 | **4. Expansión de servicios** | Años 3-5 | Integración de todos los organismos al VePass + interoperabilidad X-Road completa + IA disponible para instituciones |
 | **5. Consolidación** | Años 5-7 | Migración completa + auditorías + ajustes + cobertura universal |
 
-## III.7.12. Indicadores de éxito
+## VII.12. Indicadores de éxito
 
 | Indicador | Línea base (2024) | Meta año 3 | Meta año 6 |
 |-----------|-------------------|------------|------------|
@@ -1538,7 +1538,7 @@ La identidad de los venezolanos es la infraestructura más crítica del Estado. 
 | Costo de operación per cápita | n/a | <USD 5/año | <USD 3/año |
 | Satisfacción ciudadana con servicios digitales | <10% | 50% | 75% |
 
-## III.7.13. Riesgos y mitigación
+## VII.13. Riesgos y mitigación
 
 | Riesgo | Prob. | Impacto | Mitigación |
 |--------|------|---------|------------|
@@ -1553,7 +1553,7 @@ La identidad de los venezolanos es la infraestructura más crítica del Estado. 
 
 ---
 
-*Continuará: III.8 Planificación estratégica de Estado inspirado en modelo coreano-singapurense.*
+*Continuará: VIII Planificación estratégica de Estado inspirado en modelo coreano-singapurense.*
 
 ---
 

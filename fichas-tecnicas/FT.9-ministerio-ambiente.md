@@ -1,8 +1,8 @@
 ---
 titulo: "Ficha Técnica — Ministerio del Ambiente"
-version: "0.1 (H10.9 — versión ficha técnica, 25-jul-2026)"
-estado: "Borrador operativo. Operacionaliza los regímenes de política ambiental nacional + patrimonio cultural transferido del MPPP Cultura vigente y de Pilar III.5 §III.5.6 + III.7 + III.9 doctrinal."
-parte: "H10 — Fichas Técnicas Ministeriales"
+version: "0.1 (FT.9 — versión ficha técnica, 25-jul-2026)"
+estado: "Borrador operativo. Operacionaliza los regímenes de política ambiental nacional + patrimonio cultural transferido del MPPP Cultura vigente y de Pilar V §V.6 + VII + III.9 doctrinal."
+parte: "FT — Fichas Técnicas"
 ministerio: "Nº 9 — Ambiente"
 ministerios_agrupados_vigentes: "#21 MPP Ecosocialismo + Viceministerio de Cultura y Patrimonio Cultural (transferido del MPPP Cultura vigente #31)"
 entes_maximos_segun_tope: "~4-5 entes de los 40 totales"
@@ -11,7 +11,7 @@ coordinacion_interministerial: "Estrecha con Ministerios #4 (Energía+Minas ambi
 dimension_diplomatica: "Savia Convención Clima, COP (UNFCCC), CITES (fauna/flora), Acuerdo Escazú (acuerdo regional DDHH ambientales), Amazonía-Cooperación Colombia/Brasil"
 ---
 
-# H10.9 — Ficha Técnica del Ministerio del Ambiente
+# FT.9 — Ficha Técnica del Ministerio del Ambiente
 
 > **Mandato constitucional**:
 >
@@ -44,7 +44,7 @@ Adscribe las funciones del MPPP Ecosocialismo #21 + del MPPP Cultura vigente #31
 | **Art. 127-129 reformados** | Reconocimiento del ambiente como derecho humano independiente; principio de responsabilidad intergeneracional; principio de protección climática con criterios técnicos |
 | **Art. 156 numeral 9 reformado** | Faculta al Estado nacional a legislar sobre ambiente como materia de competencia nacional exclusiva (no concurrente) |
 | **Art. 119-A aditivo** | Los ecosistemas frágiles (Amazonía, Cordillera de la Costa, Andes, Sistema Orinoco-Apure) son patrimonio nacional inalienable |
-| **Art. 184 reformado** | Integración de la política ambiental con la planificación del Estado (Plan Quinquenal — Pilar III.8) |
+| **Art. 184 reformado** | Integración de la política ambiental con la planificación del Estado (Plan Quinquenal — Pilar VIII) |
 
 ### 1.2 Leyes orgánicas nuevas y reformas necesarias
 
@@ -111,7 +111,7 @@ Ministerio del Ambiente
 
 - **INPARQUES reformado**: dependencia de este Viceministerio; admin integrado de parques nacionales con VePass-Firma de cada guardaparque.
 - **Biodiversidad y CITES**: ratificación nacional de las listas CITES con VePass-Firma y VePass-Plus para fiscalización del tráfico de fauna y flora silvestre.
-- **Bosques y Cuencas Hidrográficas**: política forestal + restauración + monitoreo satelital (cooperación BND-Pilar III.7).
+- **Bosques y Cuencas Hidrográficas**: política forestal + restauración + monitoreo satelital (cooperación BND-Pilar VII).
 - **Áreas Costeras y Marinas**: política de costas + ríos + lagos; coordinación con SUNAA del MIS y sector privado (energía).
 
 #### 2.2.2 Patrimonio Cultural (Viceministerio 2 — transferido MPPP Cultura vigente #31)
@@ -127,13 +127,13 @@ Ministerio del Ambiente
 
 - **Inventario Nacional de Emisiones GEI** (Gases de Efecto Invernadero): reporte anual conforme Acuerdo París.
 - **Adaptación territorial**: planes con gobiernos estadales; seguros agrícolas vinculados a VePass-Aseguradora de Riesgos Climáticos.
-- **Prevención de Riesgos y Desastres Naturales**: alertas tempranas con BND-Pilar III.7; coordinación CPNP evacuación (Ministerio #1 Interior).
+- **Prevención de Riesgos y Desastres Naturales**: alertas tempranas con BND-Pilar VII; coordinación CPNP evacuación (Ministerio #1 Interior).
 - **Hidrología Nacional (INAMEH reformado)**: monitoreo climático, proyecciones, caudal de ríos, calidad del aire.
 - **Impuestos al Carbono**: cobra a los contaminadores; coordina con SENIAT (MEF).
 
 #### 2.2.4 Vigilancia Extractiva + Coordinación MEM (Viceministerio 4)
 
-- **Fiscalización Ambiental**: auditorías a operadores del sector extractivo (PDVSA matriz, filiales, CVG, Pequiven, otros). Articulación operativa con **DNA-RB** del Pilar III.6 (Poder Ciudadano).
+- **Fiscalización Ambiental**: auditorías a operadores del sector extractivo (PDVSA matriz, filiales, CVG, Pequiven, otros). Articulación operativa con **DNA-RB** del Pilar VI (Poder Ciudadano).
 - **Impacto Ambiental**: verificación de cumplimiento de EIA (Estudios de Impacto Ambiental); clausuras administrativas por incumplimiento.
 - **Coordinación con CONAELEC** (regulador elétrico del MIS): cierre hidroeléctrico para evitar conflictos hídricos.
 - **Coordinación con SUNAA** del MIS: hidráulica territorial.
@@ -240,7 +240,7 @@ Tope 14:1.
 |---|---|---|---|
 | **Captura política del patrimonio cultural** | Alta | Alto | Concurso meritocrático + AN 3/5 + veeduría UNESCO |
 | **Captura de las áreas protegidas** | Alta | Crítico | Cláusula de continuidad 3/4 + referendum + veeduría OACNUDH BID |
-| **Industrias extractivas con daño ambiental** | Alta | Crítico | DNA-RB (Pilar III.6) + vigilancia ambiental VePass con BND + clausuras administrativas por incumplimiento |
+| **Industrias extractivas con daño ambiental** | Alta | Crítico | DNA-RB (Pilar VI) + vigilancia ambiental VePass con BND + clausuras administrativas por incumplimiento |
 | **Degradación del Patrimonio Cultural material e inmaterial** | Alta | Alto | LPPC nueva ley + programa de mantenimiento + financiamiento BND-augmented |
 | **Crisis climática extrema** | Alta | Crítico | Planes territoriales de adaptación + seguros agrícolas con VePass-Aseguradora + alertas tempranas del BND con INAMEH |
 | **Captura del Viceministerio de Cultura** (política partidaria) | Alta | Alto | Concurso CNSC + venadio UNESCO + pabellón programático neutral |
@@ -274,11 +274,11 @@ Tope 14:1.
 ## 12. Documentos conexos
 
 - **Pilar III.9 Ambiente** — fuente doctrinal pendiente (a redactar).
-- **Pilar III.8 DNPEP** — planificación vinculante con presupuesto plurianual.
-- **Pilar III.7 BND** — infraestructura de datos climáticos + trazabilidad.
-- **Pilar III.6 DNA-RB** — auditoría integridad de operadores extractivos.
-- **Pilar III.5 MEM** — sector extractivo objeto de vigilancia.
-- **Pilar III.4 MEF** — impuestos al carbono (Bloque E) y reforma tributaria.
+- **Pilar VIII DNPEP** — planificación vinculante con presupuesto plurianual.
+- **Pilar VII BND** — infraestructura de datos climáticos + trazabilidad.
+- **Pilar VI DNA-RB** — auditoría integridad de operadores extractivos.
+- **Pilar V MEM** — sector extractivo objeto de vigilancia.
+- **Pilar IV MEF** — impuestos al carbono (Bloque E) y reforma tributaria.
 - **MIED-LAM Programa 6 + 7** — Cívica + Pensamiento Crítico Digital con ejes ambientales.
 - **Texto Articulado Arts. 231-245** — cuerpo normativo ambiental.
 - **Anexo A.5** — rattachation vigente.

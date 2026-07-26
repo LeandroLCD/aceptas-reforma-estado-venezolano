@@ -1,16 +1,16 @@
 ---
 titulo: "Ficha Técnica — Ministerio de Economía y Finanzas"
-version: "0.1 (H10.3 — versión ficha técnica, 25-jul-2026)"
-estado: "Borrador operativo. Operacionaliza la doctrina del Pilar III.4 v0.1 (`v0.1_pilar_iii4_reforma_fiscal_financiamiento.md`, 237 líneas); cronograma monetario/cambiario 18 meses + FEM + LOBCV."
-parte: "H10 — Fichas Técnicas Ministeriales"
+version: "0.1 (FT.3 — versión ficha técnica, 25-jul-2026)"
+estado: "Borrador operativo. Operacionaliza la doctrina del Pilar IV v0.1 (`v0.1_pilar_iii4_reforma_fiscal_financiamiento.md`, 237 líneas); cronograma monetario/cambiario 18 meses + FEM + LOBCV."
+parte: "FT — Fichas Técnicas"
 ministerio: "Nº 3 — Economía y Finanzas"
 ministerios_agrupados_vigentes: "#2 MPPP Economía y Finanzas + #7 MPPP Industria y Comercio Nacional + #8 MPPP Comercio Exterior + #3 MPPP Agricultura Productiva y Tierras + #4 MPPP Pesca y Acuicultura + #5 MPPP Alimentación"
 entes_maximos_segun_tope: "~6 entes por ministerio de los 40 totales (suma de fusiones)"
 clausula_continuidad: "3/4 + referéndum popular ratificatorio (Innovación #1)"
 cronograma_clave: "Banda cambiaria mes 1 → LOBCV sanción meses 3-6 → autonomía BCV mes 12 → dolarización oficial mes 18 (modelo Panamá 1904)"
 rango_bcv: "Constitucional post-reforma (LOBCV nuevo Art. 318-321 CRBV)"
-foseip_vinculacion: "Fondo Soberano de Estabilización e Inversión Productiva (Pilar III.5)"
-fnip_vinculacion: "Fondo Nacional de Inversión Productiva (Pilar III.5)"
+foseip_vinculacion: "Fondo Soberano de Estabilización e Inversión Productiva (Pilar V)"
+fnip_vinculacion: "Fondo Nacional de Inversión Productiva (Pilar V)"
 fem_vinculacion: "Fondo de Estabilización Macroeconómica (cíclico)"
 marco_legal_reformado:
   - "LOBCV (nueva ley orgánica del BCV)"
@@ -20,7 +20,7 @@ marco_legal_reformado:
   - "CRBV arts. 156.9, 178, 318 (reforma), 332-333 (vigentes)"
 ---
 
-# H10.3 — Ficha Técnica del Ministerio de Economía y Finanzas
+# FT.3 — Ficha Técnica del Ministerio de Economía y Finanzas
 
 > **Mandato constitucional**:
 >
@@ -34,7 +34,7 @@ Adscribe las funciones de 6 ministerios vigentes (MPPF-EF, Industria y Comercio,
 
 **Adscripción múltiple** (fusión máxima): 6 ministerios vigentes concentrados en un solo despacho ministerial.
 
-**Cronograma monetario 18 meses** (Pilar III.4 decisión de 13-jul-2026):
+**Cronograma monetario 18 meses** (Pilar IV decisión de 13-jul-2026):
 
 | Mes | Hito | Ley |
 |---|---|---|
@@ -48,7 +48,7 @@ Adscribe las funciones de 6 ministerios vigentes (MPPF-EF, Industria y Comercio,
 
 **Fondo de Estabilización Macroeconómica (FEM)**: nuevo estabilizador fiscal que reemplaza al FONDEN existente, con activación automática en caídas de precio petrolero y devolución programada.
 
-**Vinculación con Pilar III.5**: Los fondos FOSEIP (Fondo Soberano de Estabilización e Inversión Productiva, modelo Norway GPFG) y FNIP (Fondo Nacional de Inversión Productiva, modelo banca de desarrollo sectorial) se gestionan coordinadamente con este ministerio, pero con entes separados.
+**Vinculación con Pilar V**: Los fondos FOSEIP (Fondo Soberano de Estabilización e Inversión Productiva, modelo Norway GPFG) y FNIP (Fondo Nacional de Inversión Productiva, modelo banca de desarrollo sectorial) se gestionan coordinadamente con este ministerio, pero con entes separados.
 
 ## 1. Marco constitucional y legal
 
@@ -69,10 +69,10 @@ Adscribe las funciones de 6 ministerios vigentes (MPPF-EF, Industria y Comercio,
 | **LOBCV** — Ley Orgánica del Banco Central de Venezuela | A redactar (urgencia 0-6 meses) | Estatuto orgánico completo del BCV: directorio por concurso, autonomía, régimen cambiario, prohíbe financiamiento monetario del Tesoro |
 | **Ley de Dolarización** | A redactar entre meses 12-15 | Convierte USD en curso legal oficial; bolívar como moneda simbólica (Panamá 1904 - balboa); tasas de cambio ancladas |
 | **Reforma LOAFSP 2000** | Reforma | Racionaliza la programación presupuestaria plurianual y la ejecución del FEED/FEM. Aclara el rol del ministerio vs entes autónomos |
-| **Reforma del COT 2014** | Reforma | Actualiza IVAN, ISLR, IPN conforme Pilar III.4; alineado con tributación no petroleta 6%→14% PIB |
+| **Reforma del COT 2014** | Reforma | Actualiza IVAN, ISLR, IPN conforme Pilar IV; alineado con tributación no petroleta 6%→14% PIB |
 | **LOTIPP** — Ley Orgánica de Tributación Interna y Plusvalía | A redactar | Crea la tributación sobre plusvalía (ganancias inmobiliarias, transacciones de capital) — pilar fiscal Chile |
-| **LFOSEIP** — Ley Orgánica del Fondo Soberano de Estabilización e Inversión Productiva | A redactar (Pilar III.5) | Constituye el FOSEIP como 4° fondo (tras FEM, FUNDAINGRESO, FEED) |
-| **LFNIP** — Ley Orgánica del Fondo Nacional de Inversión Productiva | A redactar (Pilar III.5) | Constituye el FNIP como banca de desarrollo sectorial |
+| **LFOSEIP** — Ley Orgánica del Fondo Soberano de Estabilización e Inversión Productiva | A redactar (Pilar V) | Constituye el FOSEIP como 4° fondo (tras FEM, FUNDAINGRESO, FEED) |
+| **LFNIP** — Ley Orgánica del Fondo Nacional de Inversión Productiva | A redactar (Pilar V) | Constituye el FNIP como banca de desarrollo sectorial |
 | **Reforma LOPPM 2009** | Reforma | Aplica catálogo taxativo de ingresos propios municipales |
 
 ### 1.3 Conexión internacional
@@ -123,12 +123,12 @@ Ministerio de Economía y Finanzas
 │   │   ├── INSOPESCA (entidad de transición, a desaparecer tras fusión)
 │   ├── Viceministerio de Alimentación y Seguridad Alimentaria (transitorio)
 │   │   ├── Dirección General de Programas Sociales Alimentarios (transitorio)
-│   │   ├── MERCAL (transitoriamente mantenido, privatizable según Pilar III.4)
+│   │   ├── MERCAL (transitoriamente mantenido, privatizable según Pilar IV)
 │   │   ├── Dirección de Programas de Agricultura Urbana
 │   ├── Viceministerio de Coordinación Estratégica
 │   │   ├── DNPEP (transferido del Ministerio de Planificación a Economía y Finanzas para coordinación)
 │   │   ├── Dirección de Coordinación de FOSEIP / FNIP (administrativamente, fondos autónomos)
-│   │   ├── Oficina Nacional del Plan Plurianual (3 años) y Plan Quinquenal del Pilar III.8
+│   │   ├── Oficina Nacional del Plan Plurianual (3 años) y Plan Quinquenal del Pilar VIII
 │   └── Secretaría General del Ministerio
 │       ├── Dirección de Administración y Recursos Humanos (concursos CNSC)
 │       ├── Consultoría Jurídica
@@ -190,9 +190,9 @@ Ministerio de Economía y Finanzas
 #### 2.2.8 Coordinación Estratégica
 
 - Coadyuvante del BCP (Banco Central con Política Monetaria autónoma);
-- Coordinación con DNPEP del Pilar III.6;
-- Coordinación con FOSEIP y FNIP (Pilar III.5);
-- Plan Quinquenal (Vinculación con Pilar III.8).
+- Coordinación con DNPEP del Pilar VI;
+- Coordinación con FOSEIP y FNIP (Pilar V);
+- Plan Quinquenal (Vinculación con Pilar VIII).
 
 ## 3. Entes adscritos (estimados)
 
@@ -209,7 +209,7 @@ Ministerio de Economía y Finanzas
 
 **Total entes**: 8 dentro del tope de 40 (Art. 9 Texto Articulado).
 
-> **Entes suprimidos o reagrupados**: SAPI, SENCAMER, PROCOMPETENCIA, SIEX, SNC, BANCOEX, BANFOANDES, FOGADE, Tareacero, BANDES (liquidador), CLAP (programa a desaparecer progresivamente), MERCAL (privatización progresiva Pilar III.5), LA CASA, ENACA, FONDAS, INDER, INIA, INTi, CIS, FUNDASMIN, VEXIMCA, INJ (transferido a MIED-LAM — Viceministerio de Juventud), INCES, INCRET (transferido a Ministerio del Trabajo o Poder Ciudadano).
+> **Entes suprimidos o reagrupados**: SAPI, SENCAMER, PROCOMPETENCIA, SIEX, SNC, BANCOEX, BANFOANDES, FOGADE, Tareacero, BANDES (liquidador), CLAP (programa a desaparecer progresivamente), MERCAL (privatización progresiva Pilar V), LA CASA, ENACA, FONDAS, INDER, INIA, INTi, CIS, FUNDASMIN, VEXIMCA, INJ (transferido a MIED-LAM — Viceministerio de Juventud), INCES, INCRET (transferido a Ministerio del Trabajo o Poder Ciudadano).
 
 ## 4. Designaciones políticas
 
@@ -219,11 +219,11 @@ Ministerio de Economía y Finanzas
 - **Ratificación por la AN con mayoría de 3/5.**
 - Requisitos: venezolano por nacimiento; mayor de 35 años; doctorado o postgrado en Economía, Finanzas Públicas, o equivalente; experiencia profesional ≥15 años en banca/banca central, ministerio económico internacional, o similar; **no tener vínculos con grupos financieros privados** durante el mandato + 5 años previos.
 - Período: 7 años no prorrogable ni reelegible.
-- Destitución: 3/4 AN con 7 causales taxativas (analogía Pilar III.6 v0.5); causal #6 = **alteración inconstitucional del FEM o desviación de la programación presupuestaria plurianual**.
+- Destitución: 3/4 AN con 7 causales taxativas (analogía Pilar VI v0.5); causal #6 = **alteración inconstitucional del FEM o desviación de la programación presupuestaria plurianual**.
 
 ### 4.2 Viceministros y Directores Generales
 
-- Vía concursos meritocráticos CNSC, análoga a Pilar III.1 LOSCM.
+- Vía concursos meritocráticos CNSC, análoga a Pilar I LOSCM.
 
 ## 5. Régimen de personal
 
@@ -246,13 +246,13 @@ Todos los cargos directivos son concursados CNSC cada 5 años en régimen de tra
 
 ## 6. Política tributaria — reforma no petroleta
 
-> **Decisión arquitectónica 25-jul-2026 (Bloque A)**: el Impuesto Sobre la Renta (ISLR) para Personas Naturales tiene un umbral de exoneración hasta 15 salarios mínimos anuales, con tasa mínima del 6% y máxima del 10%. El ISLR de Personas Jurídicas tiene un tope máximo del 12%. Esta arquitectura — considerablemente más suave que la reforma inicial (que preveía hasta 32%) — es **política y técnicamente preferible**: incentiva la actividad económica formal, reduce la evasión, baja el umbral de salida de la informalidad, y estabiliza la recaudación no petroleta por debajo del 14% PIB manteniendo el objetivo del Pilar III.4.
+> **Decisión arquitectónica 25-jul-2026 (Bloque A)**: el Impuesto Sobre la Renta (ISLR) para Personas Naturales tiene un umbral de exoneración hasta 15 salarios mínimos anuales, con tasa mínima del 6% y máxima del 10%. El ISLR de Personas Jurídicas tiene un tope máximo del 12%. Esta arquitectura — considerablemente más suave que la reforma inicial (que preveía hasta 32%) — es **política y técnicamente preferible**: incentiva la actividad económica formal, reduce la evasión, baja el umbral de salida de la informalidad, y estabiliza la recaudación no petroleta por debajo del 14% PIB manteniendo el objetivo del Pilar IV.
 
 ### 6.0 Definición del Salario Mínimo a efectos fiscales
 
 | Concepto | Valor |
 |---|---|
-| Salario mínimo base | **USD 512/mes indexado** (post-mes 18 Pilar III.4 — dolarización oficial del Pilar III.4) |
+| Salario mínimo base | **USD 512/mes indexado** (post-mes 18 Pilar IV — dolarización oficial del Pilar IV) |
 | Salario mínimo anual | **USD 6.144** (12 meses × USD 512) |
 | Tratamiento | Indexado anualmente al índice de precios al consumidor urbano del BCV + retribución media sectorial, conforme recomendación de la OIT |
 
@@ -261,7 +261,7 @@ Todos los cargos directivos son concursados CNSC cada 5 años en régimen de tra
 | Impuesto | Reforma propuesta | Tasa y estructura | Comentario |
 |---|---|---|---|
 | **ISLR Personas Naturales** | Exención hasta 15 salarios mínimos anuales, escala progresiva del 6% al 10% | **Exento: ingresos anuales < 15 SM (< USD 92.160/año)**; 15-30 SM: 6%; 30-60 SM: 7%; 60-100 SM: 8%; 100-200 SM: 9%; > 200 SM: 10% | Criterio 25-jul-2026 (Bloque A). Mucho más bajo que las versiones previas (32% techo). Elimina presión sobre clases medias y profesional; cierra fuga a la informalidad; sólo la franja de altos ingresos aporta marginalmente. |
-| **Eliminación del IGTF** (Impuesto a Grandes Transacciones Financieras, vigente 2% o similar) | Vigente a derogar | **Eliminado desde el mes 1 del cronograma monetario del Pilar III.4** (decreto presidencial + reforma COT). Sin compensación alternativa — la recaudación se compensa por ISLR Personas Jurídicas (12%) + IVAN 16% general + FEM ring-fenced | Criterio 25-jul-2026 (Bloque F). El IGTF perdió función: ya no existen transacciones de subfacturación cambiaria tras la dolarización oficial, y el FEM es el estabilizador automático. Eliminarlo es premilitar como arancel anti-tributario al uso del sistema financiero formal, lo que ha restringido artificialmente la bancarización de la informalidad. |
+| **Eliminación del IGTF** (Impuesto a Grandes Transacciones Financieras, vigente 2% o similar) | Vigente a derogar | **Eliminado desde el mes 1 del cronograma monetario del Pilar IV** (decreto presidencial + reforma COT). Sin compensación alternativa — la recaudación se compensa por ISLR Personas Jurídicas (12%) + IVAN 16% general + FEM ring-fenced | Criterio 25-jul-2026 (Bloque F). El IGTF perdió función: ya no existen transacciones de subfacturación cambiaria tras la dolarización oficial, y el FEM es el estabilizador automático. Eliminarlo es premilitar como arancel anti-tributario al uso del sistema financiero formal, lo que ha restringido artificialmente la bancarización de la informalidad. |
 | **ISLR Personas Jurídicas** | Tope máximo del 12%, regímenes graduados | **Microempresas formalizadas nuevas (capital < USD 50K, alta densidad de mano de obra local): exentas 3 años, después 5%**; **Exentas de impuestos sólo las ONGs sin fines de lucro** (Bloque B.2, decisión 25-jul-2026: NO cooperativas gravadas, NO religiosas exentas por separado — todas gravadas al 12%); PyMEs no micro: 8%; Empresas grandes (capital > USD 5M): **12%**; Empresas dedicadas a sectores estratégicos (energía privatizada, telecomunicaciones privatizadas, banca, alimentos básicos bajo acuerdo de precios): régimen especial 12% + gravamen ambiental sí vigente | Criterio 25-jul-2026 (Bloque A+B). Tope máximo 12% (no 22% como se anticipaba en versiones previas). Progresividad real: micro exentas para dinamizar formalización, gran empresa al tope bajo (12%). Las ONGs sin fines de lucro son el único sector exento en el Bloque B — el resto del universo de Personas Jurídicas tributa conforme a la escala. Las **organizaciones religiosas** NO están exentas por defecto — tributan al 12% (régimen general) por no calificar como "ONG sin fines de lucro" en sentido estricto (sí califican **sus templos, conventos y monasterios** en el Bloque A.4 IPN, pero sus actividades económicas comerciales — librerías, seminarios pagos, etc. — tributan al 12%). |
 | **IVA (IVAN)** | Sustantivo | **16% general**; **0% exento** en: medicamentos, salud, educación, transporte público, energía doméstica, **canasta básica alimentaria**, **primera vivienda** | Reemplaza el heterogéneo IVA/IGT/ICE vigente |
 | **Impuesto al Patrimonio Neto (IPN)** | Personas naturales con patrimonio ≥ USD 500K; tramos progresivos; con exenciones específicas | **Tramos**: USD 500K-1M: 0,2%; USD 1M-5M: 0,5%; USD 5M-20M: 1,0%; USD 20M-50M: 1,5%; USD 50M+: 2,0%. **Exenciones**: primera vivienda (hasta USD 200K valor fiscal); bienes religiosos (templos, monasterios, conventos, instituciones eclesiásticas, organizaciones religiosas con personería jurídica reconocida por la Memoria y Cuenta del MPPE) | Criterio 25-jul-2026 (Bloque A.4). Patrimonios ≥ 500K capturan 13% del 1% superior de la distribución de riqueza de Chile; los tramos siguen la distribución del patrimonio del IMF Wealth Distribution Database. Bienes productivos siguen gravados (tierras ociosas excluidas del IPN pero sí tributan IDM). Lo que se grava no es solo vivienda sino el patrimonio total acumulado (bienes raíces + inversiones + carteras activas + obras de arte + alhajas + depósitos + seguros con valor de rescate, menos deudas). |
@@ -277,7 +277,7 @@ Todos los cargos directivos son concursados CNSC cada 5 años en régimen de tra
 | Vigente | 6% |
 | Año 1 | 7% |
 | Año 3 | 10% |
-| Año 6 | 14% (objetivo Pilar III.4) |
+| Año 6 | 14% (objetivo Pilar IV) |
 | Año 10 | 17-18% (Chile actual) |
 
 Ingresos nuevos año 6: USD 13-15.000M adicionales/año con PIB USD 220B.
@@ -311,7 +311,7 @@ Ingresos nuevos año 6: USD 13-15.000M adicionales/año con PIB USD 220B.
 | Auditoría | CGR trimestral; publicación abierta en CKAN; revisor externo internacional cada 3 años. |
 | Regla anti-cambio político | Cláusula constitucional: modificación del FEM requiere reforma constitucional 3/5 + referendum (analogía MIED-LAM). |
 
-### 8.2 Conexión con FOSEIP y FNIP (Pilar III.5)
+### 8.2 Conexión con FOSEIP y FNIP (Pilar V)
 
 - **FEM**: estabilizador cambiar/cíclico. Acciones 90% en USD y metales preciosos.
 - **FOSEIP**: ahorro de largo plazo (modelo Norwegian GPFG). Acciones sólo en liquidación total o excepcional.
@@ -326,7 +326,7 @@ Los tres fondos coordinan tesorería a través del Comité Coordinador de Fondos
 | Masa salarial (~5.000 funcionarios) | 90M | 0,04% | Concursos meritocráticos CNSC, escala competitiva |
 | Operación del SENIAT | 180M | 0,08% | Modernización tecnológica + nuevo régimen de servicios |
 | Operación CNC/SUDEBAN/SUNACRIP | 80M | 0,04% | Sistemas de supervisión, auditoría financiera, criptoactivos |
-| Programa ANCPI (transferencias a municipalidades) | 600M | 0,27% | 25% de IVA + 10% Canon petrolero + Fondo Compensación (modelo Pilar III.4) |
+| Programa ANCPI (transferencias a municipalidades) | 600M | 0,27% | 25% de IVA + 10% Canon petrolero + Fondo Compensación (modelo Pilar IV) |
 | SITP — Transferencias a desarroll. industrial regionalizado | 200M | 0,09% | Subsidios enfoque regional + clústeres industriales |
 | Programa de Banco Agrícola + créditos sectoriales | 250M | 0,11% | FNIP |
 | FEM — aportes extraordinarios + capital inicial | 500M | 0,23% | Una vez |
@@ -393,14 +393,14 @@ Modificaciones prohibidas:
 |---|---|
 | #1 Cláusula de continuidad 3/4+ref | LoBCV autônomo + FEM ring-fenced + FOSEIP+FNIP protegidos por reforma 3/5 + referendum |
 | #3 VePass-Firma obligatoria | Todas las resoluciones ministeriales, gestion del SENIAT/SUNACRIP/FEM tienen estampilla VePass+Firma del funcionario responsable |
-| #7 Plan Quinquenal vinculante (Pilar III.8) | Vinculación trasversal del Plan Quinquenal Nacional en la programación presupuestaria plurianual del MEF (3 años). |
+| #7 Plan Quinquenal vinculante (Pilar VIII) | Vinculación trasversal del Plan Quinquenal Nacional en la programación presupuestaria plurianual del MEF (3 años). |
 
 ## 14. Documentos conexos
 
-- **Pilar III.4 v0.1** (`borrador_reforma/2026/v0.1_pilar_iii4_reforma_fiscal_financiamiento.md`) — Doctrina fiscal y financiera completa.
-- **Pilar III.5 v0.2** — Reforma Económica y Productiva; reformas LOH, LORAFEE, LOM, LOPSPP; FOSEIP + FNIP detallados.
-- **Pilar III.8 v0.1** — DNPEP y Plan Quinquenal vinculante.
-- **Pilar III.1** — CNSC concursos meritocráticos de funcionarios del MEF.
+- **Pilar IV v0.1** (`borrador_reforma/2026/v0.1_pilar_iii4_reforma_fiscal_financiamiento.md`) — Doctrina fiscal y financiera completa.
+- **Pilar V v0.2** — Reforma Económica y Productiva; reformas LOH, LORAFEE, LOM, LOPSPP; FOSEIP + FNIP detallados.
+- **Pilar VIII v0.1** — DNPEP y Plan Quinquenal vinculante.
+- **Pilar I** — CNSC concursos meritocráticos de funcionarios del MEF.
 - **Texto Articulado** — Ley Orgánica de Presupuesto Multianual; LOBCV; Ley de Dolarización.
 - **Anexo A.5** — Nouvelle rattachation vigente.
 - **Anexo A.10** — Distribución funciones ex-MPP Justicia.
@@ -408,7 +408,7 @@ Modificaciones prohibidas:
 
 ---
 
-*Esta ficha operativa consolida y operacionaliza la doctrina del Pilar III.4 sin duplicarla. El cronograma 18m, las nuevas leyes y las reglas anti-cambio politico son los elementos centralmente operativos del ministerio.*
+*Esta ficha operativa consolida y operacionaliza la doctrina del Pilar IV sin duplicarla. El cronograma 18m, las nuevas leyes y las reglas anti-cambio politico son los elementos centralmente operativos del ministerio.*
 
 *Versión 0.1 — 25-jul-2026. Pendiente: descripción detallada por Viceministerio + KPIs mensuales.*
 
