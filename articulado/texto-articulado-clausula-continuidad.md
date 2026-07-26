@@ -6,7 +6,7 @@ fecha: 2026-07-16
 seccion: V — Cierra el articulado de reforma con las cláusulas de continuidad aplicables a cada pilar
 fuentes_internas:
   - docs/texto_articulado.md (consolidación de Títulos Preliminar, I-VII vigentes)
-  - Parte III - Pilares III.1 a III.8 vigentes con sus cláusulas de continuidad individuales
+  - Parte III - Pilares I a VIII vigentes con sus cláusulas de continuidad individuales
   - Parte IV - Plan de Implementación con STCRE + KPIs
 principios_generales_vinculados:
   - "Pilar 0.II.2 Continuidad de Estado (3/4 + referéndum)"
@@ -32,7 +32,7 @@ Las cláusulas de continuidad son **transversales** — afectan a múltiples pil
 
 ## TÍTULO VIII — RÉGIMEN DE LOS CUERPOS CIVILES DE SEGURIDAD, INVESTIGACIÓN Y MIGRACIÓN (CPNP+CICPC+JNEM)
 
-> Consolidación de los Pilares III.2 §III.2.7-8 en un único cuerpo orgánico.
+> Consolidación de los Pilares II §II.7-8 en un único cuerpo orgánico.
 
 ### Capítulo I — Naturaleza jurídica de los cuerpos
 
@@ -46,13 +46,13 @@ Las cláusulas de continuidad son **transversales** — afectan a múltiples pil
 
 **Artículo 124. Carácter civil.** Ningún cuerpo armado de seguridad pública, investigación criminal o control migratorio podrá revestir el carácter paramilitar, militar o de inteligencia militar, salvo en las unidades expresamente señaladas por la ley.
 
-**Artículo 125. VePass-Firma obligatoria.** Todo acto administrativo del CPNP, del CICPC o de la JNEM requiere la validación VePass-Firma del funcionario competente, conforme a la Ley de Gobierno Digital (Pilar III.7). Sin esta validación, el acto administrativo es nulo de pleno derecho.
+**Artículo 125. VePass-Firma obligatoria.** Todo acto administrativo del CPNP, del CICPC o de la JNEM requiere la validación VePass-Firma del funcionario competente, conforme a la Ley de Gobierno Digital (Pilar VII). Sin esta validación, el acto administrativo es nulo de pleno derecho.
 
 **Artículo 126. Acceso irrestricto a archivos del Estado.** Ningún funcionario del CPNP, del CICPC o de la JNEM puede impedir u obstaculizar el acceso irrestricto de la Comisión Especial Nacional para la Verdad, Memoria y Reparación "Carmen Navas" (CEV-CN), del Ministerio Público unificado o de la Dirección Nacional Anticorrupción y Recuperación de Bienes (DNA-RB) a cualquier archivo, expediente, base de datos o instalación bajo responsabilidad del cuerpo respectivo. Quien lo hiciere comete obstrucción formal tipificada como delito.
 
 ### Capítulo III — Régimen de transición
 
-**Artículo 127. Régimen de Transición por Exámenes Rigurosos (RTER).** Los funcionarios vigentes del PNB, policías estadales, municipales y del CICPC son sometidos al RTER conforme a las siguientes reglas: **tres exámenes independientes y consecutivos** — físico (AFAF), psicológico (AIPE) y moral con polígrafo y verificación patrimonial BND-DNA-RB (AMPB). El procedimiento detallado es el previsto en §III.2.9.5 del Pilar III.2.
+**Artículo 127. Régimen de Transición por Exámenes Rigurosos (RTER).** Los funcionarios vigentes del PNB, policías estadales, municipales y del CICPC son sometidos al RTER conforme a las siguientes reglas: **tres exámenes independientes y consecutivos** — físico (AFAF), psicológico (AIPE) y moral con polígrafo y verificación patrimonial BND-DNA-RB (AMPB). El procedimiento detallado es el previsto en §II.9.5 del Pilar II.
 
 **Artículo 128. Período de transición.** La transición dura dieciocho (18) meses contados desde la entrada en vigencia de la presente Ley. Pasado el plazo, el personal que no haya aprobado los tres exámenes del RTER queda separado administrativamente sin derecho a reincorporación posterior.
 
@@ -63,7 +63,7 @@ Las cláusulas de continuidad son **transversales** — afectan a múltiples pil
 
 ### Capítulo IV — Diseño organizativo y principio *career-only*
 
-**Artículo 130. Estructura orgánica.** El CPNP opera en diez (10) regiones operativas alineadas con la criminología real, conforme a §III.2.7.3 del Pilar III.2. El CICPC mantiene una estructura especializada en departamentos técnicos (Homicidios, Patrimoniales, Secuestros, Transnacionales, Económicos, DDHH), criminalística y la JNEM con su Departamento de Puntos Migratorios (DNPM) con tres secciones: Aérea, Marítima, Terrestre.
+**Artículo 130. Estructura orgánica.** El CPNP opera en diez (10) regiones operativas alineadas con la criminología real, conforme a §II.7.3 del Pilar II. El CICPC mantiene una estructura especializada en departamentos técnicos (Homicidios, Patrimoniales, Secuestros, Transnacionales, Económicos, DDHH), criminalística y la JNEM con su Departamento de Puntos Migratorios (DNPM) con tres secciones: Aérea, Marítima, Terrestre.
 
 **Artículo 131. Principio *career-only*.** El Director General del CPNP, el Director General del CICPC y el Subdirector Nacional de Migración deben ser **miembros activos** del cuerpo respectivo, con mínimos de veinte (20) años de servicio en el CPNP/CICPC/JNEM y haber alcanzado al menos el rango de Inspector/a (CPNP) o Comisario/a General (CICPC/JNEM). Esta regla inhibe la designación política exógena.
 
@@ -91,7 +91,7 @@ Las cláusulas de continuidad son **transversales** — afectan a múltiples pil
 
 ## TÍTULO IX — RÉGIMEN DE PLANIFICACIÓN ESTRATÉGICA Y PROSPECTIVA (DNPEP + Plan Quinquenal)
 
-> Consolidación del Pilar III.8 en un cuerpo orgánico específico.
+> Consolidación del Pilar VIII en un cuerpo orgánico específico.
 
 ### Capítulo I — Naturaleza de la DNPEP
 
@@ -117,11 +117,11 @@ Las cláusulas de continuidad son **transversales** — afectan a múltiples pil
 
 ## TÍTULO X — RÉGIMEN DEL MINISTERIO DE INVESTIGACIÓN, EDUCACIÓN Y DESARROLLO COGNITIVO (MIED-LAM)
 
-> Consolidación del Pilar III.3.
+> Consolidación del Pilar III.
 
 ### Capítulo I — Constitucionalización del MIED-LAM
 
-**Artículo 148. Creación del MIED-LAM.** Se crea el Ministerio de Investigación, Educación y Desarrollo Cognitivo como ministerio de carácter constitucional, con rango y prerrogativas equivalentes a las de un ministerio del sector defensa, conforme al Pilar 0 y al Pilar III.3. Tiene mandato específico de promover el desarrollo cognitivo y cognitivo-poblacional en Venezuela, conforme a la doctrina del Informe UNESCO 1984 que sirvió de base al MEDI original (1979-1984).
+**Artículo 148. Creación del MIED-LAM.** Se crea el Ministerio de Investigación, Educación y Desarrollo Cognitivo como ministerio de carácter constitucional, con rango y prerrogativas equivalentes a las de un ministerio del sector defensa, conforme al Pilar 0 y al Pilar III. Tiene mandato específico de promover el desarrollo cognitivo y cognitivo-poblacional en Venezuela, conforme a la doctrina del Informe UNESCO 1984 que sirvió de base al MEDI original (1979-1984).
 
 **Artículo 149. Programas nacionales.** El Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (MIED-LAM) opera ocho (8) programas nacionales coordinados con el sistema educativo nacional, la academia y los cuerpos de investigación:
 1. Proyecto Familia (capacitación prenatal a 6 años)
@@ -139,11 +139,11 @@ Las cláusulas de continuidad son **transversales** — afectan a múltiples pil
 
 ## TÍTULO XI — RÉGIMEN DE BANCA DE DESARROLLO Y MERCADO DE CAPITALES (LOBMC)
 
-> Consolidación del Pilar III.5 §III.5.7. PENDIENTE DE REDACCION DETALLADA EN ESTA LOBMC.
+> Consolidación del Pilar V §V.7. PENDIENTE DE REDACCION DETALLADA EN ESTA LOBMC.
 
 **Artículo 151. Creación de la Ley Orgánica de Banca de Desarrollo y Mercado de Capitales (LOBMC).** Se reemplazan el régimen vigente por uno funcionalmente separado: Banca universal, Banca de desarrollo sectorial (FIDE+BANDAES+BANMI), Casas de valores y Mercados regulados por SNAVALE.
 
-**Artículo 152. Fondo Nacional de Inversión Productiva (FNIP).** Se crea el FNIP con domicilio del DNPEP (Pilar III.8), dedicada a co-inversión con empresas medianas nacionales, con regla 60% privado + 40% FNIP + 10% municipio.
+**Artículo 152. Fondo Nacional de Inversión Productiva (FNIP).** Se crea el FNIP con domicilio del DNPEP (Pilar VIII), dedicada a co-inversión con empresas medianas nacionales, con regla 60% privado + 40% FNIP + 10% municipio.
 
 **Artículo 153. Apertura de la Bolsa de Valores de Caracas.** Se ordena la reapertura efectiva de la Bolsa de Valores de Caracas, paralizada desde 2017, con marco regulatorio independiente SNAVALE + SIBE.
 
@@ -153,17 +153,17 @@ Las cláusulas de continuidad son **transversales** — afectan a múltiples pil
 
 ## TÍTULO XII — RÉGIMEN DE PRIVATIZACIÓN DE SERVICIOS PÚBLICOS (LORPSP)
 
-> Consolidación del Pilar III.5 §III.5.5 y §III.5.6.
+> Consolidación del Pilar V §V.5 y §V.6.
 
 **Artículo 155. Creación de la Ley Orgánica de Régimen de Privatización de Servicios Públicos (LORPSP).** Se establece el régimen general de privatización de los servicios públicos nacionales, incluyendo los siguientes elementos obligatorios:
 
-1. **Privatización 100%** de Corpoelec + Compañía Anónima Nacional Teléfonos de Venezuela (CANTV) + las 9 hidrológicas regionales de HIDROVEN, conforme a la arquitectura del Pilar III.5 §III.5.5.
+1. **Privatización 100%** de Corpoelec + Compañía Anónima Nacional Teléfonos de Venezuela (CANTV) + las 9 hidrológicas regionales de HIDROVEN, conforme a la arquitectura del Pilar V §V.5.
 2. **Régimen 20 años exoneración** para los concesionarios / prestadores privados de servicios públicos, aplicable a ISLR, IGTF, impuestos municipales y tasas especiales. Solo paga contraprestación de servicios regulados. A partir del año 21 pago de únicamente IVA.
 3. **Servicio Universal garantizado** en pliego de cada concesión.
 4. **Regulador independiente**: CONATEL (telecomunicaciones), OFGEM/UK (electricidad), Superintendencia Nacional de Aguas y Saneamiento (SUNAA) nueva (agua y saneamiento).
 5. **Tarifa social focalizada** para hogares vulnerables: subsidio cruzado o aporte estatal directo.
 
-**Artículo 156. Junta especial de control.** Cada privatización es monitoreada por una Junta Especial de Control presidida por la DNPEP (Pilar III.8) + DNA-RB + JNEM/USDA, según correspondiere. Cualquier desviación respecto al pliego o destrucción del servicio público genera caducidad inmediata de la concesión.
+**Artículo 156. Junta especial de control.** Cada privatización es monitoreada por una Junta Especial de Control presidida por la DNPEP (Pilar VIII) + DNA-RB + JNEM/USDA, según correspondiere. Cualquier desviación respecto al pliego o destrucción del servicio público genera caducidad inmediata de la concesión.
 
 **Artículo 157. Indemnización por inversión.** Toda nacionalización post-privatización (reversión) requiere previo pago del 100% del precio de transferencia + intereses + lucro cesante justificado; sin quiebra financiera estatal oculta.
 
@@ -173,7 +173,7 @@ Las cláusulas de continuidad son **transversales** — afectan a múltiples pil
 
 ## TÍTULO XIII — RÉGIMEN ESPECIAL DE EXTRANJERÍA Y MIGRACIÓN (JNEM + LOPSEP-Mig)
 
-> Ley Orgánica de Política de Servicios especiales de Población y Extranjería-Migración. Pilar III.2 §III.2.7.5 + §III.2.10.1.
+> Ley Orgánica de Política de Servicios especiales de Población y Extranjería-Migración. Pilar II §II.7.5 + §II.10.1.
 
 **Artículo 159. Asunción de funciones del SAIME.** Quedan integradas en la Jefatura Nacional de Extranjería y Migración (JNEM) — dependencia orgánico-operativa del CICPC — las funciones anteriormente atribuidas al Servicio Administrativo de Identificación, Migración y Extranjería (SAIME), que queda extinto.
 
@@ -211,7 +211,7 @@ Las cláusulas de continuidad son **transversales** — afectan a múltiples pil
 
 ## TÍTULO XV — RÉGIMEN DE LA BANCA CENTRAL Y DOLARIZACIÓN (LOBCV + Ley de Dolarización)
 
-> Consolidación del Pilar III.4 §III.4.2 (4).
+> Consolidación del Pilar IV §IV.2 (4).
 
 **Artículo 169. Creación de la Ley Orgánica del Banco Central de Venezuela (LOBCV).** Se dota al BCV de autonomía patrimonial, financiera y operativa con directiva de siete (7) miembros, dos (2) independientes con experiencia monetaria internacional, período no removible.
 
@@ -251,22 +251,22 @@ Las siguientes materias del Estado venezolano gozan del régimen de cláusula de
 
 | # | Materia | Base |
 |---|---------|------|
-| 1 | Servicio Civil Meritocrático (CNSC + LOSCM) — Pilar III.1 | P0 + III.1 |
-| 2 | Cuerpo MIED-LAM — Ministerial mínimo + constitucionalización | P0 + III.3 |
-| 3 | Carácter civil del CPNP, del CICPC y de la JNEM | P0 + III.2 |
-| 4 | VePass-Firma obligatoria de los cuerpos de seguridad | III.2 |
-| 5 | Auditoría OACNUDH/CIDH sobre cuerpos de seguridad | III.2 |
-| 6 | BND-ADN con perfil forense + BND-RUI-Mig | III.2, III.7 |
-| 7 | Principio *career-only* para CPNP/CICPC/JNEM | III.2 §III.2.8.8 |
-| 8 | DNPEP rango constitucional + Plan Quinquenal vinculante | III.8 |
-| 9 | FOSEIP anillo-financing | III.5 |
-| 10 | Regla pay-before-take + golden share de filiales mixtas | III.5 §III.5.4 |
-| 11 | FNIP anillo-financing | III.5, XI |
-| 12 | Privatización Cuerpoelec + CANTV + 9 Hidrológicas (reversión) | III.5, XII |
-| 13 | Sistema monetario dolarizado oficial (reversión) | III.4, XV |
+| 1 | Servicio Civil Meritocrático (CNSC + LOSCM) — Pilar I | P0 + I |
+| 2 | Cuerpo MIED-LAM — Ministerial mínimo + constitucionalización | P0 + III |
+| 3 | Carácter civil del CPNP, del CICPC y de la JNEM | P0 + II |
+| 4 | VePass-Firma obligatoria de los cuerpos de seguridad | II |
+| 5 | Auditoría OACNUDH/CIDH sobre cuerpos de seguridad | II |
+| 6 | BND-ADN con perfil forense + BND-RUI-Mig | II, VII |
+| 7 | Principio *career-only* para CPNP/CICPC/JNEM | II §II.8.8 |
+| 8 | DNPEP rango constitucional + Plan Quinquenal vinculante | VIII |
+| 9 | FOSEIP anillo-financing | V |
+| 10 | Regla pay-before-take + golden share de filiales mixtas | V §V.4 |
+| 11 | FNIP anillo-financing | V, XI |
+| 12 | Privatización Cuerpoelec + CANTV + 9 Hidrológicas (reversión) | V, XII |
+| 13 | Sistema monetario dolarizado oficial (reversión) | IV, XV |
 | 14 | CEV-CN desde su creación hasta su Informe Final | XIV |
-| 15 | Integridad del patrimonio del Estado en sectores estratégicos | III.5 |
-| 16 | Distrito Capital + Estrategias Territoriales Regionales + Planes Estratégicos | III.5, III.8 |
+| 15 | Integridad del patrimonio del Estado en sectores estratégicos | V |
+| 16 | Distrito Capital + Estrategias Territoriales Regionales + Planes Estratégicos | V, VIII |
 
 **Artículo 177. Procedimiento de reforma del régimen de continuidad.** Cualquier modificación al presente Título requiere mayoría de **tres cuartos + referéndum ratificatorio**. Este Título no puede ser derogado sin sustitución simultánea por el mismo mecanismo.**
 
@@ -281,7 +281,7 @@ Las siguientes materias del Estado venezolano gozan del régimen de cláusula de
 **Artículo 180. Entrada en vigencia.** La presente Ley Orgánica y sus Títulos I a XVII entran en vigencia en la fecha de su publicación en Gaceta Oficial. Los efectos diferidos (transitorios) se aplican conforme al cronograma previsto en cada Sección específica.
 
 **Artículo 181. Derogaciones.** Quedan derogadas todas las normas que contradigan las disposiciones de la presente Ley y, expresamente, las siguientes:
-- LOPSPP 2014 (LOOPPP) derogada por LOPSEP (Pilar III.8).
+- LOPSPP 2014 (LOOPPP) derogada por LOPSEP (Pilar VIII).
 - Ley Antibloqueo para el Desarrollo Nacional 2020 derogada por incompatibilidad con el Oferta Pública Inicial (OPI) Petróleos de Venezuela S.A. (PDVSA) matriz.
 - Funcionamiento del SAIME derogado; sus funciones asumen JNEM/CICPC.
 - LOPSPP 2014 derogada por LOPSEP.

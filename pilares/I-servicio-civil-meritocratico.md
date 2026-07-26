@@ -1,6 +1,6 @@
 ---
-titulo: Reforma Integral del Estado Venezolano - Pilar III.1 Servicio Civil Meritocrático
-parte: III.1
+titulo: Reforma Integral del Estado Venezolano - Pilar I Servicio Civil Meritocrático
+parte: I
 version: 0.2
 fecha: 2026-07-12
 absorcion: Reforma LCA 2002 → LOSCM (Ley Orgánica del Servicio Civil Meritocrático)
@@ -10,13 +10,13 @@ clausula_continuidad: Reforma Arts. 146-147 CRBV → 3/5 AN + reforma LOSCM (mí
 
 # PARTE III — PILARES DE LA REFORMA
 
-# III.1. Servicio civil meritocrático
+# I. Servicio civil meritocrático
 
 > *"La autonomía sin recursos es ficción; los recursos sin estándares son corrupción. Y sin servicio civil meritocrático no hay estándares posibles."*
 
 ---
 
-## III.1.1. El problema: la ficción meritocrática venezolana
+## I.1. El problema: la ficción meritocrática venezolana
 
 La Constitución de 1999 consagra el sistema de mérito como principio rector del empleo público (art. 146). La Ley de Carrera Administrativa de 2002 (LCA) desarrolla el principio con detalle: concursos públicos, clasificación de cargos, escalas de salarios, sistemas de evaluación, régimen disciplinario. El diseño normativo, sobre el papel, es comparable al de países con servicio civil profesional consolidado.
 
@@ -40,7 +40,7 @@ Las consecuencias se manifiestan en todos los frentes de la crisis:
 - **Vulnerabilidad al clientelismo**: el funcionario designado debe lealtad alpolítico que lo nombró, no al interés público.
 - **Corrupción sistémica**: la ausencia de carrera meritocrática impide la formación de un ethos profesional que se sostenga en el tiempo. Cada ciclo políticoo redefine las reglas del juego.
 
-## III.1.2. El referente: la Public Service Commission (PSC) de Singapur
+## I.2. El referente: la Public Service Commission (PSC) de Singapur
 
 Singapur, colonia pobre y caótica hasta 1959, construyó en sesenta años uno de los servicios civiles más profesionales del mundo. La columna vertebral de esa transformación fue la **Public Service Commission (PSC)**, establecida en 1951 bajo dominio británico y constitucionalizada en 1965.
 
@@ -54,7 +54,7 @@ Características clave de la PSC:
 
 Este diseño no es perfecto — la PSC singapurense ha sido criticada por excesiva deferencia hacia el partido de gobierno — pero es **la arquitectura institucional más exitosa del mundo** para producir servicio civil meritocrático sostenido en el tiempo.
 
-## III.1.3. Propuesta: Comisión Nacional del Servicio Civil (CNSC)
+## I.3. Propuesta: Comisión Nacional del Servicio Civil (CNSC)
 
 La reforma crea la **Comisión Nacional del Servicio Civil (CNSC)**, cuerpo constitucional de cinco miembros encargado de:
 
@@ -82,7 +82,7 @@ Reforma al artículo 147 (régimen salarial):
 
 > *"Las escalas de salarios de la Administración Pública se establecen reglamentariamente por la Comisión Nacional del Servicio Civil en consulta con el Banco Central de Venezuela, conforme a criterios técnicos de equidad interna y competitividad externa. La ley orgánica podrá establecer límites razonables a los emolumentos considerando la jerarquía, responsabilidad técnica y resultados de gestión."*
 
-## III.1.4. Reforma de la Ley de Carrera Administrativa (LCA, 2002)
+## I.4. Reforma de la Ley de Carrera Administrativa (LCA, 2002)
 
 La LCA queda subrogada por la **Ley Orgánica del Servicio Civil Meritocrático (LOSCM)**, que:
 
@@ -92,13 +92,13 @@ La LCA queda subrogada por la **Ley Orgánica del Servicio Civil Meritocrático 
 4. Regula el **derecho a la capacitación permanente**: mínimo 40 horas anuales remuneradas de formación, con licencia sabática cada 7 años.
 5. Establece el **régimen disciplinario con debido proceso** (art. 49 CRBV): las sanciones sólo pueden ser impuestas por un tribunal administrativo integrado por dos miembros de la CNSC y uno del Ministerio Público.
 
-## III.1.5. Cláusula de continuidad específica
+## I.5. Cláusula de continuidad específica
 
 La LOSCM incluye una cláusula inspirée en el artículo 5° de la Constitución francesa y reforzada por la experiencia Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) 1984:
 
 > *"Ninguna reforma a la presente ley ni al régimen constitucional del servicio civil podrá eliminar la evaluación meritocrática de concursos ni reducir las atribuciones de la Comisión Nacional del Servicio Civil sin reforma constitucional aprobada por tres quintos (3/5) de los miembros de la Asamblea Nacional."*
 
-## III.1.6. Indicadores de seguimiento
+## I.6. Indicadores de seguimiento
 
 | Indicador | Hoy (2024) | Meta 3 años | Meta 6 años |
 |-----------|------------|-------------|-------------|
@@ -109,7 +109,7 @@ La LOSCM incluye una cláusula inspirée en el artículo 5° de la Constitución
 | Reclamaciones resueltas por CNSC | 0 | 500/año | 1.500/año |
 | Índice de confianza en servicio civil (encuesta) | <15% | 40% | 65% |
 
-## III.1.7. Riesgos y mitigación
+## I.7. Riesgos y mitigación
 
 | Riesgo | Probabilidad | Impacto | Mitigación |
 |--------|--------------|---------|------------|

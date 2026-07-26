@@ -1,8 +1,8 @@
 ---
 titulo: "Ficha Técnica — Ministerio de Energía y Minas"
-version: "0.1 (H10.4 — versión ficha técnica, 25-jul-2026)"
-estado: "Borrador operativo. Operacionaliza la doctrina del Pilar III.5 v0.2 (`v0.2_pilar_iii5_reforma_economica_productiva.md`, 390 líneas)."
-parte: "H10 — Fichas Técnicas Ministeriales"
+version: "0.1 (FT.4 — versión ficha técnica, 25-jul-2026)"
+estado: "Borrador operativo. Operacionaliza la doctrina del Pilar V v0.2 (`v0.2_pilar_iii5_reforma_economica_productiva.md`, 390 líneas)."
+parte: "FT — Fichas Técnicas"
 ministerio: "Nº 4 — Energía y Minas"
 ministerios_agrupados_vigentes: "#1 MPP Hidrocarburos + #6 MPP Desarrollo Minero Ecológico + CVG + Pequiven + filiales privatizables"
 entes_maximos_segun_tope: "~5-6 entes de los 40 totales"
@@ -10,19 +10,19 @@ clausula_continuidad: "3/5 AN + referéndum aprobatorio con 80% del padrón elec
 lorafee: "Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas (pay-before-take 90 días) — regla pay-before-take elevada a rango constitucional mediante reforma CRBV Arts. 344+348"
 loh_2026: "Ley Orgánica de Hidrocarburos 2026 — ya indexada en KB"
 lom_2026: "Ley Orgánica de Minas 2026 — ya indexada en KB"
-foseip_vinculacion: "FOSEIP (Pilar III.5)"
-fnip_vinculacion: "FNIP (Pilar III.5)"
+foseip_vinculacion: "FOSEIP (Pilar V)"
+fnip_vinculacion: "FNIP (Pilar V)"
 matriz: "PDVSA matriz privatizada 51% estatal / 49% privado vía OPI"
 ente_privatizacion_clave: "PETROVEX S.A. (filial técnica privatizada con directorio mixto)"
 ---
 
-# H10.4 — Ficha Técnica del Ministerio de Energía y Minas
+# FT.4 — Ficha Técnica del Ministerio de Energía y Minas
 
 > **Mandato constitucional**:
 >
-> *"Le corresponde al Ministerio de Energía y Minas diseñar, ejecutar y evaluar las políticas nacionales en materia de hidrocarburos (industria upstream hasta refinería matriz), minas metálicas y no metálicas, siderurgia y petroquímica básica; ejecutar la Oferta Pública Inicial (OPI) del 49% del capital accionario de PDVSA matriz con cotización en NYSE/LSE/BVC con 51% de control estatal permanente; la coordinación con el FOSEIP del Pilar III.5 y la SUNACRIP del Ministerio de Economía y Finanzas; la aplicación del régimen LORAFEE pay-before-take con 90 días de plazo y reversión automática; la promoción de exportaciones no petroleras; la fiscalización técnica de los operadores privados del sector según estándares SPE-PRMS de Society of Petroleum Engineers; la coordinación con el Ministerio del Ambiente en la dimensión ambiental del sector extractivo."*
+> *"Le corresponde al Ministerio de Energía y Minas diseñar, ejecutar y evaluar las políticas nacionales en materia de hidrocarburos (industria upstream hasta refinería matriz), minas metálicas y no metálicas, siderurgia y petroquímica básica; ejecutar la Oferta Pública Inicial (OPI) del 49% del capital accionario de PDVSA matriz con cotización en NYSE/LSE/BVC con 51% de control estatal permanente; la coordinación con el FOSEIP del Pilar V y la SUNACRIP del Ministerio de Economía y Finanzas; la aplicación del régimen LORAFEE pay-before-take con 90 días de plazo y reversión automática; la promoción de exportaciones no petroleras; la fiscalización técnica de los operadores privados del sector según estándares SPE-PRMS de Society of Petroleum Engineers; la coordinación con el Ministerio del Ambiente en la dimensión ambiental del sector extractivo."*
 
-El Ministerio de Energía y Minas es **el ministerio del Estado reformado que ejecuta la reforma económica más sensible del proyecto**: la OPI del 49% de PDVSA matriz en NYSE/LSE/BVC, en un plazo de 9 meses desde su activación. Concebido como ministerio **regulador y accionista mayoritario**, NO como ministerio operador (la operación pasa a filiales cotizadas). Es el complemento simétrico de la dolarización del Pilar III.4: con la primera se cierra el flujo de capitales exterior y con la OPI se abre el acceso al mercado de capitales global.
+El Ministerio de Energía y Minas es **el ministerio del Estado reformado que ejecuta la reforma económica más sensible del proyecto**: la OPI del 49% de PDVSA matriz en NYSE/LSE/BVC, en un plazo de 9 meses desde su activación. Concebido como ministerio **regulador y accionista mayoritario**, NO como ministerio operador (la operación pasa a filiales cotizadas). Es el complemento simétrico de la dolarización del Pilar IV: con la primera se cierra el flujo de capitales exterior y con la OPI se abre el acceso al mercado de capitales global.
 
 ## 0. Resumen ejecutivo
 
@@ -32,11 +32,11 @@ El Ministerio de Energía y Minas es **el ministerio del Estado reformado que ej
 
 | Destino | Porcentaje | Pilar |
 |---|---|---|
-| FOSEIP (Fondo Soberano) | 30% | III.5 |
-| FEM (Fondo de Estabilización Macroeconómica) | 30% | III.4 |
-| FNIP (Fondo Nacional de Inversión Productiva) | 15% | III.5 |
-| Reconversión CPNP | 15% | III.2 |
-| MIED-LAM (rehabilitación programas cognitivos) | 10% | III.3 |
+| FOSEIP (Fondo Soberano) | 30% | V |
+| FEM (Fondo de Estabilización Macroeconómica) | 30% | IV |
+| FNIP (Fondo Nacional de Inversión Productiva) | 15% | V |
+| Reconversión CPNP | 15% | II |
+| MIED-LAM (rehabilitación programas cognitivos) | 10% | III |
 
 **Conformación estructural de filiales**:
 - **PDVSA matriz**: 51% República, 49% listado en NYSE/LSE/BVC (Art. 303 reinterpretado por sentencia interpretativa del TSJ meritocrático).
@@ -56,8 +56,8 @@ El Ministerio de Energía y Minas es **el ministerio del Estado reformado que ej
 
 | Reforma CRBV | Justificación |
 |---|---|
-| **Art. 302 reformado** | Reserva estatal sobre refinación y petroquímica básica se mantiene; sector eléctrico, telecomunicaciones y agua salen de la reserva (privatizados al 100% en Pilar III.5) |
-| **Art. 303 reformado / reinterpretado** | Totalidad de las acciones de PDVSA, S.A. se modifica a **"no menos de cincuenta y uno por ciento (51%) de las acciones ordinarias con derecho a voto"** mediante sentencia interpretativa del TSJ meritocrático en sala constitucional (Pilar III.6 §III.6.X) con efecto *erga omnes*. Permite OPI sin reforma constituyente. |
+| **Art. 302 reformado** | Reserva estatal sobre refinación y petroquímica básica se mantiene; sector eléctrico, telecomunicaciones y agua salen de la reserva (privatizados al 100% en Pilar V) |
+| **Art. 303 reformado / reinterpretado** | Totalidad de las acciones de PDVSA, S.A. se modifica a **"no menos de cincuenta y uno por ciento (51%) de las acciones ordinarias con derecho a voto"** mediante sentencia interpretativa del TSJ meritocrático en sala constitucional (Pilar VI §VI.X) con efecto *erga omnes*. Permite OPI sin reforma constituyente. |
 | **Art. 312 reformado** | Régimen tributario petrolero y minero: regalías + IDM automático técnico no discrecional; 30% directo al FOSEIP/FEM/FNIP; 70% presupuesto nacional |
 | **Reforma CRBV Arts. 344+348 — cláusula pay-before-take constitucionalizada** | La regla pay-before-take 90 días con reversión automática del régimen LORAFEE se eleva a rango constitucional como cláusula pétrea. Cualquier intento futuro de modificación, suspensión, derogación o reinterpretación que afecte la regla requiere: (i) aprobación por **3/5 de los miembros de la Asamblea Nacional** en dos discusiones; (ii) ratificación mediante **referéndum aprobatorio con el 80% del padrón electoral** (umbral deliberadamente superior al estándar del Art. 348 para asegurar legitimación reforzada contra capturas coyunturales o regresiones autoritarias). Cierra la "trampa expropiadora" histórica no sólo a nivel legal sino a nivel constitucional, tornando cualquier restauración del patronazgo confiscatorio prácticamente imposible sin una mayoría social amplísima. |
 
@@ -69,7 +69,7 @@ El Ministerio de Energía y Minas es **el ministerio del Estado reformado que ej
 | **LOM 2026** (Ley Orgánica de Minas) | Vigente (Gaceta 7020 Ext.) — indexada en KB | Reforma aditiva sobre IDM automático + derechos de comunidades mineras ancestrales (coordinación con Viceministerio de Asuntos Indígenas del Ministerio del Interior) |
 | **LORAFEE** | En redacción (Título IV Texto Articulado) | Régimen de adquisición forzosa con pay-before-take 90 días + golden share + 7 causales taxativas |
 | **Reforma Ley Antibloqueo 2020** | Vigente | Derogación completa + transición (incompatible con OPI global) |
-| **Reforma LGFP 1981 (control cambiario)** | Vigente | Derogación total (reemplazada por Pilar III.4 cronograma + LOBCV) |
+| **Reforma LGFP 1981 (control cambiario)** | Vigente | Derogación total (reemplazada por Pilar IV cronograma + LOBCV) |
 
 ### 1.3 Decisión de reorganización de la matriz PDVSA
 
@@ -121,8 +121,8 @@ Ministerio de Energía y Minas
 │   │   ├── Dirección General de Cumplimiento LORAFEE (penal si oposición)
 │   │   └── Unidad de Mejores Prácticas (SPE-PRMS, PME, IFE)
 │   ├── Viceministerio de Coordinación Económica y Soberana
-│   │   ├── FOSEIP — unidad de enlace (coordinación con Pilar III.5)
-│   │   ├── FNIP — unidad de enlace (coordinación con Pilar III.5)
+│   │   ├── FOSEIP — unidad de enlace (coordinación con Pilar V)
+│   │   ├── FNIP — unidad de enlace (coordinación con Pilar V)
 │   │   ├── Dirección General de Regalías Computadas
 │   │   └── Unidad de Seguimiento Filial Matriz Privatizada
 │   └── Secretaría General del Ministerio
@@ -159,7 +159,7 @@ Ministerio de Energía y Minas
 - Supervisión estratégica de CVG, Pecom, Pequiven, Minerven, FERROMINERA DEL ORINOCO, CVC Carbón.
 - Las filiales cotizadas privatizadas mantienen su propio directorio; el ministerio ejerce supervisión estratégica (regular, no operativa).
 - Coordinación con el Viceministerio de Industrias Connexas del Ministerio de Economía y Finanzas para programas de manufactura avanzada.
-- FOSEIP unidad de enlace + FNIP unidad de enlace: coherencia con Pilar III.5.
+- FOSEIP unidad de enlace + FNIP unidad de enlace: coherencia con Pilar V.
 
 #### 2.2.4 Regulación Bursátil de Filiales Mixtas
 
@@ -171,7 +171,7 @@ Ministerio de Energía y Minas
 
 #### 2.2.5 Coordinación Económica y Soberana
 
-- FOSEIP / FNIP unidades de enlace con Pilar III.5.
+- FOSEIP / FNIP unidades de enlace con Pilar V.
 - Cálculo y fiscalización de regalías computadas.
 - Unidad de seguimiento de PETROVEX S.A. (filial operativa privatizada con directorio mixto CNSC).
 
@@ -182,7 +182,7 @@ Ministerio de Energía y Minas
 | 1 | **EIPM** — Ente de Impuestos Petroleros y Mineros | Dirección General especializada | Recaudación IDN + IDM + regalías | Nuevo; fusión del cobro entre sector petrolero y minero con SUNACRIP coordinada |
 | 2 | **CVG** — Corporación Venezolana de Guayana | Sociedad anónima mixta con golden share (51% estatal) | Industrias básicas: aluminio, bauxita, hierro, acero | Vigente; reorganización con privatization del control mayoritario (51% estatal) + directorio meritocrático CNSC |
 | 3 | **PEQUIVEN** — Petroquímica de Venezuela S.A. | Sociedad anónima mixta con golden share | Petroquímica básica | Vigente; reorganización con Privatization del control mayoritario |
-| 4 | **FOSEIP** — Fondo Soberano de Estabilización e Inversión Productiva | Fondo ring-fenced (con Pilar III.5) | Ahorro intergeneracional + inversión productiva | Nuevo (creado por Ley Orgánica del Pilar III.5) |
+| 4 | **FOSEIP** — Fondo Soberano de Estabilización e Inversión Productiva | Fondo ring-fenced (con Pilar V) | Ahorro intergeneracional + inversión productiva | Nuevo (creado por Ley Orgánica del Pilar V) |
 | 5 | **PETROVEX S.A.** (o denominación provisional, decidida en sesión de Directorio) | Sociedad anónima técnica con directorio mixto | Operación técnica de PDVSA matriz (E&P + refinación + comercialización) | Nuevo; privatización 49% vía OPI matriz + privatización 49% de la filial operativa para terceros técnicos |
 | 6 | **INGEOMIN** — Instituto Nacional de Geología y Minería | Instituto técnico desconcentrado con VePass-Firma | Catastro minero nacional + cartografía geológica + evaluación de recursos minerales + control técnico de la pequeña minería + fiscalización geológica de la mediana y gran minería | Vigente; **mantenido en este ministerio** (decisión 2026-07-26) por coherencia con su perfil técnico-histórico (geología aplicada al sector extractivo). Adscribe al Viceministerio de Minas y Siderurgia. |
 
@@ -198,15 +198,15 @@ Ministerio de Energía y Minas
 - **Ratificación por la AN con mayoría de 3/5.**
 - Requisitos: venezolano por nacimiento; mayor de 40 años; postgrado en ingeniería de petróleo, geología, geofísica, economía de la energía, derecho minero-petroleo o afines; experiencia profesional ≥ 15 años en energía o minería; **no tener** parentesco con operadoras privadas del sector + lista de incompatibilidades.
 - Período: 7 años no prorrogable ni reelegible.
-- Destitución: 3/4 AN con 7 causales taxativas (analogía Pilar III.6 v0.5); causal #6 = **alteración inconstitucional de la LORAFEE pay-before-take** o aplicación clientelar del IDN.
+- Destitución: 3/4 AN con 7 causales taxativas (analogía Pilar VI v0.5); causal #6 = **alteración inconstitucional de la LORAFEE pay-before-take** o aplicación clientelar del IDN.
 
 ### 4.2 Viceministros y Directores Generales
 
-- Vía concursos meritocráticos CNSC cada 5 años (régimen analogable a Pilar III.1 LOSCM).
+- Vía concursos meritocráticos CNSC cada 5 años (régimen analogable a Pilar I LOSCM).
 
 ### 4.3 Directorio PDVSA matriz y filiales cotizadas
 
-13 miembros con criterios del Pilar III.5 §III.5.3.3 ya redactados; ningún directivo podrá ejercer simultáneamente cargo de elección popular.
+13 miembros con criterios del Pilar V §V.3.3 ya redactados; ningún directivo podrá ejercer simultáneamente cargo de elección popular.
 
 ## 5. Funcionarios públicos del ministerio — régimen meritocrático
 
@@ -238,9 +238,9 @@ Toda resolución, autorización, sanción y decisión del MEM queda asociada a l
 
 | # | Causal | Órgano decisor |
 |---|---|---|
-| 1 | Amenaza concreta a la soberanía energética, alimentaria o de defensa nacional verificada por el DNPEP (Pilar III.8) | Procurador General (Pilar III.6) + TSJ mérito |
+| 1 | Amenaza concreta a la soberanía energética, alimentaria o de defensa nacional verificada por el DNPEP (Pilar VIII) | Procurador General (Pilar VI) + TSJ mérito |
 | 2 | Concentración excesiva de capital extranjero (>40% en una sola jurisdicción adversa) | Procurador General + BCV |
-| 3 | Crisis sistémica verificada por la DNA-RB (Pilar III.6.3) | TSJ mérito |
+| 3 | Crisis sistémica verificada por la DNA-RB (Pilar VI.3) | TSJ mérito |
 | 4 | Disolución o quiebra inminente que afecte servicios esenciales | BCV |
 | 5 | Riesgo comprobado de transferencia de tecnología estratégica a jurisdicción adversa | Procurador General + TSJ mérito |
 | 6 | Amenaza a la continuidad operativa de un servicio público tras denegación privada | DNPEP + Procurador General |
@@ -261,7 +261,7 @@ Toda resolución, autorización, sanción y decisión del MEM queda asociada a l
 - El veto se documenta en el folleto de emisión.
 - **La golden share no se puede expropiar** (cláusula anti-discontinuidad, decisión 3/4 AN + referendum).
 
-## 7. Cronograma 0-12 meses (paralelo a Pilar III.4 cambiario + III.5 hito mes 9 OPI)
+## 7. Cronograma 0-12 meses (paralelo a Pilar IV cambiario + V hito mes 9 OPI)
 
 | Mes | Hito |
 |---|---|
@@ -273,7 +273,7 @@ Toda resolución, autorización, sanción y decisión del MEM queda asociada a l
 | 9 | **Lanzamiento OPI NYSE (primary) + LSE + BVC** (49% de PDVSA matriz). Aspiración de ingresos USD 8-15.000M. |
 | 9-12 | Directorio PDVSA meritocrático instalado (13 miembros). Estabilización de los empleos del personal técnico PETROVEX S.A. (24 meses). |
 
-> **Vínculo crítico**: el éxito de la OPI depende del cronograma monetario del Pilar III.4 (mes 12 autonomía BCV; mes 18 dolarización). Sin sistema cambiario creíble, los anchor investors no suscriben.
+> **Vínculo crítico**: el éxito de la OPI depende del cronograma monetario del Pilar IV (mes 12 autonomía BCV; mes 18 dolarización). Sin sistema cambiario creíble, los anchor investors no suscriben.
 
 ## 8. Presupuesto del Ministerio de Energía y Minas
 
@@ -282,7 +282,7 @@ Toda resolución, autorización, sanción y decisión del MEM queda asociada a l
 | Masa salarial (~3.500 funcionarios) | 60M | 0,027% |
 | Costos vinculados a la OPI (asesoría financiera + banco de inversión + due-diligence + auditoría) | 100M (one-shot) | — |
 | Operación CVG / PEQUIVEN (cargo regulatorio, subsidizado en matriz privatizada) | 40M | 0,018% |
-| Fondo de capitalización inicial FOSEIP (vinculado con Pilar III.5) | USD 3.000M (one-shot, en parte del FEM) | — |
+| Fondo de capitalización inicial FOSEIP (vinculado con Pilar V) | USD 3.000M (one-shot, en parte del FEM) | — |
 | Regalías computadas (entregadas como ingresos fiscales, no egreso — figura como deducción técnica) | (neta negativa) | — |
 | Unidad de Seguimiento Filial Matriz + LORAFEE compliance | 50M | 0,023% |
 | Resguardo presupuestario para eventual adquisición forzosa LORAFEE (art. 6.6) | 500M (one-shot) | — |
@@ -303,7 +303,7 @@ Toda resolución, autorización, sanción y decisión del MEM queda asociada a l
 | Filiales cotizadas con directorios meritocráticos CNSC | 0 | 100% reestructuradas | 100% mantenidas |
 | Adquisiciones LORAFEE ejecutadas (inversiones calculadas) | 0 | 0-1 | 0-2 |
 | Pequeña minería regularizada | <30% | 60% | 90% |
-| Inflación (vinculada a Pilar III.4) | >500% | <50% | <10% |
+| Inflación (vinculada a Pilar IV) | >500% | <50% | <10% |
 | Bolsa de Caracas operativa con filiales del sector | No operativa | Operativa con 3+ cotizadas | Operativa con 6+ cotizadas |
 | Riesgo soberano (CDS a 5 años) | Distress +1500 pb | Meseta | <200 pb (tier B) |
 
@@ -316,7 +316,7 @@ Toda resolución, autorización, sanción y decisión del MEM queda asociada a l
 | Crítica política nacional contra privatización ("patrimonio dilapidado") | Alta | Alto | Cláusula 3/4 + referendum para revertir privatización (con pay-before-take inverso 30%); transparencia del libro contable a 5 firmas internacionales |
 | Captura del FOSEIP por élites políticas | Baja | Crítico | Directorio sin coincidencia con ciclo político + prohibición absoluta de contratar con Estado + auditoría externa anual + revisión de CGR |
 | Fuga de personal técnico de PDVSA matriz durante transición | Media | Alto | Estabilización laboral 24 meses post-privatización (LOTTT + prestaciones), escalas competitivas PETROVEX S.A. |
-| Demora en reforma de LORAFEE / LOM / LOH en la AN | Alta | Alto | Decretos ejecutivos anticipados; DNPEP (Pilar III.8) coordina ejecución y AN |
+| Demora en reforma de LORAFEE / LOM / LOH en la AN | Alta | Alto | Decretos ejecutivos anticipados; DNPEP (Pilar VIII) coordina ejecución y AN |
 | Caída del crudo durante proceso | Media | Alto | FOSEIP banda de protección vía precio de referencia plurianual; ingresos petroleros tesorería estabilizadora |
 | Sanciones internacionales sobre mercados de capitales | Baja | Crítico | Renegociación estructurada con tratado de cumplimiento; OACNUDH como garante intermedio |
 | Falta de mercado para filiales menores | Media | Medio | Adelanto de 2 licitaciones (regiones menores); operadores consorciados regionales; PETROVEX puede adquirir filiales no listables |
@@ -328,7 +328,7 @@ Toda resolución, autorización, sanción y decisión del MEM queda asociada a l
 
 Reforma constitucional Arts. 344+348 con blindaje reforzado (analogía MIED-LAM y DNA-RB):
 
-> *"Cualquier modificación del Art. 303 reinterpretado (51% estatal + 49% privado de PDVSA matriz y filiales mixtas); cualquier intento de revertir privatizaciones realizadas conforme a este régimen; cualquier eliminación del FOSEIP, del FNIP, o de la regla **pay-before-take con 90 días** de la LORAFEE (cláusula ésta **elevada a rango constitucional** en la presente reforma); cualquier modificación de la golden share y de la proporción mayoritaria 51% del Estado en filiales mixtas; cualquier modificación del cronograma 18 meses del cronograma monetario del Pilar III.4 antes del mes 18; cualquier eliminación del IDC mayoritario 51% del Estado en Industrias Básicas CVG/Pequiven/Pecom, requiere mayoría de tres quintos (3/5) de los miembros de la Asamblea Nacional y ratificación mediante referéndum aprobatorio con el **80% del padrón electoral**."*
+> *"Cualquier modificación del Art. 303 reinterpretado (51% estatal + 49% privado de PDVSA matriz y filiales mixtas); cualquier intento de revertir privatizaciones realizadas conforme a este régimen; cualquier eliminación del FOSEIP, del FNIP, o de la regla **pay-before-take con 90 días** de la LORAFEE (cláusula ésta **elevada a rango constitucional** en la presente reforma); cualquier modificación de la golden share y de la proporción mayoritaria 51% del Estado en filiales mixtas; cualquier modificación del cronograma 18 meses del cronograma monetario del Pilar IV antes del mes 18; cualquier eliminación del IDC mayoritario 51% del Estado en Industrias Básicas CVG/Pequiven/Pecom, requiere mayoría de tres quintos (3/5) de los miembros de la Asamblea Nacional y ratificación mediante referéndum aprobatorio con el **80% del padrón electoral**."*
 
 Todo intento por **decreto presidencial ejecutivo, ley habilitante, sentencia interpretativa del TSJ sin mayoría calificada, asamblea constituyente o reforma constitucional ordinaria** que afecte estas garantías — y muy especialmente la regla pay-before-take constitucionalizada — debe observar idéntica mayoría 3/5 AN + referendum aprobatorio con 80% del padrón. La sobre-mayoría del 80% del padrón (vs. mayoría simple del Art. 348 estándar) constituye un cerrojo deliberado: garantiza que la cláusula sólo pueda ser revertida por una mayoría social amplísima, no por coyunturas políticas.
 
@@ -342,19 +342,19 @@ Todo intento por **decreto presidencial ejecutivo, ley habilitante, sentencia in
 
 ## 13. Documentos conexos
 
-- **Pilar III.5 v0.2** (`v0.2_pilar_iii5_reforma_economica_productiva.md`, 390 líneas) — fuente doctrinal completa.
+- **Pilar V v0.2** (`v0.2_pilar_iii5_reforma_economica_productiva.md`, 390 líneas) — fuente doctrinal completa.
 - **Texto Articulado Arts. 24-29 + Título IV (LORAFEE)** — cuerpo normativo.
-- **Pilar III.4 v0.1** — Pilar III.4 cronograma monetario 18m.
-- **Pilar III.6 v0.5** — DNA-RB investigación de cualquier intento de expropiación forzosa fraudulenta.
-- **Pilar III.7 v0.1** — BND-Cédula-RUT + VePass-Firma.
-- **Pilar III.8 v0.1** — DNPEP + Plan Quinquenal.
+- **Pilar IV v0.1** — Pilar IV cronograma monetario 18m.
+- **Pilar VI v0.5** — DNA-RB investigación de cualquier intento de expropiación forzosa fraudulenta.
+- **Pilar VII v0.1** — BND-Cédula-RUT + VePass-Firma.
+- **Pilar VIII v0.1** — DNPEP + Plan Quinquenal.
 - **Anexo A.3** (`anexos/inventario_ministerios_2009.md`) — referencia de entes adscritos del MPPIH/MPDMM vigentes.
 - **Anexo A.5** — rattachation vigente.
 - **Anexo A.10** — distribución de funciones.
 
 ---
 
-*Esta ficha operativa consolida y operacionaliza la doctrina del Pilar III.5 sin duplicarla. La OPI del 49% de PDVSA matriz es el elemento centralmente operativo del ministerio, con dependencia crítica del cronograma monetario 18 meses del Pilar III.4.*
+*Esta ficha operativa consolida y operacionaliza la doctrina del Pilar V sin duplicarla. La OPI del 49% de PDVSA matriz es el elemento centralmente operativo del ministerio, con dependencia crítica del cronograma monetario 18 meses del Pilar IV.*
 
 *Versión 0.1 — 25-jul-2026. Pendiente: descripción detallada por Viceministerio + KPIs mensuales.*
 

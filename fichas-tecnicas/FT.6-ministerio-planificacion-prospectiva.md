@@ -1,8 +1,8 @@
 ---
 titulo: "Ficha Técnica — Ministerio de Planificación Estratégica y Prospectiva"
-version: "0.1 (H10.6 — versión ficha técnica, 25-jul-2026)"
-estado: "Borrador operativo. Operacionaliza el Pilar III.8 v0.1 (331 líneas). Núcleo técnico del Estado Reformado al servicio del diseño del Plan Quinquenal vinculante y la prospectiva estratégica nacional."
-parte: "H10 — Fichas Técnicas Ministeriales"
+version: "0.1 (FT.6 — versión ficha técnica, 25-jul-2026)"
+estado: "Borrador operativo. Operacionaliza el Pilar VIII v0.1 (331 líneas). Núcleo técnico del Estado Reformado al servicio del diseño del Plan Quinquenal vinculante y la prospectiva estratégica nacional."
+parte: "FT — Fichas Técnicas"
 ministerio: "Nº 6 — Planificación Estratégica y Prospectiva"
 ministerios_agrupados_vigentes: "#9 MPP Planificación + nuevas atribuciones de DNPEP, INE autónomo y Presupuesto Plurianual"
 entes_maximos_segun_tope: "~3 entes de los 40 totales"
@@ -13,7 +13,7 @@ dnpep_rango: "Constitucional (reforma Art. 237 CRBV para incluir DNPEP como serv
 referente_principal: "Singapur Strategy Group + Centre for Strategic Futures + Israel National Security Council (civil)"
 ---
 
-# H10.6 — Ficha Técnica del Ministerio de Planificación Estratégica y Prospectiva
+# FT.6 — Ficha Técnica del Ministerio de Planificación Estratégica y Prospectiva
 
 > **Mandato constitucional**:
 >
@@ -32,7 +32,7 @@ Adscribe las funciones del vigente Ministerio #9 MPP Planificación + funciones 
 **Estructura**: 1 Viceministerio + 6 Direcciones Generales técnicas + 1 Unidad de Prospectiva Estratégica.
 
 **Coordinación clave**:
-- DNPEP se coordina con **DNA-RB del Pilar III.6** (auditorías especializadas de inversiones) y con **CGR subsistente** (fiscalización administrativa general). No hay duplicación: DNPEP evalúa impacto; DNA-RB investiga corrupción; CGR fiscaliza cumplimiento legal.
+- DNPEP se coordina con **DNA-RB del Pilar VI** (auditorías especializadas de inversiones) y con **CGR subsistente** (fiscalización administrativa general). No hay duplicación: DNPEP evalúa impacto; DNA-RB investiga corrupción; CGR fiscaliza cumplimiento legal.
 - DNPEP depende del Presidente vía reforma del Art. 237 CRBV (asignación de dependencia orgánica).
 
 ## 1. Marco constitucional y legal
@@ -51,7 +51,7 @@ Adscribe las funciones del vigente Ministerio #9 MPP Planificación + funciones 
 | Ley | Estado | Función |
 |---|---|---|
 | **LOPSEP — Ley Orgánica de Planificación Estratégica y Prospectiva 2026** | A redactar (mes 0) | Deroga LOPP 2014; establece DNPEP, Plan Quinquenal, Presupuesto Plurianual, UPE, INE autónomo, criterios de coordinación con DNA-RB y CGR |
-| **Reforma LOAFSP 2000** | Reforma parcial | Articular presupuesto plurianual vinculante + ONAPRE en coordinación con DNPEP (ya redactado en Pilar III.4) |
+| **Reforma LOAFSP 2000** | Reforma parcial | Articular presupuesto plurianual vinculante + ONAPRE en coordinación con DNPEP (ya redactado en Pilar IV) |
 | **Reforma Ley Orgánica del INE** | Reforma | INE como servicio desconcentrado del Presidente, no del Ejecutivo; concurso público para su Director; período 6 años |
 | **Reforma Ley de Endeudamiento** | Reforma | Sujeta a aprobación con dictamen no vinculante de DNPEP |
 | **Reforma de la Ley Orgánica del Ambiente** | Reforma | DNPEP incluye unidad de prospectiva ambiental (sincronía con Pilar III.9 Ambiente) |
@@ -74,7 +74,7 @@ Ministerio de Planificación Estratégica y Prospectiva
 │   │   │   └── Oficina de Cooperación Internacional
 │   │   ├── Unidad de Prospectiva Estratégica (UPE) — modelo Singapur CSF
 │   │   │   ├── Célula Geopolítica y Riesgos Estratégicos
-│   │   │   ├── Célula Tecnológica e Innovación (coordinada con FNIP Pilar III.5)
+│   │   │   ├── Célula Tecnológica e Innovación (coordinada con FNIP Pilar V)
 │   │   │   ├── Célula Económica y Demográfica
 │   │   │   └── Célula Social y Ambiental (coordinación con Pilar III.9 Ambiente)
 │   │   ├── Dirección General de Evaluación Independiente
@@ -86,7 +86,7 @@ Ministerio de Planificación Estratégica y Prospectiva
 │   │   │   └── Oficina de Calidad y Estándares Estadísticos
 │   │   └── Dirección General de Transparencia y Datos Abiertos (CKAN-Open Data Charter)
 │   │       ├── Oficina de Consulta Pública del Plan Quinquenal
-│   │       └── Oficina de Datos Abiertos del BND (Pilar III.7)
+│   │       └── Oficina de Datos Abiertos del BND (Pilar VII)
 │   └── Secretaría Técnica del Ministerio
 │       ├── Oficina del Director General DNPEP
 │       ├── Oficina de VePass-Firma obligatoria (Innovación #3)
@@ -129,7 +129,7 @@ Ministerio de Planificación Estratégica y Prospectiva
 | Análisis reservados para Presidente/Consejo | Clasificado | A demanda |
 | Foresight bulletins (alertas tempranas) | Público | Mensual |
 
-- **Coordinación con MIED-LAM** (Pilar III.3): UPE es cliente preferente de los programas de formación en foresight; pasantías de hasta 2 años del personal del MIED-LAM en la UPE.
+- **Coordinación con MIED-LAM** (Pilar III): UPE es cliente preferente de los programas de formación en foresight; pasantías de hasta 2 años del personal del MIED-LAM en la UPE.
 
 #### 2.2.4 INE autónomo (dependiente de DNPEP)
 
@@ -153,7 +153,7 @@ Publicación trimestral obligatoria (CKAN + Open Data Charter) con:
 |---|---|---|---|---|
 | 1 | **DNPEP** (Dirección Nacional de Planificación Estratégica y Prospectiva) | Servicio desconcentrado del Presidente | Servicio técnico | Nuevo; reforma art. 237 CRBV |
 | 2 | **INE** (Instituto Nacional de Estadística) | Servicio desconcentrado del Presidente (no del Ejecutivo) | Servicio estadístico autónomo | Reforma de la Ley Orgánica del INE vigente |
-| 3 | **UPE** (Unidad de Prospectiva Estratégica) | Servicio técnico desconcentrado de la DNPEP | Servicio técnico | Nuevo; depende del Pilar III.3 MIED-LAM para pasantías |
+| 3 | **UPE** (Unidad de Prospectiva Estratégica) | Servicio técnico desconcentrado de la DNPEP | Servicio técnico | Nuevo; depende del Pilar III MIED-LAM para pasantías |
 
 **Total entes**: 3 dentro del tope de 40 (Art. 9 Texto Articulado).
 
@@ -170,7 +170,7 @@ Publicación trimestral obligatoria (CKAN + Open Data Charter) con:
 - **Ratificación por la AN con mayoría de 3/5.**
 - Requisitos: venezolano por nacimiento; mayor de 35 años; postgrado en planificación estratégica, econometría, prospectiva o afines; **experiencia demostrable ≥ 10 años** en planificación gubernamental, banca central, OCDE, BM u organismos internacionales; **no militar retirado ni vinculado a partidos políticos**.
 - Período: **6 años no prorrogable ni reelegible** (analogía DNA-RB + Defensor del Pueblo).
-- Destitución: 3/4 AN con 7 causales taxativas (análogas a Pilar III.6); causal #6 = **alteración del carácter vinculante del Plan Quinquenal** o intervención ilegal en la evaluación independiente de programas.
+- Destitución: 3/4 AN con 7 causales taxativas (análogas a Pilar VI); causal #6 = **alteración del carácter vinculante del Plan Quinquenal** o intervención ilegal en la evaluación independiente de programas.
 
 ### 4.2 Viceministros (1 único)
 
@@ -249,7 +249,7 @@ Es **el más pequeño de los 9 ministerios** (2% del gasto ministerial), pero pr
 | **Captura de la UPE por inteligencia militar** | Media | Alto | Composición civil garantizada por ley + cláusula de no injerencia FAN + veeduría OACNUDH+CIDH |
 | **Planes quinquenales de papel** (riesgo histórico) | Media | Crítico | Vinculatoriedad automática para inversiones ≥ USD 50M + presupuesto plurianual 3 años + tablero trimestral público + rating al cierre |
 | **Captura del INE** | Alta | Alto | Reforma del INE como servicio desconcentrado del Presidente (no del Ejecutivo); concurso público para Director (6 años no reelegible) |
-| **Insuficiencia de datos** para evaluaciones ex ante y ex post | Alta | Medio | Inversión obligatoria del BND (Pilar III.7) en producir datos administrativos de calidad + obligatoriedad DNEP-INE |
+| **Insuficiencia de datos** para evaluaciones ex ante y ex post | Alta | Medio | Inversión obligatoria del BND (Pilar VII) en producir datos administrativos de calidad + obligatoriedad DNEP-INE |
 | **Oposición de gobernadores/alcaldes** a la planificación vinculante | Media | Medio | Negociación previa con la AN pluricultural + cláusula de respeto Art. 168 CRBV + reconocimiento de la autonomía territorial dentro del Plan |
 | **Resistencia burocrática al presupuesto plurianual** | Alta | Medio | Transición gradual: año 1 informativo, año 2 vinculante para nuevas inversiones, año 3 vinculante universal |
 | **Subordinación real del Director** a Vicepresidencia o Jefe de Gabinete | Media | Alto | Conducción jerárquica exclusiva del Presidente; ningún otro funcionario puede impartirle instrucciones; cláusulas de inelegibilidad post-mandato |
@@ -282,17 +282,17 @@ Es **el más pequeño de los 9 ministerios** (2% del gasto ministerial), pero pr
 
 ## 12. Documentos conexos
 
-- **Pilar III.8 v0.1** (`v0.1_pilar_iii8_planificacion_estrategica.md`, 331 líneas) — Fuente doctrinal completa.
-- **Pilar III.3 MIED-LAM** — Coordinación MIED-LAM ↔ UPE (formación prospectivistas).
-- **Pilar III.7 BND** — Vinculación Presupuesto Plurianual + tablero BNI con datos abiertos.
-- **Pilar III.6 DNA-RB + CGR** — Coordinación evaluación ex post.
-- **Pilar III.5 FOSEIP/FNIP** — Coordinación inversión sectorial.
+- **Pilar VIII v0.1** (`v0.1_pilar_iii8_planificacion_estrategica.md`, 331 líneas) — Fuente doctrinal completa.
+- **Pilar III MIED-LAM** — Coordinación MIED-LAM ↔ UPE (formación prospectivistas).
+- **Pilar VII BND** — Vinculación Presupuesto Plurianual + tablero BNI con datos abiertos.
+- **Pilar VI DNA-RB + CGR** — Coordinación evaluación ex post.
+- **Pilar V FOSEIP/FNIP** — Coordinación inversión sectorial.
 - **Texto Articulado Arts. 183-187** (Plan, Presupuesto, INE) — cuerpo normativo.
 - **Anexo A.5** — rattachation vigente.
 - **Plan de Implementación Pilar IV** — cronograma común a todos los ministerios.
 
 ---
 
-*Esta ficha operativa consolida y operacionaliza la doctrina del Pilar III.8 sin duplicarla. La DNPEP como servicio desconcentrado del Presidente es el elemento centralmente operativo del ministerio, con Plan Quinquenal, Presupuesto Plurianual y UPE como los tres pilares operativos.*
+*Esta ficha operativa consolida y operacionaliza la doctrina del Pilar VIII sin duplicarla. La DNPEP como servicio desconcentrado del Presidente es el elemento centralmente operativo del ministerio, con Plan Quinquenal, Presupuesto Plurianual y UPE como los tres pilares operativos.*
 
 *Versión 0.1 — 25-jul-2026. Pendiente: descripción detallada por Dirección General + KPIs mensuales.*

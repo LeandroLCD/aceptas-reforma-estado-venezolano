@@ -1,8 +1,8 @@
 ---
 titulo: "Ficha Técnica — Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (MIED-LAM)"
-version: "0.1 (H10.2 — versión ficha técnica, 25-jul-2026)"
-estado: "Borrador operativo. Preserva el contenido doctrinal del Pilar III.3 v0.2 (`v0.2_pilar_iii3_mied_lam.md`, 319 líneas) sin duplicación; añade operativización ministerial."
-parte: "H10 — Fichas Técnicas Ministeriales"
+version: "0.1 (FT.2 — versión ficha técnica, 25-jul-2026)"
+estado: "Borrador operativo. Preserva el contenido doctrinal del Pilar III v0.2 (`v0.2_pilar_iii3_mied_lam.md`, 319 líneas) sin duplicación; añade operativización ministerial."
+parte: "FT — Fichas Técnicas"
 ministerio: "Nº 2 — MIED-LAM"
 rango: "Constitucional (reforma Art. 134-A nuevo Título IX-A CRBV)"
 clausula_continuidad: "3/5 AN + referéndum aprobatorio con 80% del padrón electoral (Innovación #1 + blindaje reforzado propio) — sobre-mayoría reforzada 2026-07-26"
@@ -11,10 +11,10 @@ programas: 8
 entes_adscribidos: ~8-9
 viceministerios: 5
 origen_vigente: "#10 MPPP Educación + #11 MPPP Educación Universitaria + Viceministerios Cultura (#31) y Deporte (#13) + entes adscritos"
-conexion_pilar: "Pilar III.3 v0.2 — fuente doctrinal completa del MEDI 1979-1984"
+conexion_pilar: "Pilar III v0.2 — fuente doctrinal completa del MEDI 1979-1984"
 ---
 
-# H10.2 — Ficha Técnica del Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (MIED-LAM)
+# FT.2 — Ficha Técnica del Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (MIED-LAM)
 
 > **Mandato constitucional** (nuevo Art. 134-A Título IX-A CRBV):
 >
@@ -108,7 +108,7 @@ MIED-LAM (rango constitucional, autonomía funcional)
 │   └── Observatorio Nacional de Juventud
 ├── Secretaría General del MIED-LAM
 │   ├── Dirección de Planificación y Presupuesto
-│   ├── Dirección de Administración y Recursos Humanos (concursos CNSC del Pilard III.1)
+│   ├── Dirección de Administración y Recursos Humanos (concursos CNSC del Pilard I)
 │   ├── Dirección de Cooperación Internacional
 │   ├── Consultoría Jurídica
 │   ├── Unidad de Transparencia y Datos Abiertos
@@ -125,7 +125,7 @@ MIED-LAM (rango constitucional, autonomía funcional)
 | **3** | Aprender a Pensar 2.0 (Edward de Bono + digitales) | Cognitiva | Currículo transversal todas materias | Versión digital adaptativa | Mes 18-36 |
 | **4** | Enriquecimiento Instrumental 2.0 (Feuerstein) | Cognitiva | Población con déficit cognitivo + mediación rural digital | Versión digital | Mes 18-36 |
 | **5** | Educación General (todos los niveles) | Educación | Currículo único nacional (modelo PISA-local), evaluación trianual, sistema nacional de acreditación | Asume rectoría MPPE vigente | Mes 0-12 transición |
-| **6** | Educación Ética y Cívica para la Convivencia | Cívica | Transversal a todo el sistema educativo + a funcionarios públicos (Pilar III.1) | Nuevo, ausente en PDI | Mes 12-24 |
+| **6** | Educación Ética y Cívica para la Convivencia | Cívica | Transversal a todo el sistema educativo + a funcionarios públicos (Pilar I) | Nuevo, ausente en PDI | Mes 12-24 |
 | **7** | Pensamiento Crítico Digital | Cívica | Toda la población alfabeta | Programa alfabetización algorítmica + protección desinformación (modelos Finlandia 2014, Estonia 2017) | Mes 12-24 |
 | **8** | Sistema Nacional del Deporte (4 niveles) | Deporte | Toda la población, atletas alto rendimiento (Programa Olímpico) | Modelo CSD España, ASCTAustralia | Mes 12-36 |
 
@@ -141,7 +141,7 @@ MIED-LAM (rango constitucional, autonomía funcional)
 
 - **Función**: rectoría del sistema educativo nacional; currículum único; carrera docente meritocrática con concursos CNSC; infraestructura escolar; sistema nacional de evaluación.
 - **Adscribe**: DIEN (infraestructura educativa, hoja de ruta territorial); SNECV (evaluación PISA-venezolana cada 3 años).
-- **Concursos docentes**: cada tres años, los concursos del Magisterio son administrados por la **CNSC del Poder Ciudadano** (Pilar III.1), no por el MIED-LAM directamente. Esto separa la operación pedagógica del nombramiento meritocrático.
+- **Concursos docentes**: cada tres años, los concursos del Magisterio son administrados por la **CNSC del Poder Ciudadano** (Pilar I), no por el MIED-LAM directamente. Esto separa la operación pedagógica del nombramiento meritocrático.
 
 #### 2.3.3 Viceministerio de Cultura y Formación Ética
 
@@ -218,7 +218,7 @@ Esta arquitectura toma como referencia la autonomía del Banco Central de Venezu
 - **Evaluación anual de desempeño**: por inspectores del MIED-LAM con VePass-Firma.
 - **Estabilidad**: ratificada en libertad de cátedra y estabilidad del cargo.
 
-### 5.2 Escala salarial docente (en USD indexados, post-mes 18 Pilar III.4)
+### 5.2 Escala salarial docente (en USD indexados, post-mes 18 Pilar IV)
 
 | Nivel | Rango mínimo (USD) | Rango máximo (USD) |
 |---|---|---|
@@ -288,7 +288,7 @@ Mecanismo inspirado en la asignación chilena a las Fuerzas Armadas (Ley 13.196)
 | 1-3 | Reactivación del equipo técnico del MEDI/PDI original (aquellos profesionales que sobrevivieron y aquellos del exilio que regresaron). Programa 2 (Proyecto Inteligencia 2.0) coordinado con Instituto Internacional de Stanford si hay convenio de cooperación. Diseño detallado de los 8 Programas Nacionales. |
 | 4-6 | Ley Orgánica del MIED-LAM sancionada. Directorio de 7 miembros designado por Presidente con ratificación 3/5 AN. Estatuto de personal docente y deportivo negociado con FVM (Federación Venezolana de Magisterio) y Comité Olímpico. Línea base de PISA-Venezuela establece indicadores. |
 | 7-9 | Lanzamiento del nuevo ministerio formalmente como entidad constitucional. RReglamento orgánico del MIED-LAM publicado en Gaceta Oficial. Primeros concursos nacionales docentes CNSC. Inicio de la infraestructura de la primera etapa (DIEN). |
-| 10-12 | Cierre oficial del proceso de transición.Primer informe público de evaluación Independente (línea base solamente). Lanzamiento oficial de la "Década del Aprendizaje" - Plan Quinquenal del MIED-LAM conforme al Pilar III.8 DNPEP. |
+| 10-12 | Cierre oficial del proceso de transición.Primer informe público de evaluación Independente (línea base solamente). Lanzamiento oficial de la "Década del Aprendizaje" - Plan Quinquenal del MIED-LAM conforme al Pilar VIII DNPEP. |
 
 ## 8. Indicadores de éxito
 
@@ -322,7 +322,7 @@ Mecanismo inspirado en la asignación chilena a las Fuerzas Armadas (Ley 13.196)
 | Captura del deporte de alta competencia por patrocinadores con interés político | Media | Alto | Sistema de becas meritocráticas con veeduría internacional + códigos de ética deportiva + auditoría anual CGR |
 | Sobreintervención estatal en la vida universitaria | Media | Medio | Autonomía universitaria constitucional + acreditación externa libre + financiamiento basal por mérito demostrable |
 | Polarización del discurso público entre "cognitivo" (formal) y "físico/cívico" (informal) | Media | Medio | Coordinación Viceministerios + unidad común de "formación integral del ciudadano" + celebración conjunta de Olimpiadas del Saber + Olimpiadas Deportivas |
-| Subestimación costo real del 6% PIB por shocks externos | Baja | Alto | Reserva presupuestaria del 0,5% PIB específica + transferencias adicionales del FEM (Pilar III.5) en emergencias |
+| Subestimación costo real del 6% PIB por shocks externos | Baja | Alto | Reserva presupuestaria del 0,5% PIB específica + transferencias adicionales del FEM (Pilar V) en emergencias |
 
 ## 10. Cláusula de continuidad específica
 
@@ -361,18 +361,18 @@ requiere:
 
 ## 12. Documentos conexos
 
-- **Pilar III.3 v0.2** (`borrador_reforma/2026/v0.2_pilar_iii3_mied_lam.md`) — fuente doctrinal completa
+- **Pilar III v0.2** (`borrador_reforma/2026/v0.2_pilar_iii3_mied_lam.md`) — fuente doctrinal completa
 - **Texto Articulado Arts. 148-150** — creación constitucional del MIED-LAM
-- **Pilar III.1** — concursos meritocráticos del personal docente via CNSC
-- **Pilar III.4** — LOBCV y cronograma monetario 18m (regime salarial indexado USD)
-- **Pilar III.6 v0.5** — DNA-RB integridad del MIED-LAM
-- **Pilar III.7** — BND-Cédula-RUT + VePass-Firma Educativa
+- **Pilar I** — concursos meritocráticos del personal docente via CNSC
+- **Pilar IV** — LOBCV y cronograma monetario 18m (regime salarial indexado USD)
+- **Pilar VI v0.5** — DNA-RB integridad del MIED-LAM
+- **Pilar VII** — BND-Cédula-RUT + VePass-Firma Educativa
 - **Anexo A.5** — rattachation vigente
 - **Anexo A.10** — distribución de funciones del ex-MPP Justicia
 
 ---
 
-*Esta ficha operativa consolida y operacionaliza la doctrina del Pilar III.3 sin duplicarla. La creación del directorio, la rehabilitación de los programas MEDI, y el blindaje presupuestario 6% PIB son los elementos centralmente operativos del ministerio.*
+*Esta ficha operativa consolida y operacionaliza la doctrina del Pilar III sin duplicarla. La creación del directorio, la rehabilitación de los programas MEDI, y el blindaje presupuestario 6% PIB son los elementos centralmente operativos del ministerio.*
 
 *Versión 0.1 — 25-jul-2026. Pendiente: cronograma detallado por Viceministerio + KPIs mensuales.*
 

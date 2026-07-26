@@ -1,8 +1,8 @@
 ---
 titulo: "Ficha Técnica — Ministerio de Gobierno Digital"
-version: "0.1 (H10.7 — versión ficha técnica, 25-jul-2026)"
-estado: "Borrador operativo. Operacionaliza el Pilar III.7 v0.1.2 (`v0.1_pilar_iii7_gobierno_digital.md`, ~800 líneas). Centro nervioso de la transformación digital del Estado reformado."
-parte: "H10 — Fichas Técnicas Ministeriales"
+version: "0.1 (FT.7 — versión ficha técnica, 25-jul-2026)"
+estado: "Borrador operativo. Operacionaliza el Pilar VII v0.1.2 (`v0.1_pilar_iii7_gobierno_digital.md`, ~800 líneas). Centro nervioso de la transformación digital del Estado reformado."
+parte: "FT — Fichas Técnicas"
 ministerio: "Nº 7 — Gobierno Digital"
 ministerios_agrupados_vigentes: "#24 parte Despacho de la Presidencia (BND) + #29 MPPP Comunicación e Información (parte) + Registros y Notariado (transferidos del ex-MPP Justicia) + Registro Civil (transferido del ex-MPP Justicia)"
 entes_maximos_segun_tope: "~6-7 entes de los 40 totales"
@@ -12,7 +12,7 @@ referente_principal: "Chile (RUN = RUT, ClaveUnica, Cedula QR+NFC, Conservador B
 complejo_data_center: "Centro Nacional de Datos Guri-1/2/3 — Centro de cómputo soberano cerca del complejo hidroeléctrico del Guri"
 ---
 
-# H10.7 — Ficha Técnica del Ministerio de Gobierno Digital
+# FT.7 — Ficha Técnica del Ministerio de Gobierno Digital
 
 > **Mandato constitucional**:
 >
@@ -43,7 +43,7 @@ Adscribe las funciones del Despacho de la Presidencia (BND, parte), MPPP Comunic
 |---|---|
 | **Art. 110 reformado** | La Ley Orgánica de Identidad Digital tendrá rango constitucional, especificando los principios de soberanía digital, datos sensibles y auditoría democrática. |
 | **Art. 156 numeral 9 reformado** | Servicio Nacional de Identificación como competencia nacional exclusiva (no estadal/municipal). |
-| **Art. 299 reformado** | Las nuevas Tecnologías de la Información y Comunicación forman parte del Plan Quinquenal Nacional vinculante (Pilar III.8). |
+| **Art. 299 reformado** | Las nuevas Tecnologías de la Información y Comunicación forman parte del Plan Quinquenal Nacional vinculante (Pilar VIII). |
 | **Art. 237 reformado** | Atribuciones presidenciales en firma electrónica de actos administrativos: el VePass-Firma oficial del Presidente mediante BND-IP. |
 | **Art. 156 numeral 14 aditivo** | Protección de datos personales como derecho constitucional. |
 
@@ -94,7 +94,7 @@ Ministerio de Gobierno Digital
 │   │   └── Dirección General de Datos Abiertos y CKAN
 │   ├── Viceministerio de Transformación Digital y Programas
 │   │   ├── Dirección General de Programas de Simplificación Administrativa
-│   │   ├── Dirección General de Innovación (coordinación con FNIP del Pilar III.5)
+│   │   ├── Dirección General de Innovación (coordinación con FNIP del Pilar V)
 │   │   ├── Dirección General de Ciudadanía Digital (formación DNI en la población)
 │   │   └── Dirección General de Coordinación con Gobiernos Digitales Locales
 │   ├── Superintendencia de Protección de Datos Personales (SPDP)
@@ -167,7 +167,7 @@ Inicialmente concebida como dirección del ministerio, pero siguiendo el patrón
 > - SENATEL + IPOSTEL: integrado en el Viceministerio 1 (atención al cliente VePass y comunicaciones digitales).
 > - SAIME: subsistente como oficina operativa del SNI (expedición Cédula-RUT).
 > - CNE: subsistente con régimen constitucional; SNI alimenta el padrón electoral automáticamente.
-> - CANTV.NET: privatizado (Pilares III.5 + III.5.5). Mantén regulación independiente (CONATEL del Ministerio #5 Infraestructura).
+> - CANTV.NET: privatizado (Pilares V + V.5). Mantén regulación independiente (CONATEL del Ministerio #5 Infraestructura).
 > - PROCOMPETENCIA + SAPI + SENCAMER + TIC: integrados en SICDEL del Ministerio #3 Economía.
 
 ## 4. Designaciones políticas
@@ -178,7 +178,7 @@ Inicialmente concebida como dirección del ministerio, pero siguiendo el patrón
 - **Ratificación por la AN con mayoría de 3/5.**
 - Requisitos: venezolano por nacimiento; mayor de 35 años; postgrado en informática, matemática, ciencia de datos, derecho digital o afines; **experiencia profesional ≥ 10 años** en transformaciones digitales complejas (registros civiles digitales, gobierno electrónico, banca, salud); **no militar retirado** ni vinculado a partidos políticos.
 - Período: **6 años no prorrogable ni reelegible** (analogía DNA-RB).
-- Destitución: 3/4 AN con 7 causales taxativas (analogía Pilar III.6 v0.5); causal #6 = **vulneración del BND o captura de datos ciudadanos**.
+- Destitución: 3/4 AN con 7 causales taxativas (analogía Pilar VI v0.5); causal #6 = **vulneración del BND o captura de datos ciudadanos**.
 
 ### 4.2 Viceministros + Superintendentes (SPDP, SUNAC)
 
@@ -280,22 +280,22 @@ Tope 14:1.
 
 ## 12. Documentos conexos
 
-- **Pilar III.7 v0.1.2** (`v0.1_pilar_iii7_gobierno_digital.md`, ~800 líneas) — Fuente doctrinal completa.
-- **Pilar III.2** — CPNP usa VePass en operativos; veeduría RUI-mig.
-- **Pilar III.6** — DNA-RB y CGR con BND-IP.
-- **Pilar III.5** — BND coordina RUI-mig para inversiones extraterritoriales.
-- **Texto Articulado Arts. 95-120** — cuerpo normativo del Pilar III.7.
+- **Pilar VII v0.1.2** (`v0.1_pilar_iii7_gobierno_digital.md`, ~800 líneas) — Fuente doctrinal completa.
+- **Pilar II** — CPNP usa VePass en operativos; veeduría RUI-mig.
+- **Pilar VI** — DNA-RB y CGR con BND-IP.
+- **Pilar V** — BND coordina RUI-mig para inversiones extraterritoriales.
+- **Texto Articulado Arts. 95-120** — cuerpo normativo del Pilar VII.
 - **Anexo A.5** — rattachation vigente.
 - **Anexo A.10** — distribución ex-Justicia.
 
 ---
 
-*Esta ficha operativa consolida y operacionaliza la doctrina del Pilar III.7 sin duplicarla. VePass-Firma obligatoria + BND-IP + Caja de Datos Guri-1/2/3 son los elementos centralmente operativos del ministerio.*
+*Esta ficha operativa consolida y operacionaliza la doctrina del Pilar VII sin duplicarla. VePass-Firma obligatoria + BND-IP + Caja de Datos Guri-1/2/3 son los elementos centralmente operativos del ministerio.*
 
 *Versión 0.1 — 25-jul-2026. Pendiente: descripción detallada por Dirección General + KPIs mensuales.*
 
-**Próximas fichas técnicas (H10.8 → H10.11)**:
-- H10.8 Relaciones Exteriores (Veeduría Internacional Permanente)
-- H10.9 Ambiente (INPARQUES + IGVSB + Fundambiente + INAMEH)
-- H10.10 Consejo Nacional de Defensa (ente presidencial)
-- H10.11 Cinco instituciones del Poder Ciudadano ampliado
+**Próximas fichas técnicas (FT.8 → FT.11)**:
+- FT.8 Relaciones Exteriores (Veeduría Internacional Permanente)
+- FT.9 Ambiente (INPARQUES + IGVSB + Fundambiente + INAMEH)
+- FT.10 Consejo Nacional de Defensa (ente presidencial)
+- FT.11 Cinco instituciones del Poder Ciudadano ampliado
