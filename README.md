@@ -52,27 +52,27 @@ aceptas-reforma-estado-venezolano/
 │   └── principios-generales.md                    ← 10 principios rectores consolidados
 │
 ├── pilares/                                       ← 8 pilares orgánicos
-│   ├── III.1-servicio-civil-meritocratico.md      CNSC + concursos públicos + meritocracia blindada
-│   ├── III.2-seguridad-ciudadana.md               CPNP + CICPC + JNEM + VePass-Firma obligatoria
-│   ├── III.3-mied-lam.md                          Ministerio del Desarrollo de la Inteligencia, Educación y Deporte
-│   ├── III.4-reforma-fiscal-financiamiento.md     LOBCV + dolarización mes 18 + cronograma monetario
-│   ├── III.5-reforma-economica-productiva.md      PDVSA 51 % + FOSEIP + FNIP + privatización Corpoelec/CANTV/HIDROVEN
-│   ├── III.6-justicia-anticorrupcion.md           TSJ meritocrático + DNA-RB + Defensor del Pueblo + MP unificado
-│   ├── III.7-gobierno-digital-identidad.md        BND + VePass + Cédula-RUT + SNI + RUI + RUP
-│   └── III.8-planificacion-estrategica-prospectiva.md   DNPEP + Plan Quinquenal vinculante + Presupuesto Plurianual
+│   ├── I-servicio-civil-meritocratico.md      CNSC + concursos públicos + meritocracia blindada
+│   ├── II-seguridad-ciudadana.md               CPNP + CICPC + JNEM + VePass-Firma obligatoria
+│   ├── III-mied-lam.md                          Ministerio del Desarrollo de la Inteligencia, Educación y Deporte
+│   ├── IV-reforma-fiscal-financiamiento.md     LOBCV + dolarización mes 18 + cronograma monetario
+│   ├── V-reforma-economica-productiva.md      PDVSA 51 % + FOSEIP + FNIP + privatización Corpoelec/CANTV/HIDROVEN
+│   ├── VI-justicia-anticorrupcion.md           TSJ meritocrático + DNA-RB + Defensor del Pueblo + MP unificado
+│   ├── VII-gobierno-digital-identidad.md        BND + VePass + Cédula-RUT + SNI + RUI + RUP
+│   └── VIII-planificacion-estrategica-prospectiva.md   DNPEP + Plan Quinquenal vinculante + Presupuesto Plurianual
 │
 ├── fichas-tecnicas/                               ← 12 fichas técnicas ministeriales
-│   ├── 10.1-ministerio-interior-seguridad.md
-│   ├── 10.2-ministerio-mied-lam.md
-│   ├── 10.3-ministerio-economia-finanzas.md
-│   ├── 10.4-ministerio-energia-minas.md
-│   ├── 10.5-ministerio-infraestructura-servicios.md
-│   ├── 10.6-ministerio-planificacion-prospectiva.md
-│   ├── 10.7-ministerio-gobierno-digital.md
-│   ├── 10.8-ministerio-relaciones-exteriores.md
-│   ├── 10.9-ministerio-ambiente.md
-│   ├── 10.10-consejo-nacional-defensa.md
-│   └── 10.11-poder-ciudadano-ampliado.md
+│   ├── FT.1-ministerio-interior-seguridad.md
+│   ├── FT.2-ministerio-mied-lam.md
+│   ├── FT.3-ministerio-economia-finanzas.md
+│   ├── FT.4-ministerio-energia-minas.md
+│   ├── FT.5-ministerio-infraestructura-servicios.md
+│   ├── FT.6-ministerio-planificacion-prospectiva.md
+│   ├── FT.7-ministerio-gobierno-digital.md
+│   ├── FT.8-ministerio-relaciones-exteriores.md
+│   ├── FT.9-ministerio-ambiente.md
+│   ├── FT.10-consejo-nacional-defensa.md
+│   └── FT.11-poder-ciudadano-ampliado.md
 │
 ├── implementacion/                                ← Plan operativo
 │   ├── plan-implementacion-0-36-meses.md          IV Plan de implementación (10 secciones + 100 KPIs)
@@ -114,35 +114,35 @@ aceptas-reforma-estado-venezolano/
 
 ## Los 8 pilares — detalle
 
-### III.1 Servicio Civil Meritocrático
+### I Servicio Civil Meritocrático
 
 Concurso público obligatorio para todo cargo directivo del Estado. **Comisión Nacional del Servicio Civil** independiente con 9 miembros designados por jurado mixto. Carrera profesional con VePass-Firma obligatoria. Salarios indexados USD 500–7.000 (ratio 14:1 alineado con la Organización para la Cooperación y el Desarrollo Económicos). Tres exámenes rigurosos consecutivos con reexaminación periódica — sin asumir presunción de idoneidad sobre los cuerpos preexistentes.
 
-### III.2 Seguridad Ciudadana y Restauración del Orden Público
+### II Seguridad Ciudadana y Restauración del Orden Público
 
 **Cuerpo de Policía Nacional Profesional** civil + Cuerpo de Investigaciones Científicas, Penales y Criminalísticas + Junta Nacional de Evaluación Médica. VePass-Firma obligatoria en todos los actos. Reconversión — no derogación — de la Policía Nacional Bolivariana + policías estadales + municipales. Rechazo explícito al modelo Bukele: estado de excepción indefinido, militarización y opacidad presupuestaria están prohibidos. Cifras Observatorio Venezolano de Violencia 2023: 26,8 muertes violentas por cada 100.000 habitantes.
 
-### III.3 MIED-LAM Constitucional
+### III MIED-LAM Constitucional
 
 Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Doctor Luis Alberto Machado. Constitucionalización de los programas del Ministerio del Desarrollo de la Inteligencia 1979-1984 desmontados por Lusinchi. Rango constitucional vía artículo 237 de la Constitución de la República Bolivariana de Venezuela + Título IX-A. Educación cognitiva prenatal–preescolar + escolar + deportiva como política de Estado continua, con presupuesto 6 % del producto interno bruto ring-fenced (índice UNESCO, comparable a la asignación chilena a las Fuerzas Armadas por Ley 13.196 o al Norwegian Government Pension Fund Global).
 
-### III.4 Reforma Fiscal y Financiamiento Territorial
+### IV Reforma Fiscal y Financiamiento Territorial
 
 **Cronograma monetario 18 meses**: mes 1 apertura de banda cambiaria (±15 %), meses 3-6 sanción de la Ley Orgánica del Banco Central de Venezuela, mes 12 autonomía plena del Banco Central de Venezuela + crawling-peg ≤2 % mensual, meses 12-15 acumulación de reservas (~USD 8-12 miles de millones adicionales), **mes 18 dolarización oficial** (modelo Panamá 1904 con bolívar simbólico). Reforma tributaria no petrolera para llevar la recaudación no petroleta al 14 % del producto interno bruto. Situado Constitucional Municipal 25 % del Impuesto al Valor Agregado + 10 % del canon petrolero.
 
-### III.5 Reforma Económica y Productiva
+### V Reforma Económica y Productiva
 
 **Petróleos de Venezuela S.A. matriz** 51 % estatal / 49 % privado vía Oferta Pública Inicial en NYSE/LSE/BVC (ingresos one-shot USD 8-15 mil millones). Filiales mixtas cotizan en bolsa (Petrocedeño, Petromonagas, Petroquiriquire + filiales operativas privatizadas como PETROVEX S.A.). **Ley Orgánica del Régimen de Adquisición Forzosa de Acciones de Empresas Estratégicas** con cláusula *pay-before-take* 90 días con reversión automática — **elevada a rango constitucional el 26 de julio de 2026 mediante reforma de los artículos 344 y 348 de la Constitución con blindaje 3/5 de la Asamblea Nacional + referéndum aprobatorio con 80 % del padrón electoral** — más *golden share* sellada. Privatización 100 % de la Corporación Eléctrica Nacional + Compañía Anónima Nacional Teléfonos de Venezuela + 9 hidrológicas regionales con régimen 20 años exoneración → solo Impuesto al Valor Agregado en año 21. **Fondo Soberano de Estabilización e Inversión Productiva** (modelo Norwegian Government Pension Fund Global / GIC Singapur) + **Fondo Nacional de Inversión Productiva** con banca de desarrollo sectorial.
 
-### III.6 Justicia Independiente y Anticorrupción
+### VI Justicia Independiente y Anticorrupción
 
 **Tribunal Supremo de Justicia meritocrático** (jueces por concurso público + Asamblea Nacional 3/5, 9 años no reelegibles). **Dirección Nacional Anticorrupción y Recuperación de Bienes** con investigación penal especializada anticorrupción (modelo Corrupt Practices Investigation Bureau de Singapur, presupuesto 0,5 % del producto interno bruto transferido mensualmente del Banco Central de Venezuela, no reprogramable). **Defensor del Pueblo** independiente. **Ministerio Público unificado** con período único de 6 años no reelegible. Investigación activa del caso Venezuela I ante la Corte Penal Internacional. Cooperación con la Organización Internacional de Policía Criminal y el Grupo de Acción Financiera Internacional.
 
-### III.7 Gobierno Digital, Identidad y Soberanía de Datos
+### VII Gobierno Digital, Identidad y Soberanía de Datos
 
 **Banco Nacional de Datos** con arquitectura federada tipo X-Road estonio y 11 bases sectoriales. **Clave Única de Identidad Digital VePass** en 4 niveles (Lite, Plus, Fuerte, Firma) + **Cédula con Rol Único Tributario** con chip biométrico + NFC + QR. **Sistema Nacional de Identidad** con captura hospitalaria 24 horas post-nacimiento (perfil de ADN + huellas plantares). **Registro Único de Inmuebles** (modelo Conservador chileno + e-Land Register estonio). **Registro Único Vehicular**. Trampa genética anti-robo de niños más Certificado de Defunción Fetal con retención 75 años del Banco Nacional de Datos — el intento fraudulento deja huella indeleble.
 
-### III.8 Planificación Estratégica y Prospectiva
+### VIII Planificación Estratégica y Prospectiva
 
 **Dirección Nacional de Planificación Estratégica y Prospectiva** con rango constitucional. **Plan Quinquenal vinculante** aprobado por mayoría absoluta de la Asamblea Nacional; toda inversión ≥ USD 50 millones debe estar explícitamente en él. **Presupuesto Plurianual 3 años** anclado al artículo 314 de la Constitución. **Unidad de Prospectiva Estratégica** modelo Centro de Estudios Estratégicos de Singapur. Cláusula expresa de **no injerencia de la Fuerza Armada Nacional** en prospectiva civil. Evaluación ex ante obligatoria de inversiones ≥ USD 50 millones (metodología Sistema Nacional de Inversiones de Chile + UK HM Treasury Green Book).
 
@@ -152,17 +152,17 @@ Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Doctor Luis A
 
 | # | Ente | Naturaleza | Presupuesto (USD/año) | % PIB | Ficha |
 |---|---|---|---:|---:|---|
-| 1 | Interior y Seguridad | Ministerio | ~780 M | 0,35 % | [10.1](fichas-tecnicas/10.1-ministerio-interior-seguridad.md) |
-| 2 | MIED-LAM | Ministerio | ~13.200 M | **6,00 %** (constitucional) | [10.2](fichas-tecnicas/10.2-ministerio-mied-lam.md) |
-| 3 | Economía y Finanzas | Ministerio | ~5.000 M | 2,27 % | [10.3](fichas-tecnicas/10.3-ministerio-economia-finanzas.md) |
-| 4 | Energía y Minas | Ministerio | ~190 M | 0,07 % | [10.4](fichas-tecnicas/10.4-ministerio-energia-minas.md) |
-| 5 | Infraestructura y Servicios | Ministerio | ~1.170 M | 0,53 % | [10.5](fichas-tecnicas/10.5-ministerio-infraestructura-servicios.md) |
-| 6 | Planificación Estratégica y Prospectiva | Ministerio | ~200 M | 0,09 % | [10.6](fichas-tecnicas/10.6-ministerio-planificacion-prospectiva.md) |
-| 7 | Gobierno Digital | Ministerio | ~535 M | 0,24 % | [10.7](fichas-tecnicas/10.7-ministerio-gobierno-digital.md) |
-| 8 | Relaciones Exteriores | Ministerio | ~995 M | 0,45 % | [10.8](fichas-tecnicas/10.8-ministerio-relaciones-exteriores.md) |
-| 9 | Ambiente | Ministerio | ~480 M | 0,22 % | [10.9](fichas-tecnicas/10.9-ministerio-ambiente.md) |
-| 10 | **Consejo Nacional de Defensa** | **Ente presidencial** | **~4.180 M** | **1,90 %** (no reprogramable) | [10.10](fichas-tecnicas/10.10-consejo-nacional-defensa.md) |
-| 11 | Poder Ciudadano ampliado | 5 instituciones | ~1.180 M | 0,54 % | [10.11](fichas-tecnicas/10.11-poder-ciudadano-ampliado.md) |
+| 1 | Interior y Seguridad | Ministerio | ~780 M | 0,35 % | [FT.1](fichas-tecnicas/FT.1-ministerio-interior-seguridad.md) |
+| 2 | MIED-LAM | Ministerio | ~13.200 M | **6,00 %** (constitucional) | [FT.2](fichas-tecnicas/FT.2-ministerio-mied-lam.md) |
+| 3 | Economía y Finanzas | Ministerio | ~5.000 M | 2,27 % | [FT.3](fichas-tecnicas/FT.3-ministerio-economia-finanzas.md) |
+| 4 | Energía y Minas | Ministerio | ~190 M | 0,07 % | [FT.4](fichas-tecnicas/FT.4-ministerio-energia-minas.md) |
+| 5 | Infraestructura y Servicios | Ministerio | ~1.170 M | 0,53 % | [FT.5](fichas-tecnicas/FT.5-ministerio-infraestructura-servicios.md) |
+| 6 | Planificación Estratégica y Prospectiva | Ministerio | ~200 M | 0,09 % | [FT.6](fichas-tecnicas/FT.6-ministerio-planificacion-prospectiva.md) |
+| 7 | Gobierno Digital | Ministerio | ~535 M | 0,24 % | [FT.7](fichas-tecnicas/FT.7-ministerio-gobierno-digital.md) |
+| 8 | Relaciones Exteriores | Ministerio | ~995 M | 0,45 % | [FT.8](fichas-tecnicas/FT.8-ministerio-relaciones-exteriores.md) |
+| 9 | Ambiente | Ministerio | ~480 M | 0,22 % | [FT.9](fichas-tecnicas/FT.9-ministerio-ambiente.md) |
+| 10 | **Consejo Nacional de Defensa** | **Ente presidencial** | **~4.180 M** | **1,90 %** (no reprogramable) | [FT.10](fichas-tecnicas/FT.10-consejo-nacional-defensa.md) |
+| 11 | Poder Ciudadano ampliado | 5 instituciones | ~1.180 M | 0,54 % | [FT.11](fichas-tecnicas/FT.11-poder-ciudadano-ampliado.md) |
 | | **TOTAL Estado central ejecutivo + Poder Ciudadano** | | **~26.730 M + 1.180 M** | **~12,66 % PIB** | — |
 
 Producto interno bruto base referencial: USD 220 mil millones.
@@ -196,9 +196,9 @@ Producto interno bruto base referencial: USD 220 mil millones.
 | Hito | Entregable | Cerrado |
 |---|---|---|
 | H1 | Renumeración + extracción + limpieza documental | 2026-07-15 |
-| H2 | Pilar III.2 Seguridad ciudadana | 2026-07-16 |
-| H3 | Pilar III.5 Reforma económica | 2026-07-16 |
-| H4 | Pilar III.8 Planificación estratégica | 2026-07-16 |
+| H2 | Pilar II Seguridad ciudadana | 2026-07-16 |
+| H3 | Pilar V Reforma económica | 2026-07-16 |
+| H4 | Pilar VIII Planificación estratégica | 2026-07-16 |
 | H5 | Prólogo + Diagnóstico + Principios | 2026-07-16 |
 | H6 | Plan de Implementación + Comisión Carmen Navas | 2026-07-16 |
 | H7 | Cláusula de Continuidad + Texto Articulado | 2026-07-16 |
@@ -218,6 +218,15 @@ El proyecto Aceptas es una **propuesta técnica abierta**. Puede ser usado, modi
 ## Contribuciones
 
 Aceptas es una obra abierta. *Pull requests* bienvenidos. Para cambios sustantivos, abrí primero un *issue* con la propuesta.
+
+## Contacto y comunidad
+
+| Canal | Identificador |
+|---|---|
+| **X (Twitter)** | [@aceptas_ve](https://x.com/aceptas_ve) |
+| **Email** | aceptas.ve@gmail.com |
+
+Las cuentas de Instagram, TikTok y Facebook están en planificación — ver [`docs/memoria-proyecto.md`](docs/memoria-proyecto.md) sección "Plan de redes sociales" para más detalle.
 
 **Firma del proyecto:**
 
