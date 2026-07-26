@@ -2,8 +2,6 @@
 
 > *"Si aceptas, levanta la mano y grita: ¡Lo juro!"*
 
-> **Versión catálogo exhaustivo.** Esta variante sirve como mapa único de TODO el repositorio: enumera los 8 pilares, las 12 fichas técnicas ministeriales, las 6 leyes orgánicas nuevas, los anexos, el plan de implementación y los hitos. Para una lectura más concisa ver [`README-v1-landing.md`](README-v1-landing.md).
-
 ---
 
 ## ¿Qué es Aceptas?
@@ -89,11 +87,6 @@ aceptas-reforma-estado-venezolano/
 ├── referencias/                                   ← Documentos consolidados
 │   ├── marco-comparativo-milei-singapur.md        Doc. 2: Milei + Singapur + CRBV
 │   └── propuesta-reforma.md                       Doc. 3: Propuesta por dimensión
-│
-├── propuestas-readme/                             ← Propuestas de README en revisión
-│   ├── README-v1-landing.md
-│   ├── README-v2-catalogo.md
-│   └── PENDIENTE.md                               Tarea abierta
 │
 └── docs/
     └── (vacío — bitácora técnica del proyecto no es pública)
