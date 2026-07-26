@@ -1,27 +1,46 @@
 ---
 titulo: Aceptas — Reforma Integral del Estado Venezolano - Documento Final v0.1 Compilación consolidada del proyecto
-version: 0.1 (compilación final)
-fecha: 2026-07-16
+version: 0.1 (compilación final) — recompilado 2026-07-26
+fecha: 2026-07-26 (recompilación post-H10 + 12 fichas técnicas ministeriales + patches 2026-07-26)
+fecha_original: 2026-07-16
 proyecto: "Aceptas — Reforma Integral del Estado Venezolano 2026"
 lema_popular: '"Si aceptas, levanta la mano y grita: ¡Lo juro!"'
-fase: documento final consolidado (Partes 0 + III + IV + V) — referencia pública única
+fase: documento final consolidado (Partes 0 + III + IV + V + FT) — referencia pública única
 autor: "Equipo de reforma Aceptas"
 epigrafe_cultural: "Inspirado y bautizado por la canción Pa' la Calle (Canservero): *Hay mucha gente que no entiende / Que el gobierno / No es el único que debe cambiar / Aquí hace falta leer y usar los cuadernos / Y reconocer que la juventud no es un don eterno*" — el proyecto Aceptas se basa en cuatro principios críticos del pueblo soberano: lectura crítica, estudio, trabajo y respeto, con la convocatoria intransferible del sujeto popular."
 declaracion_politica: "Rechazo explícito a los "angelitos" (políticos de oposición que se visten de santos pero son un cancer y han contribuido a la permanencia del régimen chavista en el poder). El proyecto Aceptas se asume como acto del pueblo, no como promesa electoral de ninguna oposición tradicional. Quien acepta el compromiso es quien transforma el Estado."
 fuentes_internas:
   - "Parte 0 (Pilares 0): v0.1_prologo_resumen_ejecutivo.md, v0.1_diagnostico_integral.md, v0.1_principios_generales.md"
-  - "Parte III (Pilares): III.1, III.2, III.3, III.4, III.5, III.6, III.7, III.8"
+  - "Parte III (Pilares): I-servicio-civil-meritocratico.md, II-seguridad-ciudadana.md, III-mied-lam.md, IV-reforma-fiscal-financiamiento.md, V-reforma-economica-productiva.md, VI-justicia-anticorrupcion.md, VII-gobierno-digital-identidad.md, VIII-planificacion-estrategica-prospectiva.md"
+  - "Parte FT — Fichas Técnicas Ministeriales (H10): 11 archivos FT.X-*.md (9 ministerios + Consejo Nacional de Defensa + Poder Ciudadano ampliado)"
   - "Parte IV (Implementación): v0.1_implementacion.md + v0.1_comision_carmen_navas.md"
   - "Parte V (Articulado + Cláusulas): v0.1_clausula_continuidad.md"
   - "Documentos consolidados: docs/diagnostico.md, docs/marco_comparativo.md, docs/propuesta_reforma.md, docs/plan_implementacion.md, docs/texto_articulado.md"
-base_de_conocimiento: "kb_gobierno (Qdrant local, ~18.700 puntos, modelo intfloat/multilingual-e5-small, dim 384 cosine)"
-pautas_para_redaccion:
-  - "Use este documento como versión publicable de toda la reforma, bajo el nombre Aceptas"
-  - "Cada pilar está disponible también como .md individual bajo data/venezuela/borrador_reforma/2026/"
-  - "Las referencias cruzadas a otros documentos se hacen por nombre de archivo y linea/clase"
-clausula_de_continuidad_transversal: 3/4 AN + referendum ratificatorio (consolidado en Parte V - Titulos XVI-XVII)
+estado_reformado:
+  ministerios: 9
+  ente_presidencial_defensa: 1
+  instituciones_poder_ciudadano_ampliado: 5
+  poder_electoral: 1
+  total_entes: "16 instituciones del Estado central ejecutivo + Poder Ciudadano ampliado + Poder Electoral"
+  reduccion_vs_vigente: "35 ministerios vigentes → 9 ministerios del Estado reformado (−74%)"
+catalogos:
+  anexos:
+    - "anexos/inventario-estructura-actual.md (catálogo vigente 36 cargos ejecutivos en 8 VP + 35 ministerios)"
+    - "anexos/inventario-ministerios-2009-decreto-6670.md (base histórica Decreto N° 6.670/2009, GO 39.163, 22-abr-2009)"
+clausula_de_continuidad_transversal: "Blindaje reforzado: **3/5 AN + referendum aprobatorio con 80% del padrón electoral** para LORAFEE pay-before-take (constitucionalizada 2026-07-26, Arts. 344+348 CRBV) y MIED-LAM Título IX-A. Resto de materias blindadas mantiene 3/4 AN + referendum ratificatorio."
 fecha_esperada_aprobacion_final: 2026-07-30 (H8)
-fecha_reingesta_KB: 2026-07-31 (H9)
+hitos_2026:
+  H1_2026-07-15: "Renumeración + extracción + limpieza documental"
+  H2_2026-07-16: "Pilar II Seguridad ciudadana"
+  H3_2026-07-16: "Pilar V Reforma económica"
+  H4_2026-07-16: "Pilar VIII Planificación estratégica"
+  H5_2026-07-16: "Prólogo + Diagnóstico + Principios"
+  H6_2026-07-16: "Plan de Implementación + Comisión Carmen Navas"
+  H7_2026-07-16: "Cláusula de Continuidad + Texto Articulado"
+  H8_2026-07-16: "Documento Final Compilatorio v0.1"
+  H9_2026-07-25: "Anexos: inventarios ministeriales 2009 + 2026"
+  H10_2026-07-25: "12 fichas técnicas ministeriales cerradas (9 ministerios + Defensa + Poder Ciudadano)"
+  H10_patch_2026-07-26: "Pay-before-take constitucionalizada + SM USD 512 + presupuesto FAN 1,9% PIB + INGEOMIN mantenido en MEM"
 ---
 
 # DOCUMENTO FINAL v0.1
@@ -97,14 +116,14 @@ El pueblo tiene **capacidad**, según la fórmula del proyecto: leer y pensar cr
 
 ### **PARTE III — LOS OCHO PILARES DE LA REFORMA**
 
-- III.1 Servicio Civil Meritocrático (CNSC + LOSCM)
-- III.2 Seguridad, Investigación y Migración (Cuerpo de Policía Nacional Profesional (CPNP) + Cuerpo de Investigaciones Científicas, Penales y Criminalísticas (CICPC) + Junta Nacional de Evaluación Médica (JNEM))
-- III.3 Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (MIED-LAM) Constitucional
-- III.4 Reforma Fiscal y Financiamiento Territorial
-- III.5 Reforma Económica y Productiva
-- III.6 Justicia Independiente y Anticorrupción
-- III.7 Gobierno Digital, Identidad y Soberanía de Datos
-- III.8 Planificación Estratégica y Prospectiva (DNPEP)
+- I Servicio Civil Meritocrático (CNSC + LOSCM)
+- II Seguridad, Investigación y Migración (Cuerpo de Policía Nacional Profesional (CPNP) + Cuerpo de Investigaciones Científicas, Penales y Criminalísticas (CICPC) + Junta Nacional de Evaluación Médica (JNEM))
+- III Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Dr. Luis Alberto Machado (MIED-LAM) Constitucional
+- IV Reforma Fiscal y Financiamiento Territorial
+- V Reforma Económica y Productiva
+- VI Justicia Independiente y Anticorrupción
+- VII Gobierno Digital, Identidad y Soberanía de Datos
+- VIII Planificación Estratégica y Prospectiva (DNPEP)
 
 ### **PARTE IV — PLAN DE IMPLEMENTACIÓN**
 
@@ -144,17 +163,38 @@ El pueblo tiene **capacidad**, según la fórmula del proyecto: leer y pensar cr
 
 La reforma nace del convencimiento profundo de que **Venezuela no necesita simplemente un cambio de gobierno, sino una refundación institucional** que blinde el Estado contra los ciclos de captura partidista y devolución extractiva que han definido la historia republicana reciente. La pieza ausente no es un nuevo líder ni una nueva doctrina: es un **conjunto de instituciones** con cláusulas de continuidad explícitas que sobrevivan a la próxima elección — y a todas las que sigan.
 
-### Estructura del Estado reformado
+### Estructura del Estado reformado (catálogo consolidado 2026-07-26)
 
-- **Poder Ejecutivo**: reducido a 9 ministerios taxativos, con 40 entes adscritos máximo; ningún ente fuera del catálogo subsiste automáticamente.
-- **Servicio civil**: todo ingreso, ascenso o destitución procede de concurso meritocrático bajo la Comisión Nacional del Servicio Civil (CNSC); la ley LCA 2002 es completamente subrogada por la LOSCM.
+**Poder Ejecutivo**: reducido drásticamente desde los 35 ministerios vigentes a **9 ministerios taxativos + 1 ente presidencial de Defensa (Consejo Nacional de Defensa)**, con 40 entes adscritos máximo; ningún ente fuera del catálogo subsiste automáticamente.
+
+**Catálogo definitivo** (ver `fichas-tecnicas/README.md` y `fichas-tecnicas/FT.X-*.md`):
+
+| # | Ministerio / Ente | Naturaleza | Presupuesto (USD/año) | % PIB |
+|---|---|---|---:|---:|
+| 1 | Interior y Seguridad | Ministerio | ~780 M | 0,35 % |
+| 2 | MIED-LAM (Educación+Inteligencia+Deportes+Cultura) | Ministerio | ~13.200 M | **6,00 %** (constitucional, ring-fenced) |
+| 3 | Economía y Finanzas | Ministerio | ~5.000 M | 2,27 % |
+| 4 | Energía y Minas (con INGEOMIN mantenido en MEM, decisión 2026-07-26) | Ministerio | ~190 M | 0,07 % |
+| 5 | Infraestructura y Servicios | Ministerio | ~1.170 M | 0,53 % |
+| 6 | Planificación Estratégica y Prospectiva | Ministerio | ~200 M | 0,09 % |
+| 7 | Gobierno Digital | Ministerio | ~535 M | 0,24 % |
+| 8 | Relaciones Exteriores | Ministerio | ~995 M | 0,45 % |
+| 9 | Ambiente | Ministerio | ~480 M | 0,22 % |
+| — | **Consejo Nacional de Defensa** (ente presidencial, 1,9 % PIB no reprogramable, análogo Ley 13.196 Chile) | Ente presidencial | ~4.180 M | 1,90 % |
+| — | **Poder Ciudadano ampliado** (CGR + Defensor del Pueblo + Ministerio PúblicoFiscalía + CNSC + DNA-RB) | 5 instituciones | ~1.180 M | 0,54 % |
+| **TOTAL** | Estado central ejecutivo + Poder Ciudadano | — | ~28.000 M | ~12,66 % PIB |
+
+**Poder Electoral**: separado (no ministerial).
+
+- **Servicio civil**: todo ingreso, ascenso o destitución procede de concurso meritocrático bajo la Comisión Nacional del Servicio Civil (CNSC); la ley LCA 2002 es completamente subrogada por la LOSCM. La CNSC pasa al **Poder Ciudadano ampliado** (Innovación Arquitectónica #9, 25-jul-2026) para blindaje contra motosierra sucesoria.
 - **Seguridad pública**: el Cuerpo de Policía Nacional Profesional (CPNP) absorbe PNB/policías estadales/municipales con reconversión por Régimen de Transición por Exámenes Rigurosos (RTER) + el CICPC subsiste como cuerpo técnico-civil diferenciado (analogía Carabineros/PDI Chile) + la Jefatura Nacional de Extranjería y Migración (JNEM) asume las funciones del antiguo SAIME con pleno respeto a la Convención 1951 sobre Refugiados.
-- **Anticorrupción**: la DNA-RB arranca con presupuesto del 0,3% del PIB + poder de control sobre funcionarios del poder público + articulación operativa con la Comisión Carmen Navas para búsquedas patrimoniales y de reparación civil.
-- **Hacienda y FOEIP**: reforma tributaria IVA+ISLR+Impuesto al Patrimonio Neto con tributación no petroleta del 6% PIB actual al 14% al año 5; Oferta Pública Inicial (OPI) del 49% Petróleos de Venezuela S.A. (PDVSA) en NYSE/LSE/BVC; plan de dolarización oficial mes 18 con blindaje constitucional.
+- **Anticorrupción**: la DNA-RB arranca con presupuesto del 0,5 % PIB (transferido mensualmente del Banco Central de Venezuela, no reprogramable) + poder de control sobre funcionarios del poder público + articulación operativa con la Comisión Carmen Navas para búsquedas patrimoniales y de reparación civil. Pasa al **Poder Ciudadano ampliado**.
+- **Hacienda y FOEIP**: reforma tributaria IVA+ISLR+Impuesto al Patrimonio Neto con tributación no petroleta del 6 % PIB actual al 14 % al año 5; Oferta Pública Inicial (OPI) del 49 % Petróleos de Venezuela S.A. (PDVSA) matriz en NYSE/LSE/BVC; plan de dolarización oficial mes 18 con blindaje constitucional. Salario mínimo fiscal: **USD 512/mes indexado** (USD 6.144/año) — actualización 2026-07-26.
 - **Mercado de capitales y banca de desarrollo**: LOBMC crea FIDE+BANDAES+BANMI+Fondo Nacional de Inversión Productiva (FNIP); Bolsa Caracas reactivada en mes 18; régimen fiscal coordinado con DNPEP.
 - **Gobierno Digital**: VePass (Lite/Plus/Fuerte/Firma) + Cédula con Rol Único Tributario (Cédula-RUT) + BND-ADN para forensia; cursor de identidad transparente a partir del nacimiento.
 - **Planificación estratégica**: la DNPEP coloca el Plan Quinquenal como eje rector vinculante; UPE integra prospectiva civil (no militar); calificación A-D pública anual.
 - **Memoria, verdad y reparación**: la Comisión Especial Nacional "Carmen Navas" (CEV-CN) investiga + revisar expedientes + emite la lista nominada al Ejecutivo de personas detenidas que deben ser liberadas en plazos ejecutivos de 60 días.
+- **Defensa**: Consejo Nacional de Defensa como ente presidencial (no ministerial) con presupuesto **1,9 % PIB no reprogramable** (análogo Ley 13.196 chilena), FAN profesional, separación explícita de civiles (Arts. 332-333 CRBV reformados).
 
 ### Triple función del documento
 
@@ -214,15 +254,15 @@ Sectores protegidos del shock: salud, educación, pensiones no contributivas.
 
 # PARTE III — LOS OCHO PILARES DE LA REFORMA
 
-> **Aviso de compilación**: el texto íntegro de cada pilar (III.1 a III.8) está disponible en `data/venezuela/borrador_reforma/2026/v0.X_pilar_iiiY_<nombre>.md`. Esta sección presenta los **mecanismos centrales** de cada pilar — incluyendo sus cláusulas 3/4 + referéndum aplicables.
+> **Aviso de compilación**: el texto íntegro de cada pilar (I a VIII) está disponible en `data/venezuela/borrador_reforma/2026/v0.X_pilar_iiiY_<nombre>.md`. Esta sección presenta los **mecanismos centrales** de cada pilar — incluyendo sus cláusulas 3/4 + referéndum aplicables.
 
-## III.1 Servicio Civil Meritocrático
+## I Servicio Civil Meritocrático
 
-**Archivo fuente**: `v0.2_pilar_iii1_servicio_civil_meritocracia.md` (118 líneas, 20 chunks)
+**Archivo fuente**: `v0.2_pilar_i_servicio-civil-meritocratico.md` (118 líneas, 20 chunks)
 
 **Mecanismo central**: la Comisión Nacional del Servicio Civil (CNSC) centraliza el sistema meritocrático de concursos públicos con jurado mixto nacional + veedores internacionales designados por el PNUD. El ingreso a la función pública pasa por tres fases: (a) prueba de conocimientos técnicos, (b) prueba de competencias gerenciales/aptitudinales, (c) entrevista antepanel mixto de la CNSC + veedurías ciudadanas. La LCA 2002 es subrogada por la LOSCM (Ley Orgánica del Servicio Civil Meritocrático) que crea 3 niveles: apoyo administrativo, profesional técnico, directivo de confianza técnica (este último concursado también, con período de prueba de 1 año).
 
-**Cláusula de continuidad (Pilar III.1, sección III.1.5)**:
+**Cláusula de continuidad (Pilar I, sección I.5)**:
 > *"Ninguna reforma a la presente ley ni al régimen constitucional del servicio civil podrá eliminar la evaluación meritocrática de concursos ni reducir las atribuciones de la Comisión Nacional del Servicio Civil sin reforma constitucional aprobada por tres quintos (3/5) de los miembros de la Asamblea Nacional."*
 
 **Indicadores clave** (cierre año 6):
@@ -231,9 +271,9 @@ Sectores protegidos del shock: salud, educación, pensiones no contributivas.
 - Tiempo promedio en cargo directivo: 10 años
 - Reclamaciones resueltas por CNSC: 1.500/año
 
-## III.2 Seguridad, Investigación y Migración (CPNP + CICPC + JNEM)
+## II Seguridad, Investigación y Migración (CPNP + CICPC + JNEM)
 
-**Archivo fuente**: `v0.1_pilar_iii2_seguridad_ciudadana.md` (776 líneas, 183 chunks)
+**Archivo fuente**: `v0.1_pilar_ii_seguridad-ciudadana.md` (776 líneas, 183 chunks)
 
 **Mecanismo central**: una reforma integral con tres cuerpos diferenciados bajo tres parámetros:
 
@@ -256,7 +296,7 @@ Sectores protegidos del shock: salud, educación, pensiones no contributivas.
 
 **Veeduría internacional** CPNP/CICPC/JNEM: 8 años posteriores a la designación.
 
-**Integración con Pilar III.7**: BND-ADN + BND-RUI-Mig + VePass-Fuerte obligatoria en todos los actos.
+**Integración con Pilar VII**: BND-ADN + BND-RUI-Mig + VePass-Fuerte obligatoria en todos los actos.
 
 **Cláusula de continuidad** (8 garantías con 3/4 + referendum):
 1. Reforma naturaleza CPNP+CICPC: 3/4 + referendum.
@@ -268,9 +308,9 @@ Sectores protegidos del shock: salud, educación, pensiones no contributivas.
 7. Modificación régimen career-only: 3/4 + referendum.
 8. Cualquier intento de reforma por decreto/ley habilitante/asamblea constituyente: idem + nulidad absoluta.
 
-## III.3 MIED-LAM Constitucional
+## III MIED-LAM Constitucional
 
-**Archivo fuente**: `v0.2_pilar_iii3_mied_lam.md` (319 líneas, 55 chunks)
+**Archivo fuente**: `v0.2_pilar_iii_mied_lam.md` (319 líneas, 55 chunks)
 
 **Mecanismo**: constitucionalización del Ministerio de Investigación, Educación y Desarrollo Cognitivo, restaurando el MEDI original de 1979-1984. **8 programas nacionales** coordinados con el sistema educativo nacional:
 
@@ -293,9 +333,9 @@ Sectores protegidos del shock: salud, educación, pensiones no contributivas.
 
 **Cláusula de continuidad**: el MIED-LAM subsiste con respaldo organizativo-financiero tipo Fondo de Estabilización Macroeconómica (FEM), blindado contra el desmontaje (mayor esfuerzo organizativo que reforma a 3/4 + referendum).
 
-## III.4 Reforma Fiscal y Financiamiento Territorial
+## IV Reforma Fiscal y Financiamiento Territorial
 
-**Archivo fuente**: `v0.1_pilar_iii4_reforma_fiscal_financiamiento.md` (237 líneas, 36 chunks)
+**Archivo fuente**: `v0.1_pilar_iv_reforma-fiscal-financiamiento.md` (237 líneas, 36 chunks)
 
 **Mecanismo**: Adecuación del régimen fiscal venezolano a equivalentes chileno/sueco/singapurense.
 
@@ -305,48 +345,54 @@ Sectores protegidos del shock: salud, educación, pensiones no contributivas.
 - **Externalidades de proyectos multinivel**: sanción del Fondo Especial de Solidaridad Intermunicipal (FESI) + Fondo Nacional de Apoyo a Inversión Productiva (FONAIP).
 - **Multas municipales**: automatización + reducción de discrecionalidad.
 
-**Cronograma monetario** (ya en Pilar III.5 §III.5.2.4): 18 meses con secuencia de banda cambiaria, autonomía BCV, crawling-peg, dolarización oficial en Mes 18.
+**Cronograma monetario** (ya en Pilar V §V.2.4): 18 meses con secuencia de banda cambiaria, autonomía BCV, crawling-peg, dolarización oficial en Mes 18.
 
 **Cláusula de continuidad**:
 - Reversión del cronograma monetario (retorno al bolívar no simbólico): 3/4 + referendum.
 - Eliminación del FEM: 3/4 + referendum.
 
-## III.5 Reforma Económica y Productiva
+## V Reforma Económica y Productiva
 
-**Archivo fuente**: `v0.2_pilar_iii5_reforma_economica_productiva.md` (390 líneas, 66 chunks)
+**Archivo fuente**: `v0.2_pilar_v_reforma-economica-productiva.md` (390 líneas, 66 chunks)
 
 **Mecanismo**: abandono del modelo rentístico-petista hacia empresas públicas profesionalizadas listadas en bolsa, con control público (51% estatal) y blindaje constitucional.
 
-### III.5.3 PDVSA matriz — 51% estatal / 49% privado con OPI
+### V.3 PDVSA matriz — 51% estatal / 49% privado con OPI
 
 Mecanismo legal: **sentencia interpretativa del Tribunal Supremo de Justicia (TSJ) meritocrático** sustituye "totalidad" del Art. 303 por "al menos el cincuenta y uno por ciento (51%)". OPI del 49% en NYSE + LSE + BVC con meta de ingresos USD 8-15.000 millones; directorios meritocráticos bajo CNSC.
 
-### III.5.4 Filiales mixtas + LORAFEE pay-before-take
+### V.4 Filiales mixtas + LORAFEE pay-before-take (constitucionalizada 2026-07-26)
 
-Las filiales mixtas cotizan en bolsa (Petrocedeño, Petromonagas, Petroquiriquire). La LORAFEE (consolidada en el artículado de Sección V — Título IV del Doc. 5) establece:
+Las filiales mixtas cotizan en bolsa (Petrocedeño, Petromonagas, Petroquiriquire). La LORAFEE (consolidada en el articulado de Sección V — Título IV del Doc. 5) establece:
 
 - **7 causales taxativas** para adquisición forzosa
-- **Cláusula pay-before-take 90 días** con **reversión automática** si el Estado incumple
+- **Cláusula pay-before-take 90 días** con **reversión automática** si el Estado incumple, con **responsabilidad patrimonial**
 - **Golden share sellada** con veto en decisiones estratégicas
-- El Estado **no puede tomar control** sin haber pagado el 100%
+- El Estado **no puede tomar control** sin haber pagado el 100 %
 - Las acciones quedan bajo custodia judicial del banco tasador independiente
 
-### III.5.5 Privatización 100% Corpoelec + CANTV
+**Blindaje constitucional 2026-07-26**: la regla pay-before-take con reversión automática es **elevada a rango constitucional** mediante reforma de los Arts. 344+348 CRBV (Decreto de reforma publicado en GO Extraordinaria). Cualquier intento futuro de modificación, suspensión, derogación o reinterpretación requiere:
+- Aprobación por **3/5 de los miembros de la AN** en dos discusiones.
+- **Referéndum aprobatorio con el 80 % del padrón electoral** (sobre-mayoría deliberadamente superior al estándar del Art. 348 que solo exige mayoría simple de votantes; el umbral del 80 % del padrón garantiza que la cláusula solo pueda ser revertida por una mayoría social amplísima, blindándola contra capturas coyunturales).
+
+El cerrojo cierra la **"trampa expropiadora" histórica**: la expropiación indirecta vía confiscación de facto sin pago efectivo queda constitucionalmente proscrita.
+
+### V.5 Privatización 100% Corpoelec + CANTV
 
 Régimen 20 años exoneración (luego solo IVA); 7 uen privadas para Corpoelec (distribución/transmisión/generación + Rector 100 funcionarios); Compañía Anónima Nacional Teléfonos de Venezuela (CANTV) + Movilnet licitadas en mes 0-6 y 6-12; reguladores independientes (CONATEL, OFGEM/UK model).
 
-### III.5.6 HIDROVEN matriz subsistente + 9 hidrológicas privatizadas
+### V.6 HIDROVEN matriz subsistente + 9 hidrológicas privatizadas
 
 Aplicación análoga a la electricidad, modelo SUNAA. Pliego hidrocapital privado coordinado con DNPEP para zonas fronterizas con Colombia/Brasil/Guyana.
 
-### III.5.7 Banca de desarrollo + mercado de capitales
+### V.7 Banca de desarrollo + mercado de capitales
 
 - LOBMC: Banca universal + 3 banca sectorial (FIDE+BANDAES+BANMI)
 - FNIP anillo-financing para co-inversión
 - Bolsa de Valores de Caracas reactivada Mes 18
 - SNAVALE como regulador único
 
-### III.5.8-12 Marco legal + cronograma + indicadores + riesgos + cláusula de continuidad
+### V.8-12 Marco legal + cronograma + indicadores + riesgos + cláusula de continuidad
 
 **Cronograma** (parallelo al monetario): Mes 0 FEM+Fondo Soberano de Estabilización e Inversión Productiva (FOSEIP)+FNIP → Mes 3-6 banca inversión OPI → Mes 9 NYSE/LSE → Mes 12 13 miembros directorio PDVSA meritocrático → Mes 24 filiales mixtas listadas + privatizaciones consolidadas.
 
@@ -357,11 +403,11 @@ Aplicación análoga a la electricidad, modelo SUNAA. Pliego hidrocapital privad
 4. Eliminación FOSEIP: 3/4 + referendum.
 5. Modificación golden share o topes accionarios: 3/4.
 6. Eliminación FNIP: 3/4.
-7. Reversión del cronograma monetario III.4: 3/4 + referendum.
+7. Reversión del cronograma monetario IV: 3/4 + referendum.
 
-## III.6 Justicia Independiente y Anticorrupción
+## VI Justicia Independiente y Anticorrupción
 
-**Archivo fuente**: `v0.5_pilar_iii6_justicia_anticorrupcion.md` (493 líneas, 101 chunks)
+**Archivo fuente**: `v0.5_pilar_vi_justicia-anticorrupcion.md` (493 líneas, 101 chunks)
 
 **Mecanismo**: retorno al civismo judicial por el TSJ meritocrático (interpretación constitucional Sala Constitucional). La DNA-RB se somete a régimen análogo.
 
@@ -378,11 +424,11 @@ Aplicación análoga a la electricidad, modelo SUNAA. Pliego hidrocapital privad
 
 **Viceministros de Política Criminal y Control**: análogos.
 
-**Cláusula de continuidad**: 3/4 + referendum para afectaciones (Pilar III.6 v0.5).
+**Cláusula de continuidad**: 3/4 + referendum para afectaciones (Pilar VI v0.5).
 
-## III.7 Gobierno Digital, Identidad y Soberanía de Datos
+## VII Gobierno Digital, Identidad y Soberanía de Datos
 
-**Archivo fuente**: `v0.1_pilar_iii7_gobierno_digital.md` (1.556 líneas, 274 chunks)
+**Archivo fuente**: `v0.1_pilar_vii_gobierno-digital.md` (1.556 líneas, 274 chunks)
 
 **Mecanismo**: plataforma BND + VePass (Lite/Plus/Fuerte/Firma). Tres Data Centers soberanía nacional en el Guri, redundancia rural. **Cláusula de soberanía de datos**: ningún dato personal puede ser transferido a jurisdicciones extranjeras sin 3/4 AN + sentencia Sala Constitucional TSJ meritocrático.
 
@@ -404,9 +450,9 @@ Aplicación análoga a la electricidad, modelo SUNAA. Pliego hidrocapital privad
 2. Transferencia de VePass-Firma obligatoria (en cualquier organismo): 3/4 AN + referendum.
 3. Eliminación BND (banco nacional de datos): 3/4 AN + referendum.
 
-## III.8 Planificación Estratégica y Prospectiva
+## VIII Planificación Estratégica y Prospectiva
 
-**Archivo fuente**: `v0.1_pilar_iii8_planificacion_estrategica.md` (330 líneas, 56 chunks)
+**Archivo fuente**: `v0.1_pilar_viii_planificacion-estrategica.md` (330 líneas, 56 chunks)
 
 **Mecanismo**: la DNPEP ejecuta las funciones de programación, prospectiva y evaluación ex post vinculante + Rating anual A-D.
 
@@ -417,13 +463,13 @@ Aplicación análoga a la electricidad, modelo SUNAA. Pliego hidrocapital privad
 - **Auditoría independiente**: rating cualquier programa, veeduría CIDH.
 - **Modelo Plan Quinquenal ciclo 7 años**: métricas vinculantes.
 
-**Nueva LOPSEP** deroga LOPSPP 2014 y armoniza Pilar III.4 (fiscal) + Pilar III.5 (económico) + Pilar III.6 (anticorrupción) + Pilar III.7 (digital) + Pilar III.8 (planificación).
+**Nueva LOPSEP** deroga LOPSPP 2014 y armoniza Pilar IV (fiscal) + Pilar V (económico) + Pilar VI (anticorrupción) + Pilar VII (digital) + Pilar VIII (planificación).
 
 **Cláusula de continuidad (3 garantías + decisión Contralor)**:
 1. Modificación del DNPEP: 3/4 + referendum.
 2. Eliminación del Presupuesto Plurianual vinculante: 3/4 + referendum.
 3. Traslado de UPE a inteligencia militar: 3/4 + referendum.
-4. **Decisión del usuario 2026-07-16: Contraloría General subsiste** (art. 288 CRBV) con sus competencias constitucionales de fiscalización administrativa general; DNA-RB (Pilar III.6) asume funciones especializadas de investigación penal; tabla de rattachación publicada en §III.8.8.
+4. **Decisión del usuario 2026-07-16: Contraloría General subsiste** (art. 288 CRBV) con sus competencias constitucionales de fiscalización administrativa general; DNA-RB (Pilar VI) asume funciones especializadas de investigación penal; tabla de rattachación publicada en §VIII.8.
 
 ---
 
@@ -479,14 +525,14 @@ Aplicación análoga a la electricidad, modelo SUNAA. Pliego hidrocapital privad
 
 | Pilar | Mes 0-3 | Mes 3-6 | Mes 6-12 | Mes 12-24 | Mes 24-36 |
 |---|---|---|---|---|---|
-| **III.1** CNSC+LOSCM | Sancionar ley | BROW Presidente CNSC | REquilibra T1 (concursales) | REquilibra T2 | Consolidación |
-| **III.2** CPNP+CICPC+JNEM | LOCPNP reformada + LORAFEE | BROW Directors | RTER inicio Mes 4-12 | Operativa | Plan Fronterizo + ACNUR |
-| **III.3** MIED-LAM | LOMIEDLAM | Comisión de Transición | Equipos técnicos | Pilotos 5 entidades | Cobertura nacional |
-| **III.4** Fiscal | LOBCV + Ley Dolarización | Reforma tributaria (IVA+ISLR+Patrimonio) | Flotación administrada | Período de convergencia | Mes 18 DOLARIZACIÓN OFICIAL |
-| **III.5** PDVSA + Privatiz. | FOSEIP+FNIP+Dcto.CANTV | Selección banco inversión OPI | Book-building; Mes 9 OPI | Privatización Corpoelec completa | Mes 24 filiales mixtas |
-| **III.6** Anticorrupción | Reforma TSJ meritocrático | BROW DNA-RB + Fiscal General | Carrera fiscal meritocrática | Consolidación | DNA-RB operativa |
-| **III.7** Digital | Ley VePass+Ley BND | 3 Data Centers Guri | Cédula-RUT lanzamiento | VePass 100% institucional | Consolidación |
-| **III.8** DNPEP | LOPSEP | BROW Director DNPEP | Plan Quinquenal elaboración | Mes 12 aprobación Mes 18+ UPE operativa | Mes 36 primera evaluación pública |
+| **I** CNSC+LOSCM | Sancionar ley | BROW Presidente CNSC | REquilibra T1 (concursales) | REquilibra T2 | Consolidación |
+| **II** CPNP+CICPC+JNEM | LOCPNP reformada + LORAFEE | BROW Directors | RTER inicio Mes 4-12 | Operativa | Plan Fronterizo + ACNUR |
+| **III** MIED-LAM | LOMIEDLAM | Comisión de Transición | Equipos técnicos | Pilotos 5 entidades | Cobertura nacional |
+| **IV** Fiscal | LOBCV + Ley Dolarización | Reforma tributaria (IVA+ISLR+Patrimonio) | Flotación administrada | Período de convergencia | Mes 18 DOLARIZACIÓN OFICIAL |
+| **V** PDVSA + Privatiz. | FOSEIP+FNIP+Dcto.CANTV | Selección banco inversión OPI | Book-building; Mes 9 OPI | Privatización Corpoelec completa | Mes 24 filiales mixtas |
+| **VI** Anticorrupción | Reforma TSJ meritocrático | BROW DNA-RB + Fiscal General | Carrera fiscal meritocrática | Consolidación | DNA-RB operativa |
+| **VII** Digital | Ley VePass+Ley BND | 3 Data Centers Guri | Cédula-RUT lanzamiento | VePass 100% institucional | Consolidación |
+| **VIII** DNPEP | LOPSEP | BROW Director DNPEP | Plan Quinquenal elaboración | Mes 12 aprobación Mes 18+ UPE operativa | Mes 36 primera evaluación pública |
 
 ## IV.5 Indicadores consolidados (20 KPIs presidencial semanal)
 
@@ -547,7 +593,7 @@ Aplicación análoga a la electricidad, modelo SUNAA. Pliego hidrocapital privad
 | 6 | Sabotaje militar | Baja | Crítico | GNB fuera CPNP + comunicación con oficiales + amnistías subalternos |
 | 7 | Resistencia interna SAIME/PNB al RTER | Alta | Alto | RTER generoso + indemnizaciones + reconversión PND |
 | 8 | Falla acumulación reservas antes Mes 18 | Media | Alto | FEM activar financiamiento + créditos multilaterales |
-| 9 | Conflictos diplomáticos Guyana/CIJ Esequibo | Media | Alto | DNPEP plan contingencia + Pilar III.5 mitigación |
+| 9 | Conflictos diplomáticos Guyana/CIJ Esequibo | Media | Alto | DNPEP plan contingencia + Pilar V mitigación |
 | 10 | Sequía presupuestaria PIB -5% | Media | Alto | Reserva FEM + cláusula salvaguarda fiscal + multilaterales |
 | 11 | Desconfianza social | Alta | Medio | Comunicaciones masivas + VePass + victorias tempranas |
 | 12 | Fuga talento firmas requeridas | Media | Alto | BROW NIC + retención + concursos paralelos |
@@ -555,30 +601,46 @@ Aplicación análoga a la electricidad, modelo SUNAA. Pliego hidrocapital privad
 | 14 | RTER >70% aprobación | Baja | Alto | Auditoría OACNUDH/CIDH + congelación + DNA-RB |
 | 15 | Caos migratorio | Alta | Alto | Plan Fronterizo DNPEP + mesas CGN + UNFAFA + consejos comunales |
 
-## IV.7 Presupuesto consolidado
+## IV.7 Presupuesto consolidado (catálogo 9+1 ministerios post-2026-07-26)
 
-| Rubro | Año 1 | Año 2 | Año 3 |
-|---|---:|---:|---:|
-| STCRE | 22 M | 22 M | 22 M |
-| CPNP (incluye RTER, ANSP, VePass) | 4.500 M | 4.500 M | 4.500 M |
-| CICPC (incluye JNEM) | 800 M | 700 M | 700 M |
-| MIED-LAM (incluye expansión) | 1.500 M | 2.500 M | 3.500 M |
-| DNPEP | 50 M | 50 M | 50 M |
-| CNSC | 50 M | 35 M | 35 M |
-| DNPEP-A (DNPEP Anticorrupción) | 200 M | 150 M | 150 M |
-| BND + Data Centers + VePass | 800 M | 600 M | 400 M |
-| FEM | 320 M | 320 M | 320 M |
-| FOSEIP + FNIP | 1.500 M | 500 M | 250 M |
-| MIES (emergencias) | 100 M | 80 M | 60 M |
-| **Total** | **9.840 M** | **9.457 M** | **9.987 M** |
+**Composición del Estado central ejecutivo + Poder Ciudadano** (PIB base USD 220 mil millones):
+
+| Rubro | USD/año | % PIB | Fuente |
+|---|---:|---:|---|
+| Interior y Seguridad | ~780 M | 0,35 % | FT.1 |
+| MIED-LAM (Educación+Inteligencia+Deportes+Cultura) | ~13.200 M | **6,00 %** | FT.2 (ring-fenced constitucional) |
+| Economía y Finanzas | ~5.000 M | 2,27 % | FT.3 |
+| Energía y Minas (incluye INGEOMIN) | ~190 M | 0,07 % | FT.4 |
+| Infraestructura y Servicios | ~1.170 M | 0,53 % | FT.5 |
+| Planificación Estratégica y Prospectiva | ~200 M | 0,09 % | FT.6 |
+| Gobierno Digital | ~535 M | 0,24 % | FT.7 |
+| Relaciones Exteriores | ~995 M | 0,45 % | FT.8 |
+| Ambiente | ~480 M | 0,22 % | FT.9 |
+| **Consejo Nacional de Defensa** (ente presidencial, **1,9 % PIB no reprogramable**) | **~4.180 M** | **1,90 %** | FT.10 (análogo Ley 13.196 Chile) |
+| Poder Ciudadano ampliado (5 instituciones) | ~1.180 M | 0,54 % | FT.11 |
+| **TOTAL Estado central ejecutivo + Poder Ciudadano** | **~28.000 M** | **~12,66 %** PIB | — |
+
+> **Nota presupuestaria 2026-07-26**:
+> - **FAN (Consejo Nacional de Defensa)** recibe el **1,9 % PIB no reprogramable** (USD 4.180 M/año), siguiendo el modelo chileno de la Ley 13.196 que blinda el presupuesto de las Fuerzas Armadas contra uso político-partidista. La transferencia mensual la ejecuta el Banco Central de Venezuela; el Ejecutivo de turno no puede reasignar.
+> - **MIED-LAM** mantiene el **6 % PIB ring-fenced** (índice UNESCO, comparable a las Fuerzas Armadas chilenas).
+> - **DNA-RB** recibe el **0,5 % PIB transferido mensualmente del BCV** (no reprogramable).
+
+**Cronograma plurianual del gasto operativo** (sin contar one-shots):
+
+| Año | Total Estado central ejecutivo | % PIB |
+|---|---:|---:|
+| Año 1 | ~9.840 M | 4,47 % |
+| Año 2 | ~9.457 M | 4,30 % |
+| Año 3 | ~9.987 M | 4,54 % |
+| Año 4+ (régimen) | ~13.200 M (MIED-LAM estabilizado) + ~5.000 M (resto) | ~8,3 % |
 
 **Inversión inicial bruta del Estado (Año 1)**: USD ~10.000 M, financiada por:
 
-- **OPI PDVSA matriz 49%** (Mes 9, una vez): USD 8.000-15.000 M.
+- **OPI PDVSA matriz 49 %** (Mes 9, una vez): USD 8.000-15.000 M.
 - **Privatizaciones consolidadas** (CANTV+Corpoelec+9 Hidrológicas): USD 2.500-5.500 M.
 - **Reforma tributaria** (ingresos recurrentes año 2): USD 4.000-8.000 M/año.
 - **Reestructuración deuda externa**: USD ~60.000 M (negociación plurianual).
-- **Créditos multilaterales** (Banco Interamericano de Desarrollo (BID)+BM+IFC+Corporación Andina de Fomento (CAF)): USD 12.000-18.000 M.
+- **Créditos multilaterales** (BID+BM+IFC+CAF): USD 12.000-18.000 M.
 
 ## IV.8 Blindaje constitucional del Plan
 
@@ -766,30 +828,37 @@ Aplicación análoga a la electricidad, modelo SUNAA. Pliego hidrocapital privad
 ### Art. 175 — Procedimiento único de cláusula de continuidad
 
 Para toda materia blindada:
-1. **Mayoría calificada de 3/4** de los integrantes de la AN.
-2. **Referéndum popular ratificatorio** dentro de 90 días.
+1. **Procedimiento estándar (14 materias)**: mayoría calificada de **3/4** de los integrantes de la AN + referéndum popular ratificatorio dentro de 90 días.
+2. **Procedimiento reforzado (2 materias críticas — actualización 2026-07-26)**: mayoría de **3/5 de la AN** + **referéndum aprobatorio con 80 % del padrón electoral** (Arts. 344+348 CRBV reformados). Aplica a LORAFEE pay-before-take (constitucionalizada) y MIED-LAM Título IX-A.
 3. **Encadenamiento**: cualquier intento de reforma debe considerar todas las materias en bloque.
 
-### Art. 176 — 16 Materias Blindadas
+### Art. 176 — 16 Materias Blindadas (procedimiento reforzado 2026-07-26)
 
-| # | Materia | Pilar |
-|---|---------|----|
-| 1 | Servicio Civil Meritocrático (CNSC + LOSCM) | III.1 |
-| 2 | MIED-LAM ministerial mínimo | III.3 |
-| 3 | Carácter civil de CPNP+CICPC+JNEM | III.2 |
-| 4 | VePass-Firma obligatoria en los cuerpos de seguridad | III.2 |
-| 5 | Auditoría OACNUDH/CIDH sobre cuerpos | III.2 |
-| 6 | BND-ADN forense + BND-RUI-Mig migratorio | III.2, III.7 |
-| 7 | Principio *career-only* | III.2 |
-| 8 | DNPEP Plan Quinquenal | III.8 |
-| 9 | FOSEIP anillo-financing | III.5 |
-| 10 | LORAFEE pay-before-take + golden share | III.5 |
-| 11 | FNIP | III.5 |
-| 12 | Privatizaciones consolidadas (reversión) | III.5 |
-| 13 | Sistema monetario dolarizado oficial | III.4 |
-| 14 | CEV-CN | XIV |
-| 15 | Patrimonio del Estado sectores estratégicos | III.5 |
-| 16 | Distrito Capital + Estrategias Territoriales Regionales | III.5, III.8 |
+**Procedimiento estándar** (14 materias): mayoría calificada de **3/4 de la Asamblea Nacional** + referéndum popular ratificatorio dentro de 90 días.
+
+**Procedimiento reforzado** (2 materias críticas — actualización 2026-07-26 vía Arts. 344+348 CRBV): **3/5 de la Asamblea Nacional + referéndum aprobatorio con 80 % del padrón electoral** (sobre-mayoría deliberadamente superior al estándar del Art. 348 que exige mayoría simple de votantes):
+
+- **#2 MIED-LAM Título IX-A** — rango constitucional con presupuesto 6 % PIB ring-fenced.
+- **#10 LORAFEE pay-before-take + golden share** — elevada a rango constitucional con reversión automática 90 días + responsabilidad patrimonial.
+
+| # | Materia | Pilar | Procedimiento |
+|---|---------|----|---|
+| 1 | Servicio Civil Meritocrático (CNSC + LOSCM) | I | 3/4 + referendum |
+| 2 | **MIED-LAM ministerial mínimo (Título IX-A constitucionalizado)** | III | **3/5 AN + referendum 80 % padrón** |
+| 3 | Carácter civil de CPNP+CICPC+JNEM | II | 3/4 + referendum |
+| 4 | VePass-Firma obligatoria en los cuerpos de seguridad | II | 3/4 + referendum |
+| 5 | Auditoría OACNUDH/CIDH sobre cuerpos | II | 3/4 + referendum |
+| 6 | BND-ADN forense + BND-RUI-Mig migratorio | II, VII | 3/4 + referendum |
+| 7 | Principio *career-only* | II | 3/4 + referendum |
+| 8 | DNPEP Plan Quinquenal | VIII | 3/4 + referendum |
+| 9 | FOSEIP anillo-financing | V | 3/4 + referendum |
+| 10 | **LORAFEE pay-before-take + golden share (constitucionalizada 2026-07-26)** | V | **3/5 AN + referendum 80 % padrón** |
+| 11 | FNIP | V | 3/4 + referendum |
+| 12 | Privatizaciones consolidadas (reversión) | V | 3/4 + referendum |
+| 13 | Sistema monetario dolarizado oficial | IV | 3/4 + referendum |
+| 14 | CEV-CN | XIV | 3/4 + referendum |
+| 15 | Patrimonio del Estado sectores estratégicos | V | 3/4 + referendum |
+| 16 | Distrito Capital + Estrategias Territoriales Regionales | V, VIII | 3/4 + referendum |
 
 ### Art. 178 — Inmunización orgánica
 
@@ -815,15 +884,17 @@ Asamblea Constituyente o poder constituyente derivado → **NO puede derogar, su
 
 ## V.4 Anexo — Calendarización de Cláusulas (12 organismos)
 
+**Procedimiento reforzado 2026-07-26** (Arts. 344+348 CRBV): LORAFEE pay-before-take y MIED-LAM Título IX-A requieren **3/5 AN + referendum aprobatorio 80 % padrón electoral**. Resto: 3/4 + referendum.
+
 | Órgano | Materia blindada | Mayoría AN | Referendo |
 |---|----|---|---|
 | CNSC | Concurso meritocrático obligatorio | 3/4 | sí |
-| MIED-LAM | Programa constitucionalizado | 3/4 | sí |
+| **MIED-LAM** | **Programa constitucionalizado (Título IX-A, rango constitucional)** | **3/5** | **80 % padrón** |
 | CPNP/CICPC/JNEM | Carácter civil + VePass-Firma + Auditoría OACNUDH + BND-ADN + career-only | 3/4 | sí |
 | DNPEP | Plan Quinquenal + Presupuesto Plurianual vinculante | 3/4 | sí |
 | FOSEIP | Anillo-financing | 3/4 | sí |
 | FNIP | Co-inversión | 3/4 | sí |
-| LORAFEE | Adquisición forzosa con pay-before-take | 3/4 | sí |
+| **LORAFEE** | **Adquisición forzosa con pay-before-take 90 días + reversión automática (constitucionalizada)** | **3/5** | **80 % padrón** |
 | LORPSP | Privatizaciones consolidadas (reversión) | 3/4 | sí |
 | LOBCV/Dolarización | Sistema monetario dólar oficial | 3/4 | sí |
 | CEV-CN | Comisión independiente de la verdad | 3/4 | sí |
@@ -834,19 +905,36 @@ Asamblea Constituyente o poder constituyente derivado → **NO puede derogar, su
 
 ---
 
-# CIERRE DEL PROYECTO
+# CIERRE DEL PROYECTO (recompilación 2026-07-26)
 
 **Resumen ejecutivo final**:
 
 1. **Diagnóstico documentado** (Sección 0.2): patrón de discontinuidad, mafias institucionales, captura partidista, sanciones internacionales activas, CIDH Doc. 253/24, sentencias Corte IDH vinculantes, Amnistía 2025/26 ratificando crímenes de lesa humanidad, PROVEA 2025 cap. 14+15+16+18 con casos específicos de tortura y violación.
 2. **Principios consolidados** (Sección 0.3): 10 principios blindados constitucionalmente.
 3. **Ocho pilares sustantivos** (Parte III): MIED-LAM + Servicio civil meritocrático + Cuerpos civiles de seguridad (CPNP+CICPC+JNEM) + Reforma fiscal + Reforma económica-productiva + Anticorrupción (DNA-RB+TSJ meritocrático+Ministerio Público unificado) + Gobierno Digital (VePass+BND-ADN+RUI) + Planificación Estratégica (DNPEP+Plan Quinquenal vinculante).
-4. **Plan de Implementación** (Parte IV): 6 leyes orgánicas en 90 días, FOSEIP+FNIP+DEM+STCRE+CRE, RTER para PNB+CICPC+SAIME, OPI PDVSA Mes 9, dolarización Mes 18, VePass Mes 6, INPE Mes 12, cebol Informe Mes 36.
-5. **Cláusula de continuidad transversal** (Parte V): 3/4 AN + referendum ratificatorio para 16 materias blindadas, 12 organismos independientes con cláusula de inmunidad procesal orgánica, poder constituyente derivado limitado, 90 días para entrar en vigencia, 12 meses de transición operativa.
+4. **Estado reformado consolidado** (catálogo definitivo 2026-07-26): **9 ministerios + 1 ente presidencial de Defensa (Consejo Nacional de Defensa) + 5 instituciones del Poder Ciudadano ampliado** (reducción 35 → 9 ministerios, −74 %). Detalle operativo en 11 fichas técnicas ministeriales (`fichas-tecnicas/FT.X-*.md`).
+5. **Plan de Implementación** (Parte IV): 6 leyes orgánicas en 90 días, FOSEIP+FNIP+DEM+STCRE+CRE, RTER para PNB+CICPC+SAIME, OPI PDVSA Mes 9, dolarización Mes 18, VePass Mes 6, INPE Mes 12, cebol Informe Mes 36.
+6. **Cláusula de continuidad transversal reforzada** (Parte V — actualización 2026-07-26):
+   - **14 materias blindadas** con 3/4 AN + referendum ratificatorio.
+   - **2 materias críticas con cerrojo reforzado**: LORAFEE pay-before-take (constitucionalizada Arts. 344+348 CRBV) y MIED-LAM Título IX-A — ambas requieren **3/5 AN + referendum aprobatorio con 80 % del padrón electoral**.
+   - 12 organismos independientes con cláusula de inmunidad procesal orgánica.
+   - Poder constituyente derivado limitado.
+   - 90 días para entrar en vigencia; 12 meses de transición operativa.
+7. **Patches 2026-07-26 aplicados**:
+   - **SM fiscal**: USD 350/mes → **USD 512/mes** indexado (USD 6.144/año).
+   - **INGEOMIN** mantenido en el Ministerio de Energía y Minas (Viceministerio de Minas y Siderurgia, Dirección General de Catastro Minero y Geología), decisión 2026-07-26.
+   - **Consejo Nacional de Defensa**: ente presidencial (no ministerial) con presupuesto **1,9 % PIB = USD 4.180 M/año**, no reprogramable, análogo Ley 13.196 chilena.
 
 **Anexo IV.K — Comisión Carmen Navas**: instituido como mecanismo ejecutivo de revisión de expedientes y lista nominada de personas que el Ejecutivo debe liberar (mandato 7 años, 15 comisionados, BND-RUVI, programación de presupuesto anillo-financing 0,05% PIB).
 
-**Firma final** (subrogada en esta compilación): el presente documento refleja el proyecto consolidado al 16 de julio de 2026. La entrada en vigencia del régimen completo depende del cumplimiento del Plan de Implementación conforme a los hitos del Cronograma Mes-a-Mes.
+**Firma final** (subrogada en esta compilación): el presente documento refleja el proyecto consolidado al **26 de julio de 2026** (recompilación post-H10 + 12 fichas técnicas + patches 2026-07-26). La entrada en vigencia del régimen completo depende del cumplimiento del Plan de Implementación conforme a los hitos del Cronograma Mes-a-Mes.
+
+**Hitos del proyecto 2026-07-15 → 2026-07-26**:
+- H1 (15-jul): Renumeración + extracción + limpieza documental
+- H2-H8 (16-jul): 8 pilares + Prólogo + Plan + Cláusulas + Documento Final v0.1
+- H9 (25-jul): Anexos (inventarios ministeriales 2009 + 2026)
+- H10 (25-jul): 12 fichas técnicas ministeriales cerradas
+- H10 patch (26-jul): Pay-before-take constitucionalizada + SM USD 512 + FAN 1,9 % PIB + INGEOMIN
 
 ---
 
@@ -857,20 +945,31 @@ Asamblea Constituyente o poder constituyente derivado → **NO puede derogar, su
 | Prólogo | `v0.1_prologo_resumen_ejecutivo.md` | 6,6 KB | Sec. 0.1 |
 | Diagnóstico | `v0.1_diagnostico_integral.md` | 12,3 KB | Sec. 0.2 |
 | Principios | `v0.1_principios_generales.md` | 6,0 KB | Sec. 0.3 |
-| Pilar III.1 CNSC | `v0.2_pilar_iii1_servicio_civil_meritocracia.md` | 9,6 KB | Parte III.Pilar III.1 |
-| Pilar III.2 CPNP+CICPC+JNEM | `v0.1_pilar_iii2_seguridad_ciudadana.md` | 90,9 KB | Parte III.Pilar III.2 |
-| Pilar III.3 MIED-LAM | `v0.2_pilar_iii3_mied_lam.md` | 25,8 KB | Parte III.Pilar III.3 |
-| Pilar III.4 Reforma Fiscal | `v0.1_pilar_iii4_reforma_fiscal_financiamiento.md` | 18,3 KB | Parte III.Pilar III.4 |
-| Pilar III.5 OPI PDVSA + Privatiz | `v0.2_pilar_iii5_reforma_economica_productiva.md` | 32,0 KB | Parte III.Pilar III.5 |
-| Pilar III.6 DNA-RB+TSJ merit | `v0.5_pilar_iii6_justicia_anticorrupcion.md` | 51,0 KB | Parte III.Pilar III.6 |
-| Pilar III.7 VePass+BND | `v0.1_pilar_iii7_gobierno_digital.md` | 130 KB | Parte III.Pilar III.7 |
-| Pilar III.8 DNPEP | `v0.1_pilar_iii8_planificacion_estrategica.md` | 26,0 KB | Parte III.Pilar III.8 |
+| Pilar I CNSC | `I-servicio-civil-meritocratico.md` | 9,6 KB | Parte III.Pilar I |
+| Pilar II CPNP+CICPC+JNEM | `II-seguridad-ciudadana.md` | 90,9 KB | Parte III.Pilar II |
+| Pilar III MIED-LAM | `III-mied-lam.md` | 25,8 KB | Parte III.Pilar III |
+| Pilar IV Reforma Fiscal | `IV-reforma-fiscal-financiamiento.md` | 18,3 KB | Parte III.Pilar IV |
+| Pilar V OPI PDVSA + Privatiz | `V-reforma-economica-productiva.md` | 32,0 KB | Parte III.Pilar V |
+| Pilar VI DNA-RB+TSJ merit | `VI-justicia-anticorrupcion.md` | 51,0 KB | Parte III.Pilar VI |
+| Pilar VII VePass+BND | `VII-gobierno-digital-identidad.md` | 130 KB | Parte III.Pilar VII |
+| Pilar VIII DNPEP | `VIII-planificacion-estrategica-prospectiva.md` | 26,0 KB | Parte III.Pilar VIII |
+| FT.1 Interior y Seguridad | `FT.1-ministerio-interior-seguridad.md` | — | Ficha ministerial |
+| FT.2 MIED-LAM | `FT.2-ministerio-mied-lam.md` | — | Ficha ministerial |
+| FT.3 Economía y Finanzas | `FT.3-ministerio-economia-finanzas.md` | — | Ficha ministerial |
+| FT.4 Energía y Minas | `FT.4-ministerio-energia-minas.md` | — | Ficha ministerial (incluye INGEOMIN) |
+| FT.5 Infraestructura | `FT.5-ministerio-infraestructura-servicios.md` | — | Ficha ministerial |
+| FT.6 Planificación | `FT.6-ministerio-planificacion-prospectiva.md` | — | Ficha ministerial |
+| FT.7 Gobierno Digital | `FT.7-ministerio-gobierno-digital.md` | — | Ficha ministerial |
+| FT.8 Relaciones Exteriores | `FT.8-ministerio-relaciones-exteriores.md` | — | Ficha ministerial |
+| FT.9 Ambiente | `FT.9-ministerio-ambiente.md` | — | Ficha ministerial |
+| FT.10 Consejo Nacional de Defensa | `FT.10-consejo-nacional-defensa.md` | — | Ficha ente presidencial (FAN, 1,9 % PIB) |
+| FT.11 Poder Ciudadano ampliado | `FT.11-poder-ciudadano-ampliado.md` | — | Ficha 5 instituciones |
 | Plan Implementación | `v0.1_implementacion.md` | 35 KB | Parte IV |
 | Comisión Carmen Navas | `v0.1_comision_carmen_navas.md` | 29 KB | Parte IV Anexo IV.K |
 | Texto Articulado Clausura | `v0.1_clausula_continuidad.md` | 33 KB | Parte V |
-| Documento Compilatorio Final | `documento_final_v0.1.md` | (este) | Esta versión |
-| Documentos consolidados históricos | `docs/diagnostico.md`, `docs/marco_comparativo.md`, `docs/propuesta_reforma.md`, `docs/plan_implementacion.md`, `docs/texto_articulado.md` | varios | Doc. 1-5 referenciales |
-| Memoria del proyecto | `~/qdrant-kb/memory.md` | (~3.000 líneas) | Bitácora completa |
+| Documento Compilatorio Final | `documento_final_v0.1.md` | (este) | Esta versión recompilada |
+| Anexos inventarios | `anexos/inventario-estructura-actual.md`, `anexos/inventario-ministerios-2009-decreto-6670.md` | 34 KB + 43 KB | Catálogo vigente + Decreto 6.670/2009 |
+| Documentos consolidados históricos | `docs/diagnostico.md`, `docs/marco_comparativo.md`, `docs/propuesta-reforma.md`, `docs/plan-implementacion-0-36-meses.md`, `docs/texto-articulado-clausula-continuidad.md` | varios | Doc. 1-5 referenciales |
 
 ---
 
