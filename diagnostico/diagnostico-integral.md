@@ -184,6 +184,7 @@ Las dos partes siguientes definen los principios de la reforma y los ocho pilare
 | **CPNP** | Cuerpo de Policía Nacional Profesional |
 | **CRBV** | Constitución de la República Bolivariana de Venezuela |
 | **DNA-RB** | Dirección Nacional Anticorrupción y Recuperación de Bienes |
+| **LOESPM** | Ley Orgánica del Servicio de Policía y Cuerpo de Policía Municipal |
 | **MEDI** | Ministerio del Desarrollo de la Inteligencia |
 | **UNESCO** | Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura |
 
