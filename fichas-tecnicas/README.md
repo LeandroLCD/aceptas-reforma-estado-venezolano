@@ -1,8 +1,8 @@
 # Fichas Técnicas Ministeriales — Aceptas
 
-Doce fichas técnicas que operacionalizan la doctrina de los ocho pilares en ministerios, entes e instituciones concretos del Estado reformado. Cada ficha traduce un pilar (o parte de él) en estructura orgánica, marco constitucional/legal, régimen de personal, presupuesto, cronograma, indicadores, riesgos y cláusula de continuidad reforzada.
+Trece fichas técnicas que operacionalizan la doctrina de los ocho pilares en ministerios, entes e instituciones concretos del Estado reformado. Cada ficha traduce un pilar (o parte de él) en estructura orgánica, marco constitucional/legal, régimen de personal, presupuesto, cronograma, indicadores, riesgos y cláusula de continuidad reforzada.
 
-Las doce fichas se corresponden con el **Estado central ejecutivo + Poder Ciudadano ampliado**, conforme al catálogo definitivo consolidado el 25 de julio de 2026: **9 ministerios + 1 ente presidencial de Defensa + 5 instituciones del Poder Ciudadano ampliado + Poder Electoral separado**.
+Las trece fichas se corresponden con el **Estado central ejecutivo + Poder Ciudadano ampliado**, conforme al catálogo ampliado el 14 de octubre de 2026: **11 ministerios + 1 ente presidencial de Defensa + 5 instituciones del Poder Ciudadano ampliado + Poder Electoral separado**. La ampliación incorpora **Salud** (FT.10) y **Trabajo** (FT.11) como ministerios independientes, decisión que eleva el catálogo de 9 a 11 ministerios.
 
 ## Índice de Fichas Técnicas
 
@@ -17,8 +17,10 @@ Las doce fichas se corresponden con el **Estado central ejecutivo + Poder Ciudad
 | **FT.7** | Gobierno Digital — BND + VePass + Cédula-RUT + Registros (Inmuebles, Vehicular, Civil, Notarial) | Ministerio | [FT.7-ministerio-gobierno-digital.md](FT.7-ministerio-gobierno-digital.md) |
 | **FT.8** | Relaciones Exteriores — Veeduría Internacional Permanente 8 años + cooperación vecindario | Ministerio | [FT.8-ministerio-relaciones-exteriores.md](FT.8-ministerio-relaciones-exteriores.md) |
 | **FT.9** | Ambiente — Áreas protegidas + patrimonio cultural transferido del MPPP Cultura vigente + transición climática | Ministerio | [FT.9-ministerio-ambiente.md](FT.9-ministerio-ambiente.md) |
-| **FT.10** | Consejo Nacional de Defensa — Ente presidencial, FAN profesional, 1,9 % PIB no reprogramable (Ley 13.196 análoga) | Ente presidencial | [FT.10-consejo-nacional-defensa.md](FT.10-consejo-nacional-defensa.md) |
-| **FT.11** | Poder Ciudadano ampliado — CGR + Defensor del Pueblo + Ministerio PúblicoFiscalía + CNSC + DNA-RB | 5 instituciones | [FT.11-poder-ciudadano-ampliado.md](FT.11-poder-ciudadano-ampliado.md) |
+| **FT.10** | Salud — Sistema público nacional de salud, red hospitalaria (~1.200 establecimientos), APS rural, INSALUD, protección social mínima (LPSM); Art. 84 CRBV blindado: no privatizable, ≥3 % PIB con 3/4 + referéndum | Ministerio | [FT.10-ministerio-salud.md](FT.10-ministerio-salud.md) |
+| **FT.11** | Trabajo — LOT (sustitutoria del LOTTT), mochila austríaca 8,33 % + seguro de cesantía 1,2 %, libertad bilateral de terminación, IVSS reformado como seguridad social contributiva | Ministerio | [FT.11-ministerio-trabajo.md](FT.11-ministerio-trabajo.md) |
+| **FT.12** | Consejo Nacional de Defensa — Ente presidencial, FAN profesional, 1,9 % PIB no reprogramable (Ley 13.196 análoga) | Ente presidencial | [FT.12-consejo-nacional-defensa.md](FT.12-consejo-nacional-defensa.md) |
+| **FT.13** | Poder Ciudadano ampliado — CGR + Defensor del Pueblo + Ministerio Público/Fiscalía + CNSC + DNA-RB | 5 instituciones | [FT.13-poder-ciudadano-ampliado.md](FT.13-poder-ciudadano-ampliado.md) |
 
 ## Cómo leer las fichas técnicas
 

@@ -163,9 +163,11 @@ El pueblo tiene **capacidad**, según la fórmula del proyecto: leer y pensar cr
 
 La reforma nace del convencimiento profundo de que **Venezuela no necesita simplemente un cambio de gobierno, sino una refundación institucional** que blinde el Estado contra los ciclos de captura partidista y devolución extractiva que han definido la historia republicana reciente. La pieza ausente no es un nuevo líder ni una nueva doctrina: es un **conjunto de instituciones** con cláusulas de continuidad explícitas que sobrevivan a la próxima elección — y a todas las que sigan.
 
-### Estructura del Estado reformado (catálogo consolidado 2026-07-26)
+### Estructura del Estado reformado (catálogo ampliado 2026-10-14)
 
-**Poder Ejecutivo**: reducido drásticamente desde los 35 ministerios vigentes a **9 ministerios taxativos + 1 ente presidencial de Defensa (Consejo Nacional de Defensa)**, con 40 entes adscritos máximo; ningún ente fuera del catálogo subsiste automáticamente.
+**Poder Ejecutivo**: reducido drásticamente desde los 35 ministerios vigentes a **11 ministerios taxativos + 1 ente presidencial de Defensa (Consejo Nacional de Defensa)**, con 40 entes adscritos máximo; ningún ente fuera del catálogo subsiste automáticamente.
+
+> **Decisión 2026-10-14**: el catálogo passa de **9 a 11 ministerios** con la incorporación de **Salud** (FT.10) y **Trabajo** (FT.11) como ministerios independientes. Salud se desprende del combinado vigente de Ciencia, Tecnología, Ecosocialismo y Salud; Trabajo recibe la seguridad social contributiva (IVSS) separada de la no contributiva. El detalle operativo está en `fichas-tecnicas/FT.10-ministerio-salud.md` y `fichas-tecnicas/FT.11-ministerio-trabajo.md`.
 
 **Catálogo definitivo** (ver `fichas-tecnicas/README.md` y `fichas-tecnicas/FT.X-*.md`):
 
@@ -180,9 +182,11 @@ La reforma nace del convencimiento profundo de que **Venezuela no necesita simpl
 | 7 | Gobierno Digital | Ministerio | ~535 M | 0,24 % |
 | 8 | Relaciones Exteriores | Ministerio | ~995 M | 0,45 % |
 | 9 | Ambiente | Ministerio | ~480 M | 0,22 % |
+| 10 | Salud | Ministerio | ~10.920 M | 4,96 % (blindado ≥3 %) |
+| 11 | Trabajo | Ministerio | ~900 M | 0,41 % |
 | — | **Consejo Nacional de Defensa** (ente presidencial, 1,9 % PIB no reprogramable, análogo Ley 13.196 Chile) | Ente presidencial | ~4.180 M | 1,90 % |
-| — | **Poder Ciudadano ampliado** (CGR + Defensor del Pueblo + Ministerio PúblicoFiscalía + CNSC + DNA-RB) | 5 instituciones | ~1.180 M | 0,54 % |
-| **TOTAL** | Estado central ejecutivo + Poder Ciudadano | — | ~28.000 M | ~12,66 % PIB |
+| — | **Poder Ciudadano ampliado** (CGR + Defensor del Pueblo + Ministerio Público/Fiscalía + CNSC + DNA-RB) | 5 instituciones | ~1.180 M | 0,54 % |
+| **TOTAL** | Estado central ejecutivo + Poder Ciudadano | — | ~39.730 M | ~18,05 % PIB |
 
 **Poder Electoral**: separado (no ministerial).
 
@@ -616,9 +620,11 @@ Aplicación análoga a la electricidad, modelo SUNAA. Pliego hidrocapital privad
 | Gobierno Digital | ~535 M | 0,24 % | FT.7 |
 | Relaciones Exteriores | ~995 M | 0,45 % | FT.8 |
 | Ambiente | ~480 M | 0,22 % | FT.9 |
-| **Consejo Nacional de Defensa** (ente presidencial, **1,9 % PIB no reprogramable**) | **~4.180 M** | **1,90 %** | FT.10 (análogo Ley 13.196 Chile) |
-| Poder Ciudadano ampliado (5 instituciones) | ~1.180 M | 0,54 % | FT.11 |
-| **TOTAL Estado central ejecutivo + Poder Ciudadano** | **~28.000 M** | **~12,66 %** PIB | — |
+| **Salud** (Art. 84 CRBV blindado: no privatizable, ≥3 % PIB con 3/4 + referéndum) | **~10.920 M** | **4,96 %** | FT.10 |
+| Trabajo (LOT + mochila austríaca 8,33 % + seguro cesantía 1,2 % + IVSS reformado) | ~900 M | 0,41 % | FT.11 |
+| **Consejo Nacional de Defensa** (ente presidencial, **1,9 % PIB no reprogramable**) | **~4.180 M** | **1,90 %** | FT.12 (análogo Ley 13.196 Chile) |
+| Poder Ciudadano ampliado (5 instituciones) | ~1.180 M | 0,54 % | FT.13 |
+| **TOTAL Estado central ejecutivo + Poder Ciudadano** | **~39.730 M** | **~18,05 %** PIB | — |
 
 > **Nota presupuestaria 2026-07-26**:
 > - **FAN (Consejo Nacional de Defensa)** recibe el **1,9 % PIB no reprogramable** (USD 4.180 M/año), siguiendo el modelo chileno de la Ley 13.196 que blinda el presupuesto de las Fuerzas Armadas contra uso político-partidista. La transferencia mensual la ejecuta el Banco Central de Venezuela; el Ejecutivo de turno no puede reasignar.
@@ -962,8 +968,10 @@ Asamblea Constituyente o poder constituyente derivado → **NO puede derogar, su
 | FT.7 Gobierno Digital | `FT.7-ministerio-gobierno-digital.md` | — | Ficha ministerial |
 | FT.8 Relaciones Exteriores | `FT.8-ministerio-relaciones-exteriores.md` | — | Ficha ministerial |
 | FT.9 Ambiente | `FT.9-ministerio-ambiente.md` | — | Ficha ministerial |
-| FT.10 Consejo Nacional de Defensa | `FT.10-consejo-nacional-defensa.md` | — | Ficha ente presidencial (FAN, 1,9 % PIB) |
-| FT.11 Poder Ciudadano ampliado | `FT.11-poder-ciudadano-ampliado.md` | — | Ficha 5 instituciones |
+| FT.10 Salud | `FT.10-ministerio-salud.md` | — | Ficha ministerial (sector protegido del shock) |
+| FT.11 Trabajo | `FT.11-ministerio-trabajo.md` | — | Ficha ministerial (principios 9 y 10) |
+| FT.12 Consejo Nacional de Defensa | `FT.12-consejo-nacional-defensa.md` | — | Ficha ente presidencial (FAN, 1,9 % PIB) |
+| FT.13 Poder Ciudadano ampliado | `FT.13-poder-ciudadano-ampliado.md` | — | Ficha 5 instituciones |
 | Plan Implementación | `v0.1_implementacion.md` | 35 KB | Parte IV |
 | Comisión Carmen Navas | `v0.1_comision_carmen_navas.md` | 29 KB | Parte IV Anexo IV.K |
 | Texto Articulado Clausura | `v0.1_clausula_continuidad.md` | 33 KB | Parte V |

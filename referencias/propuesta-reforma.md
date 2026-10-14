@@ -545,6 +545,8 @@ Profesionalizar la función pública, reducir la planta en 30%, separar el IVSS 
 | Resto del sector público | Se aplica al personal retenido tras la motosierra del -30%; se congela la escala para el personal saliente. |
 | Jubilados IVSS rama contributiva | Se aplica la escala base (USD 500 mínimo) con proporcionalidad a años de servicio. |
 | Jubilados IVSS rama no contributiva (PBU) | Pensión Básica Universal no contributiva se mantiene en USD 500 mínimo indexado. |
+
+> **Nota de coherencia (2026-10-14, H11)**: la PBU queda chiffrada en **USD 500 por beneficiario y año**, y el universo que financia el presupuesto asignado a la LPSM (550 M USD/año en FT.10 Salud) es de **1,1 millones de beneficiarios** (meta año 6; 0,6 M en año 3). La cobertura, por tanto, es **universal en el derecho y por etapas en el universo**, no universal inmediata: ampliar beneficiarios exige asignación adicional por ley especial. Ver `fichas-tecnicas/FT.10-ministerio-salud.md` §7.
 | Personal militar profesional | Escala propia complementaria (mínimo USD 1.200, máximo USD 5.000) con sobresueldos por especialidad y riesgo operativo. |
 
 #### 8.3.3. Costo fiscal estimado de la nueva escala

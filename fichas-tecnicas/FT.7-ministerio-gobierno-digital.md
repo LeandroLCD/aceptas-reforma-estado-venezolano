@@ -294,8 +294,8 @@ Tope 14:1.
 
 *Versión 0.1 — 25-jul-2026. Pendiente: descripción detallada por Dirección General + KPIs mensuales.*
 
-**Próximas fichas técnicas (FT.8 → FT.11)**:
+**Próximas fichas técnicas (FT.8 → FT.13)**:
 - FT.8 Relaciones Exteriores (Veeduría Internacional Permanente)
 - FT.9 Ambiente (INPARQUES + IGVSB + Fundambiente + INAMEH)
-- FT.10 Consejo Nacional de Defensa (ente presidencial)
-- FT.11 Cinco instituciones del Poder Ciudadano ampliado
+- FT.12 Consejo Nacional de Defensa (ente presidencial)
+- FT.13 Cinco instituciones del Poder Ciudadano ampliado
