@@ -1,5 +1,5 @@
 ---
-titulo: "Inventario de la Administración Pública Venezolana vigente 2026 — Tabla de rattachación a los 9 Ministerios del Estado reformado"
+titulo: "Inventario de la Administración Pública Venezolana vigente 2026 — Tabla de rattachación al catálogo del Estado reformado (corte 2026-07-25: 9 ministerios; ampliado a 11 el 2026-10-14 con Salud y Trabajo)"
 version: "0.1"
 fecha: 2026-07-25
 autor: "Reforma del Estado VE — H9 (Anexo A del Proyecto)"

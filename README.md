@@ -12,7 +12,7 @@ Es un **artefacto técnico-legislativo** que comprende:
 
 - **8 pilares orgánicos** (mecanismo central + cláusula de continuidad + procedimiento de reforma reforzado)
 - **6 leyes orgánicas nuevas** (LOBCV, LORAFEE, LOPSEP, LOH 2026, LOM 2026, LOPSPP)
-- **12 fichas técnicas ministeriales** (9 ministerios del Estado reformado + Consejo Nacional de Defensa + Poder Ciudadano ampliado)
+- **13 fichas técnicas** (11 ministerios del Estado reformado + Consejo Nacional de Defensa + Poder Ciudadano ampliado)
 - **1 plan de implementación 0–36 meses** con 100 indicadores clave de desempeño
 - **1 comisión ejecutiva de verdad, memoria y reparación** (Comisión Carmen Navas)
 - **1 texto articulado** con 17 Títulos y artículos 121-184
@@ -20,7 +20,7 @@ Es un **artefacto técnico-legislativo** que comprende:
 
 ### Estado reformado resultante
 
-El proyecto se completa con un **Estado reformado de 9 ministerios + 1 ente presidencial de Defensa + 5 instituciones del Poder Ciudadano ampliado**, frente a los 35 ministerios del régimen vigente. Detalle operativo de cada ente en [`fichas-tecnicas/`](fichas-tecnicas/).
+El proyecto se completa con un **Estado reformado de 11 ministerios + 1 ente presidencial de Defensa + 5 instituciones del Poder Ciudadano ampliado**, frente a los 35 ministerios del régimen vigente. Detalle operativo de cada ente en [`fichas-tecnicas/`](fichas-tecnicas/).
 
 ---
 
@@ -61,7 +61,7 @@ aceptas-reforma-estado-venezolano/
 │   ├── VII-gobierno-digital-identidad.md        BND + VePass + Cédula-RUT + SNI + RUI + RUP
 │   └── VIII-planificacion-estrategica-prospectiva.md   DNPEP + Plan Quinquenal vinculante + Presupuesto Plurianual
 │
-├── fichas-tecnicas/                               ← 12 fichas técnicas ministeriales
+├── fichas-tecnicas/                               ← 13 fichas técnicas (11 ministerios + 2 entes)
 │   ├── FT.1-ministerio-interior-seguridad.md
 │   ├── FT.2-ministerio-mied-lam.md
 │   ├── FT.3-ministerio-economia-finanzas.md
@@ -71,8 +71,10 @@ aceptas-reforma-estado-venezolano/
 │   ├── FT.7-ministerio-gobierno-digital.md
 │   ├── FT.8-ministerio-relaciones-exteriores.md
 │   ├── FT.9-ministerio-ambiente.md
-│   ├── FT.10-consejo-nacional-defensa.md
-│   └── FT.11-poder-ciudadano-ampliado.md
+│   ├── FT.10-ministerio-salud.md
+│   ├── FT.11-ministerio-trabajo.md
+│   ├── FT.12-consejo-nacional-defensa.md
+│   └── FT.13-poder-ciudadano-ampliado.md
 │
 ├── implementacion/                                ← Plan operativo
 │   ├── plan-implementacion-0-36-meses.md          IV Plan de implementación (10 secciones + 100 KPIs)
@@ -148,7 +150,7 @@ Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Doctor Luis A
 
 ---
 
-## Estado reformado — 12 fichas técnicas ministeriales
+## Estado reformado — 13 fichas técnicas (11 ministerios + 2 entes)
 
 | # | Ente | Naturaleza | Presupuesto (USD/año) | % PIB | Ficha |
 |---|---|---|---:|---:|---|
@@ -161,9 +163,11 @@ Ministerio del Desarrollo de la Inteligencia, Educación y Deporte Doctor Luis A
 | 7 | Gobierno Digital | Ministerio | ~535 M | 0,24 % | [FT.7](fichas-tecnicas/FT.7-ministerio-gobierno-digital.md) |
 | 8 | Relaciones Exteriores | Ministerio | ~995 M | 0,45 % | [FT.8](fichas-tecnicas/FT.8-ministerio-relaciones-exteriores.md) |
 | 9 | Ambiente | Ministerio | ~480 M | 0,22 % | [FT.9](fichas-tecnicas/FT.9-ministerio-ambiente.md) |
-| 10 | **Consejo Nacional de Defensa** | **Ente presidencial** | **~4.180 M** | **1,90 %** (no reprogramable) | [FT.10](fichas-tecnicas/FT.10-consejo-nacional-defensa.md) |
-| 11 | Poder Ciudadano ampliado | 5 instituciones | ~1.180 M | 0,54 % | [FT.11](fichas-tecnicas/FT.11-poder-ciudadano-ampliado.md) |
-| | **TOTAL Estado central ejecutivo + Poder Ciudadano** | | **~26.730 M + 1.180 M** | **~12,66 % PIB** | — |
+| 10 | **Salud** | Ministerio | **~10.920 M** | **4,96 %** (blindado ≥3 %) | [FT.10](fichas-tecnicas/FT.10-ministerio-salud.md) |
+| 11 | Trabajo | Ministerio | ~900 M | 0,41 % | [FT.11](fichas-tecnicas/FT.11-ministerio-trabajo.md) |
+| 12 | **Consejo Nacional de Defensa** | **Ente presidencial** | **~4.180 M** | **1,90 %** (no reprogramable) | [FT.12](fichas-tecnicas/FT.12-consejo-nacional-defensa.md) |
+| 13 | Poder Ciudadano ampliado | 5 instituciones | ~1.180 M | 0,54 % | [FT.13](fichas-tecnicas/FT.13-poder-ciudadano-ampliado.md) |
+| | **TOTAL Estado central ejecutivo + Poder Ciudadano** | | **~38.550 M + 1.180 M** | **~18,05 % PIB** | — |
 
 Producto interno bruto base referencial: USD 220 mil millones.
 
@@ -206,6 +210,8 @@ Producto interno bruto base referencial: USD 220 mil millones.
 | H9 | Anexos: inventarios ministeriales 2009 + 2026 | 2026-07-25 |
 | H10 | 12 fichas técnicas (9 ministerios + Defensa + Poder Ciudadano) | 2026-07-25 |
 | H10 patch | Pay-before-take constitucionalizada + SM USD 512 + presupuesto FAN 1,9 % + INGEOMIN | 2026-07-26 |
+| H10.10 | Presupuesto del Consejo Nacional de Defensa anclado en 1,9 % PIB (USD 4.180 M) | 2026-07-26 |
+| **H11** | **Catálogo ampliado de 9 a 11 ministerios: Salud (FT.10) + Trabajo (FT.11)** | 2026-10-14 |
 
 ---
 

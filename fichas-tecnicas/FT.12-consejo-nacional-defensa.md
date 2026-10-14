@@ -1,6 +1,6 @@
 ---
 titulo: "Ficha Técnica — Consejo Nacional de Defensa (ente presidencial)"
-version: "0.1 (FT.10 — versión ficha técnica, 25-jul-2026)"
+version: "0.1 (FT.12 — versión ficha técnica, 25-jul-2026)"
 estado: "Borrador operativo. Ficha técnica del ente presidencial dependiente directo del Presidente de la República; sucesor del MPP Defensa #23 vigente. Articulación con reforma Arts. 332-333 CRBV y carácter civil de los cuerpos."
 parte: "FT — Fichas Técnicas"
 ministerio: "NO es un ministerio — dependiente directo del Presidente de la República"
@@ -17,7 +17,7 @@ relaciones_con_otros_organos:
   - "Ministerio de Relaciones Exteriores #8 para demandas internacionales"
 ---
 
-# FT.10 — Ficha Técnica del Consejo Nacional de Defensa (ente presidencial)
+# FT.12 — Ficha Técnica del Consejo Nacional de Defensa (ente presidencial)
 
 > **Mandato presidencial**:
 >
@@ -279,4 +279,4 @@ Reseña: **ningún militar profesional cobra prima política ni gastos reservado
 
 *Versión 0.1 — 25-jul-2026. Pendiente: descripción detallada por Componente de la FAN + KPIs mensuales.*
 
-**Próxima ficha técnica: FT.11 — Cinco instituciones del Poder Ciudadano ampliado**.
+**Próxima ficha técnica: FT.13 — Cinco instituciones del Poder Ciudadano ampliado**.

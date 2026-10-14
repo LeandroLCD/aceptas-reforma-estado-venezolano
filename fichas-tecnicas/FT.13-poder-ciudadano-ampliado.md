@@ -1,6 +1,6 @@
 ---
 titulo: "Ficha Técnica — Cinco instituciones del Poder Ciudadano ampliado (Poder Ciudadano)"
-version: "0.1 (FT.11 — versión ficha técnica, 25-jul-2026)"
+version: "0.1 (FT.13 — versión ficha técnica, 25-jul-2026)"
 estado: "Borrador operativo. Consolida el Poder Ciudadano ampliado del Estado Aceptas con la incorporación de CNSC (Servicio Civil y Función Pública — Pilares I) y DNA-RB (Anticorrupción — Pilar VI v0.5). Las 5 instituciones son independientes del Ejecutivo, Blindadas por reforma constitucional."
 parte: "FT — Fichas Técnicas"
 ente: "PODER CIUDADANO (Art. 273 CRBV reformado) — NO adscrito al Poder Ejecutivo"
@@ -11,7 +11,7 @@ presidente_o_consejo: "Cada una de las 5 instituciones con director independient
 veeduria_objetivo: "Velar por la integridad del régimen del Poder Ciudadano frente a cualquier Ejecutivo (blindaje contra captura partidista)"
 ---
 
-# FT.11 — Ficha Técnica: Las Cinco Instituciones del Poder Ciudadano Ampliado
+# FT.13 — Ficha Técnica: Las Cinco Instituciones del Poder Ciudadano Ampliado
 
 > **Mandato constitucional del Poder Ciudadano ampliado** (Art. 273 reformado):
 >
@@ -95,7 +95,7 @@ Poder Ciudadano Ampliado (4° Poder del Estado Aceptas)
 │   │   ├── Fiscalía Penal General
 │   │   ├── Fiscalía Anticorrupción Especializada (vinculada con DNA-RB)
 │   │   ├── Fiscalía de DDHH
-│   │   ├── Fiscalía Penal Militar (en coordinación con Tribunales Disciplinarios del FT.10)
+│   │   ├── Fiscalía Penal Militar (en coordinación con Tribunales Disciplinarios del FT.12)
 │   │   ├── Fiscalía Contra Delitos Informáticos (en coordinación con MIS/Gobierno Digital)
 │   │   ├── Fiscalía Contra la Trata y Tráfico de Personas (en coordinación con MRE #8)
 │   │   └── Fiscalía Ambiental (en coordinación con Ministerio del Ambiente #9)

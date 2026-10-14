@@ -324,7 +324,7 @@ Tope 14:1 + asignación exterior por destino (capital vs. capital estratégica +
 
 *Versión 0.1 — 25-jul-2026. Pendiente: descripción detallada por Viceministerio + KPIs mensuales.*
 
-**Próximas fichas técnicas (FT.9 → FT.11)**:
+**Próximas fichas técnicas (FT.9 → FT.13)**:
 - FT.9 Ministerio del Ambiente
-- FT.10 Consejo Nacional de Defensa (ente presidencial)
-- FT.11 Cinco instituciones del Poder Ciudadano ampliado
+- FT.12 Consejo Nacional de Defensa (ente presidencial)
+- FT.13 Cinco instituciones del Poder Ciudadano ampliado

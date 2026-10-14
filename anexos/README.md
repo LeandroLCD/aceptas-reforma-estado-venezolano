@@ -6,7 +6,7 @@ Documentación complementaria organizada por eje temático. Cada anexo está res
 
 | Anexo | Descripción | Tamaño |
 |---|---|---|
-| [`inventario-estructura-actual.md`](./inventario-estructura-actual.md) | Inventario vigente 2026 de los ministerios del Poder Popular venezolano, con tabla de rattachación a los 9 ministerios del Estado reformado. Sintetiza el Decreto N° 6.670/2009 (entes adscritos), Wikipedia snapshot 2026-07-25 (ministerios vigentes), LOAP 2014 y Decreto N° 1.612/2015 (organigrama). | ~34 KB / 286 líneas |
+| [`inventario-estructura-actual.md`](./inventario-estructura-actual.md) | Inventario vigente 2026 de los ministerios del Poder Popular venezolano, con tabla de rattachación al catálogo del Estado reformado. **Actualización 2026-10-14**: el catálogo pasó de 9 a **11 ministerios** (Salud y Trabajo pasan a ser ministerios independientes); las tablas de rattachación de este anexo reflejan el corte del 2026-07-25 y no se han reescrito. Sintetiza el Decreto N° 6.670/2009 (entes adscritos), Wikipedia snapshot 2026-07-25 (ministerios vigentes), LOAP 2014 y Decreto N° 1.612/2015 (organigrama). | ~34 KB / 286 líneas |
 | [`inventario-ministerios-2009-decreto-6670.md`](./inventario-ministerios-2009-decreto-6670.md) | Catálogo exhaustivo de los 26 ministerios del Poder Popular y ~385 entes adscritos conforme al Decreto N° 6.670 (Gaceta Oficial N° 39.163, 22-abr-2009). Sirve de línea base histórica para medir la hipertrofia 2009-2026. | ~43 KB / 460 líneas |
 
 ## Cómo citar
